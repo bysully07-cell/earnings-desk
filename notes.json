@@ -1,0 +1,23 @@
+{
+  "_readme": "Hand-edited. Key each note by ticker, then by the fiscal_period shown in data.json (e.g. \"FY2026 Q4\"). Every field is optional. result: \"beat\" | \"miss\" | \"inline\". guidance: \"raised\" | \"maintained\" | \"lowered\" | \"none\". Keys starting with _ are ignored by the page.",
+  "_example": {
+    "FY2026 Q4": {
+      "eps_estimate": 1.77,
+      "revenue_estimate": 110000000000,
+      "result": "beat",
+      "guidance": "raised",
+      "note": "One line on what mattered this quarter."
+    }
+  },
+  "AAPL": {},
+  "NVDA": {},
+  "MSFT": {},
+  "GOOGL": {},
+  "AMZN": {},
+  "AVGO": {},
+  "TSLA": {},
+  "META": {},
+  "WMT": {},
+  "LLY": {},
+  "AMD": {}
+}

@@ -1,0 +1,408 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Earnings Desk</title>
+<meta name="description" content="Quarterly revenue, margins and EPS for the largest Nasdaq-100 and S&P 500 companies, sourced from SEC EDGAR.">
+<style>
+  :root {
+    color-scheme: light;
+    --surface-0: #f4f3ef;
+    --surface-1: #fcfcfb;
+    --text-primary: #0b0b0b;
+    --text-secondary: #52514e;
+    --text-muted: #77766f;
+    --grid: #e1e0d9;
+    --border: rgba(11,11,11,0.10);
+    --series-1: #2a78d6;
+    --accent-soft: rgba(42,120,214,0.10);
+    --good: #0ca30c;
+    --warning: #b07800;
+    --critical: #d03b3b;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      color-scheme: dark;
+      --surface-0: #111110;
+      --surface-1: #1a1a19;
+      --text-primary: #f0efec;
+      --text-secondary: #c3c2b7;
+      --text-muted: #8f8e86;
+      --grid: #2c2c2a;
+      --border: rgba(255,255,255,0.10);
+      --series-1: #3987e5;
+      --accent-soft: rgba(57,135,229,0.16);
+      --warning: #fab219;
+    }
+  }
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --surface-0: #111110; --surface-1: #1a1a19; --text-primary: #f0efec;
+    --text-secondary: #c3c2b7; --text-muted: #8f8e86; --grid: #2c2c2a;
+    --border: rgba(255,255,255,0.10); --series-1: #3987e5;
+    --accent-soft: rgba(57,135,229,0.16); --warning: #fab219;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--surface-0); color: var(--text-primary);
+    font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, sans-serif;
+    font-variant-numeric: tabular-nums;
+  }
+  .wrap { max-width: 1080px; margin: 0 auto; padding: 32px 16px 64px; }
+  header h1 { margin: 0; font-size: 26px; letter-spacing: -0.01em; }
+  header p { margin: 4px 0 0; color: var(--text-secondary); }
+  .meta { font-size: 13px; color: var(--text-muted); margin-top: 6px; }
+
+  .card {
+    background: var(--surface-1); border: 1px solid var(--border);
+    border-radius: 12px; padding: 20px; margin-top: 20px;
+  }
+  .card h2 { margin: 0 0 4px; font-size: 17px; }
+  .card .sub { margin: 0 0 16px; color: var(--text-secondary); font-size: 13px; }
+
+  .scroll { overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; font-size: 14px; }
+  th, td { padding: 9px 10px; text-align: right; white-space: nowrap; border-bottom: 1px solid var(--grid); }
+  th { font-size: 12px; font-weight: 600; color: var(--text-secondary); text-transform: uppercase; letter-spacing: .04em; }
+  th:first-child, td:first-child { text-align: left; }
+  td.note { text-align: left; white-space: normal; min-width: 200px; color: var(--text-secondary); }
+  tbody tr:last-child td { border-bottom: 0; }
+  #overview tbody tr { cursor: pointer; }
+  #overview tbody tr:hover, #overview tbody tr.active { background: var(--accent-soft); }
+  .tk { font-weight: 700; }
+  .nm { color: var(--text-muted); font-size: 12px; display: block; }
+  .pos { color: var(--good); } .neg { color: var(--critical); }
+  .derived { color: var(--text-muted); font-size: 11px; margin-left: 2px; cursor: help; }
+
+  .badge { display: inline-flex; align-items: center; gap: 4px; font-size: 12px; font-weight: 600;
+           padding: 2px 8px; border-radius: 999px; border: 1px solid currentColor; }
+  .badge.beat, .badge.raised { color: var(--good); }
+  .badge.miss, .badge.lowered { color: var(--critical); }
+  .badge.inline, .badge.maintained { color: var(--warning); }
+
+  .tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; margin-bottom: 20px; }
+  .tile { border: 1px solid var(--border); border-radius: 10px; padding: 12px 14px; }
+  .tile .lbl { font-size: 12px; color: var(--text-secondary); }
+  .tile .val { font-size: 22px; font-weight: 650; margin-top: 2px; }
+  .tile .chg { font-size: 12px; color: var(--text-muted); }
+
+  .chart { position: relative; }
+  .chart svg { display: block; width: 100%; height: 240px; overflow: visible; }
+  .chart .axis text { fill: var(--text-muted); font-size: 11px; }
+  .chart .gridline { stroke: var(--grid); stroke-width: 1; }
+  .chart .bar { fill: var(--series-1); }
+  .chart .hit { fill: transparent; cursor: default; }
+  .chart .hit:hover + .bar, .chart g.on .bar { opacity: .8; }
+  .tip { position: absolute; pointer-events: none; background: var(--surface-1); color: var(--text-primary);
+         border: 1px solid var(--border); border-radius: 8px; padding: 8px 10px; font-size: 12px;
+         box-shadow: 0 4px 16px rgba(0,0,0,.12); opacity: 0; transition: opacity .1s; white-space: nowrap; }
+  .tip b { display: block; font-size: 13px; }
+
+  .live { display: inline-flex; align-items: center; gap: 6px; }
+  .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--text-muted); }
+  .dot.on { background: var(--good); }
+  .dot.err { background: var(--critical); }
+
+  .filings { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 20px; margin-top: 24px; }
+  .filings h3 { margin: 0 0 8px; font-size: 13px; font-weight: 600; color: var(--text-secondary);
+                text-transform: uppercase; letter-spacing: .04em; }
+  .filings ul { list-style: none; margin: 0; padding: 0; }
+  .filings li { display: flex; justify-content: space-between; gap: 12px; padding: 7px 0;
+                border-bottom: 1px solid var(--grid); font-size: 14px; }
+  .filings li:last-child { border-bottom: 0; }
+  .filings a { color: var(--series-1); text-decoration: none; }
+  .filings a:hover { text-decoration: underline; }
+  .filings .when { color: var(--text-muted); font-size: 12px; white-space: nowrap; }
+  .filings .amend { font-size: 11px; color: var(--warning); margin-left: 4px; }
+
+  .error { color: var(--critical); }
+  footer { margin-top: 28px; font-size: 12px; color: var(--text-muted); }
+  footer a { color: inherit; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Earnings Desk</h1>
+    <p>Quarterly results for the largest Nasdaq-100 and S&amp;P 500 companies, straight from SEC filings.</p>
+    <div class="meta" id="updated">Loading…</div>
+    <div class="meta"><span class="live"><span class="dot" id="price-dot"></span><span id="price-status">Prices off</span></span></div>
+  </header>
+
+  <section class="card">
+    <h2>Latest quarter</h2>
+    <p class="sub">Each company's most recent reported fiscal quarter. Click a row for history.</p>
+    <div class="scroll">
+      <table id="overview">
+        <thead><tr>
+          <th>Company</th><th>Price</th><th>Day</th><th>P/E (TTM)</th><th>Quarter</th><th>Revenue</th><th>YoY</th>
+          <th>Gross margin</th><th>Op. margin</th><th>Diluted EPS</th><th>Result</th>
+        </tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="card" id="detail" hidden>
+    <h2 id="d-title"></h2>
+    <p class="sub" id="d-sub"></p>
+    <div class="tiles" id="d-tiles"></div>
+    <div class="chart" id="d-chart" aria-label="Quarterly revenue bar chart"></div>
+    <div class="scroll" style="margin-top:20px">
+      <table id="d-table">
+        <thead><tr>
+          <th>Quarter</th><th>Period end</th><th>Revenue</th><th>YoY</th><th>Gross profit</th>
+          <th>Op. income</th><th>Op. margin</th><th>EPS</th><th>Result</th><th>Guidance / note</th>
+        </tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <div class="filings" id="d-filings"></div>
+  </section>
+
+  <footer>
+    Source: <a href="https://www.sec.gov/edgar/sec-api-documentation">SEC EDGAR XBRL API</a>, GAAP figures as filed.
+    <span class="derived">◆</span> marks a value computed rather than read directly: Q4 is the 10-K annual
+    figure minus Q1–Q3, and gross profit is revenue minus cost of revenue for companies that don't report it.
+    Share prices from <a href="https://finnhub.io">Finnhub</a>, refreshed every minute while this tab is open;
+    P/E uses the sum of the last four quarters of diluted EPS.
+    Beat/miss and guidance notes are maintained by hand. Not investment advice.
+  </footer>
+</div>
+
+<!-- config.js holds the Finnhub key. It's generated at deploy time; locally, copy config.example.js. -->
+<script src="config.js"></script>
+<script>
+const $ = (s) => document.querySelector(s);
+let DATA, NOTES = {};
+
+// --- formatting ---------------------------------------------------------
+const money = (v) => {
+  if (v == null) return "—";
+  const a = Math.abs(v), s = v < 0 ? "−" : "";
+  if (a >= 1e9) return `${s}$${(a / 1e9).toFixed(a >= 1e11 ? 1 : 2)}B`;
+  return `${s}$${(a / 1e6).toFixed(0)}M`;
+};
+const pct = (v) => v == null || !isFinite(v) ? "—" : `${(v * 100).toFixed(1)}%`;
+const signed = (v) => v == null || !isFinite(v) ? "—"
+  : `<span class="${v >= 0 ? "pos" : "neg"}">${v >= 0 ? "▲" : "▼"} ${Math.abs(v * 100).toFixed(1)}%</span>`;
+const eps = (v) => v == null ? "—" : (v < 0 ? "−$" : "$") + Math.abs(v).toFixed(2);
+const mark = (q, field) => q.derived.includes(field)
+  ? `<span class="derived" title="Derived, not reported directly">◆</span>` : "";
+const ratio = (a, b) => a == null || !b ? null : a / b;
+const yoy = (qs, i, f) => i >= 4 && qs[i - 4][f] ? qs[i][f] / qs[i - 4][f] - 1 : null;
+const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+const ICONS = { beat: "✓", miss: "✕", inline: "–", raised: "▲", lowered: "▼", maintained: "–" };
+const badge = (kind) => kind && ICONS[kind]
+  ? `<span class="badge ${kind}">${ICONS[kind]} ${kind}</span>` : "";
+const noteFor = (t, q) => (NOTES[t] || {})[q.fiscal_period] || {};
+
+// --- overview ------------------------------------------------------------
+function renderOverview() {
+  const rows = Object.values(DATA.companies).map((c) => {
+    const qs = c.quarters, i = qs.length - 1, q = qs[i], n = noteFor(c.ticker, q);
+    return `<tr data-t="${c.ticker}">
+      <td><span class="tk">${c.ticker}</span><span class="nm">${esc(c.name)}</span></td>
+      <td data-price="${c.ticker}">—</td>
+      <td data-chg="${c.ticker}">—</td>
+      <td data-pe="${c.ticker}">—</td>
+      <td>${q.fiscal_period}</td>
+      <td>${money(q.revenue)}${mark(q, "revenue")}</td>
+      <td>${signed(yoy(qs, i, "revenue"))}</td>
+      <td>${pct(ratio(q.gross_profit, q.revenue))}</td>
+      <td>${pct(ratio(q.operating_income, q.revenue))}</td>
+      <td>${eps(q.eps_diluted)}${mark(q, "eps_diluted")}</td>
+      <td>${badge(n.result)}</td>
+    </tr>`;
+  });
+  $("#overview tbody").innerHTML = rows.join("");
+  $("#overview tbody").onclick = (e) => {
+    const tr = e.target.closest("tr");
+    if (tr) select(tr.dataset.t, true);
+  };
+}
+
+// --- detail --------------------------------------------------------------
+function select(ticker, scroll) {
+  const c = DATA.companies[ticker];
+  if (!c) return;
+  document.querySelectorAll("#overview tr").forEach((r) => r.classList.toggle("active", r.dataset.t === ticker));
+  history.replaceState(null, "", `#${ticker}`);
+
+  const qs = c.quarters, i = qs.length - 1, q = qs[i];
+  $("#detail").hidden = false;
+  $("#d-title").textContent = `${c.ticker} · ${c.name}`;
+  $("#d-sub").textContent = `Last ${qs.length} fiscal quarters · fiscal year ends ${c.fiscal_year_end} · CIK ${c.cik}`;
+
+  const tile = (lbl, val, chg) => `<div class="tile"><div class="lbl">${lbl}</div><div class="val">${val}</div><div class="chg">${chg || "&nbsp;"}</div></div>`;
+  $("#d-tiles").innerHTML = [
+    tile("Share price", `<span data-price="${c.ticker}">—</span>`, `<span data-chg="${c.ticker}"></span>`),
+    tile("P/E (trailing 4 qtrs)", `<span data-pe="${c.ticker}">—</span>`, `TTM EPS ${eps(ttmEps(c))}`),
+    tile(`Revenue · ${q.fiscal_period}`, money(q.revenue), `${signed(yoy(qs, i, "revenue"))} YoY`),
+    tile("Gross margin", pct(ratio(q.gross_profit, q.revenue)), `${pct(ratio(qs[i - 4]?.gross_profit, qs[i - 4]?.revenue))} a year ago`),
+    tile("Operating margin", pct(ratio(q.operating_income, q.revenue)), `${pct(ratio(qs[i - 4]?.operating_income, qs[i - 4]?.revenue))} a year ago`),
+    tile("Diluted EPS", eps(q.eps_diluted), `${signed(yoy(qs, i, "eps_diluted"))} YoY`),
+  ].join("");
+
+  renderChart(qs);
+
+  $("#d-table tbody").innerHTML = qs.map((q, j) => {
+    const n = noteFor(c.ticker, q);
+    const guide = [badge(n.guidance), n.note ? esc(n.note) : ""].filter(Boolean).join(" ");
+    return `<tr>
+      <td>${q.fiscal_period}</td><td>${q.period_end}</td>
+      <td>${money(q.revenue)}${mark(q, "revenue")}</td>
+      <td>${signed(yoy(qs, j, "revenue"))}</td>
+      <td>${money(q.gross_profit)}${mark(q, "gross_profit")}</td>
+      <td>${money(q.operating_income)}${mark(q, "operating_income")}</td>
+      <td>${pct(ratio(q.operating_income, q.revenue))}</td>
+      <td>${eps(q.eps_diluted)}${mark(q, "eps_diluted")}</td>
+      <td>${badge(n.result)}</td>
+      <td class="note">${guide}</td>
+    </tr>`;
+  }).reverse().join("");
+
+  renderFilings(c);
+  paintPrices();
+
+  if (scroll) $("#detail").scrollIntoView({ behavior: "smooth", block: "start" });
+}
+
+// --- filings: links straight to the documents on sec.gov -----------------
+function renderFilings(c) {
+  const list = (form) => (c.filings || []).filter((f) => f.form.startsWith(form));
+  const li = (f) => `<li>
+      <span><a href="${esc(f.url)}" target="_blank" rel="noopener">${esc(f.form.replace("/A", ""))} · period ${esc(f.period)}</a>${f.form.endsWith("/A") ? '<span class="amend">amended</span>' : ""}</span>
+      <span class="when">filed ${esc(f.filed)} · <a href="${esc(f.index_url)}" target="_blank" rel="noopener">all files</a></span>
+    </li>`;
+  const block = (title, rows) => rows.length ? `<div><h3>${title}</h3><ul>${rows.map(li).join("")}</ul></div>` : "";
+  $("#d-filings").innerHTML = block("Annual reports (10-K)", list("10-K")) + block("Quarterly reports (10-Q)", list("10-Q"));
+}
+
+// --- live prices (Finnhub) --------------------------------------------------
+const PRICES = {};                       // ticker -> {c: last, d: change, dp: % change, t: unix time}
+const FINNHUB_KEY = (window.EARNINGS_DESK_CONFIG || {}).finnhubKey || "";
+const REFRESH_MS = 60_000;               // 11 tickers/minute, well under Finnhub's free limit
+
+const ttmEps = (c) => {
+  const last4 = c.quarters.slice(-4).map((q) => q.eps_diluted);
+  return last4.length === 4 && last4.every((v) => v != null) ? last4.reduce((a, b) => a + b, 0) : null;
+};
+
+function setStatus(text, state) {
+  $("#price-status").textContent = text;
+  $("#price-dot").className = `dot ${state || ""}`;
+}
+
+function paintPrices() {
+  for (const [t, p] of Object.entries(PRICES)) {
+    const c = DATA.companies[t], ttm = c && ttmEps(c);
+    document.querySelectorAll(`[data-price="${t}"]`).forEach((el) => el.textContent = `$${p.c.toFixed(2)}`);
+    document.querySelectorAll(`[data-chg="${t}"]`).forEach((el) => el.innerHTML = signed(p.dp == null ? null : p.dp / 100));
+    document.querySelectorAll(`[data-pe="${t}"]`).forEach((el) => el.textContent = ttm > 0 ? `${(p.c / ttm).toFixed(1)}×` : "n/m");
+  }
+}
+
+async function fetchQuote(t) {
+  const r = await fetch(`https://finnhub.io/api/v1/quote?symbol=${t}&token=${encodeURIComponent(FINNHUB_KEY)}`);
+  if (r.status === 401 || r.status === 403) throw new Error("Finnhub rejected the API key");
+  if (r.status === 429) throw new Error("Finnhub rate limit hit; will retry");
+  if (!r.ok) throw new Error(`Finnhub HTTP ${r.status}`);
+  const q = await r.json();
+  if (!q || !q.c) throw new Error(`no quote for ${t}`);   // Finnhub returns c=0 for unknown symbols
+  PRICES[t] = q;
+}
+
+let priceTimer;
+async function refreshPrices() {
+  clearTimeout(priceTimer);
+  if (!FINNHUB_KEY) return setStatus("Prices off: no Finnhub key configured");
+  if (document.hidden) return;           // don't spend quota on a background tab
+  const results = await Promise.allSettled(Object.keys(DATA.companies).map(fetchQuote));
+  const failed = results.filter((r) => r.status === "rejected");
+  paintPrices();
+  const newest = Math.max(0, ...Object.values(PRICES).map((p) => p.t || 0));
+  const asOf = newest ? new Date(newest * 1000).toLocaleTimeString([], { hour: "numeric", minute: "2-digit" }) : "";
+  if (failed.length === results.length) setStatus(`Prices unavailable: ${failed[0].reason.message}`, "err");
+  else setStatus(`Prices as of ${asOf}${failed.length ? ` (${failed.length} failed)` : ""} · refreshes every minute`, "on");
+  priceTimer = setTimeout(refreshPrices, REFRESH_MS);
+}
+document.addEventListener("visibilitychange", () => { if (!document.hidden && DATA) refreshPrices(); });
+
+// --- revenue chart: plain SVG, one series, hover tooltip ------------------
+function renderChart(qs) {
+  const el = $("#d-chart"), W = Math.max(300, el.clientWidth || 1000), H = 240, padL = 52, padB = 26, padT = 10;
+  const max = Math.max(...qs.map((q) => q.revenue));
+  const step = niceStep(max / 4), top = Math.ceil(max / step) * step;
+  const y = (v) => padT + (H - padT - padB) * (1 - v / top);
+  const slot = (W - padL) / qs.length, bw = Math.min(56, slot * 0.6);
+
+  let s = `<svg viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" role="img"><g class="axis">`;
+  for (let v = 0; v <= top + 1; v += step) {
+    s += `<line class="gridline" x1="${padL}" x2="${W}" y1="${y(v)}" y2="${y(v)}"/>`;
+    s += `<text x="${padL - 8}" y="${y(v) + 4}" text-anchor="end">${money(v).replace(".00", "")}</text>`;
+  }
+  qs.forEach((q, i) => {
+    const cx = padL + slot * i + slot / 2;
+    if (slot < 44 && i % 2 !== qs.length % 2) return;
+    s += `<text x="${cx}" y="${H - 6}" text-anchor="middle">${q.fiscal_period.replace(/^FY(\d\d)(\d\d) /, "$2 ")}</text>`;
+  });
+  s += `</g>`;
+  qs.forEach((q, i) => {
+    const cx = padL + slot * i + slot / 2, x = cx - bw / 2, yt = y(q.revenue), h = y(0) - yt, r = Math.min(4, h);
+    // Rounded top corners, square base anchored on the baseline.
+    const d = `M${x},${y(0)} V${yt + r} Q${x},${yt} ${x + r},${yt} H${x + bw - r} Q${x + bw},${yt} ${x + bw},${yt + r} V${y(0)} Z`;
+    s += `<g data-i="${i}"><rect class="hit" x="${padL + slot * i}" y="${padT}" width="${slot}" height="${H - padT - padB}"/><path class="bar" d="${d}"/></g>`;
+  });
+  s += `</svg><div class="tip"></div>`;
+  el.innerHTML = s;
+  el._qs = qs;
+  const tip = el.querySelector(".tip");
+  el.querySelectorAll("g[data-i]").forEach((g) => {
+    g.addEventListener("mousemove", (e) => {
+      const i = +g.dataset.i, q = qs[i], box = el.getBoundingClientRect();
+      tip.innerHTML = `<b>${q.fiscal_period}</b>Revenue ${money(q.revenue)}<br>YoY ${yoy(qs, i, "revenue") == null ? "—" : pct(yoy(qs, i, "revenue"))}<br>Op. margin ${pct(ratio(q.operating_income, q.revenue))}`;
+      const left = Math.min(e.clientX - box.left + 12, box.width - tip.offsetWidth - 4);
+      tip.style.left = `${Math.max(0, left)}px`;
+      tip.style.top = `${e.clientY - box.top - 60}px`;
+      tip.style.opacity = 1;
+      g.classList.add("on");
+    });
+    g.addEventListener("mouseleave", () => { tip.style.opacity = 0; g.classList.remove("on"); });
+  });
+}
+let resizeTimer;
+window.addEventListener("resize", () => {
+  clearTimeout(resizeTimer);
+  resizeTimer = setTimeout(() => { const el = $("#d-chart"); if (el._qs) renderChart(el._qs); }, 120);
+});
+function niceStep(raw) {
+  const mag = 10 ** Math.floor(Math.log10(raw)), n = raw / mag;
+  return (n <= 1 ? 1 : n <= 2 ? 2 : n <= 5 ? 5 : 10) * mag;
+}
+
+// --- boot: load the two JSON files the page is built from -----------------
+async function load() {
+  try {
+    const [data, notes] = await Promise.all([
+      fetch("data.json", { cache: "no-cache" }).then((r) => { if (!r.ok) throw new Error(`data.json: HTTP ${r.status}`); return r.json(); }),
+      fetch("notes.json", { cache: "no-cache" }).then((r) => r.ok ? r.json() : {}).catch(() => ({})),
+    ]);
+    DATA = data; NOTES = notes;
+    const when = new Date(DATA.generated_at);
+    $("#updated").textContent = `Data refreshed ${when.toLocaleString(undefined, { dateStyle: "medium", timeStyle: "short" })}`;
+    renderOverview();
+    const want = location.hash.slice(1).toUpperCase();
+    select(DATA.companies[want] ? want : Object.keys(DATA.companies)[0], false);
+    refreshPrices();
+  } catch (err) {
+    $("#updated").innerHTML = `<span class="error">Couldn't load data (${esc(err.message)}). If you opened this file directly, serve the folder instead: <code>python3 -m http.server</code></span>`;
+  }
+}
+load();
+</script>
+</body>
+</html>
