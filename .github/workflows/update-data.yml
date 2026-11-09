@@ -38,6 +38,8 @@ jobs:
         env:
           # Optional: set a repo secret named SEC_USER_AGENT to override the default in fetch_data.py
           SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+          # Used for company logos (Finnhub /stock/profile2)
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
         run: |
           if [ -z "$SEC_USER_AGENT" ]; then unset SEC_USER_AGENT; fi
           python fetch_data.py
