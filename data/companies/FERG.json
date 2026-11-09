@@ -1,0 +1,158 @@
+{
+ "ticker": "FERG",
+ "name": "Ferguson Enterprises",
+ "cik": 2011641,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "07-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2024-08-01",
+   "period_end": "2024-10-31",
+   "revenue": 7772000000,
+   "gross_profit": 2340000000,
+   "operating_income": 665000000,
+   "eps_diluted": 2.34,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2024-11-01",
+   "period_end": "2025-01-31",
+   "revenue": 6872000000,
+   "gross_profit": 2042000000,
+   "operating_income": 410000000,
+   "eps_diluted": 1.38,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 7213000000,
+   "gross_profit": 2216000000,
+   "operating_income": 507000000,
+   "eps_diluted": 1.73,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-02-01",
+   "period_end": "2025-04-30",
+   "revenue": 7621000000,
+   "gross_profit": 2359000000,
+   "operating_income": 606000000,
+   "eps_diluted": 2.07,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 8363000000,
+   "gross_profit": 2613000000,
+   "operating_income": 842000000,
+   "eps_diluted": 3.21,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-08-01",
+   "period_end": "2025-10-31",
+   "revenue": 8169000000,
+   "gross_profit": 2506000000,
+   "operating_income": 771000000,
+   "eps_diluted": 2.9,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 7472000000,
+   "gross_profit": 2318000000,
+   "operating_income": 612000000,
+   "eps_diluted": 2.13,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 8751000000,
+   "gross_profit": 2712000000,
+   "operating_income": 893000000,
+   "eps_diluted": 3.43,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-08-10",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/2011641/000201164126000040/ferg-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2011641/000201164126000040/0002011641-26-000040-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-05",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/2011641/000201164126000030/ferg-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2011641/000201164126000030/0002011641-26-000030-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-12-09",
+   "period": "2025-10-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/2011641/000201164125000059/ferg-20251031.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2011641/000201164125000059/0002011641-25-000059-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-09-26",
+   "period": "2025-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/2011641/000201164125000027/ferg-20250731.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2011641/000201164125000027/0002011641-25-000027-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-06-03",
+   "period": "2025-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/2011641/000201164125000015/ferg-20250430.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2011641/000201164125000015/0002011641-25-000015-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-03-11",
+   "period": "2025-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/2011641/000201164125000006/ferg-20250131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2011641/000201164125000006/0002011641-25-000006-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-12-10",
+   "period": "2024-10-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/2011641/000201164124000011/ferg-20241031.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2011641/000201164124000011/0002011641-24-000011-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-09-25",
+   "period": "2024-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/2011641/000201164124000005/ferg-20240731.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2011641/000201164124000005/0002011641-24-000005-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

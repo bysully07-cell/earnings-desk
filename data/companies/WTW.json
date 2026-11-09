@@ -1,0 +1,201 @@
+{
+ "ticker": "WTW",
+ "name": "Willis Towers Watson",
+ "cik": 1140536,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 3035000000,
+   "gross_profit": null,
+   "operating_income": 901000000,
+   "eps_diluted": 12.59,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 2223000000,
+   "gross_profit": null,
+   "operating_income": 432000000,
+   "eps_diluted": 2.33,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 2261000000,
+   "gross_profit": null,
+   "operating_income": 368000000,
+   "eps_diluted": 3.32,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 2288000000,
+   "gross_profit": null,
+   "operating_income": 418000000,
+   "eps_diluted": 3.11,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 2936000000,
+   "gross_profit": null,
+   "operating_income": 1016000000,
+   "eps_diluted": 7.58,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 2412000000,
+   "gross_profit": null,
+   "operating_income": 448000000,
+   "eps_diluted": 3.1,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 2466000000,
+   "gross_profit": null,
+   "operating_income": 364000000,
+   "eps_diluted": 2.43,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 2460000000,
+   "gross_profit": null,
+   "operating_income": 429000000,
+   "eps_diluted": 3.24,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-29",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1140536/000119312526437327/wtw-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1140536/000119312526437327/0001193125-26-437327-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-30",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1140536/000119312526325374/wtw-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1140536/000119312526325374/0001193125-26-325374-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-30",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1140536/000119312526195310/wtw-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1140536/000119312526195310/0001193125-26-195310-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-25",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1140536/000119312526069307/wtw-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1140536/000119312526069307/0001193125-26-069307-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-30",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1140536/000119312525257944/wtw-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1140536/000119312525257944/0001193125-25-257944-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-01",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1140536/000095017025101355/wtw-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1140536/000095017025101355/0000950170-25-101355-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-24",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1140536/000095017025057769/wtw-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1140536/000095017025057769/0000950170-25-057769-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-25",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1140536/000095017025026278/wtw-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1140536/000095017025026278/0000950170-25-026278-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-31",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1140536/000095017024119420/wtw-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1140536/000095017024119420/0000950170-24-119420-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-25",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1140536/000095017024086379/wtw-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1140536/000095017024086379/0000950170-24-086379-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-22",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1140536/000095017024018575/wtw-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1140536/000095017024018575/0000950170-24-018575-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-24",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1140536/000095017023004303/wtw-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1140536/000095017023004303/0000950170-23-004303-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-24",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1140536/000095017022001932/wtw-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1140536/000095017022001932/0000950170-22-001932-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

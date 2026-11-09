@@ -1,0 +1,201 @@
+{
+ "ticker": "TMO",
+ "name": "Thermo Fisher Scientific",
+ "cik": 97745,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-09-29",
+   "period_end": "2024-12-31",
+   "revenue": 11395000000,
+   "gross_profit": null,
+   "operating_income": 2016000000,
+   "eps_diluted": 4.78,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-29",
+   "revenue": 10364000000,
+   "gross_profit": null,
+   "operating_income": 1716000000,
+   "eps_diluted": 3.98,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-03-30",
+   "period_end": "2025-06-28",
+   "revenue": 10855000000,
+   "gross_profit": null,
+   "operating_income": 1834000000,
+   "eps_diluted": 4.28,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-06-29",
+   "period_end": "2025-09-27",
+   "revenue": 11122000000,
+   "gross_profit": null,
+   "operating_income": 1941000000,
+   "eps_diluted": 4.27,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-09-28",
+   "period_end": "2025-12-31",
+   "revenue": 12215000000,
+   "gross_profit": null,
+   "operating_income": 2255000000,
+   "eps_diluted": 5.21,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-28",
+   "revenue": 11005000000,
+   "gross_profit": null,
+   "operating_income": 1863000000,
+   "eps_diluted": 4.43,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-03-29",
+   "period_end": "2026-06-27",
+   "revenue": 11994000000,
+   "gross_profit": null,
+   "operating_income": 2087000000,
+   "eps_diluted": 4.68,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-06-28",
+   "period_end": "2026-09-26",
+   "revenue": 12137000000,
+   "gross_profit": null,
+   "operating_income": 2263000000,
+   "eps_diluted": 4.64,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-30",
+   "period": "2026-09-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/97745/000009774526000179/tmo-20260926.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/97745/000009774526000179/0000097745-26-000179-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-31",
+   "period": "2026-06-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/97745/000009774526000144/tmo-20260627.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/97745/000009774526000144/0000097745-26-000144-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-01",
+   "period": "2026-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/97745/000009774526000092/tmo-20260328.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/97745/000009774526000092/0000097745-26-000092-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-26",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/97745/000009774526000018/tmo-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/97745/000009774526000018/0000097745-26-000018-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-31",
+   "period": "2025-09-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/97745/000009774525000159/tmo-20250927.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/97745/000009774525000159/0000097745-25-000159-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-01",
+   "period": "2025-06-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/97745/000009774525000101/tmo-20250628.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/97745/000009774525000101/0000097745-25-000101-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-02",
+   "period": "2025-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/97745/000009774525000041/tmo-20250329.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/97745/000009774525000041/0000097745-25-000041-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-20",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/97745/000009774525000010/tmo-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/97745/000009774525000010/0000097745-25-000010-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-01",
+   "period": "2024-09-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/97745/000009774524000046/tmo-20240928.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/97745/000009774524000046/0000097745-24-000046-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-02",
+   "period": "2024-06-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/97745/000009774524000040/tmo-20240629.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/97745/000009774524000040/0000097745-24-000040-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-22",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/97745/000009774524000007/tmo-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/97745/000009774524000007/0000097745-24-000007-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-23",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/97745/000009774523000008/tmo-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/97745/000009774523000008/0000097745-23-000008-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-24",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/97745/000009774522000011/tmo-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/97745/000009774522000011/0000097745-22-000011-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

@@ -1,0 +1,201 @@
+{
+ "ticker": "UHS",
+ "name": "Universal Health Services",
+ "cik": 352915,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 4113722000,
+   "gross_profit": null,
+   "operating_income": 472489000,
+   "eps_diluted": 4.96,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 4099720000,
+   "gross_profit": null,
+   "operating_income": 454825000,
+   "eps_diluted": 4.8,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 4283816000,
+   "gross_profit": null,
+   "operating_income": 500270000,
+   "eps_diluted": 5.43,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 4495245000,
+   "gross_profit": null,
+   "operating_income": 521688000,
+   "eps_diluted": 5.86,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 4486048000,
+   "gross_profit": null,
+   "operating_income": 517232000,
+   "eps_diluted": 7.06,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 4495182000,
+   "gross_profit": null,
+   "operating_income": 502860000,
+   "eps_diluted": 5.65,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 4638012000,
+   "gross_profit": null,
+   "operating_income": 516675000,
+   "eps_diluted": 5.98,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 4733352000,
+   "gross_profit": null,
+   "operating_income": 454449000,
+   "eps_diluted": 5.22,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-06",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/352915/000119312526451866/uhs-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/352915/000119312526451866/0001193125-26-451866-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-07",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/352915/000119312526340278/uhs-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/352915/000119312526340278/0001193125-26-340278-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-07",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/352915/000119312526211992/uhs-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/352915/000119312526211992/0001193125-26-211992-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-25",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/352915/000119312526071676/uhs-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/352915/000119312526071676/0001193125-26-071676-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-07",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/352915/000119312525272385/uhs-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/352915/000119312525272385/0001193125-25-272385-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-08",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/352915/000095017025105857/uhs-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/352915/000095017025105857/0000950170-25-105857-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-08",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/352915/000095017025067010/uhs-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/352915/000095017025067010/0000950170-25-067010-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-26",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/352915/000095017025027785/uhs-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/352915/000095017025027785/0000950170-25-027785-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-08",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/352915/000095017024124103/uhs-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/352915/000095017024124103/0000950170-24-124103-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-08",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/352915/000095017024094006/uhs-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/352915/000095017024094006/0000950170-24-094006-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-27",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/352915/000095017024021175/uhs-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/352915/000095017024021175/0000950170-24-021175-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-27",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/352915/000095017023004656/uhs-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/352915/000095017023004656/0000950170-23-004656-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-24",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/352915/000156459022006717/uhs-10k_20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/352915/000156459022006717/0001564590-22-006717-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

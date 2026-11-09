@@ -1,0 +1,85 @@
+{
+ "ticker": "HONA",
+ "name": "Honeywell Aerospace",
+ "cik": 2089271,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": null,
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfGoodsAndServicesSold)",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-03-30",
+   "period_end": "2025-06-28",
+   "revenue": 4289000000,
+   "gross_profit": 1564000000,
+   "operating_income": 1066000000,
+   "eps_diluted": null,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-06-29",
+   "period_end": "2025-09-27",
+   "revenue": 4533000000,
+   "gross_profit": 1657000000,
+   "operating_income": 1151000000,
+   "eps_diluted": 2.03,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-03-29",
+   "period_end": "2026-06-27",
+   "revenue": 4522000000,
+   "gross_profit": 1581000000,
+   "operating_income": 995000000,
+   "eps_diluted": null,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-06-28",
+   "period_end": "2026-09-26",
+   "revenue": 4644000000,
+   "gross_profit": 1715000000,
+   "operating_income": 1161000000,
+   "eps_diluted": 2.29,
+   "derived": [
+    "gross_profit"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-28",
+   "period": "2026-09-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/2089271/000208927126000032/hona-20260926.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2089271/000208927126000032/0002089271-26-000032-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-05",
+   "period": "2026-06-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/2089271/000208927126000021/hona-20260627.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2089271/000208927126000021/0002089271-26-000021-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

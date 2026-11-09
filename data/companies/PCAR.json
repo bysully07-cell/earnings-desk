@@ -1,0 +1,214 @@
+{
+ "ticker": "PCAR",
+ "name": "Paccar",
+ "cik": 75362,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfGoodsAndServicesSold)",
+  "operating_income": null,
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 7907500000,
+   "gross_profit": 1711700000,
+   "operating_income": null,
+   "eps_diluted": 1.65,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 7441700000,
+   "gross_profit": 1550700000,
+   "operating_income": null,
+   "eps_diluted": 0.96,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 7510500000,
+   "gross_profit": 1515100000,
+   "operating_income": null,
+   "eps_diluted": 1.37,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 6671800000,
+   "gross_profit": 1326400000,
+   "operating_income": null,
+   "eps_diluted": 1.12,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 6820800000,
+   "gross_profit": 1315900000,
+   "operating_income": null,
+   "eps_diluted": 1.06,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 6776500000,
+   "gross_profit": 1360000000,
+   "operating_income": null,
+   "eps_diluted": 1.15,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 7546700000,
+   "gross_profit": 1557700000,
+   "operating_income": null,
+   "eps_diluted": 1.43,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 7936500000,
+   "gross_profit": 1625500000,
+   "operating_income": null,
+   "eps_diluted": 1.61,
+   "derived": [
+    "gross_profit"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-28",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/75362/000119312526436124/pcar-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/75362/000119312526436124/0001193125-26-436124-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-29",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/75362/000119312526323642/pcar-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/75362/000119312526323642/0001193125-26-323642-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-29",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/75362/000119312526191499/pcar-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/75362/000119312526191499/0001193125-26-191499-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-18",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/75362/000119312526057025/pcar-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/75362/000119312526057025/0001193125-26-057025-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-30",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/75362/000119312525258509/pcar-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/75362/000119312525258509/0001193125-25-258509-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-31",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/75362/000095017025100887/pcar-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/75362/000095017025100887/0000950170-25-100887-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-01",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/75362/000095017025061813/pcar-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/75362/000095017025061813/0000950170-25-061813-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-19",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/75362/000095017025023145/pcar-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/75362/000095017025023145/0000950170-25-023145-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-30",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/75362/000095017024118960/pcar-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/75362/000095017024118960/0000950170-24-118960-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-31",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/75362/000095017024088553/pcar-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/75362/000095017024088553/0000950170-24-088553-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-21",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/75362/000095017024017900/pcar-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/75362/000095017024017900/0000950170-24-017900-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-22",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/75362/000156459023002203/pcar-10k_20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/75362/000156459023002203/0001564590-23-002203-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-23",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/75362/000156459022006237/pcar-10k_20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/75362/000156459022006237/0001564590-22-006237-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

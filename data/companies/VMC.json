@@ -1,0 +1,203 @@
+{
+ "ticker": "VMC",
+ "name": "Vulcan Materials Company",
+ "cik": 1396009,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 1853700000,
+   "gross_profit": 537300000,
+   "operating_income": 400900000,
+   "eps_diluted": 2.2,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 1634600000,
+   "gross_profit": 365300000,
+   "operating_income": 226400000,
+   "eps_diluted": 0.97,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 2102400000,
+   "gross_profit": 625200000,
+   "operating_income": 471000000,
+   "eps_diluted": 2.42,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 2291500000,
+   "gross_profit": 697200000,
+   "operating_income": 543200000,
+   "eps_diluted": 2.82,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 1912600000,
+   "gross_profit": 486900000,
+   "operating_income": 379000000,
+   "eps_diluted": 1.91,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 1755900000,
+   "gross_profit": 422700000,
+   "operating_income": 265400000,
+   "eps_diluted": 1.26,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 2155800000,
+   "gross_profit": 625500000,
+   "operating_income": 455500000,
+   "eps_diluted": 2.48,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 2184600000,
+   "gross_profit": 665600000,
+   "operating_income": 524600000,
+   "eps_diluted": 2.8,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-29",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1396009/000162828026068102/vmc-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1396009/000162828026068102/0001628280-26-068102-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-29",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1396009/000162828026050486/vmc-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1396009/000162828026050486/0001628280-26-050486-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-29",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1396009/000162828026028318/vmc-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1396009/000162828026028318/0001628280-26-028318-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-19",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1396009/000162828026009546/vmc-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1396009/000162828026009546/0001628280-26-009546-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-30",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1396009/000139600925000031/vmc-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1396009/000139600925000031/0001396009-25-000031-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-31",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1396009/000139600925000021/vmc-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1396009/000139600925000021/0001396009-25-000021-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-30",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1396009/000139600925000008/vmc-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1396009/000139600925000008/0001396009-25-000008-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-20",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1396009/000139600925000005/vmc-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1396009/000139600925000005/0001396009-25-000005-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-30",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1396009/000139600924000023/vmc-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1396009/000139600924000023/0001396009-24-000023-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-07",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1396009/000139600924000017/vmc-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1396009/000139600924000017/0001396009-24-000017-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-22",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1396009/000139600924000006/vmc-20231231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1396009/000139600924000006/0001396009-24-000006-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-24",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1396009/000139600923000007/vmc-20221231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1396009/000139600923000007/0001396009-23-000007-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-25",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1396009/000139600922000010/vmc-20211231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1396009/000139600922000010/0001396009-22-000010-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

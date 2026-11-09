@@ -1,0 +1,215 @@
+{
+ "ticker": "ALLE",
+ "name": "Allegion",
+ "cik": 1579241,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfGoodsAndServicesSold)",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 945600000,
+   "gross_profit": 416700000,
+   "operating_income": 184600000,
+   "eps_diluted": 1.66,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 941900000,
+   "gross_profit": 422500000,
+   "operating_income": 196400000,
+   "eps_diluted": 1.71,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 1022000000,
+   "gross_profit": 466500000,
+   "operating_income": 219700000,
+   "eps_diluted": 1.85,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 1070200000,
+   "gross_profit": 489800000,
+   "operating_income": 233800000,
+   "eps_diluted": 2.18,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 1033200000,
+   "gross_profit": 459500000,
+   "operating_income": 209600000,
+   "eps_diluted": 1.7,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 1033600000,
+   "gross_profit": 454500000,
+   "operating_income": 195300000,
+   "eps_diluted": 1.59,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 1151500000,
+   "gross_profit": 517500000,
+   "operating_income": 254700000,
+   "eps_diluted": 2.15,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 1172600000,
+   "gross_profit": 548200000,
+   "operating_income": 284600000,
+   "eps_diluted": 2.59,
+   "derived": [
+    "gross_profit"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-22",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1579241/000157924126000034/alle-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1579241/000157924126000034/0001579241-26-000034-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-23",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1579241/000157924126000028/alle-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1579241/000157924126000028/0001579241-26-000028-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-28",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1579241/000157924126000015/alle-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1579241/000157924126000015/0001579241-26-000015-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-17",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1579241/000157924126000007/alle-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1579241/000157924126000007/0001579241-26-000007-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-23",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1579241/000157924125000043/alle-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1579241/000157924125000043/0001579241-25-000043-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-24",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1579241/000157924125000030/alle-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1579241/000157924125000030/0001579241-25-000030-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-24",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1579241/000157924125000021/alle-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1579241/000157924125000021/0001579241-25-000021-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-18",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1579241/000157924125000008/alle-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1579241/000157924125000008/0001579241-25-000008-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-24",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1579241/000157924124000049/alle-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1579241/000157924124000049/0001579241-24-000049-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-24",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1579241/000157924124000045/alle-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1579241/000157924124000045/0001579241-24-000045-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-20",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1579241/000157924124000006/alle-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1579241/000157924124000006/0001579241-24-000006-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-22",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1579241/000157924123000006/alle-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1579241/000157924123000006/0001579241-23-000006-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-15",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1579241/000157924122000019/alle-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1579241/000157924122000019/0001579241-22-000019-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

@@ -1,0 +1,203 @@
+{
+ "ticker": "SMCI",
+ "name": "Supermicro",
+ "cik": 1375365,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "06-30",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 5677962000,
+   "gross_profit": 670022000,
+   "operating_income": 368624000,
+   "eps_diluted": 0.51,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 4599913000,
+   "gross_profit": 440218000,
+   "operating_income": 146780000,
+   "eps_diluted": 0.17,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 5756911000,
+   "gross_profit": 544102000,
+   "operating_income": 228391000,
+   "eps_diluted": 0.32,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 5017790000,
+   "gross_profit": 467373000,
+   "operating_income": 182256000,
+   "eps_diluted": 0.26,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 12682491000,
+   "gross_profit": 798567000,
+   "operating_income": 474298000,
+   "eps_diluted": 0.6,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 10243014000,
+   "gross_profit": 1018680000,
+   "operating_income": 625868000,
+   "eps_diluted": 0.72,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 11119777000,
+   "gross_profit": 1942631000,
+   "operating_income": 1488064000,
+   "eps_diluted": 1.59,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2027 Q1",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 19945832000,
+   "gross_profit": 2541043000,
+   "operating_income": 2064493000,
+   "eps_diluted": 1.75,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-06",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536526000027/smci-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536526000027/0001375365-26-000027-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-08-31",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536526000022/smci-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536526000022/0001375365-26-000022-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-11",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536526000014/smci-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536526000014/0001375365-26-000014-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-02-06",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536526000007/smci-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536526000007/0001375365-26-000007-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-07",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536525000030/smci-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536525000030/0001375365-25-000030-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-08-28",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536525000027/smci-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536525000027/0001375365-25-000027-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-12",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536525000014/smci-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536525000014/0001375365-25-000014-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-25",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536525000004/smci-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536525000004/0001375365-25-000004-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-02-25",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536525000006/smci-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536525000006/0001375365-25-000006-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-02-25",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536525000005/smci-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536525000005/0001375365-25-000005-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-05-06",
+   "period": "2024-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536524000022/smci-20240331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536524000022/0001375365-24-000022-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-08-28",
+   "period": "2023-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536523000036/smci-20230630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536523000036/0001375365-23-000036-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-08-29",
+   "period": "2022-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536522000103/smci-20220630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536522000103/0001375365-22-000103-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

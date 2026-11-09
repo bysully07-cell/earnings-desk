@@ -1,0 +1,203 @@
+{
+ "ticker": "COO",
+ "name": "The Cooper Companies",
+ "cik": 711404,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "10-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-08-01",
+   "period_end": "2024-10-31",
+   "revenue": 1018400000,
+   "gross_profit": 677700000,
+   "operating_income": 198400000,
+   "eps_diluted": 0.59,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2024-11-01",
+   "period_end": "2025-01-31",
+   "revenue": 964700000,
+   "gross_profit": 660200000,
+   "operating_income": 182000000,
+   "eps_diluted": 0.52,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-02-01",
+   "period_end": "2025-04-30",
+   "revenue": 1002300000,
+   "gross_profit": 679100000,
+   "operating_income": 184800000,
+   "eps_diluted": 0.44,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-05-01",
+   "period_end": "2025-07-31",
+   "revenue": 1060300000,
+   "gross_profit": 692000000,
+   "operating_income": 175700000,
+   "eps_diluted": 0.49,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-08-01",
+   "period_end": "2025-10-31",
+   "revenue": 1065100000,
+   "gross_profit": 650800000,
+   "operating_income": 140400000,
+   "eps_diluted": 0.43,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-11-01",
+   "period_end": "2026-01-31",
+   "revenue": 1024100000,
+   "gross_profit": 695200000,
+   "operating_income": 212800000,
+   "eps_diluted": 0.66,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-02-01",
+   "period_end": "2026-04-30",
+   "revenue": 1081500000,
+   "gross_profit": 735400000,
+   "operating_income": -31000000,
+   "eps_diluted": -0.4,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-05-01",
+   "period_end": "2026-07-31",
+   "revenue": 1066200000,
+   "gross_profit": 711900000,
+   "operating_income": 222000000,
+   "eps_diluted": 2.24,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-09-09",
+   "period": "2026-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/711404/000162828026061160/coo-20260731.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/711404/000162828026061160/0001628280-26-061160-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-06-05",
+   "period": "2026-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/711404/000162828026041305/coo-20260430.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/711404/000162828026041305/0001628280-26-041305-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-03-06",
+   "period": "2026-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/711404/000162828026015620/coo-20260131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/711404/000162828026015620/0001628280-26-015620-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-12-05",
+   "period": "2025-10-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/711404/000162828025055615/coo-20251031.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/711404/000162828025055615/0001628280-25-055615-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-28",
+   "period": "2025-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/711404/000071140425000051/coo-20250731.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/711404/000071140425000051/0000711404-25-000051-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-30",
+   "period": "2025-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/711404/000071140425000040/coo-20250430.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/711404/000071140425000040/0000711404-25-000040-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-03-07",
+   "period": "2025-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/711404/000071140425000015/coo-20250131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/711404/000071140425000015/0000711404-25-000015-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-12-06",
+   "period": "2024-10-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/711404/000071140424000074/coo-20241031.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/711404/000071140424000074/0000711404-24-000074-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-29",
+   "period": "2024-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/711404/000071140424000062/coo-20240731.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/711404/000071140424000062/0000711404-24-000062-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-05-31",
+   "period": "2024-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/711404/000071140424000043/coo-20240430.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/711404/000071140424000043/0000711404-24-000043-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-12-08",
+   "period": "2023-10-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/711404/000071140423000072/coo-20231031.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/711404/000071140423000072/0000711404-23-000072-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-12-09",
+   "period": "2022-10-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/711404/000071140422000053/coo-20221031.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/711404/000071140422000053/0000711404-22-000053-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2021-12-10",
+   "period": "2021-10-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/711404/000071140421000038/coo-20211031.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/711404/000071140421000038/0000711404-21-000038-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

@@ -1,0 +1,214 @@
+{
+ "ticker": "KLAC",
+ "name": "KLA Corporation",
+ "cik": 319201,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "06-30",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfRevenue)",
+  "operating_income": null,
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 3076851000,
+   "gross_profit": 1855390000,
+   "operating_income": null,
+   "eps_diluted": 6.16,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 3063029000,
+   "gross_profit": 1887340000,
+   "operating_income": null,
+   "eps_diluted": 8.16,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 3174741000,
+   "gross_profit": 1967455000,
+   "operating_income": null,
+   "eps_diluted": 0.24,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 3209696000,
+   "gross_profit": 1966626000,
+   "operating_income": null,
+   "eps_diluted": 0.85,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 3297146000,
+   "gross_profit": 2025936000,
+   "operating_income": null,
+   "eps_diluted": 8.68,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 3415078000,
+   "gross_profit": 2087406000,
+   "operating_income": null,
+   "eps_diluted": 9.12,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 3657556000,
+   "gross_profit": 2244448000,
+   "operating_income": null,
+   "eps_diluted": 0.37,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2027 Q1",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 4136015000,
+   "gross_profit": 2558224000,
+   "operating_income": null,
+   "eps_diluted": 1.18,
+   "derived": [
+    "gross_profit"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-29",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920126000034/klac-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/319201/000031920126000034/0000319201-26-000034-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-08-06",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920126000027/klac-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/319201/000031920126000027/0000319201-26-000027-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-30",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920126000016/klac-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/319201/000031920126000016/0000319201-26-000016-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-01-30",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920126000008/klac-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/319201/000031920126000008/0000319201-26-000008-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-31",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920125000034/klac-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/319201/000031920125000034/0000319201-25-000034-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-08-08",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920125000024/klac-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/319201/000031920125000024/0000319201-25-000024-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-01",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920125000012/klac-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/319201/000031920125000012/0000319201-25-000012-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-01-31",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920125000006/klac-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/319201/000031920125000006/0000319201-25-000006-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-31",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920124000027/klac-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/319201/000031920124000027/0000319201-24-000027-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-08-05",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920124000021/klac-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/319201/000031920124000021/0000319201-24-000021-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-04-26",
+   "period": "2024-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920124000012/klac-20240331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/319201/000031920124000012/0000319201-24-000012-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-08-04",
+   "period": "2023-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920123000031/klac-20230630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/319201/000031920123000031/0000319201-23-000031-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-08-05",
+   "period": "2022-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920122000023/klac-20220630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/319201/000031920122000023/0000319201-22-000023-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

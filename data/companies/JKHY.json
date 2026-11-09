@@ -1,0 +1,215 @@
+{
+ "ticker": "JKHY",
+ "name": "Jack Henry & Associates",
+ "cik": 779152,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "06-30",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfRevenue)",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 573848000,
+   "gross_profit": 240998000,
+   "operating_income": 123002000,
+   "eps_diluted": 1.34,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 585087000,
+   "gross_profit": 244501000,
+   "operating_income": 138740000,
+   "eps_diluted": 1.52,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 615371000,
+   "gross_profit": 271492000,
+   "operating_income": 155697000,
+   "eps_diluted": 1.75,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 644738000,
+   "gross_profit": 296172000,
+   "operating_income": 184065000,
+   "eps_diluted": 1.97,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 619334000,
+   "gross_profit": 268345000,
+   "operating_income": 159148000,
+   "eps_diluted": 1.72,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 636245000,
+   "gross_profit": 272323000,
+   "operating_income": 155047000,
+   "eps_diluted": 1.71,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 644022000,
+   "gross_profit": 273848000,
+   "operating_income": 136773000,
+   "eps_diluted": 1.57,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2027 Q1",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 701547000,
+   "gross_profit": 325501000,
+   "operating_income": 207071000,
+   "eps_diluted": 2.28,
+   "derived": [
+    "gross_profit"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-06",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/779152/000077915226000098/jkhy-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/779152/000077915226000098/0000779152-26-000098-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-08-28",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/779152/000077915226000067/jkhy-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/779152/000077915226000067/0000779152-26-000067-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-07",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/779152/000077915226000025/jkhy-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/779152/000077915226000025/0000779152-26-000025-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-02-06",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/779152/000077915226000009/jkhy-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/779152/000077915226000009/0000779152-26-000009-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-07",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/779152/000077915225000092/jkhy-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/779152/000077915225000092/0000779152-25-000092-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-08-25",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/779152/000077915225000055/jkhy-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/779152/000077915225000055/0000779152-25-000055-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-12",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/779152/000077915225000019/jkhy-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/779152/000077915225000019/0000779152-25-000019-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-02-07",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/779152/000077915225000009/jkhy-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/779152/000077915225000009/0000779152-25-000009-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-08",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/779152/000077915224000111/jkhy-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/779152/000077915224000111/0000779152-24-000111-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-08-26",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/779152/000077915224000079/jkhy-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/779152/000077915224000079/0000779152-24-000079-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-05-09",
+   "period": "2024-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/779152/000077915224000033/jkhy-20240331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/779152/000077915224000033/0000779152-24-000033-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-08-24",
+   "period": "2023-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/779152/000077915223000062/jkhy-20230630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/779152/000077915223000062/0000779152-23-000062-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-08-25",
+   "period": "2022-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/779152/000077915222000076/jkhy-20220630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/779152/000077915222000076/0000779152-22-000076-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

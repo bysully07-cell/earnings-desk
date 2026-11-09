@@ -1,0 +1,238 @@
+{
+ "ticker": "SWKS",
+ "name": "Skyworks Solutions",
+ "cik": 4127,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "10-03",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-06-29",
+   "period_end": "2024-09-27",
+   "revenue": 1025000000,
+   "gross_profit": 429800000,
+   "operating_income": 59500000,
+   "eps_diluted": 0.37,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2024-09-28",
+   "period_end": "2024-12-27",
+   "revenue": 1068500000,
+   "gross_profit": 441900000,
+   "operating_income": 181100000,
+   "eps_diluted": 1,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2024-12-28",
+   "period_end": "2025-03-28",
+   "revenue": 953200000,
+   "gross_profit": 391600000,
+   "operating_income": 97300000,
+   "eps_diluted": 0.43,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-03-29",
+   "period_end": "2025-06-27",
+   "revenue": 965000000,
+   "gross_profit": 401000000,
+   "operating_income": 110600000,
+   "eps_diluted": 0.7,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-06-28",
+   "period_end": "2025-10-03",
+   "revenue": 1100200000,
+   "gross_profit": 447600000,
+   "operating_income": 111000000,
+   "eps_diluted": 0.94,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-10-04",
+   "period_end": "2026-01-02",
+   "revenue": 1035400000,
+   "gross_profit": 427200000,
+   "operating_income": 103800000,
+   "eps_diluted": 0.53,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-01-03",
+   "period_end": "2026-04-03",
+   "revenue": 943700000,
+   "gross_profit": 385300000,
+   "operating_income": 42100000,
+   "eps_diluted": 0.24,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-04-04",
+   "period_end": "2026-07-03",
+   "revenue": 934800000,
+   "gross_profit": 375000000,
+   "operating_income": 48500000,
+   "eps_diluted": 0.22,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-07-28",
+   "period": "2026-07-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/4127/000000412726000049/swks-20260703.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/4127/000000412726000049/0000004127-26-000049-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-05",
+   "period": "2026-04-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/4127/000000412726000015/swks-20260403.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/4127/000000412726000015/0000004127-26-000015-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-02-05",
+   "period": "2026-01-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/4127/000000412726000008/swks-20260102.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/4127/000000412726000008/0000004127-26-000008-index.htm"
+  },
+  {
+   "form": "10-K/A",
+   "filed": "2026-01-30",
+   "period": "2025-10-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/4127/000000412726000003/swks-20251003.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/4127/000000412726000003/0000004127-26-000003-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-11-07",
+   "period": "2025-10-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/4127/000000412725000085/swks-20251003.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/4127/000000412725000085/0000004127-25-000085-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-05",
+   "period": "2025-06-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/4127/000000412725000073/swks-20250627.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/4127/000000412725000073/0000004127-25-000073-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-07",
+   "period": "2025-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/4127/000000412725000040/swks-20250328.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/4127/000000412725000040/0000004127-25-000040-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-02-05",
+   "period": "2024-12-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/4127/000000412725000010/swks-20241227.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/4127/000000412725000010/0000004127-25-000010-index.htm"
+  },
+  {
+   "form": "10-K/A",
+   "filed": "2025-01-24",
+   "period": "2024-09-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/4127/000000412725000006/swks-20240927.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/4127/000000412725000006/0000004127-25-000006-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-11-15",
+   "period": "2024-09-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/4127/000000412724000131/swks-20240927.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/4127/000000412724000131/0000004127-24-000131-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-31",
+   "period": "2024-06-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/4127/000000412724000070/swks-20240628.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/4127/000000412724000070/0000004127-24-000070-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-05-01",
+   "period": "2024-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/4127/000000412724000019/swks-20240329.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/4127/000000412724000019/0000004127-24-000019-index.htm"
+  },
+  {
+   "form": "10-K/A",
+   "filed": "2024-01-26",
+   "period": "2023-09-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/4127/000000412724000002/swks-20230929.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/4127/000000412724000002/0000004127-24-000002-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-11-17",
+   "period": "2023-09-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/4127/000000412723000030/swks-20230929.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/4127/000000412723000030/0000004127-23-000030-index.htm"
+  },
+  {
+   "form": "10-K/A",
+   "filed": "2023-01-27",
+   "period": "2022-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/4127/000000412723000005/swks-20220930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/4127/000000412723000005/0000004127-23-000005-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-11-23",
+   "period": "2022-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/4127/000000412722000038/swks-20220930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/4127/000000412722000038/0000004127-22-000038-index.htm"
+  },
+  {
+   "form": "10-K/A",
+   "filed": "2022-01-28",
+   "period": "2021-10-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/4127/000000412722000002/swks-20211001.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/4127/000000412722000002/0000004127-22-000002-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2021-11-24",
+   "period": "2021-10-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/4127/000000412721000058/swks-20211001.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/4127/000000412721000058/0000004127-21-000058-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

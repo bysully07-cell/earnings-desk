@@ -1,0 +1,201 @@
+{
+ "ticker": "AVY",
+ "name": "Avery Dennison",
+ "cik": 8818,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": null,
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-09-29",
+   "period_end": "2024-12-28",
+   "revenue": 2185700000,
+   "gross_profit": 609200000,
+   "operating_income": null,
+   "eps_diluted": 2.17,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2024-12-29",
+   "period_end": "2025-03-29",
+   "revenue": 2148300000,
+   "gross_profit": 621500000,
+   "operating_income": null,
+   "eps_diluted": 2.09,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-03-30",
+   "period_end": "2025-06-28",
+   "revenue": 2220500000,
+   "gross_profit": 639100000,
+   "operating_income": null,
+   "eps_diluted": 2.41,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-06-29",
+   "period_end": "2025-09-27",
+   "revenue": 2215500000,
+   "gross_profit": 635000000,
+   "operating_income": null,
+   "eps_diluted": 2.13,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-09-28",
+   "period_end": "2025-12-31",
+   "revenue": 2271200000,
+   "gross_profit": 650700000,
+   "operating_income": null,
+   "eps_diluted": 2.15,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 2298500000,
+   "gross_profit": 664800000,
+   "operating_income": null,
+   "eps_diluted": 2.18,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 2462900000,
+   "gross_profit": 729400000,
+   "operating_income": null,
+   "eps_diluted": 2.67,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 2331500000,
+   "gross_profit": 654800000,
+   "operating_income": null,
+   "eps_diluted": 2.24,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-03",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/8818/000000881826000166/avy-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/8818/000000881826000166/0000008818-26-000166-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-04",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/8818/000000881826000131/avy-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/8818/000000881826000131/0000008818-26-000131-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-05",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/8818/000000881826000109/avy-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/8818/000000881826000109/0000008818-26-000109-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-25",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/8818/000000881826000015/avy-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/8818/000000881826000015/0000008818-26-000015-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-28",
+   "period": "2025-09-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/8818/000000881825000049/avy-20250927.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/8818/000000881825000049/0000008818-25-000049-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-29",
+   "period": "2025-06-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/8818/000000881825000040/avy-20250628.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/8818/000000881825000040/0000008818-25-000040-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-29",
+   "period": "2025-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/8818/000000881825000012/avy-20250329.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/8818/000000881825000012/0000008818-25-000012-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-26",
+   "period": "2024-12-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/8818/000000881825000003/avy-20241228.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/8818/000000881825000003/0000008818-25-000003-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-29",
+   "period": "2024-09-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/8818/000000881824000017/avy-20240928.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/8818/000000881824000017/0000008818-24-000017-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-30",
+   "period": "2024-06-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/8818/000000881824000015/avy-20240629.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/8818/000000881824000015/0000008818-24-000015-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-21",
+   "period": "2023-12-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/8818/000000881824000003/avy-20231230.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/8818/000000881824000003/0000008818-24-000003-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-22",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/8818/000000881823000002/avy-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/8818/000000881823000002/0000008818-23-000002-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-23",
+   "period": "2022-01-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/8818/000119312522049910/d179463d10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/8818/000119312522049910/0001193125-22-049910-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

@@ -1,0 +1,216 @@
+{
+ "ticker": "COST",
+ "name": "Costco",
+ "cik": 909832,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "08-30",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfGoodsAndServicesSold)",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2024-09-02",
+   "period_end": "2024-11-24",
+   "revenue": 62151000000,
+   "gross_profit": 8042000000,
+   "operating_income": 2196000000,
+   "eps_diluted": 4.04,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2024-11-25",
+   "period_end": "2025-02-16",
+   "revenue": 63723000000,
+   "gross_profit": 7979000000,
+   "operating_income": 2316000000,
+   "eps_diluted": 4.02,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-02-17",
+   "period_end": "2025-05-11",
+   "revenue": 63205000000,
+   "gross_profit": 8209000000,
+   "operating_income": 2530000000,
+   "eps_diluted": 4.28,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-05-12",
+   "period_end": "2025-08-31",
+   "revenue": 86156000000,
+   "gross_profit": 11119000000,
+   "operating_income": 3341000000,
+   "eps_diluted": 5.87,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-09-01",
+   "period_end": "2025-11-23",
+   "revenue": 67307000000,
+   "gross_profit": 8797000000,
+   "operating_income": 2463000000,
+   "eps_diluted": 4.5,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-11-24",
+   "period_end": "2026-02-15",
+   "revenue": 69597000000,
+   "gross_profit": 8878000000,
+   "operating_income": 2606000000,
+   "eps_diluted": 4.58,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-02-16",
+   "period_end": "2026-05-10",
+   "revenue": 70527000000,
+   "gross_profit": 9008000000,
+   "operating_income": 2815000000,
+   "eps_diluted": 4.93,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2026-05-11",
+   "period_end": "2026-08-30",
+   "revenue": 95723000000,
+   "gross_profit": 12192000000,
+   "operating_income": 3801000000,
+   "eps_diluted": 6.75,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-K",
+   "filed": "2026-10-07",
+   "period": "2026-08-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-06-03",
+   "period": "2026-05-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000051/cost-20260510.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000051/0000909832-26-000051-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-03-11",
+   "period": "2026-02-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000029/cost-20260215.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000029/0000909832-26-000029-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-12-17",
+   "period": "2025-11-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000169/cost-20251123.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000169/0000909832-25-000169-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-10-08",
+   "period": "2025-08-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/cost-20250831.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/0000909832-25-000101-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-06-05",
+   "period": "2025-05-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000033/cost-20250511.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000033/0000909832-25-000033-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-03-13",
+   "period": "2025-02-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000015/cost-20250216.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000015/0000909832-25-000015-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-12-19",
+   "period": "2024-11-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000079/cost-20241124.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000079/0000909832-24-000079-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-10-09",
+   "period": "2024-09-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000049/cost-20240901.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000049/0000909832-24-000049-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-06-06",
+   "period": "2024-05-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000029/cost-20240512.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000029/0000909832-24-000029-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-03-13",
+   "period": "2024-02-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000017/cost-20240218.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000017/0000909832-24-000017-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-10-11",
+   "period": "2023-09-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983223000042/cost-20230903.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/909832/000090983223000042/0000909832-23-000042-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-10-05",
+   "period": "2022-08-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983222000021/cost-20220828.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/909832/000090983222000021/0000909832-22-000021-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

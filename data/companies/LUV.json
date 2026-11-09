@@ -1,0 +1,208 @@
+{
+ "ticker": "LUV",
+ "name": "Southwest Airlines",
+ "cik": 92380,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 6930000000,
+   "gross_profit": null,
+   "operating_income": 278000000,
+   "eps_diluted": 0.36,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 6428000000,
+   "gross_profit": null,
+   "operating_income": -223000000,
+   "eps_diluted": -0.26,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 7244000000,
+   "gross_profit": null,
+   "operating_income": 225000000,
+   "eps_diluted": 0.39,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 6949000000,
+   "gross_profit": null,
+   "operating_income": 35000000,
+   "eps_diluted": 0.1,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 7442000000,
+   "gross_profit": null,
+   "operating_income": 391000000,
+   "eps_diluted": 0.56,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 7249000000,
+   "gross_profit": null,
+   "operating_income": 330000000,
+   "eps_diluted": 0.45,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 8432000000,
+   "gross_profit": null,
+   "operating_income": 285000000,
+   "eps_diluted": 0.47,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 8422000000,
+   "gross_profit": null,
+   "operating_income": 379000000,
+   "eps_diluted": 0.55,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-22",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/92380/000009238026000107/luv-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/92380/000009238026000107/0000092380-26-000107-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-23",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/92380/000009238026000077/luv-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/92380/000009238026000077/0000092380-26-000077-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-23",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/92380/000009238026000047/luv-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/92380/000009238026000047/0000092380-26-000047-index.htm"
+  },
+  {
+   "form": "10-K/A",
+   "filed": "2026-02-06",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/92380/000009238026000006/luv-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/92380/000009238026000006/0000092380-26-000006-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-05",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/92380/000009238026000004/luv-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/92380/000009238026000004/0000092380-26-000004-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-23",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/92380/000009238025000140/luv-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/92380/000009238025000140/0000092380-25-000140-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-24",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/92380/000009238025000134/luv-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/92380/000009238025000134/0000092380-25-000134-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-25",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/92380/000009238025000083/luv-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/92380/000009238025000083/0000092380-25-000083-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-07",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/92380/000009238025000024/luv-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/92380/000009238025000024/0000092380-25-000024-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-28",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/92380/000009238024000147/luv-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/92380/000009238024000147/0000092380-24-000147-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-29",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/92380/000009238024000111/luv-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/92380/000009238024000111/0000092380-24-000111-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-06",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/92380/000009238024000027/luv-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/92380/000009238024000027/0000092380-24-000027-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-07",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/92380/000009238023000010/luv-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/92380/000009238023000010/0000092380-23-000010-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-07",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/92380/000009238022000007/luv-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/92380/000009238022000007/0000092380-22-000007-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

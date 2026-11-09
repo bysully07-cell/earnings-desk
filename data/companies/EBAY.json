@@ -1,0 +1,238 @@
+{
+ "ticker": "EBAY",
+ "name": "eBay Inc.",
+ "cik": 1065088,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 2579000000,
+   "gross_profit": 1861000000,
+   "operating_income": 543000000,
+   "eps_diluted": 1.4,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 2585000000,
+   "gross_profit": 1888000000,
+   "operating_income": 611000000,
+   "eps_diluted": 1.05,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 2730000000,
+   "gross_profit": 1980000000,
+   "operating_income": 479000000,
+   "eps_diluted": 0.78,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 2820000000,
+   "gross_profit": 2026000000,
+   "operating_income": 571000000,
+   "eps_diluted": 1.34,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 2965000000,
+   "gross_profit": 2037000000,
+   "operating_income": 616000000,
+   "eps_diluted": 1.17,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 3089000000,
+   "gross_profit": 2287000000,
+   "operating_income": 611000000,
+   "eps_diluted": 1.12,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 3134000000,
+   "gross_profit": 2302000000,
+   "operating_income": 676000000,
+   "eps_diluted": 1.21,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 3206000000,
+   "gross_profit": 2319000000,
+   "operating_income": 616000000,
+   "eps_diluted": 1.1,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-29",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508826000212/ebay-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508826000212/0001065088-26-000212-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-06",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508826000177/ebay-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508826000177/0001065088-26-000177-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-29",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508826000093/ebay-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508826000093/0001065088-26-000093-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-19",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508826000027/ebay-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508826000027/0001065088-26-000027-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-30",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508825000127/ebay-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508825000127/0001065088-25-000127-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-31",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508825000077/ebay-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508825000077/0001065088-25-000077-index.htm"
+  },
+  {
+   "form": "10-K/A",
+   "filed": "2025-05-30",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508825000068/ebay-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508825000068/0001065088-25-000068-index.htm"
+  },
+  {
+   "form": "10-Q/A",
+   "filed": "2025-05-09",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508825000064/ebay-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508825000064/0001065088-25-000064-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-01",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508825000061/ebay-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508825000061/0001065088-25-000061-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-27",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508825000037/ebay-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508825000037/0001065088-25-000037-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-31",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508824000199/ebay-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508824000199/0001065088-24-000199-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-01",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508824000145/ebay-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508824000145/0001065088-24-000145-index.htm"
+  },
+  {
+   "form": "10-K/A",
+   "filed": "2024-05-29",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508824000094/ebay-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508824000094/0001065088-24-000094-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-28",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508824000036/ebay-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508824000036/0001065088-24-000036-index.htm"
+  },
+  {
+   "form": "10-K/A",
+   "filed": "2023-05-12",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508823000015/ebay-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508823000015/0001065088-23-000015-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-23",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508823000006/ebay-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508823000006/0001065088-23-000006-index.htm"
+  },
+  {
+   "form": "10-K/A",
+   "filed": "2022-05-10",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508822000017/ebay-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508822000017/0001065088-22-000017-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-24",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508822000006/ebay-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508822000006/0001065088-22-000006-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

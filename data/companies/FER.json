@@ -1,0 +1,37 @@
+{
+ "ticker": "FER",
+ "name": "Ferrovial",
+ "cik": 1468522,
+ "indexes": [
+  "NDX"
+ ],
+ "fiscal_year_end": null,
+ "sources": {},
+ "quarters": [],
+ "filings": [
+  {
+   "form": "20-F/A",
+   "filed": "2026-10-02",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1468522/000162828026064381/fer-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1468522/000162828026064381/0001628280-26-064381-index.htm"
+  },
+  {
+   "form": "20-F",
+   "filed": "2026-02-25",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1468522/000162828026011789/fer-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1468522/000162828026011789/0001628280-26-011789-index.htm"
+  },
+  {
+   "form": "20-F",
+   "filed": "2025-02-28",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1468522/000146852225000034/fer-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1468522/000146852225000034/0001468522-25-000034-index.htm"
+  }
+ ],
+ "note": "no US-GAAP quarterly revenue (foreign filer or non-standard tags)",
+ "earnings": [],
+ "earnings_checked": null
+}

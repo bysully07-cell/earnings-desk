@@ -1,0 +1,222 @@
+{
+ "ticker": "INCY",
+ "name": "Incyte",
+ "cik": 879169,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfRevenue)",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 1178698000,
+   "gross_profit": 1090213000,
+   "operating_income": 301513000,
+   "eps_diluted": 1.0,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 1052898000,
+   "gross_profit": 979710000,
+   "operating_income": 205168000,
+   "eps_diluted": 0.8,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 1215529000,
+   "gross_profit": 1136763000,
+   "operating_income": 530314000,
+   "eps_diluted": 2.04,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 1365980000,
+   "gross_profit": 1266979000,
+   "operating_income": 443518000,
+   "eps_diluted": 2.11,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 1506835000,
+   "gross_profit": 1385660000,
+   "operating_income": 335859000,
+   "eps_diluted": 1.46,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 1272676000,
+   "gross_profit": 1168153000,
+   "operating_income": 301117000,
+   "eps_diluted": 1.47,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 1674039000,
+   "gross_profit": 1569082000,
+   "operating_income": 697898000,
+   "eps_diluted": 2.81,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 1557204000,
+   "gross_profit": 1448460000,
+   "operating_income": -708361000,
+   "eps_diluted": -3.86,
+   "derived": [
+    "gross_profit"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-29",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/879169/000087916926000066/incy-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/879169/000087916926000066/0000879169-26-000066-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-28",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/879169/000087916926000056/incy-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/879169/000087916926000056/0000879169-26-000056-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-28",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/879169/000087916926000026/incy-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/879169/000087916926000026/0000879169-26-000026-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-10",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/879169/000087916926000010/incy-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/879169/000087916926000010/0000879169-26-000010-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-28",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/879169/000087916925000118/incy-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/879169/000087916925000118/0000879169-25-000118-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-29",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/879169/000087916925000103/incy-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/879169/000087916925000103/0000879169-25-000103-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-29",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/879169/000087916925000056/incy-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/879169/000087916925000056/0000879169-25-000056-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-10",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/879169/000162828025004633/incy-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/879169/000162828025004633/0001628280-25-004633-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-29",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/879169/000087916924000172/incy-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/879169/000087916924000172/0000879169-24-000172-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-30",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/879169/000087916924000149/incy-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/879169/000087916924000149/0000879169-24-000149-index.htm"
+  },
+  {
+   "form": "10-K/A",
+   "filed": "2024-02-16",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/879169/000087916924000062/incy-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/879169/000087916924000062/0000879169-24-000062-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-13",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/879169/000087916924000045/incy-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/879169/000087916924000045/0000879169-24-000045-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-07",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/879169/000087916923000008/incy-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/879169/000087916923000008/0000879169-23-000008-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-08",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/879169/000155837022000902/incy-20211231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/879169/000155837022000902/0001558370-22-000902-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

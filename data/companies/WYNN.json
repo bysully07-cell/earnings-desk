@@ -1,0 +1,201 @@
+{
+ "ticker": "WYNN",
+ "name": "Wynn Resorts",
+ "cik": 1174922,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerIncludingAssessedTax",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 1838797000,
+   "gross_profit": null,
+   "operating_income": 366895000,
+   "eps_diluted": 2.54,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 1700397000,
+   "gross_profit": null,
+   "operating_income": 268589000,
+   "eps_diluted": 0.69,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 1737797000,
+   "gross_profit": null,
+   "operating_income": 264600000,
+   "eps_diluted": 0.64,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 1833747000,
+   "gross_profit": null,
+   "operating_income": 310489000,
+   "eps_diluted": 0.85,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 1865983000,
+   "gross_profit": null,
+   "operating_income": 274706000,
+   "eps_diluted": 0.96,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 1856762000,
+   "gross_profit": null,
+   "operating_income": 282604000,
+   "eps_diluted": 1.04,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 1856933000,
+   "gross_profit": null,
+   "operating_income": 297588000,
+   "eps_diluted": 1.32,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 1689053000,
+   "gross_profit": null,
+   "operating_income": 178222000,
+   "eps_diluted": 0.17,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-05",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1174922/000117492226000079/wynn-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1174922/000117492226000079/0001174922-26-000079-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-06",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1174922/000117492226000055/wynn-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1174922/000117492226000055/0001174922-26-000055-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-07",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1174922/000117492226000035/wynn-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1174922/000117492226000035/0001174922-26-000035-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-03-02",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1174922/000117492226000013/wynn-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1174922/000117492226000013/0001174922-26-000013-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-06",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1174922/000117492225000151/wynn-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1174922/000117492225000151/0001174922-25-000151-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-07",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1174922/000117492225000113/wynn-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1174922/000117492225000113/0001174922-25-000113-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-06",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1174922/000117492225000084/wynn-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1174922/000117492225000084/0001174922-25-000084-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-13",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1174922/000117492225000039/wynn-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1174922/000117492225000039/0001174922-25-000039-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-04",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1174922/000117492224000160/wynn-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1174922/000117492224000160/0001174922-24-000160-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-06",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1174922/000117492224000094/wynn-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1174922/000117492224000094/0001174922-24-000094-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-23",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1174922/000117492224000046/wynn-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1174922/000117492224000046/0001174922-24-000046-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-27",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1174922/000117492223000048/wynn-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1174922/000117492223000048/0001174922-23-000048-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-28",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1174922/000117492222000031/wynn-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1174922/000117492222000031/0001174922-22-000031-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

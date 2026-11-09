@@ -1,0 +1,202 @@
+{
+ "ticker": "INTU",
+ "name": "Intuit",
+ "cik": 896878,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "07-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2024-08-01",
+   "period_end": "2024-10-31",
+   "revenue": 3283000000,
+   "gross_profit": null,
+   "operating_income": 271000000,
+   "eps_diluted": 0.7,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2024-11-01",
+   "period_end": "2025-01-31",
+   "revenue": 3963000000,
+   "gross_profit": null,
+   "operating_income": 593000000,
+   "eps_diluted": 1.67,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-02-01",
+   "period_end": "2025-04-30",
+   "revenue": 7754000000,
+   "gross_profit": null,
+   "operating_income": 3720000000,
+   "eps_diluted": 10.02,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-05-01",
+   "period_end": "2025-07-31",
+   "revenue": 3831000000,
+   "gross_profit": null,
+   "operating_income": 339000000,
+   "eps_diluted": 1.34,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-08-01",
+   "period_end": "2025-10-31",
+   "revenue": 3885000000,
+   "gross_profit": null,
+   "operating_income": 534000000,
+   "eps_diluted": 1.59,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-11-01",
+   "period_end": "2026-01-31",
+   "revenue": 4651000000,
+   "gross_profit": null,
+   "operating_income": 855000000,
+   "eps_diluted": 2.48,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-02-01",
+   "period_end": "2026-04-30",
+   "revenue": 8558000000,
+   "gross_profit": null,
+   "operating_income": 4020000000,
+   "eps_diluted": 11.09,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2026-05-01",
+   "period_end": "2026-07-31",
+   "revenue": 4354000000,
+   "gross_profit": null,
+   "operating_income": 475000000,
+   "eps_diluted": 1.34,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-K",
+   "filed": "2026-09-09",
+   "period": "2026-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/896878/000089687826000037/intu-20260731.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/896878/000089687826000037/0000896878-26-000037-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-20",
+   "period": "2026-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/896878/000089687826000025/intu-20260430.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/896878/000089687826000025/0000896878-26-000025-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-02-26",
+   "period": "2026-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/896878/000089687826000014/intu-20260131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/896878/000089687826000014/0000896878-26-000014-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-20",
+   "period": "2025-10-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/896878/000089687825000048/intu-20251031.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/896878/000089687825000048/0000896878-25-000048-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-09-03",
+   "period": "2025-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/896878/000089687825000035/intu-20250731.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/896878/000089687825000035/0000896878-25-000035-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-22",
+   "period": "2025-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/896878/000089687825000022/intu-20250430.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/896878/000089687825000022/0000896878-25-000022-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-02-25",
+   "period": "2025-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/896878/000089687825000015/intu-20250131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/896878/000089687825000015/0000896878-25-000015-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-21",
+   "period": "2024-10-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/896878/000089687824000053/intu-20241031.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/896878/000089687824000053/0000896878-24-000053-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-09-04",
+   "period": "2024-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/896878/000089687824000039/intu-20240731.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/896878/000089687824000039/0000896878-24-000039-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-05-23",
+   "period": "2024-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/896878/000089687824000026/intu-20240430.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/896878/000089687824000026/0000896878-24-000026-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-02-22",
+   "period": "2024-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/896878/000089687824000011/intu-20240131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/896878/000089687824000011/0000896878-24-000011-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-09-01",
+   "period": "2023-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/896878/000089687823000034/intu-20230731.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/896878/000089687823000034/0000896878-23-000034-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-09-02",
+   "period": "2022-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/896878/000089687822000028/intu-20220731.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/896878/000089687822000028/0000896878-22-000028-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

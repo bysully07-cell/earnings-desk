@@ -1,0 +1,216 @@
+{
+ "ticker": "QCOM",
+ "name": "Qualcomm",
+ "cik": 804328,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "09-27",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfRevenue)",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2024-09-30",
+   "period_end": "2024-12-29",
+   "revenue": 11669000000,
+   "gross_profit": 6508000000,
+   "operating_income": 3555000000,
+   "eps_diluted": 2.83,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2024-12-30",
+   "period_end": "2025-03-30",
+   "revenue": 10979000000,
+   "gross_profit": 6042000000,
+   "operating_income": 3120000000,
+   "eps_diluted": 2.52,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-03-31",
+   "period_end": "2025-06-29",
+   "revenue": 10365000000,
+   "gross_profit": 5759000000,
+   "operating_income": 2762000000,
+   "eps_diluted": 2.43,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-06-30",
+   "period_end": "2025-09-28",
+   "revenue": 11271000000,
+   "gross_profit": 6237000000,
+   "operating_income": 2918000000,
+   "eps_diluted": -2.88,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-09-29",
+   "period_end": "2025-12-28",
+   "revenue": 12252000000,
+   "gross_profit": 6684000000,
+   "operating_income": 3366000000,
+   "eps_diluted": 2.78,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-12-29",
+   "period_end": "2026-03-29",
+   "revenue": 10599000000,
+   "gross_profit": 5699000000,
+   "operating_income": 2309000000,
+   "eps_diluted": 6.88,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-03-30",
+   "period_end": "2026-06-28",
+   "revenue": 9947000000,
+   "gross_profit": 5277000000,
+   "operating_income": 1626000000,
+   "eps_diluted": 1.87,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2026-06-29",
+   "period_end": "2026-09-27",
+   "revenue": 10322000000,
+   "gross_profit": 5238000000,
+   "operating_income": 1357000000,
+   "eps_diluted": 1.17,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-K",
+   "filed": "2026-11-04",
+   "period": "2026-09-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000128/qcom-20260927.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000128/0000804328-26-000128-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-29",
+   "period": "2026-06-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000086/qcom-20260628.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000086/0000804328-26-000086-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-29",
+   "period": "2026-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000061/qcom-20260329.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000061/0000804328-26-000061-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-02-04",
+   "period": "2025-12-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000017/qcom-20251228.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000017/0000804328-26-000017-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-11-05",
+   "period": "2025-09-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432825000085/qcom-20250928.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/804328/000080432825000085/0000804328-25-000085-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-30",
+   "period": "2025-06-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432825000045/qcom-20250629.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/804328/000080432825000045/0000804328-25-000045-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-30",
+   "period": "2025-03-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432825000031/qcom-20250330.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/804328/000080432825000031/0000804328-25-000031-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-02-05",
+   "period": "2024-12-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432825000011/qcom-20241229.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/804328/000080432825000011/0000804328-25-000011-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-11-06",
+   "period": "2024-09-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432824000075/qcom-20240929.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/804328/000080432824000075/0000804328-24-000075-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-31",
+   "period": "2024-06-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432824000056/qcom-20240623.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/804328/000080432824000056/0000804328-24-000056-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-05-01",
+   "period": "2024-03-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432824000039/qcom-20240324.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/804328/000080432824000039/0000804328-24-000039-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-11-01",
+   "period": "2023-09-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432823000055/qcom-20230924.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/804328/000080432823000055/0000804328-23-000055-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-11-02",
+   "period": "2022-09-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432822000021/qcom-20220925.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/804328/000080432822000021/0000804328-22-000021-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

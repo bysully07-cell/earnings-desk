@@ -1,0 +1,203 @@
+{
+ "ticker": "TSN",
+ "name": "Tyson Foods",
+ "cik": 100493,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "09-27",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-06-30",
+   "period_end": "2024-09-28",
+   "revenue": 13565000000,
+   "gross_profit": 1060000000,
+   "operating_income": 525000000,
+   "eps_diluted": 1.0,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2024-09-29",
+   "period_end": "2024-12-28",
+   "revenue": 13623000000,
+   "gross_profit": 1095000000,
+   "operating_income": 580000000,
+   "eps_diluted": 1.01,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2024-12-29",
+   "period_end": "2025-03-29",
+   "revenue": 13074000000,
+   "gross_profit": 600000000,
+   "operating_income": 100000000,
+   "eps_diluted": 0.02,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-03-30",
+   "period_end": "2025-06-28",
+   "revenue": 13884000000,
+   "gross_profit": 1141000000,
+   "operating_income": 260000000,
+   "eps_diluted": 0.17,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-06-29",
+   "period_end": "2025-09-27",
+   "revenue": 13860000000,
+   "gross_profit": 726000000,
+   "operating_income": 158000000,
+   "eps_diluted": 0.13,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-09-28",
+   "period_end": "2025-12-27",
+   "revenue": 14313000000,
+   "gross_profit": 808000000,
+   "operating_income": 302000000,
+   "eps_diluted": 0.24,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-12-28",
+   "period_end": "2026-03-28",
+   "revenue": 13653000000,
+   "gross_profit": 962000000,
+   "operating_income": 435000000,
+   "eps_diluted": 0.73,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-03-29",
+   "period_end": "2026-06-27",
+   "revenue": 13868000000,
+   "gross_profit": 921000000,
+   "operating_income": 362000000,
+   "eps_diluted": 0.52,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-08-03",
+   "period": "2026-06-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/100493/000010049326000058/tsn-20260627.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/100493/000010049326000058/0000100493-26-000058-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-04",
+   "period": "2026-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/100493/000010049326000020/tsn-20260328.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/100493/000010049326000020/0000100493-26-000020-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-02-02",
+   "period": "2025-12-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/100493/000010049326000007/tsn-20251227.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/100493/000010049326000007/0000100493-26-000007-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-11-10",
+   "period": "2025-09-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/100493/000010049325000095/tsn-20250927.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/100493/000010049325000095/0000100493-25-000095-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-04",
+   "period": "2025-06-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/100493/000010049325000076/tsn-20250628.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/100493/000010049325000076/0000100493-25-000076-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-05",
+   "period": "2025-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/100493/000010049325000056/tsn-20250329.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/100493/000010049325000056/0000100493-25-000056-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-02-03",
+   "period": "2024-12-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/100493/000010049325000007/tsn-20241228.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/100493/000010049325000007/0000100493-25-000007-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-11-12",
+   "period": "2024-09-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/100493/000010049324000119/tsn-20240928.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/100493/000010049324000119/0000100493-24-000119-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-05",
+   "period": "2024-06-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/100493/000010049324000103/tsn-20240629.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/100493/000010049324000103/0000100493-24-000103-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-05-06",
+   "period": "2024-03-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/100493/000010049324000069/tsn-20240330.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/100493/000010049324000069/0000100493-24-000069-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-11-13",
+   "period": "2023-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/100493/000010049323000105/tsn-20230930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/100493/000010049323000105/0000100493-23-000105-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-11-14",
+   "period": "2022-10-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/100493/000010049322000097/tsn-20221001.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/100493/000010049322000097/0000100493-22-000097-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2021-11-15",
+   "period": "2021-10-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/100493/000010049321000122/tsn-20211002.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/100493/000010049321000122/0000100493-21-000122-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

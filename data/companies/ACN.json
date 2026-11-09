@@ -1,0 +1,209 @@
+{
+ "ticker": "ACN",
+ "name": "Accenture",
+ "cik": 1467373,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "08-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfGoodsAndServicesSold)",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2024-09-01",
+   "period_end": "2024-11-30",
+   "revenue": 17689545000,
+   "gross_profit": 5822829000,
+   "operating_income": 2948477000,
+   "eps_diluted": 3.59,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2024-12-01",
+   "period_end": "2025-02-28",
+   "revenue": 16659301000,
+   "gross_profit": 4974988000,
+   "operating_income": 2244714000,
+   "eps_diluted": 2.82,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-03-01",
+   "period_end": "2025-05-31",
+   "revenue": 17727871000,
+   "gross_profit": 5826650000,
+   "operating_income": 2982782000,
+   "eps_diluted": 3.49,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-06-01",
+   "period_end": "2025-08-31",
+   "revenue": 17596260000,
+   "gross_profit": 5610934000,
+   "operating_income": 2049691000,
+   "eps_diluted": 2.25,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-09-01",
+   "period_end": "2025-11-30",
+   "revenue": 18742125000,
+   "gross_profit": 6197118000,
+   "operating_income": 2873698000,
+   "eps_diluted": 3.54,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-12-01",
+   "period_end": "2026-02-28",
+   "revenue": 18044066000,
+   "gross_profit": 5459361000,
+   "operating_income": 2493547000,
+   "eps_diluted": 2.93,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-03-01",
+   "period_end": "2026-05-31",
+   "revenue": 18718144000,
+   "gross_profit": 6134335000,
+   "operating_income": 3175298000,
+   "eps_diluted": 3.8,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2026-06-01",
+   "period_end": "2026-08-31",
+   "revenue": 18679110000,
+   "gross_profit": 5984784000,
+   "operating_income": 2863417000,
+   "eps_diluted": 3.29,
+   "derived": [
+    "gross_profit"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-K",
+   "filed": "2026-10-16",
+   "period": "2026-08-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737326000049/acn-20260831.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737326000049/0001467373-26-000049-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-06-18",
+   "period": "2026-05-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737326000032/acn-20260531.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737326000032/0001467373-26-000032-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-03-19",
+   "period": "2026-02-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737326000014/acn-20260228.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737326000014/0001467373-26-000014-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-12-18",
+   "period": "2025-11-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737325000222/acn-20251130.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737325000222/0001467373-25-000222-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-10-10",
+   "period": "2025-08-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737325000217/acn-20250831.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737325000217/0001467373-25-000217-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-06-20",
+   "period": "2025-05-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737325000169/acn-20250531.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737325000169/0001467373-25-000169-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-03-20",
+   "period": "2025-02-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737325000100/acn-20250228.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737325000100/0001467373-25-000100-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-12-19",
+   "period": "2024-11-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737324000352/acn-20241130.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737324000352/0001467373-24-000352-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-10-10",
+   "period": "2024-08-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737324000278/acn-20240831.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737324000278/0001467373-24-000278-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-06-20",
+   "period": "2024-05-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737324000196/acn-20240531.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737324000196/0001467373-24-000196-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-03-21",
+   "period": "2024-02-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737324000108/acn-20240229.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737324000108/0001467373-24-000108-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-10-12",
+   "period": "2023-08-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737323000324/acn-20230831.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737323000324/0001467373-23-000324-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-10-12",
+   "period": "2022-08-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737322000295/acn-20220831.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737322000295/0001467373-22-000295-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

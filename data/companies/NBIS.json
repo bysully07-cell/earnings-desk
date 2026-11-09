@@ -1,0 +1,58 @@
+{
+ "ticker": "NBIS",
+ "name": "Nebius Group",
+ "cik": 1513845,
+ "indexes": [
+  "NDX"
+ ],
+ "fiscal_year_end": null,
+ "sources": {},
+ "quarters": [],
+ "filings": [
+  {
+   "form": "20-F/A",
+   "filed": "2026-05-22",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926065681/nbis-20251231x20fa.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926065681/0001104659-26-065681-index.htm"
+  },
+  {
+   "form": "20-F",
+   "filed": "2026-04-30",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926052948/nbis-20251231x20f.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926052948/0001104659-26-052948-index.htm"
+  },
+  {
+   "form": "20-F",
+   "filed": "2025-04-30",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1513845/000155837025005991/nbis-20241231x20f.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1513845/000155837025005991/0001558370-25-005991-index.htm"
+  },
+  {
+   "form": "20-F",
+   "filed": "2024-04-26",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1513845/000155837024005891/yndx-20231231x20f.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1513845/000155837024005891/0001558370-24-005891-index.htm"
+  },
+  {
+   "form": "20-F",
+   "filed": "2023-04-20",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1513845/000155837023006319/yndx-20221231x20f.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1513845/000155837023006319/0001558370-23-006319-index.htm"
+  },
+  {
+   "form": "20-F",
+   "filed": "2022-04-20",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1513845/000155837022005654/yndx-20211231x20f.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1513845/000155837022005654/0001558370-22-005654-index.htm"
+  }
+ ],
+ "note": "no US-GAAP quarterly revenue (foreign filer or non-standard tags)",
+ "earnings": [],
+ "earnings_checked": null
+}

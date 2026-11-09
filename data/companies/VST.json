@@ -1,0 +1,201 @@
+{
+ "ticker": "VST",
+ "name": "Vistra Corp.",
+ "cik": 1692819,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q3",
+   "period_start": "2024-07-01",
+   "period_end": "2024-09-30",
+   "revenue": 6288000000,
+   "gross_profit": null,
+   "operating_income": 2588000000,
+   "eps_diluted": 5.25,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 4037000000,
+   "gross_profit": null,
+   "operating_income": 599000000,
+   "eps_diluted": 1.24,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 3933000000,
+   "gross_profit": null,
+   "operating_income": -120000000,
+   "eps_diluted": -0.93,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 4250000000,
+   "gross_profit": null,
+   "operating_income": 515000000,
+   "eps_diluted": 0.81,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 4971000000,
+   "gross_profit": null,
+   "operating_income": 1037000000,
+   "eps_diluted": 1.75,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 4584000000,
+   "gross_profit": null,
+   "operating_income": 474000000,
+   "eps_diluted": 0.66,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 5640000000,
+   "gross_profit": null,
+   "operating_income": 1499000000,
+   "eps_diluted": 2.87,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 4017000000,
+   "gross_profit": null,
+   "operating_income": 553000000,
+   "eps_diluted": 0.76,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-08-10",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000019/vistra-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000019/0001692819-26-000019-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-08",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000014/vistra-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000014/0001692819-26-000014-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-27",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000006/vistra-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000006/0001692819-26-000006-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-07",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281925000094/vistra-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281925000094/0001692819-25-000094-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-08",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281925000085/vistra-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281925000085/0001692819-25-000085-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-08",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281925000035/vistra-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281925000035/0001692819-25-000035-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-28",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281925000013/vistra-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281925000013/0001692819-25-000013-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-08",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281924000069/vistra-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281924000069/0001692819-24-000069-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-09",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281924000061/vistra-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281924000061/0001692819-24-000061-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-05-10",
+   "period": "2024-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281924000033/vistra-20240331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281924000033/0001692819-24-000033-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-29",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281924000012/vistra-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281924000012/0001692819-24-000012-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-03-01",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281923000005/vistra-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281923000005/0001692819-23-000005-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-25",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281922000005/vistra-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281922000005/0001692819-22-000005-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

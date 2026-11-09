@@ -1,0 +1,203 @@
+{
+ "ticker": "ANET",
+ "name": "Arista Networks",
+ "cik": 1596532,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 1930400000,
+   "gross_profit": 1231000000,
+   "operating_income": 799500000,
+   "eps_diluted": 0.62,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 2004800000,
+   "gross_profit": 1276100000,
+   "operating_income": 858800000,
+   "eps_diluted": 0.64,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 2204800000,
+   "gross_profit": 1438600000,
+   "operating_income": 986200000,
+   "eps_diluted": 0.7,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 2308300000,
+   "gross_profit": 1490200000,
+   "operating_income": 978200000,
+   "eps_diluted": 0.67,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 2487800000,
+   "gross_profit": 1563800000,
+   "operating_income": 1032900000,
+   "eps_diluted": 0.75,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 2709000000,
+   "gross_profit": 1676800000,
+   "operating_income": 1157800000,
+   "eps_diluted": 0.8,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 3035700000,
+   "gross_profit": 1910300000,
+   "operating_income": 1378000000,
+   "eps_diluted": 0.95,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 3657600000,
+   "gross_profit": 2325700000,
+   "operating_income": 1642400000,
+   "eps_diluted": 1.22,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-04",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653226000254/anet-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653226000254/0001596532-26-000254-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-05",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653226000175/anet-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653226000175/0001596532-26-000175-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-06",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653226000078/anet-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653226000078/0001596532-26-000078-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-17",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653226000013/anet-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653226000013/0001596532-26-000013-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-05",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653225000286/anet-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653225000286/0001596532-25-000286-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-06",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653225000216/anet-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653225000216/0001596532-25-000216-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-07",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653225000106/anet-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653225000106/0001596532-25-000106-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-19",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653225000028/anet-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653225000028/0001596532-25-000028-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-08",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653224000368/anet-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653224000368/0001596532-24-000368-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-31",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653224000279/anet-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653224000279/0001596532-24-000279-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-13",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653224000043/anet-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653224000043/0001596532-24-000043-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-14",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653223000016/anet-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653223000016/0001596532-23-000016-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-15",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653222000026/anet-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653222000026/0001596532-22-000026-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

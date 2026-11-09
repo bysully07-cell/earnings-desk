@@ -1,0 +1,203 @@
+{
+ "ticker": "OKTA",
+ "name": "Okta, Inc.",
+ "cik": 1660134,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "01-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2024-08-01",
+   "period_end": "2024-10-31",
+   "revenue": 665000000,
+   "gross_profit": 508000000,
+   "operating_income": -16000000,
+   "eps_diluted": 0,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2024-11-01",
+   "period_end": "2025-01-31",
+   "revenue": 682000000,
+   "gross_profit": 524000000,
+   "operating_income": 8000000,
+   "eps_diluted": 0.12,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-02-01",
+   "period_end": "2025-04-30",
+   "revenue": 688000000,
+   "gross_profit": 533000000,
+   "operating_income": 39000000,
+   "eps_diluted": 0.35,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-05-01",
+   "period_end": "2025-07-31",
+   "revenue": 728000000,
+   "gross_profit": 560000000,
+   "operating_income": 41000000,
+   "eps_diluted": 0.37,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2025-08-01",
+   "period_end": "2025-10-31",
+   "revenue": 742000000,
+   "gross_profit": 572000000,
+   "operating_income": 23000000,
+   "eps_diluted": 0.24,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2025-11-01",
+   "period_end": "2026-01-31",
+   "revenue": 761000000,
+   "gross_profit": 593000000,
+   "operating_income": 46000000,
+   "eps_diluted": 0.36,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2027 Q1",
+   "period_start": "2026-02-01",
+   "period_end": "2026-04-30",
+   "revenue": 765000000,
+   "gross_profit": 595000000,
+   "operating_income": 56000000,
+   "eps_diluted": 0.42,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2027 Q2",
+   "period_start": "2026-05-01",
+   "period_end": "2026-07-31",
+   "revenue": 805000000,
+   "gross_profit": 641000000,
+   "operating_income": 107000000,
+   "eps_diluted": 0.65,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-08-27",
+   "period": "2026-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013426000069/okta-20260731.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013426000069/0001660134-26-000069-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-29",
+   "period": "2026-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013426000051/okta-20260430.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013426000051/0001660134-26-000051-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-03-05",
+   "period": "2026-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013426000020/okta-20260131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013426000020/0001660134-26-000020-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-12-03",
+   "period": "2025-10-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013425000171/okta-20251031.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013425000171/0001660134-25-000171-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-27",
+   "period": "2025-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013425000157/okta-20250731.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013425000157/0001660134-25-000157-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-28",
+   "period": "2025-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013425000093/okta-20250430.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013425000093/0001660134-25-000093-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-03-05",
+   "period": "2025-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013425000049/okta-20250131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013425000049/0001660134-25-000049-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-12-04",
+   "period": "2024-10-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013424000168/okta-20241031.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013424000168/0001660134-24-000168-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-29",
+   "period": "2024-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013424000138/okta-20240731.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013424000138/0001660134-24-000138-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-05-30",
+   "period": "2024-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013424000088/okta-20240430.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013424000088/0001660134-24-000088-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-03-01",
+   "period": "2024-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013424000025/okta-20240131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013424000025/0001660134-24-000025-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-03-03",
+   "period": "2023-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013423000013/okta-20230131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013423000013/0001660134-23-000013-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-03-07",
+   "period": "2022-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013422000010/okta-20220131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013422000010/0001660134-22-000010-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

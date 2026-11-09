@@ -1,0 +1,216 @@
+{
+ "ticker": "MRNA",
+ "name": "Moderna",
+ "cik": 1682852,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfGoodsAndServicesSold)",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 966000000,
+   "gross_profit": 227000000,
+   "operating_income": -1246000000,
+   "eps_diluted": -3.02,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 108000000,
+   "gross_profit": 18000000,
+   "operating_income": -1050000000,
+   "eps_diluted": -2.52,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 142000000,
+   "gross_profit": 23000000,
+   "operating_income": -907000000,
+   "eps_diluted": -2.13,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 1016000000,
+   "gross_profit": 809000000,
+   "operating_income": -260000000,
+   "eps_diluted": -0.51,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 678000000,
+   "gross_profit": 226000000,
+   "operating_income": -857000000,
+   "eps_diluted": -2.11,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 389000000,
+   "gross_profit": -566000000,
+   "operating_income": -1388000000,
+   "eps_diluted": -3.4,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 145000000,
+   "gross_profit": 52000000,
+   "operating_income": -815000000,
+   "eps_diluted": -1.97,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 1313000000,
+   "gross_profit": 995000000,
+   "operating_income": 130000000,
+   "eps_diluted": 0.38,
+   "derived": [
+    "gross_profit"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-06",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000197/mrna-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000197/0001682852-26-000197-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-31",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000150/mrna-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000150/0001682852-26-000150-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-01",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000060/mrna-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000060/0001682852-26-000060-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-20",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000033/mrna-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000033/0001682852-26-000033-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-06",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285225000075/mrna-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285225000075/0001682852-25-000075-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-01",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285225000044/mrna-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285225000044/0001682852-25-000044-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-01",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285225000034/mrna-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285225000034/0001682852-25-000034-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-21",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285225000022/mrna-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285225000022/0001682852-25-000022-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-07",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285224000060/mrna-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285224000060/0001682852-24-000060-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-01",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285224000046/mrna-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285224000046/0001682852-24-000046-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-23",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285224000015/mrna-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285224000015/0001682852-24-000015-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-24",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285223000011/mrna-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285223000011/0001682852-23-000011-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-25",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285222000012/mrna-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285222000012/0001682852-22-000012-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

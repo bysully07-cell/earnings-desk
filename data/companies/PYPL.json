@@ -1,0 +1,202 @@
+{
+ "ticker": "PYPL",
+ "name": "PayPal",
+ "cik": 1633917,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 8366000000,
+   "gross_profit": null,
+   "operating_income": 1441000000,
+   "eps_diluted": 1.11,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 7791000000,
+   "gross_profit": null,
+   "operating_income": 1530000000,
+   "eps_diluted": 1.29,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 8288000000,
+   "gross_profit": null,
+   "operating_income": 1504000000,
+   "eps_diluted": 1.29,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 8417000000,
+   "gross_profit": null,
+   "operating_income": 1520000000,
+   "eps_diluted": 1.3,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 8676000000,
+   "gross_profit": null,
+   "operating_income": 1511000000,
+   "eps_diluted": 1.54,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 8353000000,
+   "gross_profit": null,
+   "operating_income": 1488000000,
+   "eps_diluted": 1.21,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 8682000000,
+   "gross_profit": null,
+   "operating_income": 1427000000,
+   "eps_diluted": 1.25,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 8584000000,
+   "gross_profit": null,
+   "operating_income": 1402000000,
+   "eps_diluted": 1.25,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-27",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000088/pypl-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000088/0001633917-26-000088-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-28",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000082/pypl-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000082/0001633917-26-000082-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-05",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000067/pypl-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000067/0001633917-26-000067-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-03",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000024/pypl-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000024/0001633917-26-000024-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-28",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391725000196/pypl-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391725000196/0001633917-25-000196-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-29",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391725000161/pypl-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391725000161/0001633917-25-000161-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-29",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391725000064/pypl-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391725000064/0001633917-25-000064-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-04",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391725000019/pypl-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391725000019/0001633917-25-000019-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-29",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391724000110/pypl-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391724000110/0001633917-24-000110-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-30",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391724000098/pypl-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391724000098/0001633917-24-000098-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-08",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391724000024/pypl-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391724000024/0001633917-24-000024-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-10",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391723000033/pypl-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391723000033/0001633917-23-000033-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-03",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391722000027/pypl-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391722000027/0001633917-22-000027-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

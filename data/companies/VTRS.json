@@ -1,0 +1,231 @@
+{
+ "ticker": "VTRS",
+ "name": "Viatris",
+ "cik": 1792044,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 3528100000,
+   "gross_profit": 1215000000,
+   "operating_income": -179800000,
+   "eps_diluted": -0.43,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 3254300000,
+   "gross_profit": 1161200000,
+   "operating_income": -2882200000,
+   "eps_diluted": -2.55,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 3582100000,
+   "gross_profit": 1332900000,
+   "operating_income": 233000000,
+   "eps_diluted": 0,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 3759900000,
+   "gross_profit": 1371500000,
+   "operating_income": 178800000,
+   "eps_diluted": -0.11,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 3703600000,
+   "gross_profit": 1147900000,
+   "operating_income": -192700000,
+   "eps_diluted": -0.34,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 3517000000,
+   "gross_profit": 1157200000,
+   "operating_income": -79700000,
+   "eps_diluted": 0.15,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 3756800000,
+   "gross_profit": 1456500000,
+   "operating_income": 6300000,
+   "eps_diluted": -0.1,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 3749500000,
+   "gross_profit": 1438000000,
+   "operating_income": 261500000,
+   "eps_diluted": -0.28,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-05",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1792044/000179204426000057/vtrs-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1792044/000179204426000057/0001792044-26-000057-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-06",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1792044/000179204426000041/vtrs-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1792044/000179204426000041/0001792044-26-000041-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-07",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1792044/000179204426000029/vtrs-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1792044/000179204426000029/0001792044-26-000029-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-26",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1792044/000179204426000013/vtrs-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1792044/000179204426000013/0001792044-26-000013-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-06",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1792044/000179204425000046/vtrs-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1792044/000179204425000046/0001792044-25-000046-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-07",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1792044/000179204425000033/vtrs-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1792044/000179204425000033/0001792044-25-000033-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-08",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1792044/000179204425000018/vtrs-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1792044/000179204425000018/0001792044-25-000018-index.htm"
+  },
+  {
+   "form": "10-K/A",
+   "filed": "2025-04-30",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1792044/000114036125016679/ny20042022x3_10ka.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1792044/000114036125016679/0001140361-25-016679-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-27",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1792044/000179204425000008/vtrs-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1792044/000179204425000008/0001792044-25-000008-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-07",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1792044/000179204424000033/vtrs-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1792044/000179204424000033/0001792044-24-000033-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-08",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1792044/000179204424000025/vtrs-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1792044/000179204424000025/0001792044-24-000025-index.htm"
+  },
+  {
+   "form": "10-K/A",
+   "filed": "2024-04-26",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1792044/000119312524118165/d758146d10ka.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1792044/000119312524118165/0001193125-24-118165-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-28",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1792044/000179204424000008/vtrs-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1792044/000179204424000008/0001792044-24-000008-index.htm"
+  },
+  {
+   "form": "10-K/A",
+   "filed": "2023-04-28",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1792044/000119312523127172/d487324d10ka.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1792044/000119312523127172/0001193125-23-127172-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-27",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1792044/000179204423000008/vtrs-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1792044/000179204423000008/0001792044-23-000008-index.htm"
+  },
+  {
+   "form": "10-K/A",
+   "filed": "2022-04-29",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1792044/000119312522134158/d307200d10ka.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1792044/000119312522134158/0001193125-22-134158-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-28",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1792044/000179204422000010/vtrs-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1792044/000179204422000010/0001792044-22-000010-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

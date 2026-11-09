@@ -1,0 +1,216 @@
+{
+ "ticker": "NFLX",
+ "name": "Netflix",
+ "cik": 1065280,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfRevenue)",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 10246513000,
+   "gross_profit": 4479149000,
+   "operating_income": 2272766000,
+   "eps_diluted": 0.11,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 10542801000,
+   "gross_profit": 5279654000,
+   "operating_income": 3346999000,
+   "eps_diluted": 0.66,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 11079166000,
+   "gross_profit": 5753855000,
+   "operating_income": 3774694000,
+   "eps_diluted": 0.72,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 11510307000,
+   "gross_profit": 5346057000,
+   "operating_income": 3248247000,
+   "eps_diluted": 0.59,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 12050762000,
+   "gross_profit": 5528141000,
+   "operating_income": 2956663000,
+   "eps_diluted": 0.56,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 12249757000,
+   "gross_profit": 6361519000,
+   "operating_income": 3956997000,
+   "eps_diluted": 1.23,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 12559938000,
+   "gross_profit": 6522973000,
+   "operating_income": 4192610000,
+   "eps_diluted": 0.8,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 12874176000,
+   "gross_profit": 6795160000,
+   "operating_income": 4458600000,
+   "eps_diluted": 0.87,
+   "derived": [
+    "gross_profit"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-21",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000291/nflx-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000291/0001065280-26-000291-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-17",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000212/nflx-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000212/0001065280-26-000212-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-17",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000138/nflx-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000138/0001065280-26-000138-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-01-23",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/nflx-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/0001065280-26-000034-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-22",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528025000406/nflx-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528025000406/0001065280-25-000406-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-18",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528025000323/nflx-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528025000323/0001065280-25-000323-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-18",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528025000176/nflx-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528025000176/0001065280-25-000176-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-01-27",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528025000044/nflx-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528025000044/0001065280-25-000044-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-18",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528024000287/nflx-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528024000287/0001065280-24-000287-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-19",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528024000200/nflx-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528024000200/0001065280-24-000200-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-01-26",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528024000030/nflx-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528024000030/0001065280-24-000030-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-01-26",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528023000035/nflx-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528023000035/0001065280-23-000035-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-01-27",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528022000036/nflx-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528022000036/0001065280-22-000036-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

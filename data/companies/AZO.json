@@ -1,0 +1,203 @@
+{
+ "ticker": "AZO",
+ "name": "AutoZone",
+ "cik": 866787,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "08-29",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2024-09-01",
+   "period_end": "2024-11-23",
+   "revenue": 4279641000,
+   "gross_profit": 2268057000,
+   "operating_income": 841149000,
+   "eps_diluted": 32.52,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2024-11-24",
+   "period_end": "2025-02-15",
+   "revenue": 3952012000,
+   "gross_profit": 2128401000,
+   "operating_income": 706767000,
+   "eps_diluted": 28.29,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-02-16",
+   "period_end": "2025-05-10",
+   "revenue": 4464339000,
+   "gross_profit": 2353523000,
+   "operating_income": 866174000,
+   "eps_diluted": 35.36,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-05-11",
+   "period_end": "2025-08-30",
+   "revenue": 6242725000,
+   "gross_profit": 3216493000,
+   "operating_income": 1196066000,
+   "eps_diluted": 48.78,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-08-31",
+   "period_end": "2025-11-22",
+   "revenue": 4628630000,
+   "gross_profit": 2359313000,
+   "operating_income": 784205000,
+   "eps_diluted": 31.04,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-11-23",
+   "period_end": "2026-02-14",
+   "revenue": 4274098000,
+   "gross_profit": 2243358000,
+   "operating_income": 698456000,
+   "eps_diluted": 27.63,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-02-15",
+   "period_end": "2026-05-09",
+   "revenue": 4840950000,
+   "gross_profit": 2524574000,
+   "operating_income": 923756000,
+   "eps_diluted": 38.07,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2026-05-10",
+   "period_end": "2026-08-29",
+   "revenue": 6594877000,
+   "gross_profit": 3517729000,
+   "operating_income": 1316897000,
+   "eps_diluted": 56.33,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-K",
+   "filed": "2026-10-26",
+   "period": "2026-08-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/866787/000110465926118791/azo-20260829x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/866787/000110465926118791/0001104659-26-118791-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-06-12",
+   "period": "2026-05-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/866787/000110465926073525/azo-20260509x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/866787/000110465926073525/0001104659-26-073525-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-03-20",
+   "period": "2026-02-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/866787/000110465926032757/azo-20260214x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/866787/000110465926032757/0001104659-26-032757-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-12-19",
+   "period": "2025-11-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/866787/000110465925123222/azo-20251122x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/866787/000110465925123222/0001104659-25-123222-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-10-27",
+   "period": "2025-08-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/866787/000110465925102611/azo-20250830x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/866787/000110465925102611/0001104659-25-102611-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-06-13",
+   "period": "2025-05-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/866787/000155837025008618/azo-20250510x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/866787/000155837025008618/0001558370-25-008618-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-03-21",
+   "period": "2025-02-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/866787/000155837025003476/azo-20250215x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/866787/000155837025003476/0001558370-25-003476-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-12-20",
+   "period": "2024-11-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/866787/000155837024016435/azo-20241123x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/866787/000155837024016435/0001558370-24-016435-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-10-28",
+   "period": "2024-08-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/866787/000155837024013758/azo-20240831x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/866787/000155837024013758/0001558370-24-013758-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-06-07",
+   "period": "2024-05-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/866787/000155837024009005/azo-20240504x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/866787/000155837024009005/0001558370-24-009005-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-03-15",
+   "period": "2024-02-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/866787/000155837024003413/azo-20240210x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/866787/000155837024003413/0001558370-24-003413-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-10-24",
+   "period": "2023-08-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/866787/000155837023016668/azo-20230826x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/866787/000155837023016668/0001558370-23-016668-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-10-24",
+   "period": "2022-08-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/866787/000155837022015239/azo-20220827x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/866787/000155837022015239/0001558370-22-015239-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

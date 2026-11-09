@@ -1,0 +1,204 @@
+{
+ "ticker": "MPWR",
+ "name": "Monolithic Power Systems",
+ "cik": 1280452,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 621665000,
+   "gross_profit": 344408000,
+   "operating_income": 163307000,
+   "eps_diluted": 25.87,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 637554000,
+   "gross_profit": 353230000,
+   "operating_income": 168759000,
+   "eps_diluted": 2.81,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 664574000,
+   "gross_profit": 366016000,
+   "operating_income": 164758000,
+   "eps_diluted": 2.81,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 737176000,
+   "gross_profit": 406228000,
+   "operating_income": 195183000,
+   "eps_diluted": 3.74,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 751155000,
+   "gross_profit": 414267000,
+   "operating_income": 199936000,
+   "eps_diluted": 3.49,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 804185000,
+   "gross_profit": 445065000,
+   "operating_income": 241152000,
+   "eps_diluted": 3.92,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 980642000,
+   "gross_profit": 541070000,
+   "operating_income": 303894000,
+   "eps_diluted": 5.22,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 1202409000,
+   "gross_profit": 665539000,
+   "operating_income": 357687000,
+   "eps_diluted": 5.51,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-03",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1280452/000162828026069440/mpwr-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1280452/000162828026069440/0001628280-26-069440-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-05",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1280452/000162828026053275/mpwr-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1280452/000162828026053275/0001628280-26-053275-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-04",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1280452/000143774926014647/mpwr20260331_10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1280452/000143774926014647/0001437749-26-014647-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-27",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1280452/000143774926006113/mpwr20251231_10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1280452/000143774926006113/0001437749-26-006113-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-05",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1280452/000143774925033332/mpwr20250930_10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1280452/000143774925033332/0001437749-25-033332-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-04",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1280452/000143774925024602/mpwr20250630_10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1280452/000143774925024602/0001437749-25-024602-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-05",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1280452/000143774925014522/mpwr20250331_10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1280452/000143774925014522/0001437749-25-014522-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-03-03",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1280452/000143774925005903/mpwr20241231_10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1280452/000143774925005903/0001437749-25-005903-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-06",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1280452/000143774924033608/mpwr20240930_10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1280452/000143774924033608/0001437749-24-033608-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-02",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1280452/000143774924024477/mpwr20240630_10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1280452/000143774924024477/0001437749-24-024477-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-29",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1280452/000143774924006133/mpwr20231231_10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1280452/000143774924006133/0001437749-24-006133-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-24",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1280452/000143774923004540/mpwr20221231_10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1280452/000143774923004540/0001437749-23-004540-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-25",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1280452/000143774922004460/mpwr20211231_10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1280452/000143774922004460/0001437749-22-004460-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

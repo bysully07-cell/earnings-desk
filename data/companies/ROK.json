@@ -1,0 +1,202 @@
+{
+ "ticker": "ROK",
+ "name": "Rockwell Automation",
+ "cik": 1024478,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "09-30",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-07-01",
+   "period_end": "2024-09-30",
+   "revenue": 2035000000,
+   "gross_profit": 1428000000,
+   "operating_income": null,
+   "eps_diluted": 2.11,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 1881000000,
+   "gross_profit": 878000000,
+   "operating_income": 321000000,
+   "eps_diluted": 1.61,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 2001000000,
+   "gross_profit": 972000000,
+   "operating_income": 408000000,
+   "eps_diluted": 2.22,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 2144000000,
+   "gross_profit": 1046000000,
+   "operating_income": 454000000,
+   "eps_diluted": 2.6,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 2316000000,
+   "gross_profit": 1120000000,
+   "operating_income": 520000000,
+   "eps_diluted": 1.23,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 2105000000,
+   "gross_profit": 1016000000,
+   "operating_income": 435000000,
+   "eps_diluted": 2.69,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 2239000000,
+   "gross_profit": 1125000000,
+   "operating_income": 530000000,
+   "eps_diluted": 3.1,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 2313000000,
+   "gross_profit": 1144000000,
+   "operating_income": 550000000,
+   "eps_diluted": 3.65,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-08-04",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1024478/000102447826000030/rok-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1024478/000102447826000030/0001024478-26-000030-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-05",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1024478/000102447826000022/rok-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1024478/000102447826000022/0001024478-26-000022-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-02-05",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1024478/000102447826000005/rok-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1024478/000102447826000005/0001024478-26-000005-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-11-12",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1024478/000102447825000116/rok-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1024478/000102447825000116/0001024478-25-000116-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-06",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1024478/000102447825000083/rok-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1024478/000102447825000083/0001024478-25-000083-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-07",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1024478/000102447825000035/rok-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1024478/000102447825000035/0001024478-25-000035-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-02-10",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1024478/000102447825000010/rok-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1024478/000102447825000010/0001024478-25-000010-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-11-12",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1024478/000102447824000107/rok-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1024478/000102447824000107/0001024478-24-000107-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-07",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1024478/000102447824000088/rok-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1024478/000102447824000088/0001024478-24-000088-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-05-07",
+   "period": "2024-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1024478/000102447824000052/rok-20240331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1024478/000102447824000052/0001024478-24-000052-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-11-08",
+   "period": "2023-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1024478/000102447823000126/rok-20230930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1024478/000102447823000126/0001024478-23-000126-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-11-08",
+   "period": "2022-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1024478/000102447822000093/rok-20220930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1024478/000102447822000093/0001024478-22-000093-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2021-11-09",
+   "period": "2021-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1024478/000102447821000083/rok-20210930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1024478/000102447821000083/0001024478-21-000083-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

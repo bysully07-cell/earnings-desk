@@ -1,0 +1,201 @@
+{
+ "ticker": "HII",
+ "name": "Huntington Ingalls Industries",
+ "cik": 1501585,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 3004000000,
+   "gross_profit": null,
+   "operating_income": 110000000,
+   "eps_diluted": 3.15,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 2734000000,
+   "gross_profit": null,
+   "operating_income": 161000000,
+   "eps_diluted": 3.79,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 3082000000,
+   "gross_profit": null,
+   "operating_income": 163000000,
+   "eps_diluted": 3.86,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 3192000000,
+   "gross_profit": null,
+   "operating_income": 161000000,
+   "eps_diluted": 3.68,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 3476000000,
+   "gross_profit": null,
+   "operating_income": 172000000,
+   "eps_diluted": 4.07,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 3099000000,
+   "gross_profit": null,
+   "operating_income": 155000000,
+   "eps_diluted": 3.79,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 3418000000,
+   "gross_profit": null,
+   "operating_income": 210000000,
+   "eps_diluted": 5.27,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 3537000000,
+   "gross_profit": null,
+   "operating_income": 246000000,
+   "eps_diluted": 5.48,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-29",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1501585/000150158526000056/hii-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1501585/000150158526000056/0001501585-26-000056-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-30",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1501585/000150158526000047/hii-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1501585/000150158526000047/0001501585-26-000047-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-05",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1501585/000150158526000029/hii-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1501585/000150158526000029/0001501585-26-000029-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-05",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1501585/000150158526000006/hii-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1501585/000150158526000006/0001501585-26-000006-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-30",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1501585/000150158525000112/hii-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1501585/000150158525000112/0001501585-25-000112-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-31",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1501585/000150158525000099/hii-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1501585/000150158525000099/0001501585-25-000099-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-01",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1501585/000150158525000037/hii-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1501585/000150158525000037/0001501585-25-000037-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-06",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1501585/000150158525000006/hii-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1501585/000150158525000006/0001501585-25-000006-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-31",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1501585/000150158524000042/hii-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1501585/000150158524000042/0001501585-24-000042-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-01",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1501585/000150158524000036/hii-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1501585/000150158524000036/0001501585-24-000036-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-01",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1501585/000150158524000007/hii-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1501585/000150158524000007/0001501585-24-000007-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-09",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1501585/000150158523000010/hii-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1501585/000150158523000010/0001501585-23-000010-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-10",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1501585/000150158522000007/hii-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1501585/000150158522000007/0001501585-22-000007-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

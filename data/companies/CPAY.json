@@ -1,0 +1,208 @@
+{
+ "ticker": "CPAY",
+ "name": "Corpay",
+ "cik": 1175454,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 1034431000,
+   "gross_profit": null,
+   "operating_income": 488348000,
+   "eps_diluted": 3.44,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 1005667000,
+   "gross_profit": null,
+   "operating_income": 427124000,
+   "eps_diluted": 3.4,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 1102030000,
+   "gross_profit": null,
+   "operating_income": 479390000,
+   "eps_diluted": 3.98,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 1172480000,
+   "gross_profit": null,
+   "operating_income": 523120000,
+   "eps_diluted": 3.91,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 1248226000,
+   "gross_profit": null,
+   "operating_income": 564474000,
+   "eps_diluted": 3.77,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 1260987000,
+   "gross_profit": null,
+   "operating_income": 636165000,
+   "eps_diluted": 5.07,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 1338809000,
+   "gross_profit": null,
+   "operating_income": 472274000,
+   "eps_diluted": 3.7,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 1381931000,
+   "gross_profit": null,
+   "operating_income": 621261000,
+   "eps_diluted": 5.66,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-05",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1175454/000117545426000059/cpay-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1175454/000117545426000059/0001175454-26-000059-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-10",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1175454/000117545426000050/cpay-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1175454/000117545426000050/0001175454-26-000050-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-08",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1175454/000117545426000032/cpay-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1175454/000117545426000032/0001175454-26-000032-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-27",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1175454/000117545426000018/flt-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1175454/000117545426000018/0001175454-26-000018-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-10",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1175454/000117545425000029/cpay-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1175454/000117545425000029/0001175454-25-000029-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-07",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1175454/000117545425000018/cpay-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1175454/000117545425000018/0001175454-25-000018-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-12",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1175454/000162828025024747/cpay-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1175454/000162828025024747/0001628280-25-024747-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-27",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1175454/000162828025008746/flt-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1175454/000162828025008746/0001628280-25-008746-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-08",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1175454/000162828024046515/cpay-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1175454/000162828024046515/0001628280-24-046515-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-09",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1175454/000162828024036429/cpay-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1175454/000162828024036429/0001628280-24-036429-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-29",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1175454/000162828024008060/flt-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1175454/000162828024008060/0001628280-24-008060-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-28",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1175454/000162828023005444/flt-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1175454/000162828023005444/0001628280-23-005444-index.htm"
+  },
+  {
+   "form": "10-K/A",
+   "filed": "2022-05-02",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1175454/000162828022011785/flt-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1175454/000162828022011785/0001628280-22-011785-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-03-01",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1175454/000162828022004531/flt-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1175454/000162828022004531/0001628280-22-004531-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

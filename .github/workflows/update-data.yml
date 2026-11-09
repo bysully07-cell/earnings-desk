@@ -1,29 +1,25 @@
-name: Update data and deploy site
+name: Update fundamentals (daily)
 
+# SEC bulk data + Finnhub EPS surprises, logos and share counts.
 on:
   schedule:
     # 11:30 UTC Mon-Fri = 6:30am ET in winter, 7:30am ET in summer.
-    # GitHub cron runs in UTC and can start several minutes late at busy times.
     - cron: "30 11 * * 1-5"
-  workflow_dispatch: {}   # adds a "Run workflow" button for manual refreshes
-  push:
-    branches: [main]      # redeploy when you edit notes.json or index.html
+  workflow_dispatch: {}
 
 permissions:
-  contents: write         # push the updated data.json
-  pages: write            # publish to GitHub Pages
-  id-token: write         # lets deploy-pages prove the request came from this repo
+  contents: write
 
+# Shared with the price job: only one data job at a time, so the two never
+# call Finnhub simultaneously (keeps us under 60 requests/minute) or race on git push.
 concurrency:
-  group: update-and-deploy
+  group: data-writes
   cancel-in-progress: false
 
 jobs:
   update:
-    # A push means you changed the site by hand; just redeploy, don't re-fetch.
-    if: github.event_name != 'push'
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
 
@@ -34,64 +30,28 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - name: Fetch from SEC EDGAR
+      - name: Build data files from SEC bulk archives + Finnhub
         env:
-          # Optional: set a repo secret named SEC_USER_AGENT to override the default in fetch_data.py
           SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
-          # Used for company logos (Finnhub /stock/profile2)
           FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
         run: |
           if [ -z "$SEC_USER_AGENT" ]; then unset SEC_USER_AGENT; fi
           python fetch_data.py
 
-      - name: Commit data.json if it changed
+      - name: Commit data/ if it changed
         run: |
-          # generated_at changes every run, so compare everything except that line
-          if git diff --quiet -I '"generated_at"' -- data.json; then
-            echo "No new filings; nothing to commit."
-            git checkout -- data.json
-            exit 0
-          fi
+          git add data
+          if git diff --cached --quiet; then echo "No changes."; exit 0; fi
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data.json
-          git commit -m "Update earnings data $(date -u +%Y-%m-%d)"
+          git commit -m "Update fundamentals $(date -u +%Y-%m-%d)"
+          git pull --rebase origin main
           git push
 
   deploy:
     needs: update
-    # Run after a successful update, or on a push (when update is skipped).
-    # If the SEC fetch fails, skip deploying so the live site keeps its last good data.
-    if: ${{ !cancelled() && (needs.update.result == 'success' || needs.update.result == 'skipped') }}
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          # Check out the branch tip, not the commit that started this run,
-          # so the deploy includes the data.json the update job just pushed.
-          ref: ${{ github.event.repository.default_branch }}
-
-      - name: Collect only the files the site needs
-        run: |
-          mkdir _site
-          cp index.html data.json notes.json _site/
-
-      - name: Write config.js from the FINNHUB_API_KEY secret
-        env:
-          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
-        run: |
-          # The key ends up in the public page either way (the browser has to send it),
-          # but keeping it in a secret keeps it out of git history and makes rotating it a one-step change.
-          python3 -c 'import json, os; print("window.EARNINGS_DESK_CONFIG = " + json.dumps({"finnhubKey": os.environ.get("FINNHUB_API_KEY", "")}) + ";")' > _site/config.js
-
-      - uses: actions/configure-pages@v5
-
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: _site
-
-      - id: deployment
-        uses: actions/deploy-pages@v4
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/deploy.yml

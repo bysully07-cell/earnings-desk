@@ -1,0 +1,199 @@
+{
+ "ticker": "SLB",
+ "name": "Schlumberger",
+ "cik": 87347,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": null,
+  "operating_income": null,
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 9284000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.77,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 8490000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.58,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 8546000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.74,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 8928000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.5,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 9744000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.54,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 8721000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.5,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 8972000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.52,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 9449000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.49,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-28",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/87347/000119312526435577/slb-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/87347/000119312526435577/0001193125-26-435577-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-29",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/87347/000119312526322595/slb-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/87347/000119312526322595/0001193125-26-322595-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-29",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/87347/000119312526190101/slb-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/87347/000119312526190101/0001193125-26-190101-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-01-23",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/87347/000119312526021017/slb-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/87347/000119312526021017/0001193125-26-021017-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-22",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/87347/000119312525246028/slb-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/87347/000119312525246028/0001193125-25-246028-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-24",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/87347/000095017025098217/slb-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/87347/000095017025098217/0000950170-25-098217-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-25",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/87347/000095017025058413/slb-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/87347/000095017025058413/0000950170-25-058413-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-01-22",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/87347/000095017025007638/slb-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/87347/000095017025007638/0000950170-25-007638-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-23",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/87347/000095017024116535/slb-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/87347/000095017024116535/0000950170-24-116535-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-24",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/87347/000095017024085905/slb-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/87347/000095017024085905/0000950170-24-085905-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-01-24",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/87347/000095017024006884/slb-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/87347/000095017024006884/0000950170-24-006884-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-01-25",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/87347/000156459023000762/slb-10k_20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/87347/000156459023000762/0001564590-23-000762-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-01-26",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/87347/000156459022002421/slb-10k_20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/87347/000156459022002421/0001564590-22-002421-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

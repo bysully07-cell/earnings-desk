@@ -1,0 +1,203 @@
+{
+ "ticker": "MSI",
+ "name": "Motorola Solutions",
+ "cik": 68505,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-09-29",
+   "period_end": "2024-12-31",
+   "revenue": 3010000000,
+   "gross_profit": 1548000000,
+   "operating_income": 814000000,
+   "eps_diluted": 3.48,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-29",
+   "revenue": 2528000000,
+   "gross_profit": 1300000000,
+   "operating_income": 582000000,
+   "eps_diluted": 2.53,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-03-30",
+   "period_end": "2025-06-28",
+   "revenue": 2765000000,
+   "gross_profit": 1413000000,
+   "operating_income": 692000000,
+   "eps_diluted": 3.04,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-06-29",
+   "period_end": "2025-09-27",
+   "revenue": 3009000000,
+   "gross_profit": 1554000000,
+   "operating_income": 770000000,
+   "eps_diluted": 3.33,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-09-28",
+   "period_end": "2025-12-31",
+   "revenue": 3380000000,
+   "gross_profit": 1768000000,
+   "operating_income": 944000000,
+   "eps_diluted": 3.85,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-04-04",
+   "revenue": 2714000000,
+   "gross_profit": 1362000000,
+   "operating_income": 525000000,
+   "eps_diluted": 2.18,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-05",
+   "period_end": "2026-07-04",
+   "revenue": 3133000000,
+   "gross_profit": 1678000000,
+   "operating_income": 809000000,
+   "eps_diluted": 3.33,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-05",
+   "period_end": "2026-10-03",
+   "revenue": 3376000000,
+   "gross_profit": 1768000000,
+   "operating_income": 777000000,
+   "eps_diluted": 3.06,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-04",
+   "period": "2026-10-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/68505/000006850526000044/msi-20261003.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/68505/000006850526000044/0000068505-26-000044-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-05",
+   "period": "2026-07-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/68505/000006850526000028/msi-20260704.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/68505/000006850526000028/0000068505-26-000028-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-07",
+   "period": "2026-04-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/68505/000006850526000021/msi-20260404.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/68505/000006850526000021/0000068505-26-000021-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-12",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/68505/000006850526000010/msi-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/68505/000006850526000010/0000068505-26-000010-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-30",
+   "period": "2025-09-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/68505/000006850525000052/msi-20250927.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/68505/000006850525000052/0000068505-25-000052-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-07",
+   "period": "2025-06-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/68505/000006850525000040/msi-20250628.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/68505/000006850525000040/0000068505-25-000040-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-01",
+   "period": "2025-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/68505/000006850525000024/msi-20250329.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/68505/000006850525000024/0000068505-25-000024-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-14",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/68505/000006850525000012/msi-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/68505/000006850525000012/0000068505-25-000012-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-07",
+   "period": "2024-09-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/68505/000006850524000034/msi-20240928.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/68505/000006850524000034/0000068505-24-000034-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-01",
+   "period": "2024-06-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/68505/000006850524000024/msi-20240629.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/68505/000006850524000024/0000068505-24-000024-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-15",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/68505/000006850524000008/msi-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/68505/000006850524000008/0000068505-24-000008-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-16",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/68505/000006850523000015/msi-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/68505/000006850523000015/0000068505-23-000015-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-16",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/68505/000006850522000010/msi-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/68505/000006850522000010/0000068505-22-000010-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

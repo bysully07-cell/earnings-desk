@@ -1,0 +1,213 @@
+{
+ "ticker": "BMY",
+ "name": "Bristol Myers Squibb",
+ "cik": 14272,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfGoodsAndServicesSold)",
+  "operating_income": null,
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 12342000000,
+   "gross_profit": 7530000000,
+   "operating_income": null,
+   "eps_diluted": 0.04,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 11201000000,
+   "gross_profit": 8168000000,
+   "operating_income": null,
+   "eps_diluted": 1.2,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 12269000000,
+   "gross_profit": 8897000000,
+   "operating_income": null,
+   "eps_diluted": 0.64,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 12222000000,
+   "gross_profit": 8787000000,
+   "operating_income": null,
+   "eps_diluted": 1.08,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 12502000000,
+   "gross_profit": 8406000000,
+   "operating_income": null,
+   "eps_diluted": 0.53,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 11489000000,
+   "gross_profit": 8068000000,
+   "operating_income": null,
+   "eps_diluted": 1.31,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 12973000000,
+   "gross_profit": 9247000000,
+   "operating_income": null,
+   "eps_diluted": 1.62,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 13069000000,
+   "gross_profit": 8923000000,
+   "operating_income": null,
+   "eps_diluted": 1.05,
+   "derived": [
+    "gross_profit"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-29",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427226000024/bmy-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/14272/000001427226000024/0000014272-26-000024-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-30",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427226000020/bmy-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/14272/000001427226000020/0000014272-26-000020-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-30",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427226000010/bmy-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/14272/000001427226000010/0000014272-26-000010-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-11",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427226000004/bmy-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/14272/000001427226000004/0000014272-26-000004-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-30",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427225000149/bmy-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/14272/000001427225000149/0000014272-25-000149-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-31",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427225000131/bmy-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/14272/000001427225000131/0000014272-25-000131-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-24",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427225000091/bmy-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/14272/000001427225000091/0000014272-25-000091-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-12",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427225000039/bmy-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/14272/000001427225000039/0000014272-25-000039-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-31",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427224000147/bmy-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/14272/000001427224000147/0000014272-24-000147-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-26",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427224000123/bmy-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/14272/000001427224000123/0000014272-24-000123-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-13",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427224000044/bmy-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/14272/000001427224000044/0000014272-24-000044-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-14",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427223000046/bmy-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/14272/000001427223000046/0000014272-23-000046-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-09",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427222000051/bmy-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/14272/000001427222000051/0000014272-22-000051-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

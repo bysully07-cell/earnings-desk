@@ -1,0 +1,213 @@
+{
+ "ticker": "ETN",
+ "name": "Eaton Corporation",
+ "cik": 1551182,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfRevenue)",
+  "operating_income": null,
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 6240000000,
+   "gross_profit": 2429000000,
+   "operating_income": null,
+   "eps_diluted": 2.45,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 6377000000,
+   "gross_profit": 2447000000,
+   "operating_income": null,
+   "eps_diluted": 2.45,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 7028000000,
+   "gross_profit": 2597000000,
+   "operating_income": null,
+   "eps_diluted": 2.51,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 6988000000,
+   "gross_profit": 2675000000,
+   "operating_income": null,
+   "eps_diluted": 2.59,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 7055000000,
+   "gross_profit": 2598000000,
+   "operating_income": null,
+   "eps_diluted": 2.9,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 7451000000,
+   "gross_profit": 2652000000,
+   "operating_income": null,
+   "eps_diluted": 2.22,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 8531000000,
+   "gross_profit": 2855000000,
+   "operating_income": null,
+   "eps_diluted": 2.11,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 8947000000,
+   "gross_profit": 3105000000,
+   "operating_income": null,
+   "eps_diluted": 2.77,
+   "derived": [
+    "gross_profit"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-03",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000040/etn-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000040/0001551182-26-000040-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-31",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000030/etn-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000030/0001551182-26-000030-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-05",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000013/etn-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000013/0001551182-26-000013-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-26",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000007/etn-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000007/0001551182-26-000007-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-04",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000036/etn-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000036/0001551182-25-000036-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-05",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000028/etn-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000028/0001551182-25-000028-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-02",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000014/etn-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000014/0001551182-25-000014-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-27",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000006/etn-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000006/0001551182-25-000006-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-31",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118224000041/etn-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118224000041/0001551182-24-000041-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-01",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118224000035/etn-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118224000035/0001551182-24-000035-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-29",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118224000006/etn-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118224000006/0001551182-24-000006-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-23",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118223000004/etn-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118223000004/0001551182-23-000004-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-23",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118222000004/etn-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118222000004/0001551182-22-000004-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

@@ -1,0 +1,182 @@
+{
+ "ticker": "SW",
+ "name": "Smurfit Westrock",
+ "cik": 2005951,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 7539000000,
+   "gross_profit": 1442000000,
+   "operating_income": 401000000,
+   "eps_diluted": 0.28,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 7656000000,
+   "gross_profit": 1577000000,
+   "operating_income": 553000000,
+   "eps_diluted": 0.73,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 7940000000,
+   "gross_profit": 1515000000,
+   "operating_income": 251000000,
+   "eps_diluted": -0.05,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 8003000000,
+   "gross_profit": 1569000000,
+   "operating_income": 526000000,
+   "eps_diluted": 0.47,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 7580000000,
+   "gross_profit": 1382000000,
+   "operating_income": 389000000,
+   "eps_diluted": 0.18,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 7712000000,
+   "gross_profit": 1268000000,
+   "operating_income": 253000000,
+   "eps_diluted": 0.12,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 8031000000,
+   "gross_profit": 1399000000,
+   "operating_income": 309000000,
+   "eps_diluted": 0.17,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 8161000000,
+   "gross_profit": 1440000000,
+   "operating_income": 487000000,
+   "eps_diluted": 0.42,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-04",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/2005951/000162828026069766/smur-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2005951/000162828026069766/0001628280-26-069766-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-31",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/2005951/000162828026051195/smur-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2005951/000162828026051195/0001628280-26-051195-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-01",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/2005951/000162828026029089/smur-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2005951/000162828026029089/0001628280-26-029089-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-27",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/2005951/000162828026012555/smur-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2005951/000162828026012555/0001628280-26-012555-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-07",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/2005951/000162828025050408/smur-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2005951/000162828025050408/0001628280-25-050408-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-07",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/2005951/000200595125000014/smur-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2005951/000200595125000014/0002005951-25-000014-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-09",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/2005951/000200595125000009/smur-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2005951/000200595125000009/0002005951-25-000009-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-03-07",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/2005951/000200595125000005/smur-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2005951/000200595125000005/0002005951-25-000005-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-08",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/2005951/000200595124000010/smur-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2005951/000200595124000010/0002005951-24-000010-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-09",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/2005951/000141057824001252/tmb-20240630x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2005951/000141057824001252/0001410578-24-001252-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

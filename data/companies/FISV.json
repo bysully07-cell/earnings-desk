@@ -1,0 +1,201 @@
+{
+ "ticker": "FISV",
+ "name": "Fiserv",
+ "cik": 798354,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 5251000000,
+   "gross_profit": null,
+   "operating_income": 1668000000,
+   "eps_diluted": 1.64,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 5130000000,
+   "gross_profit": null,
+   "operating_income": 1395000000,
+   "eps_diluted": 1.51,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 5516000000,
+   "gross_profit": null,
+   "operating_income": 1696000000,
+   "eps_diluted": 1.86,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 5263000000,
+   "gross_profit": null,
+   "operating_income": 1436000000,
+   "eps_diluted": 1.46,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 5284000000,
+   "gross_profit": null,
+   "operating_income": 1291000000,
+   "eps_diluted": 1.51,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 5027000000,
+   "gross_profit": null,
+   "operating_income": 918000000,
+   "eps_diluted": 1.07,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 5292000000,
+   "gross_profit": null,
+   "operating_income": 1015000000,
+   "eps_diluted": 1.17,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 5196000000,
+   "gross_profit": null,
+   "operating_income": -5494000000,
+   "eps_diluted": -11.17,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-04",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/798354/000079835426000042/fisv-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/798354/000079835426000042/0000798354-26-000042-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-07",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/798354/000079835426000031/fisv-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/798354/000079835426000031/0000798354-26-000031-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-06",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/798354/000079835426000018/fisv-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/798354/000079835426000018/0000798354-26-000018-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-19",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/798354/000079835426000009/fi-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/798354/000079835426000009/0000798354-26-000009-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-30",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/798354/000079835425000171/fisv-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/798354/000079835425000171/0000798354-25-000171-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-24",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/798354/000079835425000163/fisv-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/798354/000079835425000163/0000798354-25-000163-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-25",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/798354/000079835425000104/fisv-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/798354/000079835425000104/0000798354-25-000104-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-20",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/798354/000079835425000047/fi-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/798354/000079835425000047/0000798354-25-000047-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-23",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/798354/000079835424000190/fisv-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/798354/000079835424000190/0000798354-24-000190-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-25",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/798354/000079835424000156/fisv-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/798354/000079835424000156/0000798354-24-000156-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-22",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/798354/000079835424000037/fi-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/798354/000079835424000037/0000798354-24-000037-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-23",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/798354/000079835423000004/fisv-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/798354/000079835423000004/0000798354-23-000004-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-24",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/798354/000079835422000004/fisv-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/798354/000079835422000004/0000798354-22-000004-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

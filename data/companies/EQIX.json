@@ -1,0 +1,222 @@
+{
+ "ticker": "EQIX",
+ "name": "Equinix",
+ "cik": 1101239,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfRevenue)",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 2261000000,
+   "gross_profit": 1065000000,
+   "operating_income": 103000000,
+   "eps_diluted": -0.14,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 2225000000,
+   "gross_profit": 1141000000,
+   "operating_income": 458000000,
+   "eps_diluted": 3.5,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 2256000000,
+   "gross_profit": 1172000000,
+   "operating_income": 494000000,
+   "eps_diluted": 3.75,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 2316000000,
+   "gross_profit": 1174000000,
+   "operating_income": 474000000,
+   "eps_diluted": 3.81,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 2420000000,
+   "gross_profit": 1222000000,
+   "operating_income": 422000000,
+   "eps_diluted": 2.69,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 2444000000,
+   "gross_profit": 1258000000,
+   "operating_income": 577000000,
+   "eps_diluted": 4.2,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 2625000000,
+   "gross_profit": 1395000000,
+   "operating_income": 665000000,
+   "eps_diluted": 4.83,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 2571000000,
+   "gross_profit": 1314000000,
+   "operating_income": 600000000,
+   "eps_diluted": 4.93,
+   "derived": [
+    "gross_profit"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-28",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000180/eqix-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000180/0001101239-26-000180-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-29",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000147/eqix-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000147/0001101239-26-000147-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-29",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000091/eqix-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000091/0001101239-26-000091-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-11",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000032/eqix-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000032/0001101239-26-000032-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-29",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123925000062/eqix-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123925000062/0001101239-25-000062-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-30",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123925000029/eqix-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123925000029/0001101239-25-000029-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-30",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1101239/000162828025021086/eqix-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1101239/000162828025021086/0001628280-25-021086-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-12",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1101239/000162828025005126/eqix-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1101239/000162828025005126/0001628280-25-005126-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-30",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1101239/000162828024044355/eqix-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1101239/000162828024044355/0001628280-24-044355-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-07",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1101239/000162828024035638/eqix-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1101239/000162828024035638/0001628280-24-035638-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-16",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1101239/000162828024005350/eqix-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1101239/000162828024005350/0001628280-24-005350-index.htm"
+  },
+  {
+   "form": "10-K/A",
+   "filed": "2023-02-27",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1101239/000162828023005277/eqix-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1101239/000162828023005277/0001628280-23-005277-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-17",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1101239/000162828023004039/eqix-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1101239/000162828023004039/0001628280-23-004039-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-18",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1101239/000162828022003171/eqix-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1101239/000162828022003171/0001628280-22-003171-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

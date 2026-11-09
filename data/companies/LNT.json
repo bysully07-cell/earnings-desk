@@ -1,0 +1,215 @@
+{
+ "ticker": "LNT",
+ "name": "Alliant Energy",
+ "cik": 352541,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfGoodsAndServicesSold)",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q2",
+   "period_start": "2024-04-01",
+   "period_end": "2024-06-30",
+   "revenue": 894000000,
+   "gross_profit": 747000000,
+   "operating_income": 130000000,
+   "eps_diluted": 0.34,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2024 Q3",
+   "period_start": "2024-07-01",
+   "period_end": "2024-09-30",
+   "revenue": 1081000000,
+   "gross_profit": 916000000,
+   "operating_income": 313000000,
+   "eps_diluted": 1.15,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 975000000,
+   "gross_profit": 826000000,
+   "operating_income": 221000000,
+   "eps_diluted": 0.58,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 1128000000,
+   "gross_profit": 970000000,
+   "operating_income": 257000000,
+   "eps_diluted": 0.83,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 961000000,
+   "gross_profit": 810000000,
+   "operating_income": 223000000,
+   "eps_diluted": 0.68,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 1210000000,
+   "gross_profit": 1044000000,
+   "operating_income": 349000000,
+   "eps_diluted": 1.09,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 1063000000,
+   "gross_profit": 913000000,
+   "operating_income": 196000000,
+   "eps_diluted": 0.54,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 1184000000,
+   "gross_profit": 1025000000,
+   "operating_income": 249000000,
+   "eps_diluted": 0.87,
+   "derived": [
+    "gross_profit"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-30",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/352541/000035254126000047/lnt-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/352541/000035254126000047/0000352541-26-000047-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-31",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/352541/000035254126000043/lnt-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/352541/000035254126000043/0000352541-26-000043-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-01",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/352541/000035254126000033/lnt-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/352541/000035254126000033/0000352541-26-000033-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-20",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/352541/000035254126000007/lnt-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/352541/000035254126000007/0000352541-26-000007-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-07",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/352541/000035254125000081/lnt-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/352541/000035254125000081/0000352541-25-000081-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-08",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/352541/000035254125000072/lnt-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/352541/000035254125000072/0000352541-25-000072-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-09",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/352541/000035254125000053/lnt-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/352541/000035254125000053/0000352541-25-000053-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-21",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/352541/000035254125000014/lnt-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/352541/000035254125000014/0000352541-25-000014-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-01",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/352541/000035254124000104/lnt-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/352541/000035254124000104/0000352541-24-000104-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-02",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/352541/000035254124000089/lnt-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/352541/000035254124000089/0000352541-24-000089-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-16",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/352541/000035254124000014/lnt-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/352541/000035254124000014/0000352541-24-000014-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-24",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/352541/000035254123000017/lnt-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/352541/000035254123000017/0000352541-23-000017-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-18",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/352541/000035254122000020/lnt-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/352541/000035254122000020/0000352541-22-000020-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

@@ -1,0 +1,163 @@
+{
+ "ticker": "Q",
+ "name": "Qnity Electronics",
+ "cik": 2058873,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfGoodsAndServicesSold)",
+  "operating_income": "derived: pre-tax income - non-operating income",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q3",
+   "period_start": "2024-07-01",
+   "period_end": "2024-09-30",
+   "revenue": 1148000000,
+   "gross_profit": 539000000,
+   "operating_income": 251000000,
+   "eps_diluted": 0.95,
+   "derived": [
+    "gross_profit",
+    "operating_income"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 1118000000,
+   "gross_profit": 531000000,
+   "operating_income": 244000000,
+   "eps_diluted": 0.92,
+   "derived": [
+    "gross_profit",
+    "operating_income"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 1170000000,
+   "gross_profit": 540000000,
+   "operating_income": 259000000,
+   "eps_diluted": 0.9,
+   "derived": [
+    "gross_profit",
+    "operating_income"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 1276000000,
+   "gross_profit": 575000000,
+   "operating_income": 273000000,
+   "eps_diluted": 1.01,
+   "derived": [
+    "gross_profit",
+    "operating_income"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 1190000000,
+   "gross_profit": 549000000,
+   "operating_income": 175000000,
+   "eps_diluted": 0.47,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 1315000000,
+   "gross_profit": 618000000,
+   "operating_income": 223000000,
+   "eps_diluted": 0.72,
+   "derived": [
+    "gross_profit",
+    "operating_income"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 1429000000,
+   "gross_profit": 666000000,
+   "operating_income": 226000000,
+   "eps_diluted": 0.59,
+   "derived": [
+    "gross_profit",
+    "operating_income"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 1556000000,
+   "gross_profit": 743000000,
+   "operating_income": 286000000,
+   "eps_diluted": 0.87,
+   "derived": [
+    "gross_profit",
+    "operating_income"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-04",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/2058873/000205887326000043/q-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2058873/000205887326000043/0002058873-26-000043-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-04",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/2058873/000205887326000030/q-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2058873/000205887326000030/0002058873-26-000030-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-12",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/2058873/000205887326000015/q-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2058873/000205887326000015/0002058873-26-000015-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-26",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/2058873/000205887326000010/q-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2058873/000205887326000010/0002058873-26-000010-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-18",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/2058873/000205887325000023/q-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2058873/000205887325000023/0002058873-25-000023-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

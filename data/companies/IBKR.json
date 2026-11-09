@@ -1,0 +1,213 @@
+{
+ "ticker": "IBKR",
+ "name": "Interactive Brokers",
+ "cik": 1381197,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": null,
+  "operating_income": null,
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 558000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": -0.71,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 592000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.48,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 578000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.51,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 603000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.59,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 667000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.64,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 699000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.59,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 760000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.69,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 690000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.69,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-05",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119726000163/ibkr-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119726000163/0001381197-26-000163-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-06",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119726000147/ibkr-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119726000147/0001381197-26-000147-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-07",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119726000093/ibkr-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119726000093/0001381197-26-000093-index.htm"
+  },
+  {
+   "form": "10-K/A",
+   "filed": "2026-03-31",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119726000072/ibkr-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119726000072/0001381197-26-000072-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-27",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119726000062/ibkr-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119726000062/0001381197-26-000062-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-05",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119725000158/ibkr-20250930x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119725000158/0001381197-25-000158-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-06",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119725000103/ibkr-20250630x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119725000103/0001381197-25-000103-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-08",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119725000052/ibkr-20250331x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119725000052/0001381197-25-000052-index.htm"
+  },
+  {
+   "form": "10-K/A",
+   "filed": "2025-03-05",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119725000039/ibkr-20241231x10ka.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119725000039/0001381197-25-000039-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-27",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119725000036/ibkr-20241231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119725000036/0001381197-25-000036-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-07",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119724000143/ibkr-20240930x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119724000143/0001381197-24-000143-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-05",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119724000124/ibkr-20240630x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119724000124/0001381197-24-000124-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-27",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119724000083/ibkr-20231231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119724000083/0001381197-24-000083-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-24",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119723000014/ibkr-20221231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119723000014/0001381197-23-000014-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-25",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119722000010/ibkr-20211231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1381197/000138119722000010/0001381197-22-000010-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

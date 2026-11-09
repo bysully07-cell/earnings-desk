@@ -1,0 +1,203 @@
+{
+ "ticker": "LULU",
+ "name": "Lululemon Athletica",
+ "cik": 1397187,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "02-01",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2024-07-29",
+   "period_end": "2024-10-27",
+   "revenue": 2396660000,
+   "gross_profit": 1401606000,
+   "operating_income": 490661000,
+   "eps_diluted": 2.87,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2024-10-28",
+   "period_end": "2025-02-02",
+   "revenue": 3611497000,
+   "gross_profit": 2181952000,
+   "operating_income": 1042168000,
+   "eps_diluted": 6.15,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-02-03",
+   "period_end": "2025-05-04",
+   "revenue": 2370660000,
+   "gross_profit": 1383126000,
+   "operating_income": 438625000,
+   "eps_diluted": 2.6,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-05-05",
+   "period_end": "2025-08-03",
+   "revenue": 2525219000,
+   "gross_profit": 1477202000,
+   "operating_income": 523814000,
+   "eps_diluted": 3.1,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2025-08-04",
+   "period_end": "2025-11-02",
+   "revenue": 2565920000,
+   "gross_profit": 1425916000,
+   "operating_income": 435886000,
+   "eps_diluted": 2.59,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2025-11-03",
+   "period_end": "2026-02-01",
+   "revenue": 3640801000,
+   "gross_profit": 1997888000,
+   "operating_income": 812290000,
+   "eps_diluted": 5.01,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2027 Q1",
+   "period_start": "2026-02-02",
+   "period_end": "2026-05-03",
+   "revenue": 2471603000,
+   "gross_profit": 1338818000,
+   "operating_income": 276946000,
+   "eps_diluted": 1.69,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2027 Q2",
+   "period_start": "2026-05-04",
+   "period_end": "2026-08-02",
+   "revenue": 2415631000,
+   "gross_profit": 1461878000,
+   "operating_income": 453653000,
+   "eps_diluted": 2.92,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-09-03",
+   "period": "2026-08-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1397187/000139718726000127/lulu-20260802.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1397187/000139718726000127/0001397187-26-000127-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-06-04",
+   "period": "2026-05-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/1397187/000139718726000078/lulu-20260503.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1397187/000139718726000078/0001397187-26-000078-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-03-17",
+   "period": "2026-02-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/1397187/000139718726000020/lulu-20260201.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1397187/000139718726000020/0001397187-26-000020-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-12-11",
+   "period": "2025-11-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1397187/000139718725000055/lulu-20251102.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1397187/000139718725000055/0001397187-25-000055-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-09-04",
+   "period": "2025-08-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/1397187/000139718725000039/lulu-20250803.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1397187/000139718725000039/0001397187-25-000039-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-06-05",
+   "period": "2025-05-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/1397187/000139718725000027/lulu-20250504.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1397187/000139718725000027/0001397187-25-000027-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-03-27",
+   "period": "2025-02-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1397187/000139718725000013/lulu-20250202.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1397187/000139718725000013/0001397187-25-000013-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-12-05",
+   "period": "2024-10-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1397187/000139718724000041/lulu-20241027.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1397187/000139718724000041/0001397187-24-000041-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-29",
+   "period": "2024-07-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1397187/000139718724000034/lulu-20240728.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1397187/000139718724000034/0001397187-24-000034-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-06-05",
+   "period": "2024-04-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1397187/000139718724000024/lulu-20240428.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1397187/000139718724000024/0001397187-24-000024-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-03-21",
+   "period": "2024-01-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1397187/000139718724000010/lulu-20240128.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1397187/000139718724000010/0001397187-24-000010-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-03-28",
+   "period": "2023-01-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1397187/000139718723000012/lulu-20230129.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1397187/000139718723000012/0001397187-23-000012-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-03-29",
+   "period": "2022-01-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1397187/000139718722000014/lulu-20220130.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1397187/000139718722000014/0001397187-22-000014-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

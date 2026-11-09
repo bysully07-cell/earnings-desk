@@ -1,0 +1,197 @@
+{
+ "ticker": "HUBB",
+ "name": "Hubbell Incorporated",
+ "cik": 48898,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 1334300000,
+   "gross_profit": 452200000,
+   "operating_income": 245600000,
+   "eps_diluted": 3.66,
+   "derived": [
+    "operating_income"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 1365200000,
+   "gross_profit": 442600000,
+   "operating_income": 230400000,
+   "eps_diluted": 3.03,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 1484300000,
+   "gross_profit": 552100000,
+   "operating_income": 336300000,
+   "eps_diluted": 4.56,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 1502400000,
+   "gross_profit": 544300000,
+   "operating_income": 330600000,
+   "eps_diluted": 4.77,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 1492700000,
+   "gross_profit": 525100000,
+   "operating_income": 311500000,
+   "eps_diluted": 4.19,
+   "derived": [
+    "operating_income"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 1516700000,
+   "gross_profit": 505300000,
+   "operating_income": 263800000,
+   "eps_diluted": 3.41,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 1711800000,
+   "gross_profit": 613000000,
+   "operating_income": 348600000,
+   "eps_diluted": 4.52,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 1872500000,
+   "gross_profit": 688200000,
+   "operating_income": 408700000,
+   "eps_diluted": 4.94,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-28",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/48898/000162828026067729/hubb-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/48898/000162828026067729/0001628280-26-067729-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-29",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/48898/000162828026050405/hubb-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/48898/000162828026050405/0001628280-26-050405-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-01",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/48898/000162828026029110/hubb-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/48898/000162828026029110/0001628280-26-029110-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-12",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/48898/000162828026007500/hubb-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/48898/000162828026007500/0001628280-26-007500-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-29",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/48898/000162828025046924/hubb-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/48898/000162828025046924/0001628280-25-046924-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-30",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/48898/000162828025036564/hubb-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/48898/000162828025036564/0001628280-25-036564-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-02",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/48898/000162828025021677/hubb-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/48898/000162828025021677/0001628280-25-021677-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-13",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/48898/000162828025005311/hubb-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/48898/000162828025005311/0001628280-25-005311-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-30",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/48898/000162828024044201/hubb-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/48898/000162828024044201/0001628280-24-044201-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-31",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/48898/000162828024033632/hubb-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/48898/000162828024033632/0001628280-24-033632-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-08",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/48898/000162828024003792/hubb-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/48898/000162828024003792/0001628280-24-003792-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-09",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/48898/000162828023002875/hubb-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/48898/000162828023002875/0001628280-23-002875-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-11",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/48898/000162828022002255/hubb-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/48898/000162828022002255/0001628280-22-002255-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

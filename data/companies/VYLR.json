@@ -1,0 +1,15 @@
+{
+ "ticker": "VYLR",
+ "name": "Vylor",
+ "cik": 2128626,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": null,
+ "sources": {},
+ "quarters": [],
+ "filings": [],
+ "note": "no US-GAAP quarterly revenue (foreign filer or non-standard tags)",
+ "earnings": [],
+ "earnings_checked": null
+}

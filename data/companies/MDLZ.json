@@ -1,0 +1,204 @@
+{
+ "ticker": "MDLZ",
+ "name": "Mondelez International",
+ "cik": 1103982,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 9604000000,
+   "gross_profit": 3711000000,
+   "operating_income": 1611000000,
+   "eps_diluted": 1.3,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 9313000000,
+   "gross_profit": 2430000000,
+   "operating_income": 680000000,
+   "eps_diluted": 0.31,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 8984000000,
+   "gross_profit": 2937000000,
+   "operating_income": 1172000000,
+   "eps_diluted": 0.49,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 9744000000,
+   "gross_profit": 2612000000,
+   "operating_income": 744000000,
+   "eps_diluted": 0.57,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 10496000000,
+   "gross_profit": 2956000000,
+   "operating_income": 952000000,
+   "eps_diluted": 0.51,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 10080000000,
+   "gross_profit": 2803000000,
+   "operating_income": 808000000,
+   "eps_diluted": 0.44,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 9355000000,
+   "gross_profit": 3986000000,
+   "operating_income": 1946000000,
+   "eps_diluted": 1.2,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 9967000000,
+   "gross_profit": 3924000000,
+   "operating_income": 1758000000,
+   "eps_diluted": 1.02,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-29",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1103982/000162828026068256/mdlz-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1103982/000162828026068256/0001628280-26-068256-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-28",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1103982/000162828026050179/mdlz-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1103982/000162828026050179/0001628280-26-050179-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-28",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1103982/000162828026027937/mdlz-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1103982/000162828026027937/0001628280-26-027937-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-04",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1103982/000162828026005345/mdlz-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1103982/000162828026005345/0001628280-26-005345-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-28",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1103982/000162828025046773/mdlz-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1103982/000162828025046773/0001628280-25-046773-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-29",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1103982/000110398225000188/mdlz-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1103982/000110398225000188/0001103982-25-000188-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-29",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1103982/000110398225000127/mdlz-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1103982/000110398225000127/0001103982-25-000127-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-05",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1103982/000110398225000030/mdlz-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1103982/000110398225000030/0001103982-25-000030-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-29",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1103982/000110398224000104/mdlz-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1103982/000110398224000104/0001103982-24-000104-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-30",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1103982/000110398224000092/mdlz-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1103982/000110398224000092/0001103982-24-000092-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-02",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1103982/000110398224000019/mdlz-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1103982/000110398224000019/0001103982-24-000019-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-03",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1103982/000110398223000006/mdlz-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1103982/000110398223000006/0001103982-23-000006-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-04",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1103982/000110398222000003/mdlz-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1103982/000110398222000003/0001103982-22-000003-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

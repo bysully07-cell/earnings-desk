@@ -1,0 +1,201 @@
+{
+ "ticker": "PEG",
+ "name": "Public Service Enterprise Group",
+ "cik": 788784,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q3",
+   "period_start": "2024-07-01",
+   "period_end": "2024-09-30",
+   "revenue": 2642000000,
+   "gross_profit": null,
+   "operating_income": 641000000,
+   "eps_diluted": 1.04,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 2465000000,
+   "gross_profit": null,
+   "operating_income": 445000000,
+   "eps_diluted": 0.57,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 3222000000,
+   "gross_profit": null,
+   "operating_income": 797000000,
+   "eps_diluted": 1.18,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 2805000000,
+   "gross_profit": null,
+   "operating_income": 817000000,
+   "eps_diluted": 1.17,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 3226000000,
+   "gross_profit": null,
+   "operating_income": 855000000,
+   "eps_diluted": 1.24,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 2915000000,
+   "gross_profit": null,
+   "operating_income": 511000000,
+   "eps_diluted": 0.63,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 3848000000,
+   "gross_profit": null,
+   "operating_income": 1075000000,
+   "eps_diluted": 1.48,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 2554000000,
+   "gross_profit": null,
+   "operating_income": 461000000,
+   "eps_diluted": 0.67,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-02",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/788784/000119312526443789/peg-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/788784/000119312526443789/0001193125-26-443789-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-04",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/788784/000119312526332943/peg-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/788784/000119312526332943/0001193125-26-332943-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-05",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/788784/000119312526206545/peg-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/788784/000119312526206545/0001193125-26-206545-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-26",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/788784/000119312526077446/peg-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/788784/000119312526077446/0001193125-26-077446-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-03",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/788784/000119312525262643/peg-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/788784/000119312525262643/0001193125-25-262643-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-05",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/788784/000095017025103096/peg-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/788784/000095017025103096/0000950170-25-103096-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-30",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/788784/000095017025061108/peg-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/788784/000095017025061108/0000950170-25-061108-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-25",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/788784/000095017025026874/peg-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/788784/000095017025026874/0000950170-25-026874-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-04",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/788784/000095017024120749/peg-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/788784/000095017024120749/0000950170-24-120749-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-30",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/788784/000162828024033496/pseg-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/788784/000162828024033496/0001628280-24-033496-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-26",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/788784/000162828024006885/pseg-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/788784/000162828024006885/0001628280-24-006885-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-22",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/788784/000162828023004411/pseg-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/788784/000162828023004411/0001628280-23-004411-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-24",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/788784/000162828022003860/pseg-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/788784/000162828022003860/0001628280-22-003860-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

@@ -1,0 +1,203 @@
+{
+ "ticker": "MSTR",
+ "name": "MicroStrategy",
+ "cik": 1050446,
+ "indexes": [
+  "NDX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 120697000,
+   "gross_profit": 86528000,
+   "operating_income": -1016420000,
+   "eps_diluted": -3.02,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 111066000,
+   "gross_profit": 77095000,
+   "operating_income": -5921412000,
+   "eps_diluted": -16.49,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 114488000,
+   "gross_profit": 78738000,
+   "operating_income": 14031990000,
+   "eps_diluted": 32.6,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 128691000,
+   "gross_profit": 90678000,
+   "operating_income": 3890842000,
+   "eps_diluted": 8.42,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 122988000,
+   "gross_profit": 81305000,
+   "operating_income": -17445805000,
+   "eps_diluted": -53.6,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 124300000,
+   "gross_profit": 83354000,
+   "operating_income": -14470419000,
+   "eps_diluted": -38.25,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 122368000,
+   "gross_profit": 81550000,
+   "operating_income": -8330950000,
+   "eps_diluted": -24.45,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 125427000,
+   "gross_profit": 89634000,
+   "operating_income": 20909792000,
+   "eps_diluted": 44.75,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-02",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000105044626000060/mstr-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1050446/000105044626000060/0001050446-26-000060-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-03",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000105044626000044/mstr-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1050446/000105044626000044/0001050446-26-000044-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-06",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000105044626000031/mstr-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1050446/000105044626000031/0001050446-26-000031-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-19",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000105044626000020/mstr-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1050446/000105044626000020/0001050446-26-000020-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-03",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312525262568/mstr-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312525262568/0001193125-25-262568-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-05",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000095017025102209/mstr-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1050446/000095017025102209/0000950170-25-102209-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-05",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000095017025063536/mstr-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1050446/000095017025063536/0000950170-25-063536-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-18",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000095017025021814/mstr-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1050446/000095017025021814/0000950170-25-021814-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-31",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000095017024119263/mstr-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1050446/000095017024119263/0000950170-24-119263-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-06",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000095017024091778/mstr-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1050446/000095017024091778/0000950170-24-091778-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-15",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000095017024015847/mstr-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1050446/000095017024015847/0000950170-24-015847-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-16",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000156459023002012/mstr-10k_20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1050446/000156459023002012/0001564590-23-002012-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-16",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000156459022005287/mstr-10k_20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1050446/000156459022005287/0001564590-22-005287-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

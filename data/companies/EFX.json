@@ -1,0 +1,201 @@
+{
+ "ticker": "EFX",
+ "name": "Equifax",
+ "cik": 33185,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 1419400000,
+   "gross_profit": null,
+   "operating_income": 288100000,
+   "eps_diluted": 1.39,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 1442000000,
+   "gross_profit": null,
+   "operating_income": 235800000,
+   "eps_diluted": 1.06,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 1537000000,
+   "gross_profit": null,
+   "operating_income": 310800000,
+   "eps_diluted": 1.53,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 1544900000,
+   "gross_profit": null,
+   "operating_income": 264300000,
+   "eps_diluted": 1.29,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 1550600000,
+   "gross_profit": null,
+   "operating_income": 284300000,
+   "eps_diluted": 1.44,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 1648900000,
+   "gross_profit": null,
+   "operating_income": 287700000,
+   "eps_diluted": 1.42,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 1700100000,
+   "gross_profit": null,
+   "operating_income": 314200000,
+   "eps_diluted": 1.54,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 1692500000,
+   "gross_profit": null,
+   "operating_income": 355300000,
+   "eps_diluted": 1.79,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-20",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/33185/000003318526000044/efx-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318526000044/0000033185-26-000044-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-21",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/33185/000003318526000028/efx-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318526000028/0000033185-26-000028-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-21",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/33185/000003318526000018/efx-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318526000018/0000033185-26-000018-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-19",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/33185/000003318526000010/efx-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318526000010/0000033185-26-000010-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-21",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/33185/000003318525000064/efx-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318525000064/0000033185-25-000064-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-22",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/33185/000003318525000054/efx-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318525000054/0000033185-25-000054-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-22",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/33185/000003318525000042/efx-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318525000042/0000033185-25-000042-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-20",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/33185/000003318525000025/efx-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318525000025/0000033185-25-000025-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-21",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/33185/000003318524000063/efx-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318524000063/0000033185-24-000063-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-22",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/33185/000003318524000049/efx-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318524000049/0000033185-24-000049-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-22",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/33185/000003318524000017/efx-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318524000017/0000033185-24-000017-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-23",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/33185/000003318523000012/efx-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318523000012/0000033185-23-000012-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-24",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/33185/000003318522000014/efx-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/33185/000003318522000014/0000033185-22-000014-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

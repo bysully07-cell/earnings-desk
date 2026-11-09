@@ -1,0 +1,215 @@
+{
+ "ticker": "HSY",
+ "name": "The Hershey Company",
+ "cik": 47111,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-09-30",
+   "period_end": "2024-12-31",
+   "revenue": 2887540000,
+   "gross_profit": 1558343000,
+   "operating_income": 939147000,
+   "eps_diluted": null,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-30",
+   "revenue": 2805419000,
+   "gross_profit": 944267000,
+   "operating_income": 369221000,
+   "eps_diluted": null,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-03-31",
+   "period_end": "2025-06-29",
+   "revenue": 2614718000,
+   "gross_profit": 796273000,
+   "operating_income": 192811000,
+   "eps_diluted": null,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-06-30",
+   "period_end": "2025-09-28",
+   "revenue": 3181418000,
+   "gross_profit": 1037334000,
+   "operating_income": 434583000,
+   "eps_diluted": null,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-09-29",
+   "period_end": "2025-12-31",
+   "revenue": 3091021000,
+   "gross_profit": 1144817000,
+   "operating_income": 444913000,
+   "eps_diluted": null,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-29",
+   "revenue": 3104167000,
+   "gross_profit": 1222731000,
+   "operating_income": 640693000,
+   "eps_diluted": null,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-03-30",
+   "period_end": "2026-06-28",
+   "revenue": 2787306000,
+   "gross_profit": 1263308000,
+   "operating_income": 642641000,
+   "eps_diluted": null,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-06-29",
+   "period_end": "2026-09-27",
+   "revenue": 3275510000,
+   "gross_profit": 1511027000,
+   "operating_income": 817653000,
+   "eps_diluted": null,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-29",
+   "period": "2026-09-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/47111/000162828026068136/hsy-20260927.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/47111/000162828026068136/0001628280-26-068136-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-30",
+   "period": "2026-06-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/47111/000162828026050900/hsy-20260628.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/47111/000162828026050900/0001628280-26-050900-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-30",
+   "period": "2026-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/47111/000162828026028682/hsy-20260329.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/47111/000162828026028682/0001628280-26-028682-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-17",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/47111/000162828026008586/hsy-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/47111/000162828026008586/0001628280-26-008586-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-30",
+   "period": "2025-09-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/47111/000162828025047471/hsy-20250928.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/47111/000162828025047471/0001628280-25-047471-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-30",
+   "period": "2025-06-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/47111/000004711125000112/hsy-20250629.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/47111/000004711125000112/0000047111-25-000112-index.htm"
+  },
+  {
+   "form": "10-Q/A",
+   "filed": "2025-07-03",
+   "period": "2025-03-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/47111/000004711125000061/hsy-20250330.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/47111/000004711125000061/0000047111-25-000061-index.htm"
+  },
+  {
+   "form": "10-Q/A",
+   "filed": "2025-05-20",
+   "period": "2025-03-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/47111/000004711125000055/hsy-20250330.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/47111/000004711125000055/0000047111-25-000055-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-01",
+   "period": "2025-03-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/47111/000004711125000044/hsy-20250330.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/47111/000004711125000044/0000047111-25-000044-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-18",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/47111/000004711125000014/hsy-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/47111/000004711125000014/0000047111-25-000014-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-07",
+   "period": "2024-09-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/47111/000004711124000055/hsy-20240929.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/47111/000004711124000055/0000047111-24-000055-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-01",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/47111/000004711124000045/hsy-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/47111/000004711124000045/0000047111-24-000045-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-20",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/47111/000004711124000009/hsy-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/47111/000004711124000009/0000047111-24-000009-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-17",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/47111/000004711123000012/hsy-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/47111/000004711123000012/0000047111-23-000012-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-18",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/47111/000004711122000017/hsy-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/47111/000004711122000017/0000047111-22-000017-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

@@ -1,0 +1,203 @@
+{
+ "ticker": "ZBRA",
+ "name": "Zebra Technologies",
+ "cik": 877212,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-09-29",
+   "period_end": "2024-12-31",
+   "revenue": 1334000000,
+   "gross_profit": 648000000,
+   "operating_income": 225000000,
+   "eps_diluted": 3.14,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-29",
+   "revenue": 1308000000,
+   "gross_profit": 645000000,
+   "operating_income": 195000000,
+   "eps_diluted": 2.62,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-03-30",
+   "period_end": "2025-06-28",
+   "revenue": 1293000000,
+   "gross_profit": 616000000,
+   "operating_income": 183000000,
+   "eps_diluted": 2.19,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-06-29",
+   "period_end": "2025-09-27",
+   "revenue": 1320000000,
+   "gross_profit": 634000000,
+   "operating_income": 183000000,
+   "eps_diluted": 1.97,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-09-28",
+   "period_end": "2025-12-31",
+   "revenue": 1475000000,
+   "gross_profit": 698000000,
+   "operating_income": 139000000,
+   "eps_diluted": 1.38,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-04-04",
+   "revenue": 1495000000,
+   "gross_profit": 742000000,
+   "operating_income": 215000000,
+   "eps_diluted": 2.72,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-05",
+   "period_end": "2026-07-04",
+   "revenue": 1557000000,
+   "gross_profit": 825000000,
+   "operating_income": 321000000,
+   "eps_diluted": 4.85,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-05",
+   "period_end": "2026-10-03",
+   "revenue": 1614000000,
+   "gross_profit": 738000000,
+   "operating_income": 237000000,
+   "eps_diluted": 3.43,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-03",
+   "period": "2026-10-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/877212/000162828026069444/zbra-20261003.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/877212/000162828026069444/0001628280-26-069444-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-04",
+   "period": "2026-07-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/877212/000162828026052550/zbra-20260704.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/877212/000162828026052550/0001628280-26-052550-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-12",
+   "period": "2026-04-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/877212/000162828026034109/zbra-20260404.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/877212/000162828026034109/0001628280-26-034109-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-12",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/877212/000162828026007668/zbra-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/877212/000162828026007668/0001628280-26-007668-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-28",
+   "period": "2025-09-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/877212/000162828025046778/zbra-20250927.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/877212/000162828025046778/0001628280-25-046778-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-05",
+   "period": "2025-06-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/877212/000087721225000131/zbra-20250628.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/877212/000087721225000131/0000877212-25-000131-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-29",
+   "period": "2025-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/877212/000087721225000065/zbra-20250329.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/877212/000087721225000065/0000877212-25-000065-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-13",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/877212/000087721225000027/zbra-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/877212/000087721225000027/0000877212-25-000027-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-29",
+   "period": "2024-09-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/877212/000087721224000164/zbra-20240928.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/877212/000087721224000164/0000877212-24-000164-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-30",
+   "period": "2024-06-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/877212/000087721224000151/zbra-20240629.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/877212/000087721224000151/0000877212-24-000151-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-15",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/877212/000087721224000029/zbra-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/877212/000087721224000029/0000877212-24-000029-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-16",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/877212/000087721223000025/zbra-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/877212/000087721223000025/0000877212-23-000025-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-10",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/877212/000087721222000026/zbra-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/877212/000087721222000026/0000877212-22-000026-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

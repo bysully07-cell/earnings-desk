@@ -1,0 +1,201 @@
+{
+ "ticker": "UNP",
+ "name": "Union Pacific Corporation",
+ "cik": 100885,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 6121000000,
+   "gross_profit": null,
+   "operating_income": 2525000000,
+   "eps_diluted": 2.91,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 6027000000,
+   "gross_profit": null,
+   "operating_income": 2371000000,
+   "eps_diluted": 2.7,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 6154000000,
+   "gross_profit": null,
+   "operating_income": 2525000000,
+   "eps_diluted": 3.15,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 6244000000,
+   "gross_profit": null,
+   "operating_income": 2549000000,
+   "eps_diluted": 3.01,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 6085000000,
+   "gross_profit": null,
+   "operating_income": 2401000000,
+   "eps_diluted": 3.11,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 6217000000,
+   "gross_profit": null,
+   "operating_income": 2458000000,
+   "eps_diluted": 2.87,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 6864000000,
+   "gross_profit": null,
+   "operating_income": 2763000000,
+   "eps_diluted": 3.36,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 7197000000,
+   "gross_profit": null,
+   "operating_income": 2943000000,
+   "eps_diluted": 3.49,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-22",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/100885/000010088526000321/unp-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/100885/000010088526000321/0000100885-26-000321-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-23",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/100885/000010088526000250/unp-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/100885/000010088526000250/0000100885-26-000250-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-23",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/100885/000010088526000155/unp-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/100885/000010088526000155/0000100885-26-000155-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-06",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/100885/000010088526000037/unp-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/100885/000010088526000037/0000100885-26-000037-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-23",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/100885/000010088525000321/unp-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/100885/000010088525000321/0000100885-25-000321-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-24",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/100885/000010088525000253/unp-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/100885/000010088525000253/0000100885-25-000253-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-24",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/100885/000010088525000151/unp-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/100885/000010088525000151/0000100885-25-000151-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-07",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/100885/000010088525000042/unp-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/100885/000010088525000042/0000100885-25-000042-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-24",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/100885/000143774924032008/unp20240930_10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/100885/000143774924032008/0001437749-24-032008-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-25",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/100885/000143774924023463/unp20240630c_10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/100885/000143774924023463/0001437749-24-023463-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-09",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/100885/000143774924003599/unp20231231_10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/100885/000143774924003599/0001437749-24-003599-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-10",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/100885/000143774923002959/unp20221231_10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/100885/000143774923002959/0001437749-23-002959-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-04",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/100885/000143774922002494/unp20211231_10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/100885/000143774922002494/0001437749-22-002494-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

@@ -1,0 +1,198 @@
+{
+ "ticker": "BKR",
+ "name": "Baker Hughes",
+ "cik": 1701605,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": null,
+  "operating_income": null,
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 7364000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": null,
+   "derived": [
+    "revenue"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 6427000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": null,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 6910000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": null,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 7010000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": null,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 7386000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": null,
+   "derived": [
+    "revenue"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 6587000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": null,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 6742000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": null,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 8025000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": null,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-28",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160526000035/bkr-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160526000035/0001701605-26-000035-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-27",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160526000023/bkr-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160526000023/0001701605-26-000023-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-24",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160526000014/bkr-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160526000014/0001701605-26-000014-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-05",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160526000007/bkr-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160526000007/0001701605-26-000007-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-24",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160525000117/bkr-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160525000117/0001701605-25-000117-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-23",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160525000107/bkr-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160525000107/0001701605-25-000107-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-23",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160525000075/bkr-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160525000075/0001701605-25-000075-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-04",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160525000035/bkr-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160525000035/0001701605-25-000035-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-23",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160524000131/bkr-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160524000131/0001701605-24-000131-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-26",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160524000111/bkr-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160524000111/0001701605-24-000111-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-05",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160524000033/bkr-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160524000033/0001701605-24-000033-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-14",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160523000044/bkr-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160523000044/0001701605-23-000044-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-11",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160522000050/bkr-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160522000050/0001701605-22-000050-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

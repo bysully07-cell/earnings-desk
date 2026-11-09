@@ -1,0 +1,199 @@
+{
+ "ticker": "MAA",
+ "name": "Mid-America Apartment Communities",
+ "cik": 912595,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": null,
+  "operating_income": null,
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q2",
+   "period_start": "2024-04-01",
+   "period_end": "2024-06-30",
+   "revenue": 546435000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.86,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2024 Q3",
+   "period_start": "2024-07-01",
+   "period_end": "2024-09-30",
+   "revenue": 551126000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.98,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 549832000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 1.43,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 549295000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 1.54,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 549902000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.92,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 554373000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.84,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 555556000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.49,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 553725000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 1.06,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-29",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/912595/000119312526437813/maa-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/912595/000119312526437813/0001193125-26-437813-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-30",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/912595/000119312526326153/maa-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/912595/000119312526326153/0001193125-26-326153-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-30",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/912595/000119312526197331/maa-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/912595/000119312526197331/0001193125-26-197331-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-06",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/912595/000119312526041208/maa-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/912595/000119312526041208/0001193125-26-041208-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-30",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/912595/000119312525258570/maa-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/912595/000119312525258570/0001193125-25-258570-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-31",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/912595/000095017025100919/maa-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/912595/000095017025100919/0000950170-25-100919-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-01",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/912595/000095017025061849/maa-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/912595/000095017025061849/0000950170-25-061849-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-07",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/912595/000095017025016287/maa-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/912595/000095017025016287/0000950170-25-016287-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-31",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/912595/000095017024119555/maa-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/912595/000095017024119555/0000950170-24-119555-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-01",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/912595/000095017024089308/maa-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/912595/000095017024089308/0000950170-24-089308-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-09",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/912595/000095017024013275/maa-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/912595/000095017024013275/0000950170-24-013275-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-14",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/912595/000095017023002778/maa-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/912595/000095017023002778/0000950170-23-002778-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-17",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/912595/000095017022001423/maa-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/912595/000095017022001423/0000950170-22-001423-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

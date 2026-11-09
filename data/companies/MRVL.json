@@ -1,0 +1,204 @@
+{
+ "ticker": "MRVL",
+ "name": "Marvell Technology",
+ "cik": 1835632,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "01-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2024-08-04",
+   "period_end": "2024-11-02",
+   "revenue": 1516100000,
+   "gross_profit": 349400000,
+   "operating_income": -702800000,
+   "eps_diluted": -0.78,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2024-11-03",
+   "period_end": "2025-02-01",
+   "revenue": 1817400000,
+   "gross_profit": 917400000,
+   "operating_income": 235200000,
+   "eps_diluted": 0.23,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-02-02",
+   "period_end": "2025-05-03",
+   "revenue": 1895300000,
+   "gross_profit": 952400000,
+   "operating_income": 270600000,
+   "eps_diluted": 0.2,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-05-04",
+   "period_end": "2025-08-02",
+   "revenue": 2006100000,
+   "gross_profit": 1010600000,
+   "operating_income": 290100000,
+   "eps_diluted": 0.22,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2025-08-03",
+   "period_end": "2025-11-01",
+   "revenue": 2074500000,
+   "gross_profit": 1069800000,
+   "operating_income": 357800000,
+   "eps_diluted": 2.2,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2025-11-02",
+   "period_end": "2026-01-31",
+   "revenue": 2218700000,
+   "gross_profit": 1147900000,
+   "operating_income": 404400000,
+   "eps_diluted": 0.46,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2027 Q1",
+   "period_start": "2026-02-01",
+   "period_end": "2026-05-02",
+   "revenue": 2417800000,
+   "gross_profit": 1260800000,
+   "operating_income": 339400000,
+   "eps_diluted": 0.04,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2027 Q2",
+   "period_start": "2026-05-03",
+   "period_end": "2026-08-01",
+   "revenue": 2739300000,
+   "gross_profit": 1455600000,
+   "operating_income": 459700000,
+   "eps_diluted": 0.33,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-08-28",
+   "period": "2026-08-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563226000025/mrvl-20260801.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563226000025/0001835632-26-000025-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-28",
+   "period": "2026-05-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563226000019/mrvl-20260502.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563226000019/0001835632-26-000019-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-03-11",
+   "period": "2026-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563226000011/mrvl-20260131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563226000011/0001835632-26-000011-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-12-03",
+   "period": "2025-11-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563225000197/mrvl-20251101.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563225000197/0001835632-25-000197-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-29",
+   "period": "2025-08-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563225000189/mrvl-20250802.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563225000189/0001835632-25-000189-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-30",
+   "period": "2025-05-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563225000117/mrvl-20250503.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563225000117/0001835632-25-000117-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-03-12",
+   "period": "2025-02-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563225000057/mrvl-20250201.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563225000057/0001835632-25-000057-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-12-04",
+   "period": "2024-11-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563224000200/mrvl-20241102.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563224000200/0001835632-24-000200-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-30",
+   "period": "2024-08-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563224000142/mrvl-20240803.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563224000142/0001835632-24-000142-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-05-31",
+   "period": "2024-05-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563224000063/mrvl-20240504.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563224000063/0001835632-24-000063-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-03-13",
+   "period": "2024-02-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563224000009/mrvl-20240203.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563224000009/0001835632-24-000009-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-03-09",
+   "period": "2023-01-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563223000013/mrvl-20230128.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563223000013/0001835632-23-000013-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-03-10",
+   "period": "2022-01-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563222000016/mrvl-20220129.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563222000016/0001835632-22-000016-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

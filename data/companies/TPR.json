@@ -1,0 +1,203 @@
+{
+ "ticker": "TPR",
+ "name": "Tapestry, Inc.",
+ "cik": 1116132,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "06-27",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2024-09-29",
+   "period_end": "2024-12-28",
+   "revenue": 2195400000,
+   "gross_profit": 1633100000,
+   "operating_income": 492800000,
+   "eps_diluted": 1.38,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2024-12-29",
+   "period_end": "2025-03-29",
+   "revenue": 1584600000,
+   "gross_profit": 1205800000,
+   "operating_income": 253700000,
+   "eps_diluted": 0.95,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-03-30",
+   "period_end": "2025-06-28",
+   "revenue": 1723200000,
+   "gross_profit": 1315100000,
+   "operating_income": -583500000,
+   "eps_diluted": -2.4,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-06-29",
+   "period_end": "2025-09-27",
+   "revenue": 1705000000,
+   "gross_profit": 1301000000,
+   "operating_income": 328000000,
+   "eps_diluted": 1.28,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-09-28",
+   "period_end": "2025-12-27",
+   "revenue": 2502400000,
+   "gross_profit": 1888400000,
+   "operating_income": 716400000,
+   "eps_diluted": 2.68,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2025-12-28",
+   "period_end": "2026-03-28",
+   "revenue": 1920600000,
+   "gross_profit": 1476500000,
+   "operating_income": 427500000,
+   "eps_diluted": 1.65,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2026-03-29",
+   "period_end": "2026-06-27",
+   "revenue": 1876200000,
+   "gross_profit": 1563100000,
+   "operating_income": 442500000,
+   "eps_diluted": 1.68,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2027 Q1",
+   "period_start": "2026-06-28",
+   "period_end": "2026-09-26",
+   "revenue": 1894000000,
+   "gross_profit": 1488000000,
+   "operating_income": 424000000,
+   "eps_diluted": 1.76,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-05",
+   "period": "2026-09-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613226000031/tpr-20260926.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613226000031/0001116132-26-000031-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-08-13",
+   "period": "2026-06-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613226000018/tpr-20260627.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613226000018/0001116132-26-000018-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-07",
+   "period": "2026-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613226000011/tpr-20260328.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613226000011/0001116132-26-000011-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-02-05",
+   "period": "2025-12-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613226000005/tpr-20251227.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613226000005/0001116132-26-000005-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-06",
+   "period": "2025-09-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613225000025/tpr-20250927.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613225000025/0001116132-25-000025-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-08-14",
+   "period": "2025-06-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613225000019/tpr-20250628.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613225000019/0001116132-25-000019-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-08",
+   "period": "2025-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613225000013/tpr-20250329.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613225000013/0001116132-25-000013-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-02-06",
+   "period": "2024-12-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613225000005/tpr-20241228.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613225000005/0001116132-25-000005-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-07",
+   "period": "2024-09-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613224000023/tpr-20240928.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613224000023/0001116132-24-000023-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-08-15",
+   "period": "2024-06-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613224000018/tpr-20240629.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613224000018/0001116132-24-000018-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-05-09",
+   "period": "2024-03-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613224000013/tpr-20240330.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613224000013/0001116132-24-000013-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-08-17",
+   "period": "2023-07-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613223000020/tpr-20230701.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613223000020/0001116132-23-000020-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-08-18",
+   "period": "2022-07-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613222000018/tpr-20220702.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613222000018/0001116132-22-000018-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

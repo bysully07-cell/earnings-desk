@@ -1,0 +1,201 @@
+{
+ "ticker": "FRT",
+ "name": "Federal Realty Investment Trust",
+ "cik": 34903,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q2",
+   "period_start": "2024-04-01",
+   "period_end": "2024-06-30",
+   "revenue": 296052000,
+   "gross_profit": null,
+   "operating_income": 157011000,
+   "eps_diluted": 1.32,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2024 Q3",
+   "period_start": "2024-07-01",
+   "period_end": "2024-09-30",
+   "revenue": 303633000,
+   "gross_profit": null,
+   "operating_income": 105832000,
+   "eps_diluted": 0.7,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 311444000,
+   "gross_profit": null,
+   "operating_income": 109319000,
+   "eps_diluted": 0.78,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 309154000,
+   "gross_profit": null,
+   "operating_income": 108133000,
+   "eps_diluted": 0.72,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 311523000,
+   "gross_profit": null,
+   "operating_income": 202744000,
+   "eps_diluted": 1.78,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 322253000,
+   "gross_profit": null,
+   "operating_income": 110668000,
+   "eps_diluted": 0.69,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 336045000,
+   "gross_profit": null,
+   "operating_income": 180654000,
+   "eps_diluted": 1.48,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 341084000,
+   "gross_profit": null,
+   "operating_income": 208985000,
+   "eps_diluted": 1.81,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-30",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/34903/000003490326000056/frt-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/34903/000003490326000056/0000034903-26-000056-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-31",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/34903/000003490326000042/frt-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/34903/000003490326000042/0000034903-26-000042-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-01",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/34903/000003490326000026/frt-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/34903/000003490326000026/0000034903-26-000026-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-12",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/34903/000003490326000017/frt-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/34903/000003490326000017/0000034903-26-000017-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-31",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/34903/000003490325000063/frt-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/34903/000003490325000063/0000034903-25-000063-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-06",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/34903/000003490325000052/frt-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/34903/000003490325000052/0000034903-25-000052-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-08",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/34903/000003490325000037/frt-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/34903/000003490325000037/0000034903-25-000037-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-13",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/34903/000003490325000016/frt-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/34903/000003490325000016/0000034903-25-000016-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-30",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/34903/000003490324000069/frt-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/34903/000003490324000069/0000034903-24-000069-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-01",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/34903/000003490324000056/frt-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/34903/000003490324000056/0000034903-24-000056-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-12",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/34903/000003490324000032/frt-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/34903/000003490324000032/0000034903-24-000032-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-08",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/34903/000003490323000020/frt-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/34903/000003490323000020/0000034903-23-000020-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-10",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/34903/000003490322000023/frt-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/34903/000003490322000023/0000034903-22-000023-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

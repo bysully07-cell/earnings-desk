@@ -1,0 +1,199 @@
+{
+ "ticker": "RJF",
+ "name": "Raymond James Financial",
+ "cik": 720005,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "09-30",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": null,
+  "operating_income": null,
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-07-01",
+   "period_end": "2024-09-30",
+   "revenue": 4003000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 2.87,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 4035000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 2.86,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 3845000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 2.36,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 3842000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 2.12,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 4190000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 2.98,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 4176000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 2.79,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 4262000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 2.72,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 4362000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 3.01,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-08-05",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/720005/000072000526000070/rjf-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/720005/000072000526000070/0000720005-26-000070-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-06",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/720005/000072000526000051/rjf-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/720005/000072000526000051/0000720005-26-000051-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-02-06",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/720005/000072000526000035/rjf-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/720005/000072000526000035/0000720005-26-000035-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-11-25",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/720005/000072000525000093/rjf-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/720005/000072000525000093/0000720005-25-000093-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-06",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/720005/000072000525000072/rjf-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/720005/000072000525000072/0000720005-25-000072-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-07",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/720005/000072000525000053/rjf-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/720005/000072000525000053/0000720005-25-000053-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-02-07",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/720005/000072000525000025/rjf-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/720005/000072000525000025/0000720005-25-000025-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-11-26",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/720005/000072000524000069/rjf-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/720005/000072000524000069/0000720005-24-000069-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-06",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/720005/000072000524000051/rjf-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/720005/000072000524000051/0000720005-24-000051-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-05-07",
+   "period": "2024-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/720005/000072000524000034/rjf-20240331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/720005/000072000524000034/0000720005-24-000034-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-11-21",
+   "period": "2023-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/720005/000072000523000079/rjf-20230930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/720005/000072000523000079/0000720005-23-000079-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-11-22",
+   "period": "2022-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/720005/000072000522000066/rjf-20220930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/720005/000072000522000066/0000720005-22-000066-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2021-11-23",
+   "period": "2021-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/720005/000072000521000106/rjf-20210930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/720005/000072000521000106/0000720005-21-000106-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

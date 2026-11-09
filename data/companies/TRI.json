@@ -1,0 +1,51 @@
+{
+ "ticker": "TRI",
+ "name": "Thomson Reuters",
+ "cik": 1075124,
+ "indexes": [
+  "NDX"
+ ],
+ "fiscal_year_end": null,
+ "sources": {},
+ "quarters": [],
+ "filings": [
+  {
+   "form": "40-F",
+   "filed": "2026-03-05",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1075124/000119312526094222/tri-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1075124/000119312526094222/0001193125-26-094222-index.htm"
+  },
+  {
+   "form": "40-F",
+   "filed": "2025-03-06",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1075124/000119312525048443/d880733d40f.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1075124/000119312525048443/0001193125-25-048443-index.htm"
+  },
+  {
+   "form": "40-F",
+   "filed": "2024-03-07",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1075124/000119312524062308/d740282d40f.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1075124/000119312524062308/0001193125-24-062308-index.htm"
+  },
+  {
+   "form": "40-F",
+   "filed": "2023-03-08",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1075124/000119312523064643/d424151d40f.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1075124/000119312523064643/0001193125-23-064643-index.htm"
+  },
+  {
+   "form": "40-F",
+   "filed": "2022-03-10",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1075124/000119312522071339/d233390d40f.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1075124/000119312522071339/0001193125-22-071339-index.htm"
+  }
+ ],
+ "note": "no US-GAAP quarterly revenue (foreign filer or non-standard tags)",
+ "earnings": [],
+ "earnings_checked": null
+}

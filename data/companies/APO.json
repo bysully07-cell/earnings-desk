@@ -1,0 +1,192 @@
+{
+ "ticker": "APO",
+ "name": "Apollo Global Management",
+ "cik": 1858681,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": null,
+  "operating_income": null,
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 5283000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 2.35,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 5548000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.68,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 6814000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.99,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 9823000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 2.78,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 9864000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 1.17,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 5059000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": -3.27,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 11153000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 2.15,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 4739000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": -1.78,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-05",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1858681/000185868126000067/apo-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1858681/000185868126000067/0001858681-26-000067-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-10",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1858681/000185868126000040/apo-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1858681/000185868126000040/0001858681-26-000040-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-07",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1858681/000185868126000026/apo-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1858681/000185868126000026/0001858681-26-000026-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-25",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1858681/000185868126000013/apo-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1858681/000185868126000013/0001858681-26-000013-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-10",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1858681/000185868125000139/apo-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1858681/000185868125000139/0001858681-25-000139-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-07",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1858681/000185868125000117/apo-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1858681/000185868125000117/0001858681-25-000117-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-07",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1858681/000185868125000049/apo-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1858681/000185868125000049/0001858681-25-000049-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-24",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1858681/000185868125000034/apo-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1858681/000185868125000034/0001858681-25-000034-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-06",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1858681/000185868124000120/apo-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1858681/000185868124000120/0001858681-24-000120-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-08",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1858681/000185868124000096/apo-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1858681/000185868124000096/0001858681-24-000096-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-27",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1858681/000185868124000031/apo-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1858681/000185868124000031/0001858681-24-000031-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-03-01",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1858681/000185868123000007/apo-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1858681/000185868123000007/0001858681-23-000007-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

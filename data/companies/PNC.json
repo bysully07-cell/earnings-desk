@@ -1,0 +1,199 @@
+{
+ "ticker": "PNC",
+ "name": "PNC Financial Services",
+ "cik": 713676,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": null,
+  "operating_income": null,
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 5567000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 3.76,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 5452000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 3.51,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 5661000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 3.85,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 5915000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 4.35,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 6071000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 4.88,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 6165000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 4.13,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 6875000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 4.81,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 6562000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 4.97,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-03",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/713676/000162828026069377/pnc-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/713676/000162828026069377/0001628280-26-069377-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-05",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/713676/000162828026053170/pnc-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/713676/000162828026053170/0001628280-26-053170-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-05",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/713676/000071367626000038/pnc-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/713676/000071367626000038/0000713676-26-000038-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-20",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/713676/000071367626000020/pnc-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/713676/000071367626000020/0000713676-26-000020-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-03",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/713676/000071367625000132/pnc-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/713676/000071367625000132/0000713676-25-000132-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-01",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/713676/000071367625000060/pnc-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/713676/000071367625000060/0000713676-25-000060-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-02",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/713676/000162828025021752/pnc-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/713676/000162828025021752/0001628280-25-021752-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-21",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/713676/000071367625000027/pnc-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/713676/000071367625000027/0000713676-25-000027-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-01",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/713676/000071367624000081/pnc-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/713676/000071367624000081/0000713676-24-000081-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-02",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/713676/000071367624000068/pnc-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/713676/000071367624000068/0000713676-24-000068-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-21",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/713676/000071367624000028/pnc-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/713676/000071367624000028/0000713676-24-000028-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-22",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/713676/000071367623000020/pnc-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/713676/000071367623000020/0000713676-23-000020-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-25",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/713676/000071367622000019/pnc-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/713676/000071367622000019/0000713676-22-000019-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

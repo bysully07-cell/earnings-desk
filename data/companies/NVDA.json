@@ -1,0 +1,204 @@
+{
+ "ticker": "NVDA",
+ "name": "Nvidia",
+ "cik": 1045810,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "01-25",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2024-07-29",
+   "period_end": "2024-10-27",
+   "revenue": 35082000000,
+   "gross_profit": 26156000000,
+   "operating_income": 21869000000,
+   "eps_diluted": 0.78,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2024-10-28",
+   "period_end": "2025-01-26",
+   "revenue": 39331000000,
+   "gross_profit": 28722000000,
+   "operating_income": 24033000000,
+   "eps_diluted": 0.89,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-01-27",
+   "period_end": "2025-04-27",
+   "revenue": 44062000000,
+   "gross_profit": 26668000000,
+   "operating_income": 21638000000,
+   "eps_diluted": 0.76,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-04-28",
+   "period_end": "2025-07-27",
+   "revenue": 46743000000,
+   "gross_profit": 33853000000,
+   "operating_income": 28440000000,
+   "eps_diluted": 1.08,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2025-07-28",
+   "period_end": "2025-10-26",
+   "revenue": 57006000000,
+   "gross_profit": 41849000000,
+   "operating_income": 36010000000,
+   "eps_diluted": 1.3,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2025-10-27",
+   "period_end": "2026-01-25",
+   "revenue": 68127000000,
+   "gross_profit": 51093000000,
+   "operating_income": 44299000000,
+   "eps_diluted": 1.76,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2027 Q1",
+   "period_start": "2026-01-26",
+   "period_end": "2026-04-26",
+   "revenue": 81615000000,
+   "gross_profit": 61157000000,
+   "operating_income": 53536000000,
+   "eps_diluted": 2.39,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2027 Q2",
+   "period_start": "2026-04-27",
+   "period_end": "2026-07-26",
+   "revenue": 96221000000,
+   "gross_profit": 72142000000,
+   "operating_income": 63734000000,
+   "eps_diluted": 2.46,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-08-26",
+   "period": "2026-07-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/0001045810-26-000075-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-20",
+   "period": "2026-04-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000052/nvda-20260426.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000052/0001045810-26-000052-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-25",
+   "period": "2026-01-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/0001045810-26-000021-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-19",
+   "period": "2025-10-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/nvda-20251026.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/0001045810-25-000230-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-27",
+   "period": "2025-07-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000209/nvda-20250727.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000209/0001045810-25-000209-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-28",
+   "period": "2025-04-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000116/nvda-20250427.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000116/0001045810-25-000116-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-26",
+   "period": "2025-01-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/0001045810-25-000023-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-20",
+   "period": "2024-10-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000316/nvda-20241027.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000316/0001045810-24-000316-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-28",
+   "period": "2024-07-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000264/nvda-20240728.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000264/0001045810-24-000264-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-05-29",
+   "period": "2024-04-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000124/nvda-20240428.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000124/0001045810-24-000124-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-21",
+   "period": "2024-01-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000029/nvda-20240128.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000029/0001045810-24-000029-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-24",
+   "period": "2023-01-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000017/nvda-20230129.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000017/0001045810-23-000017-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-03-18",
+   "period": "2022-01-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581022000036/nvda-20220130.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581022000036/0001045810-22-000036-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

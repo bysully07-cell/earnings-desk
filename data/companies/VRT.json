@@ -1,0 +1,215 @@
+{
+ "ticker": "VRT",
+ "name": "Vertiv",
+ "cik": 1674101,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfGoodsAndServicesSold)",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 2346400000,
+   "gross_profit": 870200000,
+   "operating_income": 457200000,
+   "eps_diluted": 0.37,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 2036000000,
+   "gross_profit": 686500000,
+   "operating_income": 290700000,
+   "eps_diluted": 0.42,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 2638100000,
+   "gross_profit": 896600000,
+   "operating_income": 442400000,
+   "eps_diluted": 0.83,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 2675800000,
+   "gross_profit": 1010700000,
+   "operating_income": 516700000,
+   "eps_diluted": 1.02,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 2880000000,
+   "gross_profit": 1121400000,
+   "operating_income": 579900000,
+   "eps_diluted": 1.14,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 2649500000,
+   "gross_profit": 999700000,
+   "operating_income": 440100000,
+   "eps_diluted": 0.99,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 3274300000,
+   "gross_profit": 1234900000,
+   "operating_income": 637900000,
+   "eps_diluted": 1.27,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 4312800000,
+   "gross_profit": 1643400000,
+   "operating_income": 983800000,
+   "eps_diluted": 1.95,
+   "derived": [
+    "gross_profit"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-28",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828026067893/vrt-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828026067893/0001628280-26-067893-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-29",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828026050609/vrt-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828026050609/0001628280-26-050609-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-22",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828026026556/vrt-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828026026556/0001628280-26-026556-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-13",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1674101/000167410126000008/vrt-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1674101/000167410126000008/0001674101-26-000008-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-22",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1674101/000167410125000024/vrt-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1674101/000167410125000024/0001674101-25-000024-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-30",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1674101/000167410125000008/vrt-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1674101/000167410125000008/0001674101-25-000008-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-23",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828025019372/vrt-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828025019372/0001628280-25-019372-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-18",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828025005905/vrt-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828025005905/0001628280-25-005905-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-25",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828024043698/vrt-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828024043698/0001628280-24-043698-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-26",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828024033173/vrt-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828024033173/0001628280-24-033173-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-23",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828024006498/vrt-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828024006498/0001628280-24-006498-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-27",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828023005248/vrt-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828023005248/0001628280-23-005248-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-03-01",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828022004533/vrt-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828022004533/0001628280-22-004533-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

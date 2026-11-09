@@ -1,0 +1,203 @@
+{
+ "ticker": "AOS",
+ "name": "A. O. Smith",
+ "cik": 91142,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 912400000,
+   "gross_profit": 338100000,
+   "operating_income": 147500000,
+   "eps_diluted": 0.75,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 963900000,
+   "gross_profit": 375400000,
+   "operating_income": 184000000,
+   "eps_diluted": 0.95,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 1011300000,
+   "gross_profit": 397100000,
+   "operating_income": 206200000,
+   "eps_diluted": 1.07,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 942500000,
+   "gross_profit": 364500000,
+   "operating_income": 175400000,
+   "eps_diluted": 0.94,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 912500000,
+   "gross_profit": 350400000,
+   "operating_income": 163000000,
+   "eps_diluted": 0.9,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 945600000,
+   "gross_profit": 365700000,
+   "operating_income": 161800000,
+   "eps_diluted": 0.85,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 1004300000,
+   "gross_profit": 387800000,
+   "operating_income": 166100000,
+   "eps_diluted": 0.91,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 940500000,
+   "gross_profit": 364700000,
+   "operating_income": 174400000,
+   "eps_diluted": 0.93,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-29",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/91142/000009114226000104/aos-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91142/000009114226000104/0000091142-26-000104-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-30",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/91142/000009114226000098/aos-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91142/000009114226000098/0000091142-26-000098-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-30",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/91142/000009114226000084/aos-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91142/000009114226000084/0000091142-26-000084-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-10",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/91142/000009114226000008/aos-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91142/000009114226000008/0000091142-26-000008-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-28",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/91142/000009114225000150/aos-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91142/000009114225000150/0000091142-25-000150-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-24",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/91142/000009114225000100/aos-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91142/000009114225000100/0000091142-25-000100-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-29",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/91142/000009114225000075/aos-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91142/000009114225000075/0000091142-25-000075-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-11",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/91142/000009114225000036/aos-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91142/000009114225000036/0000091142-25-000036-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-23",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/91142/000009114224000171/aos-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91142/000009114224000171/0000091142-24-000171-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-24",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/91142/000009114224000151/aos-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91142/000009114224000151/0000091142-24-000151-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-13",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/91142/000009114224000041/aos-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91142/000009114224000041/0000091142-24-000041-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-14",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/91142/000009114223000025/aos-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91142/000009114223000025/0000091142-23-000025-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-11",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/91142/000009114222000028/aos-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91142/000009114222000028/0000091142-22-000028-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

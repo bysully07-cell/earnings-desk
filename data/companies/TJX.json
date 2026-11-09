@@ -1,0 +1,213 @@
+{
+ "ticker": "TJX",
+ "name": "TJX Companies",
+ "cik": 109198,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "01-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerIncludingAssessedTax",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfGoodsAndServicesSold)",
+  "operating_income": null,
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2024-08-04",
+   "period_end": "2024-11-02",
+   "revenue": 14063000000,
+   "gross_profit": 4441000000,
+   "operating_income": null,
+   "eps_diluted": 1.14,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2024-11-03",
+   "period_end": "2025-02-01",
+   "revenue": 16350000000,
+   "gross_profit": 4979000000,
+   "operating_income": null,
+   "eps_diluted": 1.23,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-02-02",
+   "period_end": "2025-05-03",
+   "revenue": 13111000000,
+   "gross_profit": 3865000000,
+   "operating_income": null,
+   "eps_diluted": 0.92,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-05-04",
+   "period_end": "2025-08-02",
+   "revenue": 14401000000,
+   "gross_profit": 4425000000,
+   "operating_income": null,
+   "eps_diluted": 1.1,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2025-08-03",
+   "period_end": "2025-11-01",
+   "revenue": 15117000000,
+   "gross_profit": 4927000000,
+   "operating_income": null,
+   "eps_diluted": 1.28,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2025-11-02",
+   "period_end": "2026-01-31",
+   "revenue": 17743000000,
+   "gross_profit": 5476000000,
+   "operating_income": null,
+   "eps_diluted": 1.57,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2027 Q1",
+   "period_start": "2026-02-01",
+   "period_end": "2026-05-02",
+   "revenue": 14323000000,
+   "gross_profit": 4480000000,
+   "operating_income": null,
+   "eps_diluted": 1.19,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2027 Q2",
+   "period_start": "2026-05-03",
+   "period_end": "2026-08-01",
+   "revenue": 15180000000,
+   "gross_profit": 5072000000,
+   "operating_income": null,
+   "eps_diluted": 1.36,
+   "derived": [
+    "gross_profit"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-08-28",
+   "period": "2026-08-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000048/tjx-20260801.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000048/0000109198-26-000048-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-29",
+   "period": "2026-05-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000034/tjx-20260502.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000034/0000109198-26-000034-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-03-31",
+   "period": "2026-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000008/tjx-20260131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000008/0000109198-26-000008-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-12-02",
+   "period": "2025-11-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/109198/000010919825000061/tjx-20251101.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/109198/000010919825000061/0000109198-25-000061-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-29",
+   "period": "2025-08-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/109198/000010919825000054/tjx-20250802.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/109198/000010919825000054/0000109198-25-000054-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-30",
+   "period": "2025-05-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/109198/000010919825000043/tjx-20250503.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/109198/000010919825000043/0000109198-25-000043-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-04-02",
+   "period": "2025-02-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/109198/000010919825000010/tjx-20250201.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/109198/000010919825000010/0000109198-25-000010-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-12-04",
+   "period": "2024-11-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/109198/000010919824000059/tjx-20241102.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/109198/000010919824000059/0000109198-24-000059-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-30",
+   "period": "2024-08-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/109198/000010919824000048/tjx-20240803.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/109198/000010919824000048/0000109198-24-000048-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-05-31",
+   "period": "2024-05-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/109198/000010919824000035/tjx-20240504.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/109198/000010919824000035/0000109198-24-000035-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-04-03",
+   "period": "2024-02-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/109198/000010919824000014/tjx-20240203.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/109198/000010919824000014/0000109198-24-000014-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-03-29",
+   "period": "2023-01-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/109198/000010919823000004/tjx-20230128.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/109198/000010919823000004/0000109198-23-000004-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-03-30",
+   "period": "2022-01-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/109198/000010919822000008/tjx-20220129.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/109198/000010919822000008/0000109198-22-000008-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

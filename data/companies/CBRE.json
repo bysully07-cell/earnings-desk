@@ -1,0 +1,215 @@
+{
+ "ticker": "CBRE",
+ "name": "CBRE Group",
+ "cik": 1138118,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfRevenue)",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 10405000000,
+   "gross_profit": 2114000000,
+   "operating_income": 595000000,
+   "eps_diluted": 1.58,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 8875000000,
+   "gross_profit": 1610000000,
+   "operating_income": 276000000,
+   "eps_diluted": 0.54,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 9717000000,
+   "gross_profit": 1775000000,
+   "operating_income": 374000000,
+   "eps_diluted": 0.72,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 10221000000,
+   "gross_profit": 1917000000,
+   "operating_income": 481000000,
+   "eps_diluted": 1.21,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 11737000000,
+   "gross_profit": 2264000000,
+   "operating_income": 622000000,
+   "eps_diluted": 1.39,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 10527000000,
+   "gross_profit": 1852000000,
+   "operating_income": 511000000,
+   "eps_diluted": 1.07,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 11226000000,
+   "gross_profit": 2086000000,
+   "operating_income": 365000000,
+   "eps_diluted": 0.69,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 11517000000,
+   "gross_profit": 2125000000,
+   "operating_income": 561000000,
+   "eps_diluted": 1.52,
+   "derived": [
+    "gross_profit"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-22",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1138118/000113811826000031/cbre-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1138118/000113811826000031/0001138118-26-000031-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-29",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1138118/000113811826000024/cbre-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1138118/000113811826000024/0001138118-26-000024-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-23",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1138118/000113811826000015/cbre-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1138118/000113811826000015/0001138118-26-000015-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-12",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1138118/000113811826000005/cbre-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1138118/000113811826000005/0001138118-26-000005-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-23",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1138118/000113811825000025/cbre-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1138118/000113811825000025/0001138118-25-000025-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-29",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1138118/000113811825000019/cbre-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1138118/000113811825000019/0001138118-25-000019-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-24",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1138118/000113811825000010/cbre-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1138118/000113811825000010/0001138118-25-000010-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-14",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1138118/000113811825000005/cbre-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1138118/000113811825000005/0001138118-25-000005-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-24",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1138118/000113811824000029/cbre-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1138118/000113811824000029/0001138118-24-000029-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-25",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1138118/000113811824000023/cbre-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1138118/000113811824000023/0001138118-24-000023-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-20",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1138118/000113811824000006/cbre-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1138118/000113811824000006/0001138118-24-000006-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-27",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1138118/000113811823000009/cbre-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1138118/000113811823000009/0001138118-23-000009-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-03-01",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1138118/000113811822000010/cbre-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1138118/000113811822000010/0001138118-22-000010-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

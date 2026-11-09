@@ -1,0 +1,193 @@
+{
+ "ticker": "D",
+ "name": "Dominion Energy",
+ "cik": 715957,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q2",
+   "period_start": "2024-04-01",
+   "period_end": "2024-06-30",
+   "revenue": 3486000000,
+   "gross_profit": null,
+   "operating_income": 805000000,
+   "eps_diluted": 0.64,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2024 Q3",
+   "period_start": "2024-07-01",
+   "period_end": "2024-09-30",
+   "revenue": 3941000000,
+   "gross_profit": null,
+   "operating_income": 1218000000,
+   "eps_diluted": 1.09,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 3400000000,
+   "gross_profit": null,
+   "operating_income": 391000000,
+   "eps_diluted": 0.14,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 4076000000,
+   "gross_profit": null,
+   "operating_income": 1223000000,
+   "eps_diluted": 0.77,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 3810000000,
+   "gross_profit": null,
+   "operating_income": 1096000000,
+   "eps_diluted": 0.88,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 4527000000,
+   "gross_profit": null,
+   "operating_income": 1339000000,
+   "eps_diluted": 1.16,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 4093000000,
+   "gross_profit": null,
+   "operating_income": 756000000,
+   "eps_diluted": 0.65,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 5019000000,
+   "gross_profit": null,
+   "operating_income": 1392000000,
+   "eps_diluted": 0.69,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-30",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/715957/000119312526440697/d-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/715957/000119312526440697/0001193125-26-440697-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-31",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/715957/000119312526327487/d-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/715957/000119312526327487/0001193125-26-327487-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-01",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/715957/000119312526200275/d-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/715957/000119312526200275/0001193125-26-200275-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-23",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/715957/000119312526063120/d-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/715957/000119312526063120/0001193125-26-063120-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-31",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/715957/000119312525260246/d-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/715957/000119312525260246/0001193125-25-260246-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-01",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/715957/000095017025101177/d-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/715957/000095017025101177/0000950170-25-101177-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-01",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/715957/000095017025061558/d-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/715957/000095017025061558/0000950170-25-061558-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-27",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/715957/000095017025028387/d-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/715957/000095017025028387/0000950170-25-028387-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-01",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/715957/000095017024119871/d-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/715957/000095017024119871/0000950170-24-119871-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-01",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/715957/000095017024089020/d-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/715957/000095017024089020/0000950170-24-089020-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-23",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/715957/000095017024019110/d-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/715957/000095017024019110/0000950170-24-019110-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-21",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/715957/000095017023003287/d-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/715957/000095017023003287/0000950170-23-003287-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-24",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/715957/000156459022006589/d-10k_20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/715957/000156459022006589/0001564590-22-006589-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

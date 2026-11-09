@@ -1,0 +1,201 @@
+{
+ "ticker": "SNA",
+ "name": "Snap-on",
+ "cik": 91440,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "01-03",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-09-29",
+   "period_end": "2024-12-28",
+   "revenue": 1299200000,
+   "gross_profit": null,
+   "operating_income": 331900000,
+   "eps_diluted": 4.83,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2024-12-29",
+   "period_end": "2025-03-29",
+   "revenue": 1243200000,
+   "gross_profit": null,
+   "operating_income": 313400000,
+   "eps_diluted": 4.51,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-03-30",
+   "period_end": "2025-06-28",
+   "revenue": 1281100000,
+   "gross_profit": null,
+   "operating_income": 327300000,
+   "eps_diluted": 4.72,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-06-29",
+   "period_end": "2025-09-27",
+   "revenue": 1291900000,
+   "gross_profit": null,
+   "operating_income": 347400000,
+   "eps_diluted": 5.02,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-09-28",
+   "period_end": "2026-01-03",
+   "revenue": 1339900000,
+   "gross_profit": null,
+   "operating_income": 339600000,
+   "eps_diluted": 4.94,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2027 Q1",
+   "period_start": "2026-01-04",
+   "period_end": "2026-04-04",
+   "revenue": 1308300000,
+   "gross_profit": null,
+   "operating_income": 318800000,
+   "eps_diluted": 4.69,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2027 Q2",
+   "period_start": "2026-04-05",
+   "period_end": "2026-07-04",
+   "revenue": 1334800000,
+   "gross_profit": null,
+   "operating_income": 336400000,
+   "eps_diluted": 4.96,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2027 Q3",
+   "period_start": "2026-07-05",
+   "period_end": "2026-10-03",
+   "revenue": 1282300000,
+   "gross_profit": null,
+   "operating_income": 316400000,
+   "eps_diluted": 4.64,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-22",
+   "period": "2026-10-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/91440/000009144026000172/sna-20261003.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91440/000009144026000172/0000091440-26-000172-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-23",
+   "period": "2026-07-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/91440/000009144026000144/sna-20260704.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91440/000009144026000144/0000091440-26-000144-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-23",
+   "period": "2026-04-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/91440/000009144026000109/sna-20260404.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91440/000009144026000109/0000091440-26-000109-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-12",
+   "period": "2026-01-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/91440/000009144026000045/sna-20260103.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91440/000009144026000045/0000091440-26-000045-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-16",
+   "period": "2025-09-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/91440/000009144025000081/sna-20250927.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91440/000009144025000081/0000091440-25-000081-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-17",
+   "period": "2025-06-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/91440/000009144025000064/sna-20250628.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91440/000009144025000064/0000091440-25-000064-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-17",
+   "period": "2025-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/91440/000009144025000031/sna-20250329.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91440/000009144025000031/0000091440-25-000031-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-13",
+   "period": "2024-12-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/91440/000009144025000010/sna-20241228.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91440/000009144025000010/0000091440-25-000010-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-17",
+   "period": "2024-09-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/91440/000009144024000062/sna-20240928.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91440/000009144024000062/0000091440-24-000062-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-18",
+   "period": "2024-06-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/91440/000009144024000051/sna-20240629.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91440/000009144024000051/0000091440-24-000051-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-16",
+   "period": "2023-12-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/91440/000009144024000005/sna-20231230.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91440/000009144024000005/0000091440-24-000005-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-09",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/91440/000009144023000005/sna-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91440/000009144023000005/0000091440-23-000005-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-11",
+   "period": "2022-01-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/91440/000009144022000005/sna-20220101.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91440/000009144022000005/0000091440-22-000005-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

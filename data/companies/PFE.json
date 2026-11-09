@@ -1,0 +1,213 @@
+{
+ "ticker": "PFE",
+ "name": "Pfizer",
+ "cik": 78003,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfGoodsAndServicesSold)",
+  "operating_income": null,
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-09-30",
+   "period_end": "2024-12-31",
+   "revenue": 17763000000,
+   "gross_profit": 11854000000,
+   "operating_income": null,
+   "eps_diluted": 0.07,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-30",
+   "revenue": 13715000000,
+   "gross_profit": 10870000000,
+   "operating_income": null,
+   "eps_diluted": 0.52,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-03-31",
+   "period_end": "2025-06-29",
+   "revenue": 14653000000,
+   "gross_profit": 10875000000,
+   "operating_income": null,
+   "eps_diluted": 0.51,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-06-30",
+   "period_end": "2025-09-28",
+   "revenue": 16654000000,
+   "gross_profit": 12482000000,
+   "operating_income": null,
+   "eps_diluted": 0.62,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-09-29",
+   "period_end": "2025-12-31",
+   "revenue": 17557000000,
+   "gross_profit": 12285000000,
+   "operating_income": null,
+   "eps_diluted": -0.29,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-29",
+   "revenue": 14451000000,
+   "gross_profit": 10903000000,
+   "operating_income": null,
+   "eps_diluted": 0.47,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-03-30",
+   "period_end": "2026-06-28",
+   "revenue": 15034000000,
+   "gross_profit": 10942000000,
+   "operating_income": null,
+   "eps_diluted": -0.04,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-06-29",
+   "period_end": "2026-09-27",
+   "revenue": 16583000000,
+   "gross_profit": 12555000000,
+   "operating_income": null,
+   "eps_diluted": 0.56,
+   "derived": [
+    "gross_profit"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-03",
+   "period": "2026-09-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000127/pfe-20260927.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000127/0000078003-26-000127-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-04",
+   "period": "2026-06-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000095/pfe-20260628.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000095/0000078003-26-000095-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-05",
+   "period": "2026-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000054/pfe-20260329.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000054/0000078003-26-000054-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-26",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000026/pfe-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000026/0000078003-26-000026-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-04",
+   "period": "2025-09-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800325000150/pfe-20250928.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/78003/000007800325000150/0000078003-25-000150-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-05",
+   "period": "2025-06-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800325000138/pfe-20250629.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/78003/000007800325000138/0000078003-25-000138-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-05",
+   "period": "2025-03-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800325000114/pfe-20250330.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/78003/000007800325000114/0000078003-25-000114-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-27",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800325000054/pfe-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/78003/000007800325000054/0000078003-25-000054-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-04",
+   "period": "2024-09-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800324000191/pfe-20240929.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/78003/000007800324000191/0000078003-24-000191-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-05",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800324000166/pfe-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/78003/000007800324000166/0000078003-24-000166-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-22",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800324000039/pfe-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/78003/000007800324000039/0000078003-24-000039-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-23",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800323000024/pfe-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/78003/000007800323000024/0000078003-23-000024-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-24",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800322000027/pfe-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/78003/000007800322000027/0000078003-22-000027-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

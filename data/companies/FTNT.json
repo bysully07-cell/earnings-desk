@@ -1,0 +1,204 @@
+{
+ "ticker": "FTNT",
+ "name": "Fortinet",
+ "cik": 1262039,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 1660100000,
+   "gross_profit": 1345600000,
+   "operating_income": 574100000,
+   "eps_diluted": 0.68,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 1539700000,
+   "gross_profit": 1246600000,
+   "operating_income": 453800000,
+   "eps_diluted": 0.56,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 1630000000,
+   "gross_profit": 1315100000,
+   "operating_income": 458000000,
+   "eps_diluted": 0.57,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 1724900000,
+   "gross_profit": 1393200000,
+   "operating_income": 547300000,
+   "eps_diluted": 0.62,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 1905000000,
+   "gross_profit": 1515800000,
+   "operating_income": 625600000,
+   "eps_diluted": 0.68,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 1849600000,
+   "gross_profit": 1485100000,
+   "operating_income": 580000000,
+   "eps_diluted": 0.72,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 2047900000,
+   "gross_profit": 1643200000,
+   "operating_income": 689300000,
+   "eps_diluted": 0.82,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 2078400000,
+   "gross_profit": 1640900000,
+   "operating_income": 704300000,
+   "eps_diluted": 0.86,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-30",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203926000027/ftnt-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203926000027/0001262039-26-000027-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-30",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203926000021/ftnt-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203926000021/0001262039-26-000021-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-08",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203926000013/ftnt-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203926000013/0001262039-26-000013-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-25",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203926000007/ftnt-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203926000007/0001262039-26-000007-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-07",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203925000039/ftnt-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203925000039/0001262039-25-000039-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-08",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203925000028/ftnt-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203925000028/0001262039-25-000028-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-08",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203925000017/ftnt-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203925000017/0001262039-25-000017-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-21",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203925000011/ftnt-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203925000011/0001262039-25-000011-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-08",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203924000043/ftnt-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203924000043/0001262039-24-000043-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-08",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203924000037/ftnt-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203924000037/0001262039-24-000037-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-26",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203924000014/ftnt-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203924000014/0001262039-24-000014-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-24",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203923000010/ftnt-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203923000010/0001262039-23-000010-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-25",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203922000008/ftnt-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203922000008/0001262039-22-000008-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

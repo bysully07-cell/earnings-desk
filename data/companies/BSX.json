@@ -1,0 +1,210 @@
+{
+ "ticker": "BSX",
+ "name": "Boston Scientific",
+ "cik": 885725,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 4562000000,
+   "gross_profit": 3095000000,
+   "operating_income": 675000000,
+   "eps_diluted": 0.38,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 4663000000,
+   "gross_profit": 3210000000,
+   "operating_income": 921000000,
+   "eps_diluted": 0.45,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 5061000000,
+   "gross_profit": 3424000000,
+   "operating_income": 819000000,
+   "eps_diluted": 0.53,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 5065000000,
+   "gross_profit": 3542000000,
+   "operating_income": 1048000000,
+   "eps_diluted": 0.51,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 5285000000,
+   "gross_profit": 3678000000,
+   "operating_income": 825000000,
+   "eps_diluted": 0.45,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 5203000000,
+   "gross_profit": 3614000000,
+   "operating_income": 1101000000,
+   "eps_diluted": 0.9,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 5442000000,
+   "gross_profit": 3848000000,
+   "operating_income": 1178000000,
+   "eps_diluted": 0.61,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 5138000000,
+   "gross_profit": 3428000000,
+   "operating_income": 828000000,
+   "eps_diluted": 0.4,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-02",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/885725/000088572526000070/bsx-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/885725/000088572526000070/0000885725-26-000070-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-03",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/885725/000088572526000053/bsx-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/885725/000088572526000053/0000885725-26-000053-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-01",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/885725/000088572526000033/bsx-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/885725/000088572526000033/0000885725-26-000033-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-17",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/885725/000088572526000010/bsx-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/885725/000088572526000010/0000885725-26-000010-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-03",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/885725/000088572525000050/bsx-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/885725/000088572525000050/0000885725-25-000050-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-01",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/885725/000088572525000041/bsx-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/885725/000088572525000041/0000885725-25-000041-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-01",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/885725/000088572525000026/bsx-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/885725/000088572525000026/0000885725-25-000026-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-18",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/885725/000088572525000011/bsx-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/885725/000088572525000011/0000885725-25-000011-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-01",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/885725/000088572524000073/bsx-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/885725/000088572524000073/0000885725-24-000073-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-01",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/885725/000088572524000068/bsx-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/885725/000088572524000068/0000885725-24-000068-index.htm"
+  },
+  {
+   "form": "10-K/A",
+   "filed": "2024-02-21",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/885725/000088572524000020/bsx-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/885725/000088572524000020/0000885725-24-000020-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-20",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/885725/000088572524000017/bsx-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/885725/000088572524000017/0000885725-24-000017-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-23",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/885725/000088572523000008/bsx-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/885725/000088572523000008/0000885725-23-000008-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-23",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/885725/000088572522000006/bsx-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/885725/000088572522000006/0000885725-22-000006-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

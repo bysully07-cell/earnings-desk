@@ -1,0 +1,202 @@
+{
+ "ticker": "TMUS",
+ "name": "T-Mobile US",
+ "cik": 1283699,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 21872000000,
+   "gross_profit": null,
+   "operating_income": 4586000000,
+   "eps_diluted": 2.57,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 20886000000,
+   "gross_profit": null,
+   "operating_income": 4800000000,
+   "eps_diluted": 2.58,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 21132000000,
+   "gross_profit": null,
+   "operating_income": 5213000000,
+   "eps_diluted": 2.84,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 21957000000,
+   "gross_profit": null,
+   "operating_income": 4530000000,
+   "eps_diluted": 2.41,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 24334000000,
+   "gross_profit": null,
+   "operating_income": 3736000000,
+   "eps_diluted": 1.88,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 23107000000,
+   "gross_profit": null,
+   "operating_income": 4497000000,
+   "eps_diluted": 2.27,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 22791000000,
+   "gross_profit": null,
+   "operating_income": 5490000000,
+   "eps_diluted": 2.99,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 23584000000,
+   "gross_profit": null,
+   "operating_income": 5661000000,
+   "eps_diluted": 3.22,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-28",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369926000129/tmus-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369926000129/0001283699-26-000129-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-23",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369926000101/tmus-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369926000101/0001283699-26-000101-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-28",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369926000063/tmus-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369926000063/0001283699-26-000063-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-11",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369926000010/tmus-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369926000010/0001283699-26-000010-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-23",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369925000154/tmus-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369925000154/0001283699-25-000154-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-23",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369925000117/tmus-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369925000117/0001283699-25-000117-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-24",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369925000079/tmus-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369925000079/0001283699-25-000079-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-01-31",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369925000012/tmus-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369925000012/0001283699-25-000012-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-23",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369924000142/tmus-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369924000142/0001283699-24-000142-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-31",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369924000111/tmus-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369924000111/0001283699-24-000111-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-02",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369924000008/tmus-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369924000008/0001283699-24-000008-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-14",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369923000016/tmus-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369923000016/0001283699-23-000016-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-11",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369922000018/tmus-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369922000018/0001283699-22-000018-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

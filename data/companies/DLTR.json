@@ -1,0 +1,204 @@
+{
+ "ticker": "DLTR",
+ "name": "Dollar Tree",
+ "cik": 935703,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "01-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2024-08-04",
+   "period_end": "2024-11-02",
+   "revenue": 4341200000,
+   "gross_profit": 1534100000,
+   "operating_income": 330700000,
+   "eps_diluted": 1.08,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2024-11-03",
+   "period_end": "2025-02-01",
+   "revenue": 4996700000,
+   "gross_profit": 1879800000,
+   "operating_income": 533600000,
+   "eps_diluted": -17.17,
+   "derived": [
+    "operating_income"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-02-02",
+   "period_end": "2025-05-03",
+   "revenue": 4639700000,
+   "gross_profit": 1649500000,
+   "operating_income": 384100000,
+   "eps_diluted": 1.61,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-05-04",
+   "period_end": "2025-08-02",
+   "revenue": 4570400000,
+   "gross_profit": 1570100000,
+   "operating_income": 231000000,
+   "eps_diluted": 0.91,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2025-08-03",
+   "period_end": "2025-11-01",
+   "revenue": 4751000000,
+   "gross_profit": 1700500000,
+   "operating_income": 343300000,
+   "eps_diluted": 1.2,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2025-11-02",
+   "period_end": "2026-01-31",
+   "revenue": 5450700000,
+   "gross_profit": 2130600000,
+   "operating_income": 694700000,
+   "eps_diluted": 2.53,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2027 Q1",
+   "period_start": "2026-02-01",
+   "period_end": "2026-05-02",
+   "revenue": 4975800000,
+   "gross_profit": 1834800000,
+   "operating_income": 473300000,
+   "eps_diluted": 1.76,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2027 Q2",
+   "period_start": "2026-05-03",
+   "period_end": "2026-08-01",
+   "revenue": 4891200000,
+   "gross_profit": 2099000000,
+   "operating_income": 690100000,
+   "eps_diluted": 2.7,
+   "derived": [
+    "gross_profit"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-08-27",
+   "period": "2026-08-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/935703/000093570326000109/dltr-20260801.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/935703/000093570326000109/0000935703-26-000109-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-28",
+   "period": "2026-05-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/935703/000093570326000065/dltr-20260502.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/935703/000093570326000065/0000935703-26-000065-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-03-16",
+   "period": "2026-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/935703/000093570326000025/dltr-20260131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/935703/000093570326000025/0000935703-26-000025-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-12-03",
+   "period": "2025-11-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/935703/000093570325000105/dltr-20251101.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/935703/000093570325000105/0000935703-25-000105-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-09-03",
+   "period": "2025-08-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/935703/000093570325000061/dltr-20250802.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/935703/000093570325000061/0000935703-25-000061-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-06-04",
+   "period": "2025-05-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/935703/000093570325000026/dltr-20250503.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/935703/000093570325000026/0000935703-25-000026-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-03-26",
+   "period": "2025-02-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/935703/000093570325000015/dltr-20250201.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/935703/000093570325000015/0000935703-25-000015-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-12-04",
+   "period": "2024-11-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/935703/000093570324000059/dltr-20241102.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/935703/000093570324000059/0000935703-24-000059-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-09-04",
+   "period": "2024-08-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/935703/000093570324000041/dltr-20240803.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/935703/000093570324000041/0000935703-24-000041-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-06-05",
+   "period": "2024-05-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/935703/000093570324000029/dltr-20240504.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/935703/000093570324000029/0000935703-24-000029-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-03-20",
+   "period": "2024-02-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/935703/000093570324000011/dltr-20240203.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/935703/000093570324000011/0000935703-24-000011-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-03-10",
+   "period": "2023-01-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/935703/000093570323000016/dltr-20230128.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/935703/000093570323000016/0000935703-23-000016-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-03-15",
+   "period": "2022-01-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/935703/000093570322000020/dltr-20220129.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/935703/000093570322000020/0000935703-22-000020-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

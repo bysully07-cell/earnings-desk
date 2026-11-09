@@ -1,40 +1,55 @@
 # Earnings Desk
 
-A static site that tracks quarterly results for AAPL, NVDA, MSFT, GOOGL, AMZN, AVGO, TSLA, META, WMT, LLY and AMD, with data pulled straight from SEC filings.
+Quarterly results, EPS beat/miss and prices for every S&P 500 and Nasdaq-100 company (~518 tickers), built from SEC filings and published as a static site on GitHub Pages.
 
 ```
-SEC EDGAR API ──► fetch_data.py ──► data.json ─┐
-                  (GitHub Actions,             ├──► index.html (GitHub Pages)
-                   weekday mornings)           │
-                          notes.json (by hand) ┘
+                       ┌─ daily, 6:30am ET ─────────────────────────────┐
+Wikipedia (index lists) ─► universe.py ─┐                                 │
+SEC bulk XBRL zips ──────► sec.py ──────┼─► fetch_data.py ─► data/companies/<T>.json
+Finnhub (EPS est., logos) ► finnhub.py ─┘                 └─► data/index.json ◄─┐
+                       └────────────────────────────────────────────────┘     │
+Finnhub quotes ─► update_prices.py (every 30 min, market hours) ──────────────┘
+                                                                   │
+                                   index.html (GitHub Pages) ◄─────┘
 ```
 
 | File | Role |
 |---|---|
-| `fetch_data.py` | Pulls XBRL facts from SEC's companyfacts API, normalizes tags, derives Q4, writes `data.json` |
-| `data.json` | Generated. Last 8 fiscal quarters per company. Don't edit by hand |
-| `notes.json` | Hand-maintained beat/miss and guidance notes, keyed by ticker and fiscal period |
-| `index.html` | Front end. Fetches both JSON files and renders the tables, chart and filing links; pulls live prices from Finnhub in the browser. No build step, no dependencies |
-| `config.example.js` | Template for `config.js`, which holds the Finnhub key. `config.js` is gitignored; the deploy job generates it from the `FINNHUB_API_KEY` secret |
-| `.github/workflows/update-data.yml` | Runs the fetcher Mon–Fri, commits `data.json` when it changes, then deploys the site to GitHub Pages (also redeploys on every push to main) |
+| `universe.py` | Which companies: S&P 500 + Nasdaq-100 from Wikipedia's constituent tables, or every US-listed stock (`UNIVERSE=all`) |
+| `sec.py` | SEC data: bulk-zip or per-company API source, XBRL tag mapping, Q4 derivation, fiscal calendars, filing links |
+| `finnhub.py` | Rate-limited Finnhub client (~54 calls/min, under the 60/min free tier) |
+| `fetch_data.py` | Daily pipeline: fundamentals, filings, EPS surprises, logos → data files |
+| `update_prices.py` | Price refresh into `data/index.json`, every 30 min in US market hours |
+| `store.py` | Data file layout and writers |
+| `index.html` | The site: ticker tape, search, featured cards, sortable table, company detail. No build step |
+| `notes.json` | Optional hand-written notes/guidance; a `result` here overrides the automatic beat/miss |
+
+## Data files
+- `data/index.json`: one row per company (identity, logo, latest quarter, latest EPS surprise, price, market cap). Loaded on page open, re-checked every 5 minutes.
+- `data/companies/<TICKER>.json`: 8 quarters, filing links, last 4 EPS surprises. Loaded when you open a company.
+
+## The Finnhub key stays secret
+Every Finnhub call runs inside GitHub Actions with the key from the `FINNHUB_API_KEY` repo secret. The site only reads JSON files, so the key never reaches a browser.
+
+## Workflows
+- `update-data.yml`: weekdays 11:30 UTC. Downloads SEC's bulk zips (~3 GB, read selectively), calls Finnhub (~19 min first run, ~10 min after), commits `data/`, deploys.
+- `update-prices.yml`: every 30 min, 13:00–21:30 UTC weekdays; exits early outside 9:30am–4:45pm ET and on holidays. ~520 quotes ≈ 10 min.
+- `deploy.yml`: publishes the site. Called by both jobs, and runs on your own pushes.
+Both data jobs share a concurrency group, so they never run at once (no doubled Finnhub rate, no push races).
 
 ## Run locally
-
 ```bash
 pip install -r requirements.txt
-python3 fetch_data.py
-cp config.example.js config.js  # paste your Finnhub key in (optional; prices are off without it)
-python3 -m http.server 8000     # then open http://localhost:8000
+python3 fetch_data.py --source api --only AAPL,NVDA   # quick: per-company SEC API, two tickers
+python3 fetch_data.py                                 # full: downloads SEC bulk zips into .cache/
+FINNHUB_API_KEY=... python3 update_prices.py --force  # prices outside market hours
+python3 -m http.server 8000                           # open http://localhost:8000
 ```
 
-(Opening `index.html` straight from disk won't work: browsers block `fetch()` on `file://` URLs.)
+## Switching to all US-listed stocks
+Set `UNIVERSE: all` in both workflows' `env` (or export it locally). `universe.py` then uses SEC's `company_tickers_exchange.json` (Nasdaq, NYSE, CBOE: ~7,700 tickers). SEC processing still takes about a minute thanks to the bulk zips. Finnhub is the constraint: at 60 calls/min, prices for 7,700 tickers take ~2.4 hours, so each 30-minute run updates the 1,400 stalest prices and the daily job rotates EPS updates oldest-first. Full coverage at the same cadence needs a paid Finnhub plan.
 
 ## Data notes
-
-- All figures are GAAP, as filed. Values marked ◆ on the page are derived:
-  - **Q4** = 10-K annual figure − (Q1 + Q2 + Q3). For EPS, Q4 net income is divided by derived Q4 diluted shares, because per-share values don't subtract cleanly.
-  - **Gross profit** = revenue − cost of revenue, for companies that don't report a gross profit line (AMZN, WMT, META, GOOGL, LLY).
-  - **LLY operating income** = pre-tax income − non-operating income, because Lilly's income statement has no operating income subtotal.
-- Fiscal periods use each company's own calendar (NVDA's FY2027 Q2 ended July 2026).
-- Filing links come from SEC's submissions API (`data.sec.gov/submissions/`): the last 5 10-Ks and 8 10-Qs per company, plus any amendments, linking straight to sec.gov.
-- Share prices come from Finnhub's `/quote` endpoint, called from the browser every 60 seconds while the tab is visible. P/E = price ÷ sum of the last four quarters of diluted EPS.
+- GAAP figures as filed. ◆ marks a derived value: Q4 = annual − (Q1+Q2+Q3); Q4 EPS = derived Q4 net income ÷ derived Q4 diluted shares; gross profit = revenue − cost of revenue when not reported; bank revenue = net interest income + noninterest income.
+- Beat/miss uses Finnhub's EPS actual vs. consensus estimate, which is usually *adjusted* EPS, so it can differ from the GAAP EPS shown beside it. "In line" means equal to the cent.
+- Foreign filers that report under IFRS (ASML, ARM, PDD and a few others; 20-F/40-F) show prices and filing links but no quarterly figures.

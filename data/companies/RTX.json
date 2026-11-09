@@ -1,0 +1,201 @@
+{
+ "ticker": "RTX",
+ "name": "RTX Corporation",
+ "cik": 101829,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 21623000000,
+   "gross_profit": null,
+   "operating_income": 2111000000,
+   "eps_diluted": 1.1,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 20306000000,
+   "gross_profit": null,
+   "operating_income": 2035000000,
+   "eps_diluted": 1.14,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 21581000000,
+   "gross_profit": null,
+   "operating_income": 2146000000,
+   "eps_diluted": 1.22,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 22478000000,
+   "gross_profit": null,
+   "operating_income": 2523000000,
+   "eps_diluted": 1.41,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 24238000000,
+   "gross_profit": null,
+   "operating_income": 2596000000,
+   "eps_diluted": 1.19,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 22076000000,
+   "gross_profit": null,
+   "operating_income": 2555000000,
+   "eps_diluted": 1.51,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 24708000000,
+   "gross_profit": null,
+   "operating_income": 2811000000,
+   "eps_diluted": 1.57,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 24965000000,
+   "gross_profit": null,
+   "operating_income": 3337000000,
+   "eps_diluted": 1.89,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-20",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/101829/000010182926000031/rtx-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/101829/000010182926000031/0000101829-26-000031-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-23",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/101829/000010182926000027/rtx-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/101829/000010182926000027/0000101829-26-000027-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-21",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/101829/000010182926000011/rtx-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/101829/000010182926000011/0000101829-26-000011-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-06",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/101829/000010182926000006/rtx-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/101829/000010182926000006/0000101829-26-000006-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-21",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/101829/000010182925000042/rtx-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/101829/000010182925000042/0000101829-25-000042-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-22",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/101829/000010182925000032/rtx-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/101829/000010182925000032/0000101829-25-000032-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-22",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/101829/000010182925000015/rtx-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/101829/000010182925000015/0000101829-25-000015-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-03",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/101829/000010182925000005/rtx-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/101829/000010182925000005/0000101829-25-000005-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-22",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/101829/000010182924000038/rtx-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/101829/000010182924000038/0000101829-24-000038-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-25",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/101829/000010182924000027/rtx-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/101829/000010182924000027/0000101829-24-000027-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-05",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/101829/000010182924000008/rtx-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/101829/000010182924000008/0000101829-24-000008-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-07",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/101829/000010182923000009/rtx-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/101829/000010182923000009/0000101829-23-000009-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-11",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/101829/000010182922000005/rtx-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/101829/000010182922000005/0000101829-22-000005-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

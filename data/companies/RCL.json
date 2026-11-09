@@ -1,0 +1,215 @@
+{
+ "ticker": "RCL",
+ "name": "Royal Caribbean Group",
+ "cik": 884887,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfGoodsAndServicesSold)",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 3760000000,
+   "gross_profit": 1707000000,
+   "operating_income": 623000000,
+   "eps_diluted": 1.9,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 3999000000,
+   "gross_profit": 1920000000,
+   "operating_income": 945000000,
+   "eps_diluted": 2.7,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 4538000000,
+   "gross_profit": 2255000000,
+   "operating_income": 1329000000,
+   "eps_diluted": 4.41,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 5139000000,
+   "gross_profit": 2660000000,
+   "operating_income": 1702000000,
+   "eps_diluted": 5.74,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 4259000000,
+   "gross_profit": 2017000000,
+   "operating_income": 934000000,
+   "eps_diluted": 2.78,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 4452000000,
+   "gross_profit": 2205000000,
+   "operating_income": 1162000000,
+   "eps_diluted": 3.48,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 4832000000,
+   "gross_profit": 2285000000,
+   "operating_income": 1307000000,
+   "eps_diluted": 4.2,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 5591000000,
+   "gross_profit": 2880000000,
+   "operating_income": 1871000000,
+   "eps_diluted": 6.45,
+   "derived": [
+    "gross_profit"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-27",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/884887/000088488726000044/rcl-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/884887/000088488726000044/0000884887-26-000044-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-28",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/884887/000088488726000038/rcl-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/884887/000088488726000038/0000884887-26-000038-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-30",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/884887/000088488726000026/rcl-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/884887/000088488726000026/0000884887-26-000026-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-11",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/884887/000088488726000007/rcl-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/884887/000088488726000007/0000884887-26-000007-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-28",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/884887/000088488725000148/rcl-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/884887/000088488725000148/0000884887-25-000148-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-29",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/884887/000088488725000142/rcl-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/884887/000088488725000142/0000884887-25-000142-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-29",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/884887/000088488725000095/rcl-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/884887/000088488725000095/0000884887-25-000095-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-14",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/884887/000088488725000050/rcl-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/884887/000088488725000050/0000884887-25-000050-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-29",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/884887/000088488724000147/rcl-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/884887/000088488724000147/0000884887-24-000147-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-25",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/884887/000088488724000130/rcl-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/884887/000088488724000130/0000884887-24-000130-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-21",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/884887/000088488724000075/rcl-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/884887/000088488724000075/0000884887-24-000075-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-23",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/884887/000088488723000006/rcl-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/884887/000088488723000006/0000884887-23-000006-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-03-01",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/884887/000088488722000008/rcl-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/884887/000088488722000008/0000884887-22-000008-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

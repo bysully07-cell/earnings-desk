@@ -1,0 +1,202 @@
+{
+ "ticker": "WDAY",
+ "name": "Workday, Inc.",
+ "cik": 1327811,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "01-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2024-08-01",
+   "period_end": "2024-10-31",
+   "revenue": 2160000000,
+   "gross_profit": null,
+   "operating_income": 165000000,
+   "eps_diluted": 0.72,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2024-11-01",
+   "period_end": "2025-01-31",
+   "revenue": 2211000000,
+   "gross_profit": null,
+   "operating_income": 75000000,
+   "eps_diluted": 0.35,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-02-01",
+   "period_end": "2025-04-30",
+   "revenue": 2240000000,
+   "gross_profit": null,
+   "operating_income": 39000000,
+   "eps_diluted": 0.25,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-05-01",
+   "period_end": "2025-07-31",
+   "revenue": 2348000000,
+   "gross_profit": null,
+   "operating_income": 248000000,
+   "eps_diluted": 0.84,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2025-08-01",
+   "period_end": "2025-10-31",
+   "revenue": 2432000000,
+   "gross_profit": null,
+   "operating_income": 259000000,
+   "eps_diluted": 0.94,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2025-11-01",
+   "period_end": "2026-01-31",
+   "revenue": 2532000000,
+   "gross_profit": null,
+   "operating_income": 175000000,
+   "eps_diluted": 0.55,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2027 Q1",
+   "period_start": "2026-02-01",
+   "period_end": "2026-04-30",
+   "revenue": 2542000000,
+   "gross_profit": null,
+   "operating_income": 338000000,
+   "eps_diluted": 0.87,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2027 Q2",
+   "period_start": "2026-05-01",
+   "period_end": "2026-07-31",
+   "revenue": 2649000000,
+   "gross_profit": null,
+   "operating_income": 313000000,
+   "eps_diluted": 2.57,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-08-27",
+   "period": "2026-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781126000044/wday-20260731.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781126000044/0001327811-26-000044-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-22",
+   "period": "2026-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781126000026/wday-20260430.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781126000026/0001327811-26-000026-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-03-06",
+   "period": "2026-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781126000014/wday-20260131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781126000014/0001327811-26-000014-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-26",
+   "period": "2025-10-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781125000198/wday-20251031.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781125000198/0001327811-25-000198-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-22",
+   "period": "2025-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781125000184/wday-20250731.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781125000184/0001327811-25-000184-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-23",
+   "period": "2025-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781125000107/wday-20250430.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781125000107/0001327811-25-000107-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-03-11",
+   "period": "2025-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781125000056/wday-20250131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781125000056/0001327811-25-000056-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-12-05",
+   "period": "2024-10-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781124000242/wday-20241031.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781124000242/0001327811-24-000242-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-28",
+   "period": "2024-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781124000165/wday-20240731.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781124000165/0001327811-24-000165-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-05-29",
+   "period": "2024-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781124000093/wday-20240430.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781124000093/0001327811-24-000093-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-03-08",
+   "period": "2024-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781124000044/wday-20240131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781124000044/0001327811-24-000044-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-27",
+   "period": "2023-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781123000024/wday-20230131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781123000024/0001327811-23-000024-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-28",
+   "period": "2022-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781122000030/wday-20220131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781122000030/0001327811-22-000030-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

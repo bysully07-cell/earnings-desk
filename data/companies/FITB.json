@@ -1,0 +1,211 @@
+{
+ "ticker": "FITB",
+ "name": "Fifth Third Bancorp",
+ "cik": 35527,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "derived: net interest income + noninterest income",
+  "gross_profit": null,
+  "operating_income": null,
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 2171000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.91,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 2131000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.71,
+   "derived": [
+    "revenue"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 2245000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.88,
+   "derived": [
+    "revenue"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 2301000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.91,
+   "derived": [
+    "revenue"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 2340000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 1.09,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 2829000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.15,
+   "derived": [
+    "revenue"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 3274000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.83,
+   "derived": [
+    "revenue"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 3279000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.9,
+   "derived": [
+    "revenue"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-03",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/35527/000003552726000243/fitb-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/35527/000003552726000243/0000035527-26-000243-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-04",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/35527/000003552726000202/fitb-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/35527/000003552726000202/0000035527-26-000202-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-05",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/35527/000003552726000182/fitb-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/35527/000003552726000182/0000035527-26-000182-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-24",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/35527/000003552726000124/fitb-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/35527/000003552726000124/0000035527-26-000124-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-04",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/35527/000003552725000212/fitb-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/35527/000003552725000212/0000035527-25-000212-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-05",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/35527/000003552725000171/fitb-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/35527/000003552725000171/0000035527-25-000171-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-06",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/35527/000003552725000137/fitb-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/35527/000003552725000137/0000035527-25-000137-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-24",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/35527/000003552725000079/fitb-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/35527/000003552725000079/0000035527-25-000079-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-05",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/35527/000003552724000249/fitb-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/35527/000003552724000249/0000035527-24-000249-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-06",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/35527/000003552724000212/fitb-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/35527/000003552724000212/0000035527-24-000212-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-27",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/35527/000003552724000088/fitb-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/35527/000003552724000088/0000035527-24-000088-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-24",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/35527/000003552723000122/fitb-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/35527/000003552723000122/0000035527-23-000122-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-25",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/35527/000003552722000119/fitb-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/35527/000003552722000119/0000035527-22-000119-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

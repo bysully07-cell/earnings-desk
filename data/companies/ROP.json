@@ -1,0 +1,199 @@
+{
+ "ticker": "ROP",
+ "name": "Roper Technologies",
+ "cik": 882835,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 1877100000,
+   "gross_profit": 1282300000,
+   "operating_income": 524700000,
+   "eps_diluted": 4.28,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 1882800000,
+   "gross_profit": 1293700000,
+   "operating_income": 525800000,
+   "eps_diluted": 3.06,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 1943600000,
+   "gross_profit": 1345400000,
+   "operating_income": 548300000,
+   "eps_diluted": 3.49,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 2017500000,
+   "gross_profit": 1403000000,
+   "operating_income": 573000000,
+   "eps_diluted": 3.68,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 2058600000,
+   "gross_profit": 1429900000,
+   "operating_income": 588300000,
+   "eps_diluted": 3.97,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 2095300000,
+   "gross_profit": 1453800000,
+   "operating_income": 569600000,
+   "eps_diluted": 4.87,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 2108900000,
+   "gross_profit": 1470200000,
+   "operating_income": 584700000,
+   "eps_diluted": 11.62,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 2171800000,
+   "gross_profit": 1522600000,
+   "operating_income": 623200000,
+   "eps_diluted": 4.88,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-02",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/882835/000088283526000047/rop-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/882835/000088283526000047/0000882835-26-000047-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-31",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/882835/000088283526000036/rop-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/882835/000088283526000036/0000882835-26-000036-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-01",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/882835/000088283526000019/rop-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/882835/000088283526000019/0000882835-26-000019-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-24",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/882835/000088283526000009/rop-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/882835/000088283526000009/0000882835-26-000009-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-31",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/882835/000088283525000045/rop-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/882835/000088283525000045/0000882835-25-000045-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-01",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/882835/000088283525000036/rop-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/882835/000088283525000036/0000882835-25-000036-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-02",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/882835/000088283525000020/rop-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/882835/000088283525000020/0000882835-25-000020-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-24",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/882835/000088283525000008/rop-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/882835/000088283525000008/0000882835-25-000008-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-01",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/882835/000088283524000044/rop-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/882835/000088283524000044/0000882835-24-000044-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-01",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/882835/000088283524000037/rop-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/882835/000088283524000037/0000882835-24-000037-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-22",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/882835/000088283524000008/rop-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/882835/000088283524000008/0000882835-24-000008-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-27",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/882835/000088283523000016/rop-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/882835/000088283523000016/0000882835-23-000016-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-22",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/882835/000088283522000012/rop-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/882835/000088283522000012/0000882835-22-000012-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

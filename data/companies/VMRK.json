@@ -1,0 +1,107 @@
+{
+ "ticker": "VMRK",
+ "name": "Vivmark Residential",
+ "cik": 906107,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": null,
+ "sources": {},
+ "quarters": [],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-07-30",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/906107/000119312526326170/eqr-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/906107/000119312526326170/0001193125-26-326170-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-30",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/906107/000119312526197417/eqr-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/906107/000119312526197417/0001193125-26-197417-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-13",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/906107/000119312526051433/eqr-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/906107/000119312526051433/0001193125-26-051433-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-30",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/906107/000119312525258599/eqr-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/906107/000119312525258599/0001193125-25-258599-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-06",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/906107/000095017025104090/eqr-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/906107/000095017025104090/0000950170-25-104090-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-30",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/906107/000095017025061082/eqr-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/906107/000095017025061082/0000950170-25-061082-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-13",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/906107/000095017025019894/eqr-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/906107/000095017025019894/0000950170-25-019894-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-04",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/906107/000095017024120716/eqr-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/906107/000095017024120716/0000950170-24-120716-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-01",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/906107/000095017024089300/eqr-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/906107/000095017024089300/0000950170-24-089300-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-05-02",
+   "period": "2024-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/906107/000095017024052144/eqr-20240331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/906107/000095017024052144/0000950170-24-052144-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-15",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/906107/000095017024015907/eqr-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/906107/000095017024015907/0000950170-24-015907-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-16",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/906107/000095017023003060/eqr-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/906107/000095017023003060/0000950170-23-003060-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-17",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/906107/000156459022005566/eqr-10k_20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/906107/000156459022005566/0001564590-22-005566-index.htm"
+  }
+ ],
+ "note": "revenue tags stop at 2020-03-31; newer filings use tags this site doesn't map",
+ "earnings": [],
+ "earnings_checked": null
+}

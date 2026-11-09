@@ -1,0 +1,203 @@
+{
+ "ticker": "WAB",
+ "name": "Wabtec",
+ "cik": 943452,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 2583000000,
+   "gross_profit": 797000000,
+   "operating_income": 334000000,
+   "eps_diluted": 1.23,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 2610000000,
+   "gross_profit": 900000000,
+   "operating_income": 474000000,
+   "eps_diluted": 1.88,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 2706000000,
+   "gross_profit": 938000000,
+   "operating_income": 472000000,
+   "eps_diluted": 1.96,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 2886000000,
+   "gross_profit": 1002000000,
+   "operating_income": 491000000,
+   "eps_diluted": 1.81,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 2965000000,
+   "gross_profit": 966000000,
+   "operating_income": 356000000,
+   "eps_diluted": 1.18,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 2950000000,
+   "gross_profit": 1061000000,
+   "operating_income": 517000000,
+   "eps_diluted": 2.12,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 3179000000,
+   "gross_profit": 1161000000,
+   "operating_income": 600000000,
+   "eps_diluted": 2.33,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 3120000000,
+   "gross_profit": 1164000000,
+   "operating_income": 625000000,
+   "eps_diluted": 2.42,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-21",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/943452/000162828026066629/wab-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/943452/000162828026066629/0001628280-26-066629-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-22",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/943452/000162828026049139/wab-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/943452/000162828026049139/0001628280-26-049139-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-22",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/943452/000162828026026422/wab-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/943452/000162828026026422/0001628280-26-026422-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-13",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/943452/000162828026008067/wab-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/943452/000162828026008067/0001628280-26-008067-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-22",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/943452/000162828025045790/wab-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/943452/000162828025045790/0001628280-25-045790-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-24",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/943452/000162828025035852/wab-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/943452/000162828025035852/0001628280-25-035852-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-23",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/943452/000162828025019005/wab-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/943452/000162828025019005/0001628280-25-019005-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-12",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/943452/000162828025005100/wab-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/943452/000162828025005100/0001628280-25-005100-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-23",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/943452/000162828024043365/wab-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/943452/000162828024043365/0001628280-24-043365-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-24",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/943452/000162828024032762/wab-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/943452/000162828024032762/0001628280-24-032762-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-14",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/943452/000162828024004774/wab-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/943452/000162828024004774/0001628280-24-004774-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-15",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/943452/000162828023003675/wab-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/943452/000162828023003675/0001628280-23-003675-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-17",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/943452/000162828022002997/wab-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/943452/000162828022002997/0001628280-22-002997-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

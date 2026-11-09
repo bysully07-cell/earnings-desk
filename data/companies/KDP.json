@@ -1,0 +1,204 @@
+{
+ "ticker": "KDP",
+ "name": "Keurig Dr Pepper",
+ "cik": 1418135,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q3",
+   "period_start": "2024-07-01",
+   "period_end": "2024-09-30",
+   "revenue": 3891000000,
+   "gross_profit": 2140000000,
+   "operating_income": 902000000,
+   "eps_diluted": 0.45,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 4070000000,
+   "gross_profit": 2277000000,
+   "operating_income": 63000000,
+   "eps_diluted": -0.11,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 3635000000,
+   "gross_profit": 1985000000,
+   "operating_income": 801000000,
+   "eps_diluted": 0.38,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 4163000000,
+   "gross_profit": 2255000000,
+   "operating_income": 898000000,
+   "eps_diluted": 0.4,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 4306000000,
+   "gross_profit": 2340000000,
+   "operating_income": 995000000,
+   "eps_diluted": 0.49,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 4499000000,
+   "gross_profit": 2419000000,
+   "operating_income": 881000000,
+   "eps_diluted": 0.26,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 3976000000,
+   "gross_profit": 2098000000,
+   "operating_income": 756000000,
+   "eps_diluted": 0.2,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 7309000000,
+   "gross_profit": 3066000000,
+   "operating_income": 628000000,
+   "eps_diluted": 0.04,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-08-10",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1418135/000141813526000051/kdp-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1418135/000141813526000051/0001418135-26-000051-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-23",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1418135/000141813526000026/kdp-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1418135/000141813526000026/0001418135-26-000026-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-24",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1418135/000141813526000016/kdp-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1418135/000141813526000016/0001418135-26-000016-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-28",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1418135/000141813525000125/kdp-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1418135/000141813525000125/0001418135-25-000125-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-24",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1418135/000141813525000103/kdp-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1418135/000141813525000103/0001418135-25-000103-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-24",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1418135/000141813525000061/kdp-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1418135/000141813525000061/0001418135-25-000061-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-25",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1418135/000141813525000013/kdp-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1418135/000141813525000013/0001418135-25-000013-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-24",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1418135/000141813524000090/kdp-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1418135/000141813524000090/0001418135-24-000090-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-25",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1418135/000141813524000073/kdp-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1418135/000141813524000073/0001418135-24-000073-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-04-25",
+   "period": "2024-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1418135/000141813524000054/kdp-20240331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1418135/000141813524000054/0001418135-24-000054-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-22",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1418135/000141813524000007/kdp-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1418135/000141813524000007/0001418135-24-000007-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-23",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1418135/000141813523000003/kdp-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1418135/000141813523000003/0001418135-23-000003-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-24",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1418135/000141813522000005/kdp-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1418135/000141813522000005/0001418135-22-000005-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

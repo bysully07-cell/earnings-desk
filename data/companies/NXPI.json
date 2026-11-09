@@ -1,0 +1,204 @@
+{
+ "ticker": "NXPI",
+ "name": "NXP Semiconductors",
+ "cik": 1413447,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-09-30",
+   "period_end": "2024-12-31",
+   "revenue": 3111000000,
+   "gross_profit": 1678000000,
+   "operating_income": 675000000,
+   "eps_diluted": 1.93,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-30",
+   "revenue": 2835000000,
+   "gross_profit": 1560000000,
+   "operating_income": 723000000,
+   "eps_diluted": 1.92,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-03-31",
+   "period_end": "2025-06-29",
+   "revenue": 2926000000,
+   "gross_profit": 1562000000,
+   "operating_income": 687000000,
+   "eps_diluted": 1.75,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-06-30",
+   "period_end": "2025-09-28",
+   "revenue": 3173000000,
+   "gross_profit": 1787000000,
+   "operating_income": 893000000,
+   "eps_diluted": 2.48,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-09-29",
+   "period_end": "2025-12-31",
+   "revenue": 3335000000,
+   "gross_profit": 1807000000,
+   "operating_income": 744000000,
+   "eps_diluted": 1.79,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-29",
+   "revenue": 3181000000,
+   "gross_profit": 1788000000,
+   "operating_income": 1505000000,
+   "eps_diluted": 4.43,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-03-30",
+   "period_end": "2026-06-28",
+   "revenue": 3496000000,
+   "gross_profit": 2002000000,
+   "operating_income": 1071000000,
+   "eps_diluted": 3.02,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-06-29",
+   "period_end": "2026-09-27",
+   "revenue": 3786000000,
+   "gross_profit": 2189000000,
+   "operating_income": 1228000000,
+   "eps_diluted": 3.48,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-27",
+   "period": "2026-09-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344726000059/nxpi-20260927.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344726000059/0001413447-26-000059-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-28",
+   "period": "2026-06-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344726000045/nxpi-20260628.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344726000045/0001413447-26-000045-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-28",
+   "period": "2026-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344726000034/nxpi-20260329.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344726000034/0001413447-26-000034-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-19",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344726000008/nxpi-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344726000008/0001413447-26-000008-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-28",
+   "period": "2025-09-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344725000120/nxpi-20250928.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344725000120/0001413447-25-000120-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-24",
+   "period": "2025-06-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344725000106/nxpi-20250629.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344725000106/0001413447-25-000106-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-29",
+   "period": "2025-03-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344725000031/nxpi-20250330.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344725000031/0001413447-25-000031-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-20",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344725000019/nxpi-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344725000019/0001413447-25-000019-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-05",
+   "period": "2024-09-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344724000089/nxpi-20240929.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344724000089/0001413447-24-000089-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-23",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344724000072/nxpi-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344724000072/0001413447-24-000072-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-22",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344724000013/nxpi-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344724000013/0001413447-24-000013-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-03-01",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344723000006/nxpi-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344723000006/0001413447-23-000006-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-24",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344722000008/nxpi-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344722000008/0001413447-22-000008-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

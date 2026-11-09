@@ -1,0 +1,203 @@
+{
+ "ticker": "VEEV",
+ "name": "Veeva Systems",
+ "cik": 1393052,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "01-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2024-08-01",
+   "period_end": "2024-10-31",
+   "revenue": 699207000,
+   "gross_profit": 524818000,
+   "operating_income": 181353000,
+   "eps_diluted": 1.13,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2024-11-01",
+   "period_end": "2025-01-31",
+   "revenue": 720886000,
+   "gross_profit": 539895000,
+   "operating_income": 188423000,
+   "eps_diluted": 1.17,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-02-01",
+   "period_end": "2025-04-30",
+   "revenue": 759043000,
+   "gross_profit": 585219000,
+   "operating_income": 233732000,
+   "eps_diluted": 1.37,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-05-01",
+   "period_end": "2025-07-31",
+   "revenue": 789081000,
+   "gross_profit": 593828000,
+   "operating_income": 195908000,
+   "eps_diluted": 1.19,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2025-08-01",
+   "period_end": "2025-10-31",
+   "revenue": 811236000,
+   "gross_profit": 611771000,
+   "operating_income": 240853000,
+   "eps_diluted": 1.4,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2025-11-01",
+   "period_end": "2026-01-31",
+   "revenue": 835951000,
+   "gross_profit": 622474000,
+   "operating_income": 245876000,
+   "eps_diluted": 1.48,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2027 Q1",
+   "period_start": "2026-02-01",
+   "period_end": "2026-04-30",
+   "revenue": 882948000,
+   "gross_profit": 662024000,
+   "operating_income": 273112000,
+   "eps_diluted": 1.57,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2027 Q2",
+   "period_start": "2026-05-01",
+   "period_end": "2026-07-31",
+   "revenue": 927963000,
+   "gross_profit": 695951000,
+   "operating_income": 275018000,
+   "eps_diluted": 1.66,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-08-27",
+   "period": "2026-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1393052/000139305226000036/veev-20260731.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1393052/000139305226000036/0001393052-26-000036-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-06-05",
+   "period": "2026-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1393052/000139305226000026/veev-20260430.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1393052/000139305226000026/0001393052-26-000026-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-03-20",
+   "period": "2026-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1393052/000139305226000014/veev-20260131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1393052/000139305226000014/0001393052-26-000014-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-21",
+   "period": "2025-10-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1393052/000139305225000078/veev-20251031.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1393052/000139305225000078/0001393052-25-000078-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-29",
+   "period": "2025-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1393052/000139305225000067/veev-20250731.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1393052/000139305225000067/0001393052-25-000067-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-06-02",
+   "period": "2025-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1393052/000139305225000042/veev-20250430.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1393052/000139305225000042/0001393052-25-000042-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-03-24",
+   "period": "2025-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1393052/000139305225000022/veev-20250131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1393052/000139305225000022/0001393052-25-000022-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-12-09",
+   "period": "2024-10-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1393052/000139305224000075/veev-20241031.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1393052/000139305224000075/0001393052-24-000075-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-09-04",
+   "period": "2024-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1393052/000139305224000062/veev-20240731.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1393052/000139305224000062/0001393052-24-000062-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-06-04",
+   "period": "2024-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1393052/000139305224000024/veev-20240430.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1393052/000139305224000024/0001393052-24-000024-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-03-25",
+   "period": "2024-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1393052/000139305224000013/veev-20240131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1393052/000139305224000013/0001393052-24-000013-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-03-30",
+   "period": "2023-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1393052/000139305223000025/veev-20230131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1393052/000139305223000025/0001393052-23-000025-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-03-30",
+   "period": "2022-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1393052/000139305222000017/veev-20220131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1393052/000139305222000017/0001393052-22-000017-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

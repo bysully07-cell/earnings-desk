@@ -1,0 +1,201 @@
+{
+ "ticker": "MET",
+ "name": "MetLife",
+ "cik": 1099219,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 18666000000,
+   "gross_profit": null,
+   "operating_income": 1491000000,
+   "eps_diluted": 1.82,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 18569000000,
+   "gross_profit": null,
+   "operating_income": 1415000000,
+   "eps_diluted": 1.28,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 17340000000,
+   "gross_profit": null,
+   "operating_income": 1393000000,
+   "eps_diluted": 1.03,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 17361000000,
+   "gross_profit": null,
+   "operating_income": 1650000000,
+   "eps_diluted": 1.22,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 23814000000,
+   "gross_profit": null,
+   "operating_income": 1679000000,
+   "eps_diluted": 1.22,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 19074000000,
+   "gross_profit": null,
+   "operating_income": 1631000000,
+   "eps_diluted": 1.74,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 19154000000,
+   "gross_profit": null,
+   "operating_income": 1604000000,
+   "eps_diluted": 1.09,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 20522000000,
+   "gross_profit": null,
+   "operating_income": 1826000000,
+   "eps_diluted": 3.67,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-06",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1099219/000109921926000062/met-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1099219/000109921926000062/0001099219-26-000062-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-06",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1099219/000109921926000050/met-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1099219/000109921926000050/0001099219-26-000050-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-07",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1099219/000109921926000035/met-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1099219/000109921926000035/0001099219-26-000035-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-19",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1099219/000109921926000013/met-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1099219/000109921926000013/0001099219-26-000013-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-07",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1099219/000109921925000230/met-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1099219/000109921925000230/0001099219-25-000230-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-07",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1099219/000109921925000193/met-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1099219/000109921925000193/0001099219-25-000193-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-01",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1099219/000109921925000135/met-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1099219/000109921925000135/0001099219-25-000135-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-21",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1099219/000109921925000044/met-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1099219/000109921925000044/0001099219-25-000044-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-01",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1099219/000109921924000257/met-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1099219/000109921924000257/0001099219-24-000257-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-01",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1099219/000109921924000201/met-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1099219/000109921924000201/0001099219-24-000201-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-16",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1099219/000109921924000035/met-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1099219/000109921924000035/0001099219-24-000035-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-23",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1099219/000109921923000045/met-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1099219/000109921923000045/0001099219-23-000045-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-18",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1099219/000109921922000014/met-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1099219/000109921922000014/0001099219-22-000014-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

@@ -1,0 +1,210 @@
+{
+ "ticker": "GRMN",
+ "name": "Garmin",
+ "cik": 1121788,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-27",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-09-29",
+   "period_end": "2024-12-28",
+   "revenue": 1822561000,
+   "gross_profit": 1079926000,
+   "operating_income": 516082000,
+   "eps_diluted": 2.24,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2024-12-29",
+   "period_end": "2025-03-29",
+   "revenue": 1535099000,
+   "gross_profit": 884545000,
+   "operating_income": 332824000,
+   "eps_diluted": 1.72,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-03-30",
+   "period_end": "2025-06-28",
+   "revenue": 1814564000,
+   "gross_profit": 1067012000,
+   "operating_income": 472295000,
+   "eps_diluted": 2.07,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-06-29",
+   "period_end": "2025-09-27",
+   "revenue": 1770901000,
+   "gross_profit": 1046487000,
+   "operating_income": 456803000,
+   "eps_diluted": 2.08,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-09-28",
+   "period_end": "2025-12-27",
+   "revenue": 2124955000,
+   "gross_profit": 1258259000,
+   "operating_income": 614154000,
+   "eps_diluted": 2.73,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-12-28",
+   "period_end": "2026-03-28",
+   "revenue": 1753489000,
+   "gross_profit": 1042289000,
+   "operating_income": 431665000,
+   "eps_diluted": 2.09,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-03-29",
+   "period_end": "2026-06-27",
+   "revenue": 2022092000,
+   "gross_profit": 1262022000,
+   "operating_income": 615508000,
+   "eps_diluted": 2.8,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-06-28",
+   "period_end": "2026-09-26",
+   "revenue": 1986076000,
+   "gross_profit": 1257768000,
+   "operating_income": 611648000,
+   "eps_diluted": 2.8,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-28",
+   "period": "2026-09-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1121788/000119312526435070/grmn-20260926.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1121788/000119312526435070/0001193125-26-435070-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-29",
+   "period": "2026-06-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1121788/000119312526322114/grmn-20260627.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1121788/000119312526322114/0001193125-26-322114-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-29",
+   "period": "2026-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1121788/000119312526188908/grmn-20260328.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1121788/000119312526188908/0001193125-26-188908-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-18",
+   "period": "2025-12-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1121788/000119312526056028/grmn-20251227.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1121788/000119312526056028/0001193125-26-056028-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-29",
+   "period": "2025-09-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1121788/000119312525254605/grmn-20250927.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1121788/000119312525254605/0001193125-25-254605-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-30",
+   "period": "2025-06-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1121788/000095017025099877/grmn-20250628.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1121788/000095017025099877/0000950170-25-099877-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-30",
+   "period": "2025-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1121788/000095017025060555/grmn-20250329.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1121788/000095017025060555/0000950170-25-060555-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-19",
+   "period": "2024-12-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1121788/000095017025022760/grmn-20241228.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1121788/000095017025022760/0000950170-25-022760-index.htm"
+  },
+  {
+   "form": "10-K/A",
+   "filed": "2024-11-29",
+   "period": "2023-12-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1121788/000095017024131914/grmn-20231230.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1121788/000095017024131914/0000950170-24-131914-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-30",
+   "period": "2024-09-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1121788/000095017024118582/grmn-20240928.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1121788/000095017024118582/0000950170-24-118582-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-31",
+   "period": "2024-06-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1121788/000095017024088230/grmn-20240629.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1121788/000095017024088230/0000950170-24-088230-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-21",
+   "period": "2023-12-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1121788/000095017024017559/grmn-20231230.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1121788/000095017024017559/0000950170-24-017559-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-22",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1121788/000095017023003566/grmn-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1121788/000095017023003566/0000950170-23-003566-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-16",
+   "period": "2021-12-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1121788/000095017022001303/grmn-20211225.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1121788/000095017022001303/0000950170-22-001303-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

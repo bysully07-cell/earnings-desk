@@ -1,0 +1,215 @@
+{
+ "ticker": "CCI",
+ "name": "Crown Castle",
+ "cik": 1051470,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfGoodsAndServicesSold)",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 1119000000,
+   "gross_profit": 1093000000,
+   "operating_income": 571000000,
+   "eps_diluted": -11.09,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 1061000000,
+   "gross_profit": 1033000000,
+   "operating_income": 521000000,
+   "eps_diluted": -1.07,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 1060000000,
+   "gross_profit": 1033000000,
+   "operating_income": 506000000,
+   "eps_diluted": 0.67,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 1072000000,
+   "gross_profit": 1042000000,
+   "operating_income": 525000000,
+   "eps_diluted": 0.74,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 1071000000,
+   "gross_profit": 1043000000,
+   "operating_income": 523000000,
+   "eps_diluted": 0.67,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 1010000000,
+   "gross_profit": 984000000,
+   "operating_income": 465000000,
+   "eps_diluted": 0.34,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 1008000000,
+   "gross_profit": 989000000,
+   "operating_income": 470000000,
+   "eps_diluted": 0.22,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 995000000,
+   "gross_profit": 982000000,
+   "operating_income": 465000000,
+   "eps_diluted": 0.67,
+   "derived": [
+    "gross_profit"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-04",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1051470/000105147026000090/cci-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1051470/000105147026000090/0001051470-26-000090-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-05",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1051470/000105147026000074/cci-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1051470/000105147026000074/0001051470-26-000074-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-07",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1051470/000105147026000059/cci-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1051470/000105147026000059/0001051470-26-000059-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-23",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1051470/000105147026000016/cci-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1051470/000105147026000016/0001051470-26-000016-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-06",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1051470/000105147025000194/cci-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1051470/000105147025000194/0001051470-25-000194-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-06",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1051470/000105147025000168/cci-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1051470/000105147025000168/0001051470-25-000168-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-09",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1051470/000105147025000141/cci-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1051470/000105147025000141/0001051470-25-000141-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-03-14",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1051470/000105147025000089/cci-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1051470/000105147025000089/0001051470-25-000089-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-30",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1051470/000105147024000216/cci-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1051470/000105147024000216/0001051470-24-000216-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-30",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1051470/000105147024000186/cci-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1051470/000105147024000186/0001051470-24-000186-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-23",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1051470/000105147024000062/cci-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1051470/000105147024000062/0001051470-24-000062-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-24",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1051470/000105147023000041/cci-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1051470/000105147023000041/0001051470-23-000041-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-22",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1051470/000105147022000019/cci-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1051470/000105147022000019/0001051470-22-000019-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

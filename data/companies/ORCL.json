@@ -1,0 +1,201 @@
+{
+ "ticker": "ORCL",
+ "name": "Oracle Corporation",
+ "cik": 1341439,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "05-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2024-09-01",
+   "period_end": "2024-11-30",
+   "revenue": 14059000000,
+   "gross_profit": null,
+   "operating_income": 4220000000,
+   "eps_diluted": 1.1,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2024-12-01",
+   "period_end": "2025-02-28",
+   "revenue": 14130000000,
+   "gross_profit": null,
+   "operating_income": 4358000000,
+   "eps_diluted": 1.02,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-03-01",
+   "period_end": "2025-05-31",
+   "revenue": 15903000000,
+   "gross_profit": null,
+   "operating_income": 5109000000,
+   "eps_diluted": 1.19,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-06-01",
+   "period_end": "2025-08-31",
+   "revenue": 14926000000,
+   "gross_profit": null,
+   "operating_income": 4277000000,
+   "eps_diluted": 1.01,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-09-01",
+   "period_end": "2025-11-30",
+   "revenue": 16058000000,
+   "gross_profit": null,
+   "operating_income": 4731000000,
+   "eps_diluted": 2.1,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2025-12-01",
+   "period_end": "2026-02-28",
+   "revenue": 17190000000,
+   "gross_profit": null,
+   "operating_income": 5464000000,
+   "eps_diluted": 1.27,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2026-03-01",
+   "period_end": "2026-05-31",
+   "revenue": 19183000000,
+   "gross_profit": null,
+   "operating_income": 6134000000,
+   "eps_diluted": 1.48,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2027 Q1",
+   "period_start": "2026-06-01",
+   "period_end": "2026-08-31",
+   "revenue": 19345000000,
+   "gross_profit": null,
+   "operating_income": 6728000000,
+   "eps_diluted": 1.56,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-09-11",
+   "period": "2026-08-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526389274/orcl-20260831.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526389274/0001193125-26-389274-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-06-22",
+   "period": "2026-05-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/orcl-20260531.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/0001193125-26-277521-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-03-11",
+   "period": "2026-02-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526101045/orcl-20260228.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526101045/0001193125-26-101045-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-12-11",
+   "period": "2025-11-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/orcl-20251130.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/0001193125-25-315925-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-09-10",
+   "period": "2025-08-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525200095/orcl-20250831.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525200095/0001193125-25-200095-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-06-18",
+   "period": "2025-05-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/orcl-20250531.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/0000950170-25-087926-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-03-11",
+   "period": "2025-02-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025037143/orcl-20250228.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025037143/0000950170-25-037143-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-12-10",
+   "period": "2024-11-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024134973/orcl-20241130.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024134973/0000950170-24-134973-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-09-10",
+   "period": "2024-08-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024104905/orcl-20240831.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024104905/0000950170-24-104905-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-06-20",
+   "period": "2024-05-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024075605/orcl-20240531.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024075605/0000950170-24-075605-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-03-12",
+   "period": "2024-02-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024029904/orcl-20240229.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024029904/0000950170-24-029904-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-06-20",
+   "period": "2023-05-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017023028914/orcl-20230531.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017023028914/0000950170-23-028914-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-06-21",
+   "period": "2022-05-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459022023675/orcl-10k_20220531.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459022023675/0001564590-22-023675-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

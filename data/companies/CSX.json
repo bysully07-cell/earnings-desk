@@ -1,0 +1,202 @@
+{
+ "ticker": "CSX",
+ "name": "CSX Corporation",
+ "cik": 277948,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 3539000000,
+   "gross_profit": null,
+   "operating_income": 1106000000,
+   "eps_diluted": 0.38,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 3423000000,
+   "gross_profit": null,
+   "operating_income": 1041000000,
+   "eps_diluted": 0.34,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 3574000000,
+   "gross_profit": null,
+   "operating_income": 1283000000,
+   "eps_diluted": 0.44,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 3587000000,
+   "gross_profit": null,
+   "operating_income": 1087000000,
+   "eps_diluted": 0.37,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 3508000000,
+   "gross_profit": null,
+   "operating_income": 1110000000,
+   "eps_diluted": 0.39,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 3482000000,
+   "gross_profit": null,
+   "operating_income": 1253000000,
+   "eps_diluted": 0.43,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 3935000000,
+   "gross_profit": null,
+   "operating_income": 1506000000,
+   "eps_diluted": 0.54,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 4017000000,
+   "gross_profit": null,
+   "operating_income": 1570000000,
+   "eps_diluted": 0.57,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-21",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/277948/000027794826000040/csx-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/277948/000027794826000040/0000277948-26-000040-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-22",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/277948/000027794826000032/csx-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/277948/000027794826000032/0000277948-26-000032-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-22",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/277948/000027794826000014/csx-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/277948/000027794826000014/0000277948-26-000014-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-12",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/277948/000027794826000006/csx-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/277948/000027794826000006/0000277948-26-000006-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-16",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/277948/000027794825000054/csx-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/277948/000027794825000054/0000277948-25-000054-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-23",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/277948/000027794825000044/csx-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/277948/000027794825000044/0000277948-25-000044-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-16",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/277948/000027794825000028/csx-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/277948/000027794825000028/0000277948-25-000028-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-27",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/277948/000027794825000008/csx-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/277948/000027794825000008/0000277948-25-000008-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-17",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/277948/000027794824000054/csx-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/277948/000027794824000054/0000277948-24-000054-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-05",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/277948/000027794824000047/csx-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/277948/000027794824000047/0000277948-24-000047-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-14",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/277948/000027794824000010/csx-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/277948/000027794824000010/0000277948-24-000010-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-15",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/277948/000027794823000006/csx-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/277948/000027794823000006/0000277948-23-000006-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-16",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/277948/000027794822000009/csx-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/277948/000027794822000009/0000277948-22-000009-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

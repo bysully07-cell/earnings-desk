@@ -1,0 +1,203 @@
+{
+ "ticker": "ALGN",
+ "name": "Align Technology",
+ "cik": 1097149,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 995219000,
+   "gross_profit": 696941000,
+   "operating_income": 144149000,
+   "eps_diluted": 1.39,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 979262000,
+   "gross_profit": 680108000,
+   "operating_income": 131100000,
+   "eps_diluted": 1.27,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 1012449000,
+   "gross_profit": 708117000,
+   "operating_income": 163033000,
+   "eps_diluted": 1.72,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 995692000,
+   "gross_profit": 639201000,
+   "operating_income": 96298000,
+   "eps_diluted": 0.78,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 1047561000,
+   "gross_profit": 683587000,
+   "operating_income": 155324000,
+   "eps_diluted": 1.89,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 1040087000,
+   "gross_profit": 736587000,
+   "operating_income": 141955000,
+   "eps_diluted": 1.57,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 1056192000,
+   "gross_profit": 757430000,
+   "operating_income": 154013000,
+   "eps_diluted": 1.51,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 1014763000,
+   "gross_profit": 697471000,
+   "operating_income": 169164000,
+   "eps_diluted": 1.9,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-04",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714926000081/algn-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714926000081/0001097149-26-000081-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-05",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714926000060/algn-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714926000060/0001097149-26-000060-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-06",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714926000040/algn-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714926000040/0001097149-26-000040-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-27",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714926000014/algn-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714926000014/0001097149-26-000014-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-05",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714925000079/algn-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714925000079/0001097149-25-000079-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-06",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714925000064/algn-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714925000064/0001097149-25-000064-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-08",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714925000034/algn-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714925000034/0001097149-25-000034-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-28",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714925000012/algn-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714925000012/0001097149-25-000012-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-05",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714924000060/algn-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714924000060/0001097149-24-000060-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-02",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714924000049/algn-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714924000049/0001097149-24-000049-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-28",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714924000011/algn-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714924000011/0001097149-24-000011-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-27",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714923000013/algn-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714923000013/0001097149-23-000013-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-25",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714922000011/algn-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714922000011/0001097149-22-000011-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

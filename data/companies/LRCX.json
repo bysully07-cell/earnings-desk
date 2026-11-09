@@ -1,0 +1,204 @@
+{
+ "ticker": "LRCX",
+ "name": "Lam Research",
+ "cik": 707549,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "06-28",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2024-09-30",
+   "period_end": "2024-12-29",
+   "revenue": 4376047000,
+   "gross_profit": 2072981000,
+   "operating_income": 1333884000,
+   "eps_diluted": 0.92,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2024-12-30",
+   "period_end": "2025-03-30",
+   "revenue": 4720175000,
+   "gross_profit": 2313686000,
+   "operating_income": 1561759000,
+   "eps_diluted": 1.03,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-03-31",
+   "period_end": "2025-06-29",
+   "revenue": 5171393000,
+   "gross_profit": 2589709000,
+   "operating_income": 1741128000,
+   "eps_diluted": 1.35,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-06-30",
+   "period_end": "2025-09-28",
+   "revenue": 5324173000,
+   "gross_profit": 2684879000,
+   "operating_income": 1829088000,
+   "eps_diluted": 1.24,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-09-29",
+   "period_end": "2025-12-28",
+   "revenue": 5344791000,
+   "gross_profit": 2651162000,
+   "operating_income": 1810203000,
+   "eps_diluted": 1.26,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2025-12-29",
+   "period_end": "2026-03-29",
+   "revenue": 5841488000,
+   "gross_profit": 2910527000,
+   "operating_income": 2047016000,
+   "eps_diluted": 1.45,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2026-03-30",
+   "period_end": "2026-06-28",
+   "revenue": 6722238000,
+   "gross_profit": 3478740000,
+   "operating_income": 2513488000,
+   "eps_diluted": 1.81,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2027 Q1",
+   "period_start": "2026-06-29",
+   "period_end": "2026-09-27",
+   "revenue": 8219418000,
+   "gross_profit": 4298853000,
+   "operating_income": 3283727000,
+   "eps_diluted": 2.19,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-22",
+   "period": "2026-09-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754926000054/lrcx-20260927.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/707549/000070754926000054/0000707549-26-000054-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-08-07",
+   "period": "2026-06-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754926000037/lrcx-20260628.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/707549/000070754926000037/0000707549-26-000037-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-23",
+   "period": "2026-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754926000022/lrcx-20260329.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/707549/000070754926000022/0000707549-26-000022-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-01-29",
+   "period": "2025-12-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754926000009/lrcx-20251228.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/707549/000070754926000009/0000707549-26-000009-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-24",
+   "period": "2025-09-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754925000085/lrcx-20250928.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/707549/000070754925000085/0000707549-25-000085-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-08-11",
+   "period": "2025-06-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754925000075/lrcx-20250629.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/707549/000070754925000075/0000707549-25-000075-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-25",
+   "period": "2025-03-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754925000054/lrcx-20250330.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/707549/000070754925000054/0000707549-25-000054-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-01-31",
+   "period": "2024-12-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754925000014/lrcx-20241229.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/707549/000070754925000014/0000707549-25-000014-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-28",
+   "period": "2024-09-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754924000128/lrcx-20240929.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/707549/000070754924000128/0000707549-24-000128-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-08-29",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754924000106/lrcx-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/707549/000070754924000106/0000707549-24-000106-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-04-29",
+   "period": "2024-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754924000067/lrcx-20240331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/707549/000070754924000067/0000707549-24-000067-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-08-15",
+   "period": "2023-06-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754923000102/lrcx-20230625.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/707549/000070754923000102/0000707549-23-000102-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-08-24",
+   "period": "2022-06-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754922000107/lrcx-20220626.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/707549/000070754922000107/0000707549-22-000107-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

@@ -1,0 +1,202 @@
+{
+ "ticker": "FANG",
+ "name": "Diamondback Energy",
+ "cik": 1539838,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 3711000000,
+   "gross_profit": null,
+   "operating_income": 1412000000,
+   "eps_diluted": 3.67,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 4048000000,
+   "gross_profit": null,
+   "operating_income": 1673000000,
+   "eps_diluted": 4.83,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 3678000000,
+   "gross_profit": null,
+   "operating_income": 1139000000,
+   "eps_diluted": 2.38,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 3924000000,
+   "gross_profit": null,
+   "operating_income": 1236000000,
+   "eps_diluted": 3.51,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 3376000000,
+   "gross_profit": null,
+   "operating_income": -2782000000,
+   "eps_diluted": -5.1,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 4240000000,
+   "gross_profit": null,
+   "operating_income": 116000000,
+   "eps_diluted": 0.08,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 5562000000,
+   "gross_profit": null,
+   "operating_income": 2512000000,
+   "eps_diluted": 6.65,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 5431000000,
+   "gross_profit": null,
+   "operating_income": 2500000000,
+   "eps_diluted": 5.69,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-04",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1539838/000153983826000183/fang-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1539838/000153983826000183/0001539838-26-000183-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-05",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1539838/000153983826000142/fang-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1539838/000153983826000142/0001539838-26-000142-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-06",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1539838/000153983826000077/fang-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1539838/000153983826000077/0001539838-26-000077-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-25",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1539838/000153983826000010/fang-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1539838/000153983826000010/0001539838-26-000010-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-05",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1539838/000153983825000147/fang-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1539838/000153983825000147/0001539838-25-000147-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-06",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1539838/000153983825000127/fang-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1539838/000153983825000127/0001539838-25-000127-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-07",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1539838/000153983825000066/fang-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1539838/000153983825000066/0001539838-25-000066-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-26",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1539838/000153983825000021/fang-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1539838/000153983825000021/0001539838-25-000021-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-07",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1539838/000153983824000198/fang-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1539838/000153983824000198/0001539838-24-000198-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-07",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1539838/000153983824000150/fang-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1539838/000153983824000150/0001539838-24-000150-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-22",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1539838/000153983824000019/fang-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1539838/000153983824000019/0001539838-24-000019-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-23",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1539838/000153983823000022/fang-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1539838/000153983823000022/0001539838-23-000022-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-24",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1539838/000153983822000008/fang-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1539838/000153983822000008/0001539838-22-000008-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

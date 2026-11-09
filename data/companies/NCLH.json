@@ -1,0 +1,215 @@
+{
+ "ticker": "NCLH",
+ "name": "Norwegian Cruise Line Holdings",
+ "cik": 1513761,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerIncludingAssessedTax",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfGoodsAndServicesSold)",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 2109366000,
+   "gross_profit": 801787000,
+   "operating_income": 214741000,
+   "eps_diluted": 0.42,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 2127553000,
+   "gross_profit": 823615000,
+   "operating_income": 200942000,
+   "eps_diluted": -0.09,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 2517497000,
+   "gross_profit": 1060650000,
+   "operating_income": 423836000,
+   "eps_diluted": 0.07,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 2938142000,
+   "gross_profit": 1383283000,
+   "operating_income": 749449000,
+   "eps_diluted": 0.86,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 2244400000,
+   "gross_profit": 920881000,
+   "operating_income": 186641000,
+   "eps_diluted": 0.03,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 2331221000,
+   "gross_profit": 953340000,
+   "operating_income": 232943000,
+   "eps_diluted": 0.23,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 2640544000,
+   "gross_profit": 1053736000,
+   "operating_income": 363327000,
+   "eps_diluted": 0.48,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 2946763000,
+   "gross_profit": 1279095000,
+   "operating_income": 624274000,
+   "eps_diluted": 1.07,
+   "derived": [
+    "gross_profit"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-29",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1513761/000110465926120217/nclh-20260930x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1513761/000110465926120217/0001104659-26-120217-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-03",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1513761/000110465926089657/nclh-20260630x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1513761/000110465926089657/0001104659-26-089657-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-04",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1513761/000110465926054833/nclh-20260331x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1513761/000110465926054833/0001104659-26-054833-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-03-02",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1513761/000110465926022067/nclh-20251231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1513761/000110465926022067/0001104659-26-022067-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-04",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1513761/000110465925106057/nclh-20250930x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1513761/000110465925106057/0001104659-25-106057-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-04",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1513761/000155837025010053/nclh-20250630x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1513761/000155837025010053/0001558370-25-010053-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-05",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1513761/000155837025006294/nclh-20250331x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1513761/000155837025006294/0001558370-25-006294-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-27",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1513761/000155837025001743/nclh-20241231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1513761/000155837025001743/0001558370-25-001743-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-07",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1513761/000155837024014784/nclh-20240930x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1513761/000155837024014784/0001558370-24-014784-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-08",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1513761/000155837024011514/nclh-20240630x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1513761/000155837024011514/0001558370-24-011514-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-28",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1513761/000155837024001935/nclh-20231231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1513761/000155837024001935/0001558370-24-001935-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-28",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1513761/000155837023002361/nclh-20221231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1513761/000155837023002361/0001558370-23-002361-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-03-01",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1513761/000155837022002516/nclh-20211231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1513761/000155837022002516/0001558370-22-002516-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

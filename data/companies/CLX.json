@@ -1,0 +1,197 @@
+{
+ "ticker": "CLX",
+ "name": "Clorox",
+ "cik": 21076,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "06-30",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": null,
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2024-07-01",
+   "period_end": "2024-09-30",
+   "revenue": 1762000000,
+   "gross_profit": 807000000,
+   "operating_income": null,
+   "eps_diluted": 0.8,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 1686000000,
+   "gross_profit": 738000000,
+   "operating_income": null,
+   "eps_diluted": 1.54,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 1668000000,
+   "gross_profit": 744000000,
+   "operating_income": null,
+   "eps_diluted": 1.5,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 1988000000,
+   "gross_profit": 924000000,
+   "operating_income": null,
+   "eps_diluted": 2.68,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 1429000000,
+   "gross_profit": 596000000,
+   "operating_income": null,
+   "eps_diluted": 0.65,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 1673000000,
+   "gross_profit": 722000000,
+   "operating_income": null,
+   "eps_diluted": 1.29,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 1670000000,
+   "gross_profit": 722000000,
+   "operating_income": null,
+   "eps_diluted": 1.54,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 1905000000,
+   "gross_profit": 770000000,
+   "operating_income": null,
+   "eps_diluted": 1.39,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-02",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/21076/000002107626000046/clx-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/21076/000002107626000046/0000021076-26-000046-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-08-07",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/21076/000002107626000034/clx-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/21076/000002107626000034/0000021076-26-000034-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-30",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/21076/000002107626000019/clx-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/21076/000002107626000019/0000021076-26-000019-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-02-03",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/21076/000002107626000010/clx-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/21076/000002107626000010/0000021076-26-000010-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-03",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/21076/000002107625000053/clx-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/21076/000002107625000053/0000021076-25-000053-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-08-08",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/21076/000002107625000039/clx-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/21076/000002107625000039/0000021076-25-000039-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-05",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/21076/000002107625000023/clx-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/21076/000002107625000023/0000021076-25-000023-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-02-03",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/21076/000002107625000013/clx-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/21076/000002107625000013/0000021076-25-000013-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-30",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/21076/000002107624000040/clx-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/21076/000002107624000040/0000021076-24-000040-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-08-08",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/21076/000002107624000030/clx-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/21076/000002107624000030/0000021076-24-000030-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-04-30",
+   "period": "2024-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/21076/000002107624000016/clx-20240331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/21076/000002107624000016/0000021076-24-000016-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-08-10",
+   "period": "2023-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/21076/000002107623000037/clx-20230630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/21076/000002107623000037/0000021076-23-000037-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-08-10",
+   "period": "2022-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/21076/000002107622000026/clx-20220630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/21076/000002107622000026/0000021076-22-000026-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

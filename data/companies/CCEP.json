@@ -1,0 +1,51 @@
+{
+ "ticker": "CCEP",
+ "name": "Coca-Cola Europacific Partners",
+ "cik": 1650107,
+ "indexes": [
+  "NDX"
+ ],
+ "fiscal_year_end": null,
+ "sources": {},
+ "quarters": [],
+ "filings": [
+  {
+   "form": "20-F",
+   "filed": "2026-03-13",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1650107/000165010726000029/cce-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1650107/000165010726000029/0001650107-26-000029-index.htm"
+  },
+  {
+   "form": "20-F",
+   "filed": "2025-03-21",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1650107/000165010725000039/cce-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1650107/000165010725000039/0001650107-25-000039-index.htm"
+  },
+  {
+   "form": "20-F",
+   "filed": "2024-03-15",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1650107/000165010724000025/cce-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1650107/000165010724000025/0001650107-24-000025-index.htm"
+  },
+  {
+   "form": "20-F",
+   "filed": "2023-03-17",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1650107/000165010723000019/cce-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1650107/000165010723000019/0001650107-23-000019-index.htm"
+  },
+  {
+   "form": "20-F",
+   "filed": "2022-03-15",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1650107/000165010722000021/cce-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1650107/000165010722000021/0001650107-22-000021-index.htm"
+  }
+ ],
+ "note": "no US-GAAP quarterly revenue (foreign filer or non-standard tags)",
+ "earnings": [],
+ "earnings_checked": null
+}

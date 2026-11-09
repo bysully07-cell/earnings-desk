@@ -1,0 +1,166 @@
+{
+ "ticker": "CRWV",
+ "name": "CoreWeave",
+ "cik": 1769628,
+ "indexes": [
+  "NDX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfGoodsAndServicesSold)",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q3",
+   "period_start": "2024-07-01",
+   "period_end": "2024-09-30",
+   "revenue": 583941000,
+   "gross_profit": 440807000,
+   "operating_income": 117116000,
+   "eps_diluted": -1.82,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 747004000,
+   "gross_profit": 565196000,
+   "operating_income": 112316000,
+   "eps_diluted": -0.21,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 982000000,
+   "gross_profit": 720000000,
+   "operating_income": -27000000,
+   "eps_diluted": -1.49,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 1212000000,
+   "gross_profit": 899000000,
+   "operating_income": 19000000,
+   "eps_diluted": -0.6,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 1364676000,
+   "gross_profit": 995852000,
+   "operating_income": 51850000,
+   "eps_diluted": -0.22,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 1572324000,
+   "gross_profit": 1063148000,
+   "operating_income": -89850000,
+   "eps_diluted": -0.89,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 2078000000,
+   "gross_profit": 1362000000,
+   "operating_income": -144000000,
+   "eps_diluted": -1.4,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 2575000000,
+   "gross_profit": 1696000000,
+   "operating_income": -49000000,
+   "eps_diluted": -1.14,
+   "derived": [
+    "gross_profit"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-08-12",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000366/crwv-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000366/0001769628-26-000366-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-08",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000222/crwv-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000222/0001769628-26-000222-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-03-02",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000104/crwv-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000104/0001769628-26-000104-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-13",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962825000062/crwv-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962825000062/0001769628-25-000062-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-13",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962825000041/crwv-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962825000041/0001769628-25-000041-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-15",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962825000014/crwv-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962825000014/0001769628-25-000014-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

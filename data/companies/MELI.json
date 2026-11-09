@@ -1,0 +1,203 @@
+{
+ "ticker": "MELI",
+ "name": "Mercado Libre",
+ "cik": 1099590,
+ "indexes": [
+  "NDX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 6059000000,
+   "gross_profit": 2749000000,
+   "operating_income": 820000000,
+   "eps_diluted": 12.6,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 5935000000,
+   "gross_profit": 2771000000,
+   "operating_income": 763000000,
+   "eps_diluted": 9.74,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 6790000000,
+   "gross_profit": 3094000000,
+   "operating_income": 825000000,
+   "eps_diluted": 10.31,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 7409000000,
+   "gross_profit": 3209000000,
+   "operating_income": 724000000,
+   "eps_diluted": 8.32,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 8759000000,
+   "gross_profit": 3784000000,
+   "operating_income": 889000000,
+   "eps_diluted": 11.03,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 8845000000,
+   "gross_profit": 3862000000,
+   "operating_income": 611000000,
+   "eps_diluted": 8.23,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 10169000000,
+   "gross_profit": 4159000000,
+   "operating_income": 683000000,
+   "eps_diluted": 9.19,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 10750000000,
+   "gross_profit": 4384000000,
+   "operating_income": 676000000,
+   "eps_diluted": 8.83,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-05",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1099590/000109959026000029/meli-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1099590/000109959026000029/0001099590-26-000029-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-06",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1099590/000109959026000023/meli-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1099590/000109959026000023/0001099590-26-000023-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-08",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1099590/000109959026000017/meli-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1099590/000109959026000017/0001099590-26-000017-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-25",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1099590/000109959026000006/meli-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1099590/000109959026000006/0001099590-26-000006-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-30",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1099590/000109959025000051/meli-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1099590/000109959025000051/0001099590-25-000051-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-05",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1099590/000109959025000044/meli-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1099590/000109959025000044/0001099590-25-000044-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-08",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1099590/000109959025000028/meli-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1099590/000109959025000028/0001099590-25-000028-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-21",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1099590/000109959025000007/meli-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1099590/000109959025000007/0001099590-25-000007-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-07",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1099590/000109959024000042/meli-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1099590/000109959024000042/0001099590-24-000042-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-02",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1099590/000109959024000026/meli-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1099590/000109959024000026/0001099590-24-000026-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-23",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1099590/000109959024000008/meli-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1099590/000109959024000008/0001099590-24-000008-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-24",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1099590/000109959023000007/meli-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1099590/000109959023000007/0001099590-23-000007-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-23",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1099590/000156276222000049/meli-20211231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1099590/000156276222000049/0001562762-22-000049-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

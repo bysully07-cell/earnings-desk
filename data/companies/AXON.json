@@ -1,0 +1,211 @@
+{
+ "ticker": "AXON",
+ "name": "Axon Enterprise",
+ "cik": 1069183,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 575145000,
+   "gross_profit": 345849000,
+   "operating_income": -15755000,
+   "eps_diluted": 1.66,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 603633000,
+   "gross_profit": 365739000,
+   "operating_income": -8793000,
+   "eps_diluted": 1.08,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 668538000,
+   "gross_profit": 403743000,
+   "operating_income": -1036000,
+   "eps_diluted": 0.44,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 710641000,
+   "gross_profit": 427348000,
+   "operating_income": -2129000,
+   "eps_diluted": -0.03,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 796724000,
+   "gross_profit": 461295000,
+   "operating_income": -50118000,
+   "eps_diluted": 0.03,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 807345000,
+   "gross_profit": 477286000,
+   "operating_income": 29243000,
+   "eps_diluted": 2.05,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 904389000,
+   "gross_profit": 546447000,
+   "operating_income": 46778000,
+   "eps_diluted": 0.36,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 908554000,
+   "gross_profit": 514978000,
+   "operating_income": 42080000,
+   "eps_diluted": 0.68,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-06",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1069183/000162828026071242/axon-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1069183/000162828026071242/0001628280-26-071242-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-06",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1069183/000162828026053646/axon-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1069183/000162828026053646/0001628280-26-053646-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-07",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1069183/000162828026031542/axon-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1069183/000162828026031542/0001628280-26-031542-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-25",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1069183/000162828026011360/axon-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1069183/000162828026011360/0001628280-26-011360-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-05",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1069183/000162828025049143/axon-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1069183/000162828025049143/0001628280-25-049143-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-05",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1069183/000106918325000181/axon-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1069183/000106918325000181/0001069183-25-000181-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-07",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1069183/000106918325000077/axon-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1069183/000106918325000077/0001069183-25-000077-index.htm"
+  },
+  {
+   "form": "10-K/A",
+   "filed": "2025-05-07",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1069183/000106918325000075/axon-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1069183/000106918325000075/0001069183-25-000075-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-28",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1069183/000106918325000019/axon-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1069183/000106918325000019/0001069183-25-000019-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-08",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1069183/000106918324000061/axon-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1069183/000106918324000061/0001069183-24-000061-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-07",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1069183/000106918324000049/axon-20240630x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1069183/000106918324000049/0001069183-24-000049-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-27",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1069183/000106918324000006/axon-20231231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1069183/000106918324000006/0001069183-24-000006-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-28",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1069183/000155837023002413/axon-20221231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1069183/000155837023002413/0001558370-23-002413-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-25",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1069183/000155837022002006/axon-20211231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1069183/000155837022002006/0001558370-22-002006-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

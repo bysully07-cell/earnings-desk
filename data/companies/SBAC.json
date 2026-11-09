@@ -1,0 +1,197 @@
+{
+ "ticker": "SBAC",
+ "name": "SBA Communications",
+ "cik": 1034054,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 693700000,
+   "gross_profit": 541571000,
+   "operating_income": 382339000,
+   "eps_diluted": 1.61,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 664248000,
+   "gross_profit": 510582000,
+   "operating_income": 334910000,
+   "eps_diluted": 2.04,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 698981000,
+   "gross_profit": 526885000,
+   "operating_income": 334781000,
+   "eps_diluted": 2.09,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 732327000,
+   "gross_profit": 542538000,
+   "operating_income": 374169000,
+   "eps_diluted": 2.2,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 719583000,
+   "gross_profit": 544162000,
+   "operating_income": 298926000,
+   "eps_diluted": 3.47,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 703438000,
+   "gross_profit": 532102000,
+   "operating_income": 342848000,
+   "eps_diluted": 1.74,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 715274000,
+   "gross_profit": 539272000,
+   "operating_income": 351861000,
+   "eps_diluted": 1.87,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 713924000,
+   "gross_profit": 542403000,
+   "operating_income": 367737000,
+   "eps_diluted": 2.19,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-05",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1034054/000103405426000013/sbac-20260930x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1034054/000103405426000013/0001034054-26-000013-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-06",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1034054/000103405426000011/sbac-20260630x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1034054/000103405426000011/0001034054-26-000011-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-05",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1034054/000103405426000009/sbac-20260331x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1034054/000103405426000009/0001034054-26-000009-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-27",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1034054/000103405426000002/sbac-20251231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1034054/000103405426000002/0001034054-26-000002-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-06",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1034054/000103405425000010/sbac-20250930x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1034054/000103405425000010/0001034054-25-000010-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-07",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1034054/000103405425000008/sbac-20250630x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1034054/000103405425000008/0001034054-25-000008-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-01",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1034054/000103405425000004/sbac-20250331x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1034054/000103405425000004/0001034054-25-000004-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-26",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1034054/000103405425000002/sbac-20241231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1034054/000103405425000002/0001034054-25-000002-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-01",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1034054/000103405424000012/sbac-20240930x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1034054/000103405424000012/0001034054-24-000012-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-02",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1034054/000103405424000009/sbac-20240630x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1034054/000103405424000009/0001034054-24-000009-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-28",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1034054/000103405424000002/sbac-20231231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1034054/000103405424000002/0001034054-24-000002-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-03-01",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1034054/000103405423000002/sbac-20221231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1034054/000103405423000002/0001034054-23-000002-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-03-01",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1034054/000103405422000002/sbac-20211231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1034054/000103405422000002/0001034054-22-000002-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

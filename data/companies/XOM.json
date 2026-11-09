@@ -1,0 +1,76 @@
+{
+ "ticker": "XOM",
+ "name": "ExxonMobil",
+ "cik": 2115436,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": null,
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": null,
+  "operating_income": null,
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 81506000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 1.64,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 85294000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 1.76,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 116017000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 3.48,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 113164000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 3.72,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-02",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/2115436/000211543626000020/xom-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2115436/000211543626000020/0002115436-26-000020-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-03",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/2115436/000003408826000093/xom-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2115436/000003408826000093/0000034088-26-000093-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

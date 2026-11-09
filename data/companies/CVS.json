@@ -1,0 +1,215 @@
+{
+ "ticker": "CVS",
+ "name": "CVS Health",
+ "cik": 64803,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfGoodsAndServicesSold)",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 97710000000,
+   "gross_profit": 42442000000,
+   "operating_income": 2368000000,
+   "eps_diluted": 1.3,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 94588000000,
+   "gross_profit": 43531000000,
+   "operating_income": 3374000000,
+   "eps_diluted": 1.41,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 98915000000,
+   "gross_profit": 44910000000,
+   "operating_income": 2381000000,
+   "eps_diluted": 0.8,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 102871000000,
+   "gross_profit": 45826000000,
+   "operating_income": -3207000000,
+   "eps_diluted": -3.13,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 105693000000,
+   "gross_profit": 46633000000,
+   "operating_income": 2112000000,
+   "eps_diluted": 2.3,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 100426000000,
+   "gross_profit": 44982000000,
+   "operating_income": 4680000000,
+   "eps_diluted": 2.3,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 106096000000,
+   "gross_profit": 47234000000,
+   "operating_income": 4703000000,
+   "eps_diluted": 2.31,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 108399000000,
+   "gross_profit": 47214000000,
+   "operating_income": 3566000000,
+   "eps_diluted": 1.68,
+   "derived": [
+    "gross_profit"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-04",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/64803/000006480326000108/cvs-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/64803/000006480326000108/0000064803-26-000108-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-05",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/64803/000006480326000098/cvs-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/64803/000006480326000098/0000064803-26-000098-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-06",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/64803/000006480326000052/cvs-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/64803/000006480326000052/0000064803-26-000052-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-10",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/64803/000006480326000010/cvs-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/64803/000006480326000010/0000064803-26-000010-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-29",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/64803/000006480325000037/cvs-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/64803/000006480325000037/0000064803-25-000037-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-31",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/64803/000006480325000024/cvs-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/64803/000006480325000024/0000064803-25-000024-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-01",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/64803/000006480325000013/cvs-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/64803/000006480325000013/0000064803-25-000013-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-12",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/64803/000006480325000007/cvs-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/64803/000006480325000007/0000064803-25-000007-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-06",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/64803/000006480324000034/cvs-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/64803/000006480324000034/0000064803-24-000034-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-07",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/64803/000006480324000029/cvs-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/64803/000006480324000029/0000064803-24-000029-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-07",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/64803/000006480324000007/cvs-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/64803/000006480324000007/0000064803-24-000007-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-08",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/64803/000006480323000009/cvs-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/64803/000006480323000009/0000064803-23-000009-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-09",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/64803/000006480322000008/cvs-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/64803/000006480322000008/0000064803-22-000008-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

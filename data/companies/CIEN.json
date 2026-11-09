@@ -1,0 +1,203 @@
+{
+ "ticker": "CIEN",
+ "name": "Ciena",
+ "cik": 936395,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "11-01",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-07-28",
+   "period_end": "2024-11-02",
+   "revenue": 1124112000,
+   "gross_profit": 460022000,
+   "operating_income": 59210000,
+   "eps_diluted": 0.25,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2024-11-03",
+   "period_end": "2025-02-01",
+   "revenue": 1072260000,
+   "gross_profit": 471821000,
+   "operating_income": 80663000,
+   "eps_diluted": 0.31,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-02-02",
+   "period_end": "2025-05-03",
+   "revenue": 1125878000,
+   "gross_profit": 452838000,
+   "operating_income": 32842000,
+   "eps_diluted": 0.06,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-05-04",
+   "period_end": "2025-08-02",
+   "revenue": 1219385000,
+   "gross_profit": 503079000,
+   "operating_income": 73535000,
+   "eps_diluted": 0.35,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-08-03",
+   "period_end": "2025-11-01",
+   "revenue": 1351984000,
+   "gross_profit": 577179000,
+   "operating_income": 10491000,
+   "eps_diluted": 0.13,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-11-02",
+   "period_end": "2026-01-31",
+   "revenue": 1427042000,
+   "gross_profit": 625520000,
+   "operating_income": 189412000,
+   "eps_diluted": 1.03,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-02-01",
+   "period_end": "2026-05-02",
+   "revenue": 1570739000,
+   "gross_profit": 691554000,
+   "operating_income": 237871000,
+   "eps_diluted": 1.49,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-05-03",
+   "period_end": "2026-08-01",
+   "revenue": 1671129000,
+   "gross_profit": 759265000,
+   "operating_income": 301179000,
+   "eps_diluted": 1.83,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-09-03",
+   "period": "2026-08-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/936395/000162828026060361/cien-20260801.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/936395/000162828026060361/0001628280-26-060361-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-06-04",
+   "period": "2026-05-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/936395/000162828026040767/cien-20260502.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/936395/000162828026040767/0001628280-26-040767-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-03-05",
+   "period": "2026-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/936395/000162828026015152/cien-20260131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/936395/000162828026015152/0001628280-26-015152-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-12-12",
+   "period": "2025-11-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/936395/000162828025056698/cien-20251101.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/936395/000162828025056698/0001628280-25-056698-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-09-04",
+   "period": "2025-08-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/936395/000093639525000041/cien-20250802.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/936395/000093639525000041/0000936395-25-000041-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-06-05",
+   "period": "2025-05-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/936395/000093639525000025/cien-20250503.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/936395/000093639525000025/0000936395-25-000025-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-03-12",
+   "period": "2025-02-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/936395/000093639525000011/cien-20250201.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/936395/000093639525000011/0000936395-25-000011-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-12-20",
+   "period": "2024-11-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/936395/000093639524000044/cien-20241102.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/936395/000093639524000044/0000936395-24-000044-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-09-04",
+   "period": "2024-07-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/936395/000093639524000032/cien-20240727.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/936395/000093639524000032/0000936395-24-000032-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-06-06",
+   "period": "2024-04-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/936395/000093639524000025/cien-20240427.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/936395/000093639524000025/0000936395-24-000025-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-12-15",
+   "period": "2023-10-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/936395/000093639523000044/cien-20231028.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/936395/000093639523000044/0000936395-23-000044-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-12-16",
+   "period": "2022-10-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/936395/000093639522000065/cien-20221029.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/936395/000093639522000065/0000936395-22-000065-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2021-12-17",
+   "period": "2021-10-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/936395/000093639521000054/cien-20211030.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/936395/000093639521000054/0000936395-21-000054-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

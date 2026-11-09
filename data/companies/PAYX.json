@@ -1,0 +1,216 @@
+{
+ "ticker": "PAYX",
+ "name": "Paychex",
+ "cik": 723531,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "05-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfRevenue)",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2024-09-01",
+   "period_end": "2024-11-30",
+   "revenue": 1316900000,
+   "gross_profit": 937800000,
+   "operating_income": 538100000,
+   "eps_diluted": 1.14,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2024-12-01",
+   "period_end": "2025-02-28",
+   "revenue": 1509000000,
+   "gross_profit": 1121600000,
+   "operating_income": 691800000,
+   "eps_diluted": 1.43,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-03-01",
+   "period_end": "2025-05-31",
+   "revenue": 1427300000,
+   "gross_profit": 1033400000,
+   "operating_income": 431100000,
+   "eps_diluted": 0.82,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-06-01",
+   "period_end": "2025-08-31",
+   "revenue": 1540000000,
+   "gross_profit": 1126200000,
+   "operating_income": 541900000,
+   "eps_diluted": 1.06,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-09-01",
+   "period_end": "2025-11-30",
+   "revenue": 1557600000,
+   "gross_profit": 1145400000,
+   "operating_income": 571900000,
+   "eps_diluted": 1.1,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2025-12-01",
+   "period_end": "2026-02-28",
+   "revenue": 1808900000,
+   "gross_profit": 1377700000,
+   "operating_income": 792000000,
+   "eps_diluted": 1.56,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2026-03-01",
+   "period_end": "2026-05-31",
+   "revenue": 1605500000,
+   "gross_profit": 1188200000,
+   "operating_income": 604700000,
+   "eps_diluted": 1.17,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2027 Q1",
+   "period_start": "2026-06-01",
+   "period_end": "2026-08-31",
+   "revenue": 1630500000,
+   "gross_profit": 1200400000,
+   "operating_income": 619200000,
+   "eps_diluted": 1.21,
+   "derived": [
+    "gross_profit"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-09-24",
+   "period": "2026-08-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/723531/000072353126000006/payx-20260831.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/723531/000072353126000006/0000723531-26-000006-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-07-17",
+   "period": "2026-05-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/723531/000119312526307785/payx-20260531.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/723531/000119312526307785/0001193125-26-307785-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-03-26",
+   "period": "2026-02-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/723531/000119312526126204/payx-20260228.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/723531/000119312526126204/0001193125-26-126204-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-12-22",
+   "period": "2025-11-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/723531/000119312525328698/payx-20251130.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/723531/000119312525328698/0001193125-25-328698-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-09-30",
+   "period": "2025-08-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/723531/000119312525224997/payx-20250831.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/723531/000119312525224997/0001193125-25-224997-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-07-11",
+   "period": "2025-05-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/723531/000095017025095300/payx-20250531.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/723531/000095017025095300/0000950170-25-095300-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-03-26",
+   "period": "2025-02-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/723531/000095017025045216/payx-20250228.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/723531/000095017025045216/0000950170-25-045216-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-12-19",
+   "period": "2024-11-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/723531/000095017024138425/payx-20241130.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/723531/000095017024138425/0000950170-24-138425-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-01",
+   "period": "2024-08-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/723531/000095017024110834/payx-20240831.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/723531/000095017024110834/0000950170-24-110834-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-07-11",
+   "period": "2024-05-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/723531/000095017024082958/payx-20240531.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/723531/000095017024082958/0000950170-24-082958-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-04-02",
+   "period": "2024-02-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/723531/000095017024040129/payx-20240229.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/723531/000095017024040129/0000950170-24-040129-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-07-14",
+   "period": "2023-05-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/723531/000095017023032988/payx-20230531.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/723531/000095017023032988/0000950170-23-032988-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-07-15",
+   "period": "2022-05-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/723531/000095017022012734/payx-20220531.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/723531/000095017022012734/0000950170-22-012734-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

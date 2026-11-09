@@ -1,0 +1,202 @@
+{
+ "ticker": "MNST",
+ "name": "Monster Beverage",
+ "cik": 865752,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 1812041000,
+   "gross_profit": 1002444000,
+   "operating_income": 381224000,
+   "eps_diluted": null,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 1854558000,
+   "gross_profit": 1047962000,
+   "operating_income": 569745000,
+   "eps_diluted": null,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 2111593000,
+   "gross_profit": 1176413000,
+   "operating_income": 631622000,
+   "eps_diluted": null,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 2197139000,
+   "gross_profit": 1224486000,
+   "operating_income": 675352000,
+   "eps_diluted": null,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 2131053000,
+   "gross_profit": 1183334000,
+   "operating_income": 542635000,
+   "eps_diluted": null,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 2353291000,
+   "gross_profit": 1293349000,
+   "operating_income": 729958000,
+   "eps_diluted": null,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 2537473000,
+   "gross_profit": 1419634000,
+   "operating_income": 740442000,
+   "eps_diluted": null,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 2563053000,
+   "gross_profit": 1400735000,
+   "operating_income": 718717000,
+   "eps_diluted": null,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-06",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/865752/000110465926123503/mnst-20260930x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/865752/000110465926123503/0001104659-26-123503-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-07",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/865752/000110465926092193/mnst-20260630x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/865752/000110465926092193/0001104659-26-092193-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-08",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/865752/000110465926057398/mnst-20260331x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/865752/000110465926057398/0001104659-26-057398-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-27",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/0001104659-26-020831-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-07",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/865752/000110465925107944/mnst-20250930x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/865752/000110465925107944/0001104659-25-107944-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-08",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/865752/000141057825001620/mnst-20250630x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/865752/000141057825001620/0001410578-25-001620-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-09",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/865752/000141057825001122/mnst-20250331x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/865752/000141057825001122/0001410578-25-001122-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-28",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/865752/000141057825000248/mnst-20241231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/865752/000141057825000248/0001410578-25-000248-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-08",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/865752/000141057824001818/mnst-20240930x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/865752/000141057824001818/0001410578-24-001818-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-08",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/865752/000141057824001239/mnst-20240630x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/865752/000141057824001239/0001410578-24-001239-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-29",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/865752/000110465924029425/mnst-20231231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/865752/000110465924029425/0001104659-24-029425-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-03-01",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/865752/000110465923027245/mnst-20221231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/865752/000110465923027245/0001104659-23-027245-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-28",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/865752/000110465922028182/mnst-20211231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/865752/000110465922028182/0001104659-22-028182-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

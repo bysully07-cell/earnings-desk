@@ -1,0 +1,202 @@
+{
+ "ticker": "XEL",
+ "name": "Xcel Energy",
+ "cik": 72903,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RegulatedAndUnregulatedOperatingRevenue",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 3120000000,
+   "gross_profit": null,
+   "operating_income": 347000000,
+   "eps_diluted": 0.81,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 3906000000,
+   "gross_profit": null,
+   "operating_income": 677000000,
+   "eps_diluted": 0.84,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 3287000000,
+   "gross_profit": null,
+   "operating_income": 577000000,
+   "eps_diluted": 0.75,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 3915000000,
+   "gross_profit": null,
+   "operating_income": 749000000,
+   "eps_diluted": 0.88,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 3561000000,
+   "gross_profit": null,
+   "operating_income": 580000000,
+   "eps_diluted": 0.95,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 4021000000,
+   "gross_profit": null,
+   "operating_income": 754000000,
+   "eps_diluted": 0.89,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 3119000000,
+   "gross_profit": null,
+   "operating_income": 706000000,
+   "eps_diluted": 0.93,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 4172000000,
+   "gross_profit": null,
+   "operating_income": 1191000000,
+   "eps_diluted": 1.52,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-29",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/72903/000007290326000181/xel-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/72903/000007290326000181/0000072903-26-000181-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-30",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/72903/000007290326000154/xel-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/72903/000007290326000154/0000072903-26-000154-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-30",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/72903/000007290326000073/xel-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/72903/000007290326000073/0000072903-26-000073-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-25",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/72903/000007290326000009/xel-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/72903/000007290326000009/0000072903-26-000009-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-30",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/72903/000007290325000257/xel-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/72903/000007290325000257/0000072903-25-000257-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-31",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/72903/000007290325000225/xel-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/72903/000007290325000225/0000072903-25-000225-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-24",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/72903/000007290325000088/xel-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/72903/000007290325000088/0000072903-25-000088-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-27",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/72903/000007290325000029/xel-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/72903/000007290325000029/0000072903-25-000029-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-31",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/72903/000007290324000199/xel-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/72903/000007290324000199/0000072903-24-000199-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-01",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/72903/000007290324000172/xel-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/72903/000007290324000172/0000072903-24-000172-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-21",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/72903/000007290324000034/xel-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/72903/000007290324000034/0000072903-24-000034-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-23",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/72903/000007290323000007/xel-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/72903/000007290323000007/0000072903-23-000007-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-23",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/72903/000007290322000010/xel-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/72903/000007290322000010/0000072903-22-000010-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

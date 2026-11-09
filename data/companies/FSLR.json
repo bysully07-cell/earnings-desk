@@ -1,0 +1,203 @@
+{
+ "ticker": "FSLR",
+ "name": "First Solar",
+ "cik": 1274494,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 1514031000,
+   "gross_profit": 567661000,
+   "operating_income": 456769000,
+   "eps_diluted": 3.65,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 844568000,
+   "gross_profit": 344403000,
+   "operating_income": 221244000,
+   "eps_diluted": 1.95,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 1097170000,
+   "gross_profit": 499850000,
+   "operating_income": 361607000,
+   "eps_diluted": 3.18,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 1594856000,
+   "gross_profit": 610745000,
+   "operating_income": 466095000,
+   "eps_diluted": 4.24,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 1682782000,
+   "gross_profit": 665341000,
+   "operating_income": 547918000,
+   "eps_diluted": 4.84,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 1044240000,
+   "gross_profit": 486131000,
+   "operating_income": 345303000,
+   "eps_diluted": 3.22,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 1056193000,
+   "gross_profit": 605004000,
+   "operating_income": 450386000,
+   "eps_diluted": 3.92,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 1230936000,
+   "gross_profit": 713060000,
+   "operating_income": 546108000,
+   "eps_diluted": 5.3,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-29",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449426000212/fslr-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449426000212/0001274494-26-000212-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-30",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449426000170/fslr-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449426000170/0001274494-26-000170-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-30",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449426000109/fslr-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449426000109/0001274494-26-000109-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-24",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449426000021/fslr-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449426000021/0001274494-26-000021-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-30",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449425000082/fslr-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449425000082/0001274494-25-000082-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-31",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449425000054/fslr-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449425000054/0001274494-25-000054-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-29",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449425000033/fslr-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449425000033/0001274494-25-000033-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-25",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449425000010/fslr-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449425000010/0001274494-25-000010-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-29",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449424000038/fslr-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449424000038/0001274494-24-000038-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-30",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449424000033/fslr-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449424000033/0001274494-24-000033-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-27",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449424000004/fslr-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449424000004/0001274494-24-000004-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-28",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449423000002/fslr-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449423000002/0001274494-23-000002-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-03-01",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449422000009/fslr-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449422000009/0001274494-22-000009-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

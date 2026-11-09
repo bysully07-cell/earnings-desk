@@ -1,0 +1,221 @@
+{
+ "ticker": "LLY",
+ "name": "Eli Lilly",
+ "cik": 59478,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfGoodsAndServicesSold)",
+  "operating_income": "derived: pre-tax income - non-operating income",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 13533100000,
+   "gross_profit": 11129600000,
+   "operating_income": 5148800000,
+   "eps_diluted": 4.88,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 12729000000,
+   "gross_profit": 10504000000,
+   "operating_income": 3695000000,
+   "eps_diluted": 3.06,
+   "derived": [
+    "gross_profit",
+    "operating_income"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 15558000000,
+   "gross_profit": 13110000000,
+   "operating_income": 6867000000,
+   "eps_diluted": 6.29,
+   "derived": [
+    "gross_profit",
+    "operating_income"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 17601000000,
+   "gross_profit": 14593000000,
+   "operating_income": 7365000000,
+   "eps_diluted": 6.21,
+   "derived": [
+    "gross_profit",
+    "operating_income"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 19291000000,
+   "gross_profit": 15920000000,
+   "operating_income": 8375000000,
+   "eps_diluted": 7.39,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 19799000000,
+   "gross_profit": 16222000000,
+   "operating_income": 8915000000,
+   "eps_diluted": 8.26,
+   "derived": [
+    "gross_profit",
+    "operating_income"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 22974000000,
+   "gross_profit": 19706000000,
+   "operating_income": 8978000000,
+   "eps_diluted": 7.94,
+   "derived": [
+    "gross_profit",
+    "operating_income"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 24397000000,
+   "gross_profit": 20464000000,
+   "operating_income": 8608000000,
+   "eps_diluted": 7.22,
+   "derived": [
+    "gross_profit",
+    "operating_income"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-29",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000108/lly-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000108/0000059478-26-000108-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-05",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000081/lly-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000081/0000059478-26-000081-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-30",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000045/lly-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000045/0000059478-26-000045-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-12",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/lly-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/0000059478-26-000013-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-30",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000254/lly-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000254/0000059478-25-000254-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-07",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000204/lly-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000204/0000059478-25-000204-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-01",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000132/lly-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000132/0000059478-25-000132-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-19",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000067/lly-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000067/0000059478-25-000067-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-30",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000245/lly-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000245/0000059478-24-000245-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-08",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000187/lly-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000187/0000059478-24-000187-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-21",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000065/lly-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000065/0000059478-24-000065-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-22",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947823000082/lly-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947823000082/0000059478-23-000082-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-23",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000068/lly-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000068/0000059478-22-000068-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

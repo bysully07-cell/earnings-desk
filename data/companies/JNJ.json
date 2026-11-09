@@ -1,0 +1,201 @@
+{
+ "ticker": "JNJ",
+ "name": "Johnson & Johnson",
+ "cik": 200406,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-28",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": null,
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-09-30",
+   "period_end": "2024-12-29",
+   "revenue": 22520000000,
+   "gross_profit": 15392000000,
+   "operating_income": null,
+   "eps_diluted": 1.41,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2024-12-30",
+   "period_end": "2025-03-30",
+   "revenue": 21893000000,
+   "gross_profit": 14536000000,
+   "operating_income": null,
+   "eps_diluted": 4.54,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-03-31",
+   "period_end": "2025-06-29",
+   "revenue": 23743000000,
+   "gross_profit": 16115000000,
+   "operating_income": null,
+   "eps_diluted": 2.29,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-06-30",
+   "period_end": "2025-09-28",
+   "revenue": 23993000000,
+   "gross_profit": 16690000000,
+   "operating_income": null,
+   "eps_diluted": 2.12,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-09-29",
+   "period_end": "2025-12-28",
+   "revenue": 24564000000,
+   "gross_profit": 16596000000,
+   "operating_income": null,
+   "eps_diluted": 2.09,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-12-29",
+   "period_end": "2026-03-29",
+   "revenue": 24062000000,
+   "gross_profit": 15956000000,
+   "operating_income": null,
+   "eps_diluted": 2.14,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-03-30",
+   "period_end": "2026-06-28",
+   "revenue": 25310000000,
+   "gross_profit": 17259000000,
+   "operating_income": null,
+   "eps_diluted": 2.27,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-06-29",
+   "period_end": "2026-09-27",
+   "revenue": 25399000000,
+   "gross_profit": 17302000000,
+   "operating_income": null,
+   "eps_diluted": 0.09,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-21",
+   "period": "2026-09-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000197/jnj-20260927.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000197/0000200406-26-000197-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-23",
+   "period": "2026-06-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000153/jnj-20260628.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000153/0000200406-26-000153-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-22",
+   "period": "2026-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000087/jnj-20260329.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000087/0000200406-26-000087-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-11",
+   "period": "2025-12-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000016/jnj-20251228.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000016/0000200406-26-000016-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-22",
+   "period": "2025-09-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040625000209/jnj-20250928.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040625000209/0000200406-25-000209-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-24",
+   "period": "2025-06-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040625000178/jnj-20250629.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040625000178/0000200406-25-000178-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-23",
+   "period": "2025-03-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040625000119/jnj-20250330.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040625000119/0000200406-25-000119-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-13",
+   "period": "2024-12-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040625000038/jnj-20241229.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040625000038/0000200406-25-000038-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-23",
+   "period": "2024-09-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040624000096/jnj-20240929.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040624000096/0000200406-24-000096-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-25",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040624000075/jnj-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040624000075/0000200406-24-000075-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-16",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040624000013/jnj-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040624000013/0000200406-24-000013-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-16",
+   "period": "2023-01-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040623000016/jnj-20230101.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040623000016/0000200406-23-000016-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-17",
+   "period": "2022-01-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040622000022/jnj-20220102.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040622000022/0000200406-22-000022-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

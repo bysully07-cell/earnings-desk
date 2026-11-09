@@ -1,0 +1,210 @@
+{
+ "ticker": "TECH",
+ "name": "Bio-Techne",
+ "cik": 842023,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "06-30",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 297031000,
+   "gross_profit": 193886000,
+   "operating_income": 47419000,
+   "eps_diluted": 0.22,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 316181000,
+   "gross_profit": 214556000,
+   "operating_income": 38708000,
+   "eps_diluted": 0.14,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 316965000,
+   "gross_profit": 198813000,
+   "operating_income": -23859000,
+   "eps_diluted": -0.11,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 286555000,
+   "gross_profit": 188112000,
+   "operating_income": 47658000,
+   "eps_diluted": 0.24,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 295877000,
+   "gross_profit": 191277000,
+   "operating_income": 54461000,
+   "eps_diluted": 0.24,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 311415000,
+   "gross_profit": 208288000,
+   "operating_income": 75495000,
+   "eps_diluted": 0.32,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 321192000,
+   "gross_profit": 211394000,
+   "operating_income": 74276000,
+   "eps_diluted": 0.36,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2027 Q1",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 299712000,
+   "gross_profit": 196623000,
+   "operating_income": 36603000,
+   "eps_diluted": 0.18,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-06",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/842023/000110465926123907/tech-20260930x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/842023/000110465926123907/0001104659-26-123907-index.htm"
+  },
+  {
+   "form": "10-K/A",
+   "filed": "2026-10-28",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/842023/000114036126041062/ef20084361_10ka.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/842023/000114036126041062/0001140361-26-041062-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-08-24",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/842023/000110465926100322/tech-20260630x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/842023/000110465926100322/0001104659-26-100322-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-06",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/842023/000110465926056302/tech-20260331x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/842023/000110465926056302/0001104659-26-056302-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-02-04",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/842023/000110465926010335/tech-20251231x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/842023/000110465926010335/0001104659-26-010335-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-05",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/842023/000110465925107053/tech-20250930x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/842023/000110465925107053/0001104659-25-107053-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-08-22",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/842023/000155837025011716/tech-20250630x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/842023/000155837025011716/0001558370-25-011716-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-08",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/842023/000155837025006990/tech-20250331x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/842023/000155837025006990/0001558370-25-006990-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-02-06",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/842023/000155837025000689/tech-20241231x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/842023/000155837025000689/0001558370-25-000689-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-05",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/842023/000155837024014439/tech-20240930x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/842023/000155837024014439/0001558370-24-014439-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-08-22",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/842023/000155837024012430/tech-20240630x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/842023/000155837024012430/0001558370-24-012430-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-05-06",
+   "period": "2024-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/842023/000155837024006803/tmb-20240331x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/842023/000155837024006803/0001558370-24-006803-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-08-23",
+   "period": "2023-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/842023/000155837023015226/tmb-20230630x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/842023/000155837023015226/0001558370-23-015226-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-08-24",
+   "period": "2022-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/842023/000155837022013935/tmb-20220630x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/842023/000155837022013935/0001558370-22-013935-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

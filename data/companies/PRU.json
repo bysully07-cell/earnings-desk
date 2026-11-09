@@ -1,0 +1,199 @@
+{
+ "ticker": "PRU",
+ "name": "Prudential Financial",
+ "cik": 1137774,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": null,
+  "operating_income": null,
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 12523000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": -0.16,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 13470000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 1.96,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 13726000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 1.48,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 17888000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 4.01,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 15690000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 2.58,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 15526000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 1.68,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 15661000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 2.8,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 14449000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 3.96,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-04",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1137774/000113777426000221/pru-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1137774/000113777426000221/0001137774-26-000221-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-05",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1137774/000113777426000176/pru-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1137774/000113777426000176/0001137774-26-000176-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-06",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1137774/000113777426000095/pru-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1137774/000113777426000095/0001137774-26-000095-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-12",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1137774/000113777426000048/pru-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1137774/000113777426000048/0001137774-26-000048-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-30",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1137774/000113777425000178/pru-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1137774/000113777425000178/0001137774-25-000178-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-31",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1137774/000113777425000108/pru-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1137774/000113777425000108/0001137774-25-000108-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-01",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1137774/000113777425000060/pru-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1137774/000113777425000060/0001137774-25-000060-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-13",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1137774/000113777425000044/pru-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1137774/000113777425000044/0001137774-25-000044-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-31",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1137774/000113777424000247/pru-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1137774/000113777424000247/0001137774-24-000247-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-02",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1137774/000113777424000151/pru-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1137774/000113777424000151/0001137774-24-000151-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-21",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1137774/000113777424000045/pru-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1137774/000113777424000045/0001137774-24-000045-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-16",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1137774/000113777423000040/pru-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1137774/000113777423000040/0001137774-23-000040-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-17",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1137774/000113777422000038/pru-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1137774/000113777422000038/0001137774-22-000038-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

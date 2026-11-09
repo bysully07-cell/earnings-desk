@@ -1,0 +1,179 @@
+{
+ "ticker": "TKO",
+ "name": "TKO Group Holdings",
+ "cik": 1973266,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 927919000,
+   "gross_profit": null,
+   "operating_income": 55037000,
+   "eps_diluted": 0.28,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 1268800000,
+   "gross_profit": null,
+   "operating_income": 237364000,
+   "eps_diluted": 0.69,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 1308442000,
+   "gross_profit": null,
+   "operating_income": 368305000,
+   "eps_diluted": 1.17,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 1119914000,
+   "gross_profit": null,
+   "operating_income": 171963000,
+   "eps_diluted": 0.47,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 1037995000,
+   "gross_profit": null,
+   "operating_income": 57383000,
+   "eps_diluted": -0.08,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 1596876000,
+   "gross_profit": null,
+   "operating_income": 338479000,
+   "eps_diluted": 1.12,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 1547078000,
+   "gross_profit": null,
+   "operating_income": 429806000,
+   "eps_diluted": 1.34,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 1360155000,
+   "gross_profit": null,
+   "operating_income": 377576000,
+   "eps_diluted": 1.33,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-04",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1973266/000119312526447266/tko-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1973266/000119312526447266/0001193125-26-447266-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-03",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1973266/000119312526330592/tko-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1973266/000119312526330592/0001193125-26-330592-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-06",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1973266/000119312526208992/tko-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1973266/000119312526208992/0001193125-26-208992-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-25",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1973266/000119312526071651/tko-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1973266/000119312526071651/0001193125-26-071651-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-05",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1973266/000119312525267014/tko-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1973266/000119312525267014/0001193125-25-267014-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-06",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1973266/000095017025104095/tko-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1973266/000095017025104095/0000950170-25-104095-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-08",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1973266/000095017025067220/tko-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1973266/000095017025067220/0000950170-25-067220-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-26",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1973266/000095017025027778/tko-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1973266/000095017025027778/0000950170-25-027778-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-06",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1973266/000095017024122364/tko-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1973266/000095017024122364/0000950170-24-122364-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-08",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1973266/000197326624000021/tko-20240630x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1973266/000197326624000021/0001973266-24-000021-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-27",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1973266/000156276224000038/tko-20231231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1973266/000156276224000038/0001562762-24-000038-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

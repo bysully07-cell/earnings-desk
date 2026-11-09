@@ -1,0 +1,201 @@
+{
+ "ticker": "DVA",
+ "name": "DaVita",
+ "cik": 927066,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 3294683000,
+   "gross_profit": null,
+   "operating_income": 565362000,
+   "eps_diluted": 3.09,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 3223529000,
+   "gross_profit": null,
+   "operating_income": 438937000,
+   "eps_diluted": 2,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 3379526000,
+   "gross_profit": null,
+   "operating_income": 537841000,
+   "eps_diluted": 2.58,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 3420227000,
+   "gross_profit": null,
+   "operating_income": 505767000,
+   "eps_diluted": 2.04,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 3619787000,
+   "gross_profit": null,
+   "operating_income": 561070000,
+   "eps_diluted": 3.29,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 3415548000,
+   "gross_profit": null,
+   "operating_income": 481892000,
+   "eps_diluted": 2.87,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 3554084000,
+   "gross_profit": null,
+   "operating_income": 579001000,
+   "eps_diluted": 4.02,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 3578126000,
+   "gross_profit": null,
+   "operating_income": 499255000,
+   "eps_diluted": 3.4,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-29",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706626000134/dva-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/927066/000092706626000134/0000927066-26-000134-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-04",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706626000108/dva-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/927066/000092706626000108/0000927066-26-000108-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-05",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706626000062/dva-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/927066/000092706626000062/0000927066-26-000062-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-11",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706626000012/dva-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/927066/000092706626000012/0000927066-26-000012-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-29",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706625000165/dva-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/927066/000092706625000165/0000927066-25-000165-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-05",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706625000124/dva-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/927066/000092706625000124/0000927066-25-000124-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-12",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706625000087/dva-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/927066/000092706625000087/0000927066-25-000087-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-13",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706625000012/dva-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/927066/000092706625000012/0000927066-25-000012-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-29",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706624000179/dva-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/927066/000092706624000179/0000927066-24-000179-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-06",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706624000128/dva-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/927066/000092706624000128/0000927066-24-000128-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-14",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706624000013/dva-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/927066/000092706624000013/0000927066-24-000013-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-22",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706623000011/dva-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/927066/000092706623000011/0000927066-23-000011-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-11",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706622000012/dva-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/927066/000092706622000012/0000927066-22-000012-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

@@ -1,0 +1,204 @@
+{
+ "ticker": "CTAS",
+ "name": "Cintas",
+ "cik": 723254,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "05-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2024-09-01",
+   "period_end": "2024-11-30",
+   "revenue": 2561783000,
+   "gross_profit": 1276703000,
+   "operating_income": 591390000,
+   "eps_diluted": 1.09,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2024-12-01",
+   "period_end": "2025-02-28",
+   "revenue": 2609159000,
+   "gross_profit": 1319341000,
+   "operating_income": 609853000,
+   "eps_diluted": 1.13,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-03-01",
+   "period_end": "2025-05-31",
+   "revenue": 2667652000,
+   "gross_profit": 1325989000,
+   "operating_income": 597452000,
+   "eps_diluted": 1.09,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-06-01",
+   "period_end": "2025-08-31",
+   "revenue": 2718122000,
+   "gross_profit": 1366561000,
+   "operating_income": 617859000,
+   "eps_diluted": 1.2,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-09-01",
+   "period_end": "2025-11-30",
+   "revenue": 2799992000,
+   "gross_profit": 1412485000,
+   "operating_income": 655714000,
+   "eps_diluted": 1.21,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2025-12-01",
+   "period_end": "2026-02-28",
+   "revenue": 2841444000,
+   "gross_profit": 1448456000,
+   "operating_income": 659904000,
+   "eps_diluted": 1.24,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2026-03-01",
+   "period_end": "2026-05-31",
+   "revenue": 2905203000,
+   "gross_profit": 1480291000,
+   "operating_income": 673035000,
+   "eps_diluted": 1.26,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2027 Q1",
+   "period_start": "2026-06-01",
+   "period_end": "2026-08-31",
+   "revenue": 3013981000,
+   "gross_profit": 1553543000,
+   "operating_income": 711887000,
+   "eps_diluted": 1.36,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-07",
+   "period": "2026-08-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325426000047/ctas-20260831.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/723254/000072325426000047/0000723254-26-000047-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-07-29",
+   "period": "2026-05-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325426000028/ctas-20260531.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/723254/000072325426000028/0000723254-26-000028-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-07",
+   "period": "2026-02-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325426000012/ctas-20260228.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/723254/000072325426000012/0000723254-26-000012-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-01-07",
+   "period": "2025-11-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325426000002/ctas-20251130.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/723254/000072325426000002/0000723254-26-000002-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-08",
+   "period": "2025-08-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325425000033/ctas-20250831.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/723254/000072325425000033/0000723254-25-000033-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-07-28",
+   "period": "2025-05-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325425000017/ctas-20250531.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/723254/000072325425000017/0000723254-25-000017-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-03",
+   "period": "2025-02-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/723254/000162828025016483/ctas-20250228.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/723254/000162828025016483/0001628280-25-016483-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-01-08",
+   "period": "2024-11-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325425000003/ctas-20241130.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/723254/000072325425000003/0000723254-25-000003-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-04",
+   "period": "2024-08-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325424000053/ctas-20240831.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/723254/000072325424000053/0000723254-24-000053-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-07-25",
+   "period": "2024-05-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325424000036/ctas-20240531.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/723254/000072325424000036/0000723254-24-000036-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-04-05",
+   "period": "2024-02-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325424000018/ctas-20240229.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/723254/000072325424000018/0000723254-24-000018-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-07-27",
+   "period": "2023-05-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325423000025/ctas-20230531.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/723254/000072325423000025/0000723254-23-000025-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-07-27",
+   "period": "2022-05-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325422000019/ctas-20220531.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/723254/000072325422000019/0000723254-22-000019-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

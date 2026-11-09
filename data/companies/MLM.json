@@ -1,0 +1,199 @@
+{
+ "ticker": "MLM",
+ "name": "Martin Marietta Materials",
+ "cik": 916076,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 1412000000,
+   "gross_profit": 424000000,
+   "operating_income": 254000000,
+   "eps_diluted": 4.78,
+   "derived": [
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 1162000000,
+   "gross_profit": 315000000,
+   "operating_income": 179000000,
+   "eps_diluted": 1.9,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 1609000000,
+   "gross_profit": 496000000,
+   "operating_income": 413000000,
+   "eps_diluted": 5.43,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 1846000000,
+   "gross_profit": 611000000,
+   "operating_income": 505000000,
+   "eps_diluted": 6.85,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 1534000000,
+   "gross_profit": 468000000,
+   "operating_income": 340000000,
+   "eps_diluted": 4.6,
+   "derived": [
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 1362000000,
+   "gross_profit": 310000000,
+   "operating_income": 162000000,
+   "eps_diluted": 25.06,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 1947000000,
+   "gross_profit": 495000000,
+   "operating_income": 372000000,
+   "eps_diluted": 4.17,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 2369000000,
+   "gross_profit": 651000000,
+   "operating_income": 438000000,
+   "eps_diluted": 3.94,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-04",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/916076/000119312526447418/mlm-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/916076/000119312526447418/0001193125-26-447418-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-30",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/916076/000119312526326001/mlm-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/916076/000119312526326001/0001193125-26-326001-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-30",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/916076/000119312526196029/mlm-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/916076/000119312526196029/0001193125-26-196029-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-19",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/916076/000119312526059193/mlm-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/916076/000119312526059193/0001193125-26-059193-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-04",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/916076/000119312525264566/mlm-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/916076/000119312525264566/0001193125-25-264566-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-07",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/916076/000095017025105060/mlm-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/916076/000095017025105060/0000950170-25-105060-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-30",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/916076/000095017025060940/mlm-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/916076/000095017025060940/0000950170-25-060940-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-21",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/916076/000095017025024770/mlm-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/916076/000095017025024770/0000950170-25-024770-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-30",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/916076/000095017024118821/mlm-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/916076/000095017024118821/0000950170-24-118821-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-08",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/916076/000095017024093580/mlm-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/916076/000095017024093580/0000950170-24-093580-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-23",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/916076/000095017024019275/mlm-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/916076/000095017024019275/0000950170-24-019275-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-24",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/916076/000095017023004361/mlm-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/916076/000095017023004361/0000950170-23-004361-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-22",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/916076/000156459022005965/mlm-10k_20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/916076/000156459022005965/0001564590-22-005965-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

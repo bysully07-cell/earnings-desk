@@ -1,0 +1,203 @@
+{
+ "ticker": "ILMN",
+ "name": "Illumina, Inc.",
+ "cik": 1110803,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-28",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-09-30",
+   "period_end": "2024-12-29",
+   "revenue": 1104000000,
+   "gross_profit": 728000000,
+   "operating_income": 174000000,
+   "eps_diluted": 1.18,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2024-12-30",
+   "period_end": "2025-03-30",
+   "revenue": 1041000000,
+   "gross_profit": 683000000,
+   "operating_income": 164000000,
+   "eps_diluted": 0.82,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-03-31",
+   "period_end": "2025-06-29",
+   "revenue": 1059000000,
+   "gross_profit": 695000000,
+   "operating_income": 214000000,
+   "eps_diluted": 1.49,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-06-30",
+   "period_end": "2025-09-28",
+   "revenue": 1084000000,
+   "gross_profit": 733000000,
+   "operating_income": 227000000,
+   "eps_diluted": 0.98,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-09-29",
+   "period_end": "2025-12-28",
+   "revenue": 1159000000,
+   "gross_profit": 759000000,
+   "operating_income": 202000000,
+   "eps_diluted": 2.17,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-12-29",
+   "period_end": "2026-03-29",
+   "revenue": 1091000000,
+   "gross_profit": 721000000,
+   "operating_income": 209000000,
+   "eps_diluted": 0.87,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-03-30",
+   "period_end": "2026-06-28",
+   "revenue": 1159000000,
+   "gross_profit": 770000000,
+   "operating_income": 245000000,
+   "eps_diluted": 1.35,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-06-29",
+   "period_end": "2026-09-27",
+   "revenue": 1129000000,
+   "gross_profit": 830000000,
+   "operating_income": 305000000,
+   "eps_diluted": 1.43,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-30",
+   "period": "2026-09-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000207/ilmn-20260927.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000207/0001110803-26-000207-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-31",
+   "period": "2026-06-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000160/ilmn-20260628.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000160/0001110803-26-000160-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-04",
+   "period": "2026-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000092/ilmn-20260329.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000092/0001110803-26-000092-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-12",
+   "period": "2025-12-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000024/ilmn-20251228.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080326000024/0001110803-26-000024-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-31",
+   "period": "2025-09-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080325000073/ilmn-20250928.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080325000073/0001110803-25-000073-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-01",
+   "period": "2025-06-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080325000060/ilmn-20250629.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080325000060/0001110803-25-000060-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-09",
+   "period": "2025-03-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080325000046/ilmn-20250330.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080325000046/0001110803-25-000046-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-12",
+   "period": "2024-12-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080325000019/ilmn-20241229.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080325000019/0001110803-25-000019-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-06",
+   "period": "2024-09-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080324000052/ilmn-20240929.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080324000052/0001110803-24-000052-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-07",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080324000044/ilmn-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080324000044/0001110803-24-000044-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-16",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080324000010/ilmn-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080324000010/0001110803-24-000010-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-17",
+   "period": "2023-01-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080323000023/ilmn-20230101.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080323000023/0001110803-23-000023-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-18",
+   "period": "2022-01-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080322000013/ilmn-20220102.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1110803/000111080322000013/0001110803-22-000013-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

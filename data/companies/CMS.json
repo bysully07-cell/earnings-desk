@@ -1,0 +1,201 @@
+{
+ "ticker": "CMS",
+ "name": "CMS Energy",
+ "cik": 811156,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q3",
+   "period_start": "2024-07-01",
+   "period_end": "2024-09-30",
+   "revenue": 1743000000,
+   "gross_profit": null,
+   "operating_income": 367000000,
+   "eps_diluted": 0.84,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 1989000000,
+   "gross_profit": null,
+   "operating_income": 425000000,
+   "eps_diluted": 0.89,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 2447000000,
+   "gross_profit": null,
+   "operating_income": 494000000,
+   "eps_diluted": 1.01,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 1838000000,
+   "gross_profit": null,
+   "operating_income": 317000000,
+   "eps_diluted": 0.66,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 2021000000,
+   "gross_profit": null,
+   "operating_income": 481000000,
+   "eps_diluted": 0.92,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 2233000000,
+   "gross_profit": null,
+   "operating_income": 435000000,
+   "eps_diluted": 0.95,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 2730000000,
+   "gross_profit": null,
+   "operating_income": 490000000,
+   "eps_diluted": 1.1,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 1829000000,
+   "gross_profit": null,
+   "operating_income": 264000000,
+   "eps_diluted": 0.37,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-27",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/811156/000081115626000032/cms-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/811156/000081115626000032/0000811156-26-000032-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-28",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/811156/000081115626000028/cms-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/811156/000081115626000028/0000811156-26-000028-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-28",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/811156/000081115626000024/cms-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/811156/000081115626000024/0000811156-26-000024-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-10",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/811156/000081115626000004/cms-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/811156/000081115626000004/0000811156-26-000004-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-30",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/811156/000081115625000077/cms-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/811156/000081115625000077/0000811156-25-000077-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-31",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/811156/000081115625000071/cms-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/811156/000081115625000071/0000811156-25-000071-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-24",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/811156/000081115625000047/cms-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/811156/000081115625000047/0000811156-25-000047-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-11",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/811156/000081115625000036/cms-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/811156/000081115625000036/0000811156-25-000036-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-31",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/811156/000081115624000114/cms-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/811156/000081115624000114/0000811156-24-000114-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-25",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/811156/000081115624000110/cms-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/811156/000081115624000110/0000811156-24-000110-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-08",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/811156/000081115624000044/cms-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/811156/000081115624000044/0000811156-24-000044-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-09",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/811156/000081115623000014/cms-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/811156/000081115623000014/0000811156-23-000014-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-10",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/811156/000081115622000048/cms-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/811156/000081115622000048/0000811156-22-000048-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

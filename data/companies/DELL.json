@@ -1,0 +1,198 @@
+{
+ "ticker": "DELL",
+ "name": "Dell Technologies",
+ "cik": 1571996,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "01-30",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2024-08-03",
+   "period_end": "2024-11-01",
+   "revenue": 24366000000,
+   "gross_profit": 5360000000,
+   "operating_income": 1721000000,
+   "eps_diluted": 1.64,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2024-11-02",
+   "period_end": "2025-01-31",
+   "revenue": 23931000000,
+   "gross_profit": 5678000000,
+   "operating_income": 2159000000,
+   "eps_diluted": 2.15,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-02-01",
+   "period_end": "2025-05-02",
+   "revenue": 23378000000,
+   "gross_profit": 4937000000,
+   "operating_income": 1165000000,
+   "eps_diluted": 1.37,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-05-03",
+   "period_end": "2025-08-01",
+   "revenue": 29776000000,
+   "gross_profit": 5447000000,
+   "operating_income": 1773000000,
+   "eps_diluted": 1.7,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2025-08-02",
+   "period_end": "2025-10-31",
+   "revenue": 27005000000,
+   "gross_profit": 5593000000,
+   "operating_income": 2119000000,
+   "eps_diluted": 2.28,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2025-11-01",
+   "period_end": "2026-01-30",
+   "revenue": 33379000000,
+   "gross_profit": 6730000000,
+   "operating_income": 3092000000,
+   "eps_diluted": 3.38,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2027 Q1",
+   "period_start": "2026-01-31",
+   "period_end": "2026-05-01",
+   "revenue": 43842000000,
+   "gross_profit": 7782000000,
+   "operating_income": 3656000000,
+   "eps_diluted": 5.24,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2027 Q2",
+   "period_start": "2026-05-02",
+   "period_end": "2026-07-31",
+   "revenue": 46971000000,
+   "gross_profit": 9830000000,
+   "operating_income": 5385000000,
+   "eps_diluted": 6.34,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-09-08",
+   "period": "2026-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199626000046/dell-20260731.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199626000046/0001571996-26-000046-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-06-09",
+   "period": "2026-05-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199626000030/dell-20260501.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199626000030/0001571996-26-000030-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-03-16",
+   "period": "2026-01-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199626000008/dell-20260130.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199626000008/0001571996-26-000008-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-12-09",
+   "period": "2025-10-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199625000127/dell-20251031.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199625000127/0001571996-25-000127-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-09-08",
+   "period": "2025-08-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199625000102/dell-20250801.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199625000102/0001571996-25-000102-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-06-10",
+   "period": "2025-05-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199625000063/dell-20250502.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199625000063/0001571996-25-000063-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-03-25",
+   "period": "2025-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199625000034/dell-20250131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199625000034/0001571996-25-000034-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-12-10",
+   "period": "2024-11-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199624000143/dell-20241101.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199624000143/0001571996-24-000143-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-09-10",
+   "period": "2024-08-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199624000090/dell-20240802.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199624000090/0001571996-24-000090-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-06-11",
+   "period": "2024-05-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199624000062/dell-20240503.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199624000062/0001571996-24-000062-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-03-25",
+   "period": "2024-02-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199624000036/dell-20240202.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199624000036/0001571996-24-000036-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-03-30",
+   "period": "2023-02-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199623000007/dell-20230203.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199623000007/0001571996-23-000007-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-03-24",
+   "period": "2022-01-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199622000009/dell-20220128.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199622000009/0001571996-22-000009-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

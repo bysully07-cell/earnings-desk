@@ -1,0 +1,208 @@
+{
+ "ticker": "AON",
+ "name": "Aon plc",
+ "cik": 315293,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 4147000000,
+   "gross_profit": null,
+   "operating_income": 1091000000,
+   "eps_diluted": 3.28,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 4729000000,
+   "gross_profit": null,
+   "operating_income": 1461000000,
+   "eps_diluted": 4.43,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 4155000000,
+   "gross_profit": null,
+   "operating_income": 859000000,
+   "eps_diluted": 2.66,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 3997000000,
+   "gross_profit": null,
+   "operating_income": 816000000,
+   "eps_diluted": 2.11,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 4300000000,
+   "gross_profit": null,
+   "operating_income": 1208000000,
+   "eps_diluted": 7.82,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 5034000000,
+   "gross_profit": null,
+   "operating_income": 1715000000,
+   "eps_diluted": 5.63,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 4246000000,
+   "gross_profit": null,
+   "operating_income": 915000000,
+   "eps_diluted": 2.58,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 4101000000,
+   "gross_profit": null,
+   "operating_income": 809000000,
+   "eps_diluted": 2.23,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-28",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/315293/000162828026067879/aon-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/315293/000162828026067879/0001628280-26-067879-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-29",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/315293/000162828026050610/aon-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/315293/000162828026050610/0001628280-26-050610-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-01",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/315293/000162828026029322/aon-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/315293/000162828026029322/0001628280-26-029322-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-13",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/315293/000162828026008116/aon-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/315293/000162828026008116/0001628280-26-008116-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-31",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/315293/000162828025047805/aon-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/315293/000162828025047805/0001628280-25-047805-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-25",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/315293/000162828025036060/aon-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/315293/000162828025036060/0001628280-25-036060-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-25",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/315293/000162828025019927/aon-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/315293/000162828025019927/0001628280-25-019927-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-18",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/315293/000162828025006093/aon-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/315293/000162828025006093/0001628280-25-006093-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-25",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/315293/000162828024043809/aon-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/315293/000162828024043809/0001628280-24-043809-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-26",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/315293/000162828024033161/aon-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/315293/000162828024033161/0001628280-24-033161-index.htm"
+  },
+  {
+   "form": "10-K/A",
+   "filed": "2024-04-17",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/315293/000119312524099218/d718867d10ka.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/315293/000119312524099218/0001193125-24-099218-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-16",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/315293/000162828024005392/aon-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/315293/000162828024005392/0001628280-24-005392-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-17",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/315293/000162828023004087/aon-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/315293/000162828023004087/0001628280-23-004087-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-18",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/315293/000162828022003180/aon-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/315293/000162828022003180/0001628280-22-003180-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

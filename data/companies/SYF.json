@@ -1,0 +1,211 @@
+{
+ "ticker": "SYF",
+ "name": "Synchrony Financial",
+ "cik": 1601712,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "derived: net interest income + noninterest income",
+  "gross_profit": null,
+  "operating_income": null,
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 4720000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 1.96,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 4613000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 1.89,
+   "derived": [
+    "revenue"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 4639000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 2.5,
+   "derived": [
+    "revenue"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 4847000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 2.86,
+   "derived": [
+    "revenue"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 4887000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 2.1,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 4768000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 2.27,
+   "derived": [
+    "revenue"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 4745000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 2.59,
+   "derived": [
+    "revenue"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 4914000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 2.68,
+   "derived": [
+    "revenue"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-22",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171226000043/syf-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171226000043/0001601712-26-000043-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-23",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171226000033/syf-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171226000033/0001601712-26-000033-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-23",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171226000016/syf-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171226000016/0001601712-26-000016-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-06",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171226000006/syf-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171226000006/0001601712-26-000006-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-22",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171225000259/syf-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171225000259/0001601712-25-000259-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-23",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171225000231/syf-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171225000231/0001601712-25-000231-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-24",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171225000144/syf-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171225000144/0001601712-25-000144-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-07",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171225000044/syf-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171225000044/0001601712-25-000044-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-23",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171224000336/syf-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171224000336/0001601712-24-000336-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-19",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171224000250/syf-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171224000250/0001601712-24-000250-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-08",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171224000047/syf-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171224000047/0001601712-24-000047-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-09",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171223000037/syf-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171223000037/0001601712-23-000037-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-10",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171222000053/syf-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171222000053/0001601712-22-000053-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

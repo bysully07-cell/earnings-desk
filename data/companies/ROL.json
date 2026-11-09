@@ -1,0 +1,201 @@
+{
+ "ticker": "ROL",
+ "name": "Rollins, Inc.",
+ "cik": 84839,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 832169000,
+   "gross_profit": null,
+   "operating_income": 150627000,
+   "eps_diluted": 0.22,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 822504000,
+   "gross_profit": null,
+   "operating_income": 142648000,
+   "eps_diluted": 0.22,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 999527000,
+   "gross_profit": null,
+   "operating_income": 198333000,
+   "eps_diluted": 0.29,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 1026106000,
+   "gross_profit": null,
+   "operating_income": 225021000,
+   "eps_diluted": 0.34,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 912913000,
+   "gross_profit": null,
+   "operating_income": 160066000,
+   "eps_diluted": 0.24,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 906424000,
+   "gross_profit": null,
+   "operating_income": 145486000,
+   "eps_diluted": 0.22,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 1078576000,
+   "gross_profit": null,
+   "operating_income": 201359000,
+   "eps_diluted": 0.3,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 1089670000,
+   "gross_profit": null,
+   "operating_income": 222859000,
+   "eps_diluted": 0.33,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-22",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/84839/000008483926000045/rol-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/84839/000008483926000045/0000084839-26-000045-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-23",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/84839/000008483926000040/rol-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/84839/000008483926000040/0000084839-26-000040-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-23",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/84839/000008483926000022/rol-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/84839/000008483926000022/0000084839-26-000022-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-12",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/84839/000008483926000008/rol-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/84839/000008483926000008/0000084839-26-000008-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-30",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/84839/000008483925000100/rol-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/84839/000008483925000100/0000084839-25-000100-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-24",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/84839/000008483925000087/rol-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/84839/000008483925000087/0000084839-25-000087-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-24",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/84839/000008483925000069/rol-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/84839/000008483925000069/0000084839-25-000069-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-13",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/84839/000008483925000024/rol-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/84839/000008483925000024/0000084839-25-000024-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-24",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/84839/000008483924000106/rol-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/84839/000008483924000106/0000084839-24-000106-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-25",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/84839/000008483924000094/rol-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/84839/000008483924000094/0000084839-24-000094-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-15",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/84839/000008483924000025/rol-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/84839/000008483924000025/0000084839-24-000025-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-16",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/84839/000008483923000006/rol-20221231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/84839/000008483923000006/0000084839-23-000006-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-25",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/84839/000008483922000011/rol-20211231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/84839/000008483922000011/0000084839-22-000011-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

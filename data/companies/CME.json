@@ -1,0 +1,201 @@
+{
+ "ticker": "CME",
+ "name": "CME Group",
+ "cik": 1156375,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 1525300000,
+   "gross_profit": null,
+   "operating_income": 947100000,
+   "eps_diluted": 2.4,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 1642300000,
+   "gross_profit": null,
+   "operating_income": 1108000000,
+   "eps_diluted": 2.62,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 1692000000,
+   "gross_profit": null,
+   "operating_income": 1129300000,
+   "eps_diluted": 2.81,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 1537600000,
+   "gross_profit": null,
+   "operating_income": 972600000,
+   "eps_diluted": 2.49,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 1648700000,
+   "gross_profit": null,
+   "operating_income": 1019600000,
+   "eps_diluted": 3.24,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 1880100000,
+   "gross_profit": null,
+   "operating_income": 1309700000,
+   "eps_diluted": 3.18,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 1706200000,
+   "gross_profit": null,
+   "operating_income": 1107100000,
+   "eps_diluted": 2.88,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 1737300000,
+   "gross_profit": null,
+   "operating_income": 1141400000,
+   "eps_diluted": 2.89,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-23",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1156375/000115637526000068/cme-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1156375/000115637526000068/0001156375-26-000068-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-24",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1156375/000115637526000047/cme-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1156375/000115637526000047/0001156375-26-000047-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-24",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1156375/000115637526000020/cme-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1156375/000115637526000020/0001156375-26-000020-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-26",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1156375/000115637526000009/cme-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1156375/000115637526000009/0001156375-26-000009-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-24",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1156375/000115637525000206/cme-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1156375/000115637525000206/0001156375-25-000206-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-25",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1156375/000115637525000182/cme-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1156375/000115637525000182/0001156375-25-000182-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-30",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1156375/000115637525000103/cme-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1156375/000115637525000103/0001156375-25-000103-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-27",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1156375/000115637525000021/cme-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1156375/000115637525000021/0001156375-25-000021-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-08",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1156375/000115637524000200/cme-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1156375/000115637524000200/0001156375-24-000200-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-05",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1156375/000115637524000149/cme-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1156375/000115637524000149/0001156375-24-000149-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-28",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1156375/000115637524000010/cme-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1156375/000115637524000010/0001156375-24-000010-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-27",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1156375/000115637523000020/cme-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1156375/000115637523000020/0001156375-23-000020-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-25",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1156375/000115637522000076/cme-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1156375/000115637522000076/0001156375-22-000076-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

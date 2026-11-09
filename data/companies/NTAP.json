@@ -1,0 +1,203 @@
+{
+ "ticker": "NTAP",
+ "name": "NetApp",
+ "cik": 1002047,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "04-24",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2024-07-27",
+   "period_end": "2024-10-25",
+   "revenue": 1658000000,
+   "gross_profit": 1177000000,
+   "operating_income": 345000000,
+   "eps_diluted": 1.42,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2024-10-26",
+   "period_end": "2025-01-24",
+   "revenue": 1641000000,
+   "gross_profit": 1145000000,
+   "operating_income": 362000000,
+   "eps_diluted": 1.44,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-01-25",
+   "period_end": "2025-04-25",
+   "revenue": 1067000000,
+   "gross_profit": 1193000000,
+   "operating_income": 348000000,
+   "eps_diluted": 1.65,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-04-26",
+   "period_end": "2025-07-25",
+   "revenue": 1398000000,
+   "gross_profit": 1098000000,
+   "operating_income": 309000000,
+   "eps_diluted": 1.15,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-07-26",
+   "period_end": "2025-10-24",
+   "revenue": 1705000000,
+   "gross_profit": 1227000000,
+   "operating_income": 399000000,
+   "eps_diluted": 1.51,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2025-10-25",
+   "period_end": "2026-01-23",
+   "revenue": 1713000000,
+   "gross_profit": 1209000000,
+   "operating_income": 434000000,
+   "eps_diluted": 1.67,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2026-01-24",
+   "period_end": "2026-04-24",
+   "revenue": 1421000000,
+   "gross_profit": 1365000000,
+   "operating_income": 532000000,
+   "eps_diluted": 2.03,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2027 Q1",
+   "period_start": "2026-04-25",
+   "period_end": "2026-07-31",
+   "revenue": 1819000000,
+   "gross_profit": 1419000000,
+   "operating_income": 484000000,
+   "eps_diluted": 1.88,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-09-02",
+   "period": "2026-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1002047/000119312526380207/ntap-20260731.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1002047/000119312526380207/0001193125-26-380207-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-06-05",
+   "period": "2026-04-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/1002047/000119312526259683/ntap-20260424.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1002047/000119312526259683/0001193125-26-259683-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-02-26",
+   "period": "2026-01-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/1002047/000119312526076622/ntap-20260123.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1002047/000119312526076622/0001193125-26-076622-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-25",
+   "period": "2025-10-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/1002047/000119312525297237/ntap-20251024.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1002047/000119312525297237/0001193125-25-297237-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-27",
+   "period": "2025-07-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1002047/000119312525189700/ntap-20250725.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1002047/000119312525189700/0001193125-25-189700-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-06-09",
+   "period": "2025-04-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1002047/000095017025083705/ntap-20250425.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1002047/000095017025083705/0000950170-25-083705-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-02-27",
+   "period": "2025-01-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/1002047/000095017025029066/ntap-20250124.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1002047/000095017025029066/0000950170-25-029066-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-25",
+   "period": "2024-10-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1002047/000095017024130551/ntap-20241025.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1002047/000095017024130551/0000950170-24-130551-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-28",
+   "period": "2024-07-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1002047/000095017024101408/ntap-20240726.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1002047/000095017024101408/0000950170-24-101408-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-06-10",
+   "period": "2024-04-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1002047/000095017024071327/ntap-20240426.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1002047/000095017024071327/0000950170-24-071327-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-02-29",
+   "period": "2024-01-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1002047/000095017024023115/ntap-20240126.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1002047/000095017024023115/0000950170-24-023115-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-06-14",
+   "period": "2023-04-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1002047/000095017023027948/ntap-20230428.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1002047/000095017023027948/0000950170-23-027948-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-06-16",
+   "period": "2022-04-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1002047/000095017022011708/ntap-20220429.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1002047/000095017022011708/0000950170-22-011708-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

@@ -1,0 +1,201 @@
+{
+ "ticker": "AMCR",
+ "name": "Amcor",
+ "cik": 1748790,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "06-30",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 3241000000,
+   "gross_profit": 626000000,
+   "operating_income": 297000000,
+   "eps_diluted": 0.56,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 3333000000,
+   "gross_profit": 654000000,
+   "operating_income": 313000000,
+   "eps_diluted": 0.68,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 5082000000,
+   "gross_profit": 895000000,
+   "operating_income": 87000000,
+   "eps_diluted": 0.23,
+   "derived": [
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 5745000000,
+   "gross_profit": 1124000000,
+   "operating_income": 461000000,
+   "eps_diluted": 0.57,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 5449000000,
+   "gross_profit": 1039000000,
+   "operating_income": 331000000,
+   "eps_diluted": 0.38,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 5914000000,
+   "gross_profit": 1190000000,
+   "operating_income": 461000000,
+   "eps_diluted": 0.6,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 6398000000,
+   "gross_profit": 1337000000,
+   "operating_income": 646000000,
+   "eps_diluted": 0.84,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2027 Q1",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 6129000000,
+   "gross_profit": 1159000000,
+   "operating_income": 454000000,
+   "eps_diluted": 0.52,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-05",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1748790/000174879026000031/amcr-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1748790/000174879026000031/0001748790-26-000031-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-08-14",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1748790/000174879026000022/amcr-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1748790/000174879026000022/0001748790-26-000022-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-07",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1748790/000174879026000016/amcr-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1748790/000174879026000016/0001748790-26-000016-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-02-04",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1748790/000174879026000006/amcr-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1748790/000174879026000006/0001748790-26-000006-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-06",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1748790/000174879025000036/amcr-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1748790/000174879025000036/0001748790-25-000036-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-08-15",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1748790/000174879025000023/amcr-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1748790/000174879025000023/0001748790-25-000023-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-01",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1748790/000174879025000016/amcr-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1748790/000174879025000016/0001748790-25-000016-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-02-05",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1748790/000174879025000010/amcr-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1748790/000174879025000010/0001748790-25-000010-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-01",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1748790/000174879024000034/amcr-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1748790/000174879024000034/0001748790-24-000034-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-08-16",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1748790/000174879024000022/amcr-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1748790/000174879024000022/0001748790-24-000022-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-05-01",
+   "period": "2024-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1748790/000174879024000016/amcr-20240331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1748790/000174879024000016/0001748790-24-000016-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-08-17",
+   "period": "2023-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1748790/000174879023000030/amcr-20230630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1748790/000174879023000030/0001748790-23-000030-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-08-18",
+   "period": "2022-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1748790/000174879022000024/amcr-20220630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1748790/000174879022000024/0001748790-22-000024-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

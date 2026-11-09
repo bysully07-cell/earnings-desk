@@ -1,0 +1,201 @@
+{
+ "ticker": "CTSH",
+ "name": "Cognizant",
+ "cik": 1058290,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 5082000000,
+   "gross_profit": null,
+   "operating_income": 751000000,
+   "eps_diluted": 1.1,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 5115000000,
+   "gross_profit": null,
+   "operating_income": 853000000,
+   "eps_diluted": 1.34,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 5245000000,
+   "gross_profit": null,
+   "operating_income": 817000000,
+   "eps_diluted": 1.31,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 5415000000,
+   "gross_profit": null,
+   "operating_income": 866000000,
+   "eps_diluted": 0.56,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 5333000000,
+   "gross_profit": null,
+   "operating_income": 853000000,
+   "eps_diluted": 1.34,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 5413000000,
+   "gross_profit": null,
+   "operating_income": 843000000,
+   "eps_diluted": 1.39,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 5481000000,
+   "gross_profit": null,
+   "operating_income": 874000000,
+   "eps_diluted": 1.36,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 5664000000,
+   "gross_profit": null,
+   "operating_income": 872000000,
+   "eps_diluted": 1.39,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-29",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829026000041/ctsh-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829026000041/0001058290-26-000041-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-29",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829026000031/ctsh-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829026000031/0001058290-26-000031-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-29",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829026000016/ctsh-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829026000016/0001058290-26-000016-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-12",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829026000008/ctsh-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829026000008/0001058290-26-000008-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-29",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829025000341/ctsh-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829025000341/0001058290-25-000341-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-31",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829025000267/ctsh-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829025000267/0001058290-25-000267-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-01",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829025000125/ctsh-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829025000125/0001058290-25-000125-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-12",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829025000017/ctsh-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829025000017/0001058290-25-000017-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-31",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829024000327/ctsh-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829024000327/0001058290-24-000327-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-01",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829024000242/ctsh-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829024000242/0001058290-24-000242-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-14",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829024000017/ctsh-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829024000017/0001058290-24-000017-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-15",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829023000027/ctsh-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829023000027/0001058290-23-000027-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-16",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829022000023/ctsh-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829022000023/0001058290-22-000023-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

@@ -1,0 +1,216 @@
+{
+ "ticker": "ROST",
+ "name": "Ross Stores",
+ "cik": 745732,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "01-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfGoodsAndServicesSold)",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2024-08-04",
+   "period_end": "2024-11-02",
+   "revenue": 5071354000,
+   "gross_profit": 1437071000,
+   "operating_income": 604216000,
+   "eps_diluted": 1.48,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2024-11-03",
+   "period_end": "2025-02-01",
+   "revenue": 5912279000,
+   "gross_profit": 1568657000,
+   "operating_income": 731024000,
+   "eps_diluted": 1.78,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-02-02",
+   "period_end": "2025-05-03",
+   "revenue": 4984971000,
+   "gross_profit": 1403605000,
+   "operating_income": 606470000,
+   "eps_diluted": 1.47,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-05-04",
+   "period_end": "2025-08-02",
+   "revenue": 5529152000,
+   "gross_profit": 1526985000,
+   "operating_income": 638274000,
+   "eps_diluted": 1.56,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2025-08-03",
+   "period_end": "2025-11-01",
+   "revenue": 5600946000,
+   "gross_profit": 1568500000,
+   "operating_income": 648498000,
+   "eps_diluted": 1.58,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2025-11-02",
+   "period_end": "2026-01-31",
+   "revenue": 6635490000,
+   "gross_profit": 1804213000,
+   "operating_income": 814115000,
+   "eps_diluted": 2.0,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2027 Q1",
+   "period_start": "2026-02-01",
+   "period_end": "2026-05-02",
+   "revenue": 6010476000,
+   "gross_profit": 1779887000,
+   "operating_income": 804026000,
+   "eps_diluted": 2.02,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2027 Q2",
+   "period_start": "2026-05-03",
+   "period_end": "2026-08-01",
+   "revenue": 6264886000,
+   "gross_profit": 2119671000,
+   "operating_income": 1103618000,
+   "eps_diluted": 2.66,
+   "derived": [
+    "gross_profit"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-09-01",
+   "period": "2026-08-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/745732/000074573226000041/rost-20260801.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/745732/000074573226000041/0000745732-26-000041-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-06-02",
+   "period": "2026-05-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/745732/000074573226000032/rost-20260502.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/745732/000074573226000032/0000745732-26-000032-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-03-31",
+   "period": "2026-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/745732/000074573226000006/rost-20260131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/745732/000074573226000006/0000745732-26-000006-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-12-10",
+   "period": "2025-11-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/745732/000074573225000061/rost-20251101.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/745732/000074573225000061/0000745732-25-000061-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-09-10",
+   "period": "2025-08-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/745732/000074573225000052/rost-20250802.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/745732/000074573225000052/0000745732-25-000052-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-06-11",
+   "period": "2025-05-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/745732/000074573225000031/rost-20250503.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/745732/000074573225000031/0000745732-25-000031-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-04-01",
+   "period": "2025-02-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/745732/000074573225000010/rost-20250201.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/745732/000074573225000010/0000745732-25-000010-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-12-11",
+   "period": "2024-11-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/745732/000074573224000062/rost-20241102.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/745732/000074573224000062/0000745732-24-000062-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-09-11",
+   "period": "2024-08-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/745732/000074573224000050/rost-20240803.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/745732/000074573224000050/0000745732-24-000050-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-06-12",
+   "period": "2024-05-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/745732/000074573224000035/rost-20240504.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/745732/000074573224000035/0000745732-24-000035-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-04-02",
+   "period": "2024-02-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/745732/000074573224000009/rost-20240203.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/745732/000074573224000009/0000745732-24-000009-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-03-28",
+   "period": "2023-01-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/745732/000074573223000013/rost-20230128.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/745732/000074573223000013/0000745732-23-000013-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-03-29",
+   "period": "2022-01-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/745732/000074573222000014/rost-20220129.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/745732/000074573222000014/0000745732-22-000014-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

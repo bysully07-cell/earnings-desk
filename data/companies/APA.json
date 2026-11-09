@@ -1,0 +1,107 @@
+{
+ "ticker": "APA",
+ "name": "APA Corporation",
+ "cik": 1841666,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": null,
+ "sources": {},
+ "quarters": [],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-05",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1841666/000184166626000071/apa-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1841666/000184166626000071/0001841666-26-000071-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-06",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1841666/000184166626000053/apa-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1841666/000184166626000053/0001841666-26-000053-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-07",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1841666/000184166626000034/apa-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1841666/000184166626000034/0001841666-26-000034-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-26",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1841666/000184166626000015/apa-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1841666/000184166626000015/0001841666-26-000015-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-06",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1841666/000184166625000031/apa-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1841666/000184166625000031/0001841666-25-000031-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-07",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1841666/000184166625000014/apa-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1841666/000184166625000014/0001841666-25-000014-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-08",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1841666/000204026625000012/apa-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1841666/000204026625000012/0002040266-25-000012-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-28",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1841666/000204026625000007/apa-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1841666/000204026625000007/0002040266-25-000007-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-07",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1841666/000204026624000003/apa-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1841666/000204026624000003/0002040266-24-000003-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-02",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1841666/000178403124000013/apa-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1841666/000178403124000013/0001784031-24-000013-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-22",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1841666/000178403124000003/apa-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1841666/000178403124000003/0001784031-24-000003-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-23",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1841666/000178403123000007/apa-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1841666/000178403123000007/0001784031-23-000007-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-22",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1841666/000178403122000009/apa-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1841666/000178403122000009/0001784031-22-000009-index.htm"
+  }
+ ],
+ "note": "revenue tags stop at 2021-06-30; newer filings use tags this site doesn't map",
+ "earnings": [],
+ "earnings_checked": null
+}

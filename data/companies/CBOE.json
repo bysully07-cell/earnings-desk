@@ -1,0 +1,203 @@
+{
+ "ticker": "CBOE",
+ "name": "Cboe Global Markets",
+ "cik": 1374310,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerIncludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 1107600000,
+   "gross_profit": 524500000,
+   "operating_income": 298500000,
+   "eps_diluted": 1.86,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 1195000000,
+   "gross_profit": 565200000,
+   "operating_income": 353900000,
+   "eps_diluted": 2.37,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 1173500000,
+   "gross_profit": 587300000,
+   "operating_income": 339100000,
+   "eps_diluted": 2.23,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 1141700000,
+   "gross_profit": 605500000,
+   "operating_income": 370300000,
+   "eps_diluted": 2.85,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 1204000000,
+   "gross_profit": 671100000,
+   "operating_income": 403800000,
+   "eps_diluted": 2.97,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 1272800000,
+   "gross_profit": 728900000,
+   "operating_income": 505600000,
+   "eps_diluted": 3.66,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 1442800000,
+   "gross_profit": 731600000,
+   "operating_income": 476000000,
+   "eps_diluted": 3.35,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 1358800000,
+   "gross_profit": 712200000,
+   "operating_income": 534300000,
+   "eps_diluted": 4.08,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-30",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1374310/000162828026068447/cboe-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1374310/000162828026068447/0001628280-26-068447-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-31",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1374310/000162828026051239/cboe-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1374310/000162828026051239/0001628280-26-051239-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-01",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1374310/000162828026029112/cboe-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1374310/000162828026029112/0001628280-26-029112-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-20",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1374310/000162828026010013/cboe-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1374310/000162828026010013/0001628280-26-010013-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-31",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1374310/000162828025047680/cboe-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1374310/000162828025047680/0001628280-25-047680-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-01",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1374310/000162828025037149/cboe-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1374310/000162828025037149/0001628280-25-037149-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-02",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1374310/000162828025021680/cboe-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1374310/000162828025021680/0001628280-25-021680-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-21",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1374310/000162828025006984/cboe-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1374310/000162828025006984/0001628280-25-006984-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-01",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1374310/000162828024044657/cboe-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1374310/000162828024044657/0001628280-24-044657-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-02",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1374310/000155837024010654/cboe-20240630x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1374310/000155837024010654/0001558370-24-010654-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-16",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1374310/000155837024001277/cboe-20231231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1374310/000155837024001277/0001558370-24-001277-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-17",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1374310/000155837023001489/cboe-20221231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1374310/000155837023001489/0001558370-23-001489-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-18",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1374310/000155837022001386/cboe-20211231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1374310/000155837022001386/0001558370-22-001386-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

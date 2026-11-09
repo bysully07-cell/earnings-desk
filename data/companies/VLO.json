@@ -1,0 +1,215 @@
+{
+ "ticker": "VLO",
+ "name": "Valero Energy",
+ "cik": 1035002,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerIncludingAssessedTax",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfRevenue)",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 30756000000,
+   "gross_profit": 629000000,
+   "operating_income": 348000000,
+   "eps_diluted": 0.89,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 30258000000,
+   "gross_profit": 507000000,
+   "operating_income": -900000000,
+   "eps_diluted": -1.9,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 29889000000,
+   "gross_profit": 1249000000,
+   "operating_income": 997000000,
+   "eps_diluted": 2.28,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 32168000000,
+   "gross_profit": 1772000000,
+   "operating_income": 1509000000,
+   "eps_diluted": 3.53,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 30372000000,
+   "gross_profit": 1904000000,
+   "operating_income": 1575000000,
+   "eps_diluted": 3.77,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 32381000000,
+   "gross_profit": 2052000000,
+   "operating_income": 1731000000,
+   "eps_diluted": 4.22,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 44476000000,
+   "gross_profit": 5469000000,
+   "operating_income": 5196000000,
+   "eps_diluted": 12.62,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 46098000000,
+   "gross_profit": 9407000000,
+   "operating_income": 9073000000,
+   "eps_diluted": 23.89,
+   "derived": [
+    "gross_profit"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-28",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1035002/000162828026067679/vlo-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1035002/000162828026067679/0001628280-26-067679-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-30",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1035002/000162828026050937/vlo-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1035002/000162828026050937/0001628280-26-050937-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-30",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1035002/000162828026028690/vlo-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1035002/000162828026028690/0001628280-26-028690-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-25",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1035002/000162828026011499/vlo-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1035002/000162828026011499/0001628280-26-011499-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-23",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1035002/000162828025046072/vlo-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1035002/000162828025046072/0001628280-25-046072-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-24",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1035002/000103500225000061/vlo-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1035002/000103500225000061/0001035002-25-000061-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-24",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1035002/000103500225000017/vlo-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1035002/000103500225000017/0001035002-25-000017-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-26",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1035002/000103500225000005/vlo-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1035002/000103500225000005/0001035002-25-000005-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-30",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1035002/000103500224000056/vlo-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1035002/000103500224000056/0001035002-24-000056-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-25",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1035002/000103500224000051/vlo-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1035002/000103500224000051/0001035002-24-000051-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-22",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1035002/000103500224000007/vlo-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1035002/000103500224000007/0001035002-24-000007-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-23",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1035002/000103500223000027/vlo-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1035002/000103500223000027/0001035002-23-000027-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-22",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1035002/000103500222000007/vlo-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1035002/000103500222000007/0001035002-22-000007-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

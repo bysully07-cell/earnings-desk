@@ -1,0 +1,203 @@
+{
+ "ticker": "ULTA",
+ "name": "Ulta Beauty",
+ "cik": 1403568,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "01-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2024-08-04",
+   "period_end": "2024-11-02",
+   "revenue": 2530100000,
+   "gross_profit": 1005644000,
+   "operating_income": 318502000,
+   "eps_diluted": 5.14,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2024-11-03",
+   "period_end": "2025-02-01",
+   "revenue": 3487619000,
+   "gross_profit": 1333652000,
+   "operating_income": 516321000,
+   "eps_diluted": 8.46,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-02-02",
+   "period_end": "2025-05-03",
+   "revenue": 2848367000,
+   "gross_profit": 1114219000,
+   "operating_income": 401777000,
+   "eps_diluted": 6.7,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-05-04",
+   "period_end": "2025-08-02",
+   "revenue": 2788469000,
+   "gross_profit": 1091696000,
+   "operating_income": 344854000,
+   "eps_diluted": 5.78,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2025-08-03",
+   "period_end": "2025-11-01",
+   "revenue": 2857623000,
+   "gross_profit": 1155665000,
+   "operating_income": 309419000,
+   "eps_diluted": 5.14,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2025-11-02",
+   "period_end": "2026-01-31",
+   "revenue": 3898361000,
+   "gross_profit": 1483644000,
+   "operating_income": 476942000,
+   "eps_diluted": 8.02,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2027 Q1",
+   "period_start": "2026-02-01",
+   "period_end": "2026-05-02",
+   "revenue": 3163857000,
+   "gross_profit": 1267620000,
+   "operating_income": 448256000,
+   "eps_diluted": 7.74,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2027 Q2",
+   "period_start": "2026-05-03",
+   "period_end": "2026-08-01",
+   "revenue": 3035676000,
+   "gross_profit": 1186952000,
+   "operating_income": 379641000,
+   "eps_diluted": 6.55,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-08-27",
+   "period": "2026-08-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/1403568/000110465926102442/ulta-20260801x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1403568/000110465926102442/0001104659-26-102442-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-06-02",
+   "period": "2026-05-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1403568/000110465926069491/ulta-20260502x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1403568/000110465926069491/0001104659-26-069491-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-03-26",
+   "period": "2026-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1403568/000110465926035243/ulta-20260131x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1403568/000110465926035243/0001104659-26-035243-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-12-04",
+   "period": "2025-11-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/1403568/000110465925118458/ulta-20251101x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1403568/000110465925118458/0001104659-25-118458-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-28",
+   "period": "2025-08-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1403568/000155837025011804/ulta-20250802x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1403568/000155837025011804/0001558370-25-011804-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-29",
+   "period": "2025-05-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/1403568/000155837025008243/ulta-20250503x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1403568/000155837025008243/0001558370-25-008243-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-03-27",
+   "period": "2025-02-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/1403568/000155837025003810/ulta-20250201x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1403568/000155837025003810/0001558370-25-003810-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-12-05",
+   "period": "2024-11-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1403568/000155837024016048/ulta-20241102x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1403568/000155837024016048/0001558370-24-016048-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-29",
+   "period": "2024-08-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/1403568/000155837024012542/ulta-20240803x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1403568/000155837024012542/0001558370-24-012542-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-05-30",
+   "period": "2024-05-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/1403568/000155837024008777/ulta-20240504x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1403568/000155837024008777/0001558370-24-008777-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-03-26",
+   "period": "2024-02-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/1403568/000155837024003941/ulta-20240203x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1403568/000155837024003941/0001558370-24-003941-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-03-24",
+   "period": "2023-01-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1403568/000155837023004581/ulta-20230128x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1403568/000155837023004581/0001558370-23-004581-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-03-25",
+   "period": "2022-01-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1403568/000155837022004330/ulta-20220129x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1403568/000155837022004330/0001558370-22-004330-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

@@ -1,0 +1,201 @@
+{
+ "ticker": "DTE",
+ "name": "DTE Energy",
+ "cik": 936340,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RegulatedAndUnregulatedOperatingRevenue",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q2",
+   "period_start": "2024-04-01",
+   "period_end": "2024-06-30",
+   "revenue": 2875000000,
+   "gross_profit": null,
+   "operating_income": 502000000,
+   "eps_diluted": 1.55,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2024 Q3",
+   "period_start": "2024-07-01",
+   "period_end": "2024-09-30",
+   "revenue": 2906000000,
+   "gross_profit": null,
+   "operating_income": 517000000,
+   "eps_diluted": 2.3,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 3436000000,
+   "gross_profit": null,
+   "operating_income": 555000000,
+   "eps_diluted": 1.41,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 4440000000,
+   "gross_profit": null,
+   "operating_income": 624000000,
+   "eps_diluted": 2.14,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 3419000000,
+   "gross_profit": null,
+   "operating_income": 427000000,
+   "eps_diluted": 1.1,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 3527000000,
+   "gross_profit": null,
+   "operating_income": 619000000,
+   "eps_diluted": 2.01,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 4428000000,
+   "gross_profit": null,
+   "operating_income": 704000000,
+   "eps_diluted": 1.78,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 5141000000,
+   "gross_profit": null,
+   "operating_income": 412000000,
+   "eps_diluted": 1.19,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-05",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/936340/000093634026000169/dte-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/936340/000093634026000169/0000936340-26-000169-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-28",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/936340/000093634026000146/dte-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/936340/000093634026000146/0000936340-26-000146-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-30",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/936340/000093634026000081/dte-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/936340/000093634026000081/0000936340-26-000081-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-17",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/936340/000093634026000054/dte-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/936340/000093634026000054/0000936340-26-000054-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-30",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/936340/000093634025000223/dte-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/936340/000093634025000223/0000936340-25-000223-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-29",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/936340/000093634025000182/dte-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/936340/000093634025000182/0000936340-25-000182-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-01",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/936340/000093634025000097/dte-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/936340/000093634025000097/0000936340-25-000097-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-13",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/936340/000093634025000065/dte-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/936340/000093634025000065/0000936340-25-000065-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-24",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/936340/000093634024000198/dte-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/936340/000093634024000198/0000936340-24-000198-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-25",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/936340/000093634024000178/dte-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/936340/000093634024000178/0000936340-24-000178-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-08",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/936340/000093634024000076/dte-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/936340/000093634024000076/0000936340-24-000076-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-23",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/936340/000093634023000073/dte-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/936340/000093634023000073/0000936340-23-000073-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-10",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/936340/000093634022000077/dte-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/936340/000093634022000077/0000936340-22-000077-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

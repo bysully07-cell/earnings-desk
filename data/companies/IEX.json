@@ -1,0 +1,203 @@
+{
+ "ticker": "IEX",
+ "name": "IDEX Corporation",
+ "cik": 832101,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 862900000,
+   "gross_profit": 367100000,
+   "operating_income": 165300000,
+   "eps_diluted": 1.62,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 814300000,
+   "gross_profit": 368900000,
+   "operating_income": 142000000,
+   "eps_diluted": 1.26,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 865400000,
+   "gross_profit": 392200000,
+   "operating_income": 187900000,
+   "eps_diluted": 1.74,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 878700000,
+   "gross_profit": 390600000,
+   "operating_income": 185800000,
+   "eps_diluted": 1.7,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 899100000,
+   "gross_profit": 387100000,
+   "operating_income": 183600000,
+   "eps_diluted": 1.72,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 886900000,
+   "gross_profit": 398100000,
+   "operating_income": 172400000,
+   "eps_diluted": 1.61,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 920600000,
+   "gross_profit": 426800000,
+   "operating_income": 199900000,
+   "eps_diluted": 1.93,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 951700000,
+   "gross_profit": 429500000,
+   "operating_income": 208000000,
+   "eps_diluted": 1.95,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-28",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/832101/000083210126000029/iex-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/832101/000083210126000029/0000832101-26-000029-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-29",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/832101/000083210126000022/iex-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/832101/000083210126000022/0000832101-26-000022-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-29",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/832101/000083210126000009/iex-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/832101/000083210126000009/0000832101-26-000009-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-19",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/832101/000083210126000003/iex-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/832101/000083210126000003/0000832101-26-000003-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-29",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/832101/000162828025047080/iex-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/832101/000162828025047080/0001628280-25-047080-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-30",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/832101/000083210125000032/iex-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/832101/000083210125000032/0000832101-25-000032-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-01",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/832101/000083210125000017/iex-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/832101/000083210125000017/0000832101-25-000017-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-20",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/832101/000083210125000010/iex-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/832101/000083210125000010/0000832101-25-000010-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-30",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/832101/000083210124000055/iex-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/832101/000083210124000055/0000832101-24-000055-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-01",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/832101/000083210124000044/iex-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/832101/000083210124000044/0000832101-24-000044-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-22",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/832101/000083210124000009/iex-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/832101/000083210124000009/0000832101-24-000009-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-23",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/832101/000083210123000013/iex-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/832101/000083210123000013/0000832101-23-000013-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-24",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/832101/000083210122000008/iex-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/832101/000083210122000008/0000832101-22-000008-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

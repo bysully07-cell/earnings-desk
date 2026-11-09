@@ -1,0 +1,201 @@
+{
+ "ticker": "WDC",
+ "name": "Western Digital",
+ "cik": 106040,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "07-03",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2024-09-28",
+   "period_end": "2024-12-27",
+   "revenue": 2409000000,
+   "gross_profit": 907000000,
+   "operating_income": 560000000,
+   "eps_diluted": 1.63,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2024-12-28",
+   "period_end": "2025-03-28",
+   "revenue": 2294000000,
+   "gross_profit": 912000000,
+   "operating_income": 760000000,
+   "eps_diluted": 1.42,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-03-29",
+   "period_end": "2025-06-27",
+   "revenue": 2605000000,
+   "gross_profit": 1067000000,
+   "operating_income": 680000000,
+   "eps_diluted": 0.75,
+   "derived": [
+    "operating_income"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-06-28",
+   "period_end": "2025-10-03",
+   "revenue": 2818000000,
+   "gross_profit": 1227000000,
+   "operating_income": 792000000,
+   "eps_diluted": 3.07,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-10-04",
+   "period_end": "2026-01-02",
+   "revenue": 3017000000,
+   "gross_profit": 1380000000,
+   "operating_income": 908000000,
+   "eps_diluted": 4.73,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-01-03",
+   "period_end": "2026-04-03",
+   "revenue": 3337000000,
+   "gross_profit": 1676000000,
+   "operating_income": 1190000000,
+   "eps_diluted": 8.2,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2026-04-04",
+   "period_end": "2026-07-03",
+   "revenue": 3747000000,
+   "gross_profit": 2028000000,
+   "operating_income": 1563000000,
+   "eps_diluted": 8.23,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2027 Q1",
+   "period_start": "2026-07-04",
+   "period_end": "2026-10-02",
+   "revenue": 4381000000,
+   "gross_profit": 2534000000,
+   "operating_income": 2046000000,
+   "eps_diluted": 4.63,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-23",
+   "period": "2026-10-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/106040/000162828026066933/wdc-20261002.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/106040/000162828026066933/0001628280-26-066933-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-08-14",
+   "period": "2026-07-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/106040/000162828026057139/wdc-20260703.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/106040/000162828026057139/0001628280-26-057139-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-01",
+   "period": "2026-04-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/106040/000162828026029054/wdc-20260403.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/106040/000162828026029054/0001628280-26-029054-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-01-30",
+   "period": "2026-01-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/106040/000162828026004207/wdc-20260102.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/106040/000162828026004207/0001628280-26-004207-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-31",
+   "period": "2025-10-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/106040/000162828025047613/wdc-20251003.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/106040/000162828025047613/0001628280-25-047613-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-08-14",
+   "period": "2025-06-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/106040/000010604025000038/wdc-20250627.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/106040/000010604025000038/0000106040-25-000038-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-02",
+   "period": "2025-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/106040/000010604025000026/wdc-20250328.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/106040/000010604025000026/0000106040-25-000026-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-01-31",
+   "period": "2024-12-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/106040/000010604025000008/wdc-20241227.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/106040/000010604025000008/0000106040-25-000008-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-31",
+   "period": "2024-09-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/106040/000010604024000040/wdc-20240927.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/106040/000010604024000040/0000106040-24-000040-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-08-20",
+   "period": "2024-06-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/106040/000010604024000031/wdc-20240628.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/106040/000010604024000031/0000106040-24-000031-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-04-30",
+   "period": "2024-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/106040/000010604024000022/wdc-20240329.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/106040/000010604024000022/0000106040-24-000022-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-08-22",
+   "period": "2023-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/106040/000010604023000024/wdc-20230630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/106040/000010604023000024/0000106040-23-000024-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-08-25",
+   "period": "2022-07-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/106040/000010604022000055/wdc-20220701.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/106040/000010604022000055/0000106040-22-000055-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

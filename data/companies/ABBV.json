@@ -1,0 +1,211 @@
+{
+ "ticker": "ABBV",
+ "name": "AbbVie",
+ "cik": 1551152,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfGoodsAndServicesSold)",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 15102000000,
+   "gross_profit": 10706000000,
+   "operating_income": -1490000000,
+   "eps_diluted": -0.02,
+   "derived": [
+    "gross_profit",
+    "operating_income"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 13343000000,
+   "gross_profit": 9341000000,
+   "operating_income": 3733000000,
+   "eps_diluted": 0.72,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 15423000000,
+   "gross_profit": 11077000000,
+   "operating_income": 4894000000,
+   "eps_diluted": 0.52,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 15776000000,
+   "gross_profit": 10472000000,
+   "operating_income": 1904000000,
+   "eps_diluted": 0.1,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 16618000000,
+   "gross_profit": 12066000000,
+   "operating_income": 4544000000,
+   "eps_diluted": 1.02,
+   "derived": [
+    "gross_profit",
+    "operating_income"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 15002000000,
+   "gross_profit": 10784000000,
+   "operating_income": 3990000000,
+   "eps_diluted": 0.39,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 16990000000,
+   "gross_profit": 12699000000,
+   "operating_income": 6432000000,
+   "eps_diluted": 2.03,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 17404000000,
+   "gross_profit": 13119000000,
+   "operating_income": 6267000000,
+   "eps_diluted": 2.37,
+   "derived": [
+    "gross_profit"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-03",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115226000037/abbv-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115226000037/0001551152-26-000037-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-03",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115226000026/abbv-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115226000026/0001551152-26-000026-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-08",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115226000017/abbv-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115226000017/0001551152-26-000017-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-20",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115226000008/abbv-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115226000008/0001551152-26-000008-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-04",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115225000049/abbv-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115225000049/0001551152-25-000049-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-04",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115225000040/abbv-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115225000040/0001551152-25-000040-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-09",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115225000029/abbv-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115225000029/0001551152-25-000029-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-14",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115225000020/abbv-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115225000020/0001551152-25-000020-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-04",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115224000040/abbv-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115224000040/0001551152-24-000040-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-07",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115224000031/abbv-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115224000031/0001551152-24-000031-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-20",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115224000011/abbv-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115224000011/0001551152-24-000011-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-17",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115223000011/abbv-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115223000011/0001551152-23-000011-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-18",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115222000007/abbv-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115222000007/0001551152-22-000007-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

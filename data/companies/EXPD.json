@@ -1,0 +1,201 @@
+{
+ "ticker": "EXPD",
+ "name": "Expeditors International",
+ "cik": 746515,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 2954705000,
+   "gross_profit": null,
+   "operating_income": 301104000,
+   "eps_diluted": 1.68,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 2666419000,
+   "gross_profit": null,
+   "operating_income": 265858000,
+   "eps_diluted": 1.47,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 2651885000,
+   "gross_profit": null,
+   "operating_income": 247736000,
+   "eps_diluted": 1.34,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 2894751000,
+   "gross_profit": null,
+   "operating_income": 288042000,
+   "eps_diluted": 1.64,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 2855954000,
+   "gross_profit": null,
+   "operating_income": 250910000,
+   "eps_diluted": 1.49,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 2782962000,
+   "gross_profit": null,
+   "operating_income": 294828000,
+   "eps_diluted": 1.71,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 3502335000,
+   "gross_profit": null,
+   "operating_income": 349618000,
+   "eps_diluted": 2.03,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 4107649000,
+   "gross_profit": null,
+   "operating_income": 445414000,
+   "eps_diluted": 2.65,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-04",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/746515/000119312526446859/expd-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/746515/000119312526446859/0001193125-26-446859-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-05",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/746515/000119312526334457/expd-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/746515/000119312526334457/0001193125-26-334457-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-06",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/746515/000119312526208834/expd-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/746515/000119312526208834/0001193125-26-208834-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-25",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/746515/000119312526071569/expd-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/746515/000119312526071569/0001193125-26-071569-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-06",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/746515/000119312525268710/expd-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/746515/000119312525268710/0001193125-25-268710-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-07",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/746515/000074651525000007/expd-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/746515/000074651525000007/0000746515-25-000007-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-08",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/746515/000095017025066562/expd-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/746515/000095017025066562/0000950170-25-066562-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-21",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/746515/000095017025024750/expd-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/746515/000095017025024750/0000950170-25-024750-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-05",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/746515/000095017024121496/expd-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/746515/000095017024121496/0000950170-24-121496-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-08",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/746515/000095017024093558/expd-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/746515/000095017024093558/0000950170-24-093558-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-23",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/746515/000095017024019394/expd-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/746515/000095017024019394/0000950170-24-019394-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-03-01",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/746515/000095017023005412/expd-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/746515/000095017023005412/0000950170-23-005412-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-03-15",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/746515/000156459022010381/expd-10k_20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/746515/000156459022010381/0001564590-22-010381-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

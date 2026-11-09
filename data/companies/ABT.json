@@ -1,0 +1,215 @@
+{
+ "ticker": "ABT",
+ "name": "Abbott Laboratories",
+ "cik": 1800,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfGoodsAndServicesSold)",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 10974000000,
+   "gross_profit": 6032000000,
+   "operating_income": 1911000000,
+   "eps_diluted": 5.29,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 10358000000,
+   "gross_profit": 5890000000,
+   "operating_income": 1693000000,
+   "eps_diluted": 0.76,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 11142000000,
+   "gross_profit": 6288000000,
+   "operating_income": 2052000000,
+   "eps_diluted": 1.01,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 11369000000,
+   "gross_profit": 6294000000,
+   "operating_income": 2057000000,
+   "eps_diluted": 0.94,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 11459000000,
+   "gross_profit": 6537000000,
+   "operating_income": 2251000000,
+   "eps_diluted": 1.02,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 11164000000,
+   "gross_profit": 6274000000,
+   "operating_income": 1345000000,
+   "eps_diluted": 0.61,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 12593000000,
+   "gross_profit": 7268000000,
+   "operating_income": 1693000000,
+   "eps_diluted": 0.53,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 13013000000,
+   "gross_profit": 7385000000,
+   "operating_income": 1358000000,
+   "eps_diluted": 0.53,
+   "derived": [
+    "gross_profit"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-04",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1800/000162828026070154/abt-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1800/000162828026070154/0001628280-26-070154-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-28",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1800/000162828026050134/abt-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1800/000162828026050134/0001628280-26-050134-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-29",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1800/000162828026028357/abt-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1800/000162828026028357/0001628280-26-028357-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-20",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1800/000162828026010185/abt-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1800/000162828026010185/0001628280-26-010185-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-29",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1800/000162828025047131/abt-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1800/000162828025047131/0001628280-25-047131-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-30",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1800/000162828025036720/abt-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1800/000162828025036720/0001628280-25-036720-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-30",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1800/000162828025021090/abt-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1800/000162828025021090/0001628280-25-021090-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-21",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1800/000162828025007110/abt-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1800/000162828025007110/0001628280-25-007110-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-31",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1800/000162828024044602/abt-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1800/000162828024044602/0001628280-24-044602-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-31",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1800/000162828024033740/abt-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1800/000162828024033740/0001628280-24-033740-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-16",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1800/000162828024005348/abt-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1800/000162828024005348/0001628280-24-005348-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-17",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1800/000162828023004026/abt-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1800/000162828023004026/0001628280-23-004026-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-18",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1800/000110465922025141/abt-20211231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1800/000110465922025141/0001104659-22-025141-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

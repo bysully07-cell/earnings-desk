@@ -1,0 +1,201 @@
+{
+ "ticker": "TPL",
+ "name": "Texas Pacific Land Corporation",
+ "cik": 1811074,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 185784000,
+   "gross_profit": null,
+   "operating_income": 142544000,
+   "eps_diluted": 0.57,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 195983000,
+   "gross_profit": null,
+   "operating_income": 150073000,
+   "eps_diluted": 1.75,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 187543000,
+   "gross_profit": null,
+   "operating_income": 143751000,
+   "eps_diluted": 1.68,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 203085000,
+   "gross_profit": null,
+   "operating_income": 149091000,
+   "eps_diluted": 1.76,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 211579000,
+   "gross_profit": null,
+   "operating_income": 149246000,
+   "eps_diluted": 1.79,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 236818000,
+   "gross_profit": null,
+   "operating_income": 182328000,
+   "eps_diluted": 2.07,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 246059000,
+   "gross_profit": null,
+   "operating_income": 191817000,
+   "eps_diluted": 2.23,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 273390000,
+   "gross_profit": null,
+   "operating_income": 207783000,
+   "eps_diluted": 2.42,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-04",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1811074/000181107426000077/tpl-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1811074/000181107426000077/0001811074-26-000077-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-05",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1811074/000181107426000058/tpl-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1811074/000181107426000058/0001811074-26-000058-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-06",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1811074/000181107426000035/tpl-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1811074/000181107426000035/0001811074-26-000035-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-18",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1811074/000181107426000018/tpl-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1811074/000181107426000018/0001811074-26-000018-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-05",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1811074/000181107425000096/tpl-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1811074/000181107425000096/0001811074-25-000096-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-06",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1811074/000181107425000077/tpl-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1811074/000181107425000077/0001811074-25-000077-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-07",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1811074/000181107425000060/tpl-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1811074/000181107425000060/0001811074-25-000060-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-19",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1811074/000181107425000044/tpl-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1811074/000181107425000044/0001811074-25-000044-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-06",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1811074/000181107424000061/tpl-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1811074/000181107424000061/0001811074-24-000061-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-07",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1811074/000181107424000049/tpl-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1811074/000181107424000049/0001811074-24-000049-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-21",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1811074/000181107424000015/tpl-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1811074/000181107424000015/0001811074-24-000015-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-22",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1811074/000181107423000014/tpl-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1811074/000181107423000014/0001811074-23-000014-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-23",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1811074/000181107422000014/tpl-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1811074/000181107422000014/0001811074-22-000014-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

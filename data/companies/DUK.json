@@ -1,0 +1,201 @@
+{
+ "ticker": "DUK",
+ "name": "Duke Energy",
+ "cik": 1326160,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerIncludingAssessedTax",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q2",
+   "period_start": "2024-04-01",
+   "period_end": "2024-06-30",
+   "revenue": 7151000000,
+   "gross_profit": null,
+   "operating_income": 1707000000,
+   "eps_diluted": 1.13,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2024 Q3",
+   "period_start": "2024-07-01",
+   "period_end": "2024-09-30",
+   "revenue": 8127000000,
+   "gross_profit": null,
+   "operating_income": 2144000000,
+   "eps_diluted": 1.6,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 7240000000,
+   "gross_profit": null,
+   "operating_income": 2112000000,
+   "eps_diluted": 1.56,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 8218000000,
+   "gross_profit": null,
+   "operating_income": 2343000000,
+   "eps_diluted": 1.76,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 7373000000,
+   "gross_profit": null,
+   "operating_income": 1830000000,
+   "eps_diluted": 1.25,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 8377000000,
+   "gross_profit": null,
+   "operating_income": 2334000000,
+   "eps_diluted": 1.81,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 7773000000,
+   "gross_profit": null,
+   "operating_income": 2119000000,
+   "eps_diluted": 1.53,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 8995000000,
+   "gross_profit": null,
+   "operating_income": 2725000000,
+   "eps_diluted": 1.97,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-05",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616026000051/duk-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616026000051/0001326160-26-000051-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-04",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616026000040/duk-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616026000040/0001326160-26-000040-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-05",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616026000026/duk-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616026000026/0001326160-26-000026-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-26",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616026000014/duk-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616026000014/0001326160-26-000014-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-07",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616025000192/duk-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616025000192/0001326160-25-000192-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-05",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616025000168/duk-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616025000168/0001326160-25-000168-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-06",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616025000150/duk-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616025000150/0001326160-25-000150-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-27",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616025000072/duk-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616025000072/0001326160-25-000072-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-07",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616024000181/duk-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616024000181/0001326160-24-000181-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-06",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616024000167/duk-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616024000167/0001326160-24-000167-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-23",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616024000037/duk-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616024000037/0001326160-24-000037-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-27",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616023000073/duk-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616023000073/0001326160-23-000073-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-24",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616022000072/duk-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616022000072/0001326160-22-000072-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

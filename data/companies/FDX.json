@@ -1,0 +1,197 @@
+{
+ "ticker": "FDX",
+ "name": "FedEx",
+ "cik": 1048911,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "05-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2024-09-01",
+   "period_end": "2024-11-30",
+   "revenue": 21967000000,
+   "gross_profit": null,
+   "operating_income": 1052000000,
+   "eps_diluted": 3.03,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2024-12-01",
+   "period_end": "2025-02-28",
+   "revenue": 22160000000,
+   "gross_profit": null,
+   "operating_income": 1292000000,
+   "eps_diluted": 3.76,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-03-01",
+   "period_end": "2025-05-31",
+   "revenue": 22220000000,
+   "gross_profit": null,
+   "operating_income": 1793000000,
+   "eps_diluted": 6.9,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-06-01",
+   "period_end": "2025-08-31",
+   "revenue": 22244000000,
+   "gross_profit": null,
+   "operating_income": 1186000000,
+   "eps_diluted": 3.46,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 20432000000,
+   "gross_profit": null,
+   "operating_income": 972000000,
+   "eps_diluted": 3.89,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-09-01",
+   "period_end": "2025-11-30",
+   "revenue": 23469000000,
+   "gross_profit": null,
+   "operating_income": 1378000000,
+   "eps_diluted": 4.04,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2025-12-01",
+   "period_end": "2026-02-28",
+   "revenue": 24000000000,
+   "gross_profit": null,
+   "operating_income": 1348000000,
+   "eps_diluted": 4.41,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2027 Q1",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 22855000000,
+   "gross_profit": null,
+   "operating_income": 1067000000,
+   "eps_diluted": 1.21,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-28",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1048911/000104891126000131/fdx-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1048911/000104891126000131/0001048911-26-000131-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-07-20",
+   "period": "2026-05-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1048911/000104891126000105/fdx-20260531.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1048911/000104891126000105/0001048911-26-000105-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-03-19",
+   "period": "2026-02-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1048911/000104891126000011/fdx-20260228.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1048911/000104891126000011/0001048911-26-000011-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-12-18",
+   "period": "2025-11-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1048911/000104891125000078/fdx-20251130.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1048911/000104891125000078/0001048911-25-000078-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-09-18",
+   "period": "2025-08-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1048911/000104891125000044/fdx-20250831.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1048911/000104891125000044/0001048911-25-000044-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-07-21",
+   "period": "2025-05-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1048911/000104891125000011/fdx-20250531.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1048911/000104891125000011/0001048911-25-000011-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-03-20",
+   "period": "2025-02-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1048911/000095017025042672/fdx-20250228.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1048911/000095017025042672/0000950170-25-042672-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-12-19",
+   "period": "2024-11-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1048911/000095017024138460/fdx-20241130.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1048911/000095017024138460/0000950170-24-138460-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-09-19",
+   "period": "2024-08-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1048911/000095017024108107/fdx-20240831.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1048911/000095017024108107/0000950170-24-108107-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-07-15",
+   "period": "2024-05-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1048911/000095017024083577/fdx-20240531.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1048911/000095017024083577/0000950170-24-083577-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-03-21",
+   "period": "2024-02-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1048911/000095017024034709/fdx-20240229.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1048911/000095017024034709/0000950170-24-034709-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-07-17",
+   "period": "2023-05-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1048911/000095017023033201/fdx-20230531.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1048911/000095017023033201/0000950170-23-033201-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-07-18",
+   "period": "2022-05-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1048911/000095017022012762/fdx-20220531.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1048911/000095017022012762/0000950170-22-012762-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

@@ -1,0 +1,176 @@
+{
+ "ticker": "SNDK",
+ "name": "Sandisk",
+ "cik": 2023554,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "07-03",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2024-09-28",
+   "period_end": "2024-12-27",
+   "revenue": 1876000000,
+   "gross_profit": 606000000,
+   "operating_income": 195000000,
+   "eps_diluted": 0.72,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2024-12-28",
+   "period_end": "2025-03-28",
+   "revenue": 1695000000,
+   "gross_profit": 382000000,
+   "operating_income": -1881000000,
+   "eps_diluted": -13.33,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-03-29",
+   "period_end": "2025-06-27",
+   "revenue": 1901000000,
+   "gross_profit": 498000000,
+   "operating_income": 18000000,
+   "eps_diluted": -0.16,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-06-28",
+   "period_end": "2025-10-03",
+   "revenue": 2308000000,
+   "gross_profit": 687000000,
+   "operating_income": 176000000,
+   "eps_diluted": 0.75,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-10-04",
+   "period_end": "2026-01-02",
+   "revenue": 3025000000,
+   "gross_profit": 1541000000,
+   "operating_income": 1065000000,
+   "eps_diluted": 5.15,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-01-03",
+   "period_end": "2026-04-03",
+   "revenue": 5950000000,
+   "gross_profit": 4662000000,
+   "operating_income": 4111000000,
+   "eps_diluted": 23.03,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2026-04-04",
+   "period_end": "2026-07-03",
+   "revenue": 8965000000,
+   "gross_profit": 7582000000,
+   "operating_income": 7037000000,
+   "eps_diluted": 43.69,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2027 Q1",
+   "period_start": "2026-07-04",
+   "period_end": "2026-10-02",
+   "revenue": 11031000000,
+   "gross_profit": 9378000000,
+   "operating_income": 8780000000,
+   "eps_diluted": 52.6,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-30",
+   "period": "2026-10-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/2023554/000162828026068601/sndk-20261002.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2023554/000162828026068601/0001628280-26-068601-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-08-17",
+   "period": "2026-07-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/2023554/000162828026057406/sndk-20260703.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2023554/000162828026057406/0001628280-26-057406-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-01",
+   "period": "2026-04-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/2023554/000162828026029401/sndk-20260403.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2023554/000162828026029401/0001628280-26-029401-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-01-30",
+   "period": "2026-01-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/2023554/000162828026004407/sndk-20260102.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2023554/000162828026004407/0001628280-26-004407-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-07",
+   "period": "2025-10-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/2023554/000162828025050698/sndk-20251003.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2023554/000162828025050698/0001628280-25-050698-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-08-21",
+   "period": "2025-06-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/2023554/000202355425000034/sndk-20250627.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2023554/000202355425000034/0002023554-25-000034-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-12",
+   "period": "2025-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/2023554/000202355425000027/sndk-20250328.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2023554/000202355425000027/0002023554-25-000027-index.htm"
+  },
+  {
+   "form": "10-Q/A",
+   "filed": "2025-03-17",
+   "period": "2024-12-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/2023554/000202355425000016/sndk-20241227.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2023554/000202355425000016/0002023554-25-000016-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-03-07",
+   "period": "2024-12-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/2023554/000202355425000004/sndk-20241227.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2023554/000202355425000004/0002023554-25-000004-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

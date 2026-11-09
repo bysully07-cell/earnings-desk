@@ -1,0 +1,197 @@
+{
+ "ticker": "GEHC",
+ "name": "GE HealthCare",
+ "cik": 1932393,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 5320000000,
+   "gross_profit": 2275000000,
+   "operating_income": 801000000,
+   "eps_diluted": 1.57,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 4777000000,
+   "gross_profit": 2012000000,
+   "operating_income": 629000000,
+   "eps_diluted": 1.23,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 5007000000,
+   "gross_profit": 1985000000,
+   "operating_income": 654000000,
+   "eps_diluted": 1.06,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 5143000000,
+   "gross_profit": 1990000000,
+   "operating_income": 653000000,
+   "eps_diluted": 0.98,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 5698000000,
+   "gross_profit": 2261000000,
+   "operating_income": 827000000,
+   "eps_diluted": 1.28,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 5131000000,
+   "gross_profit": 1977000000,
+   "operating_income": 515000000,
+   "eps_diluted": 0.85,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 5295000000,
+   "gross_profit": 2180000000,
+   "operating_income": 739000000,
+   "eps_diluted": 1.24,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 5513000000,
+   "gross_profit": 2224000000,
+   "operating_income": 805000000,
+   "eps_diluted": 1.36,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-28",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1932393/000193239326000059/gehc-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1932393/000193239326000059/0001932393-26-000059-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-29",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1932393/000193239326000046/gehc-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1932393/000193239326000046/0001932393-26-000046-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-29",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1932393/000193239326000031/gehc-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1932393/000193239326000031/0001932393-26-000031-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-04",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1932393/000193239326000007/gehc-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1932393/000193239326000007/0001932393-26-000007-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-29",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1932393/000193239325000053/gehc-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1932393/000193239325000053/0001932393-25-000053-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-30",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1932393/000193239325000049/gehc-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1932393/000193239325000049/0001932393-25-000049-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-30",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1932393/000193239325000014/gehc-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1932393/000193239325000014/0001932393-25-000014-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-13",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1932393/000193239325000005/gehc-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1932393/000193239325000005/0001932393-25-000005-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-30",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1932393/000193239324000050/gehc-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1932393/000193239324000050/0001932393-24-000050-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-31",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1932393/000193239324000044/gehc-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1932393/000193239324000044/0001932393-24-000044-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-06",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1932393/000193239324000013/gehc-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1932393/000193239324000013/0001932393-24-000013-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-15",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1932393/000193239323000025/gehc-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1932393/000193239323000025/0001932393-23-000025-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

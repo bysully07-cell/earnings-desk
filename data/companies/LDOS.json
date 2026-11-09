@@ -1,0 +1,215 @@
+{
+ "ticker": "LDOS",
+ "name": "Leidos",
+ "cik": 1336920,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "01-02",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfRevenue)",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-09-28",
+   "period_end": "2025-01-03",
+   "revenue": 4365000000,
+   "gross_profit": 693000000,
+   "operating_income": 421000000,
+   "eps_diluted": 2.1,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-01-04",
+   "period_end": "2025-04-04",
+   "revenue": 4245000000,
+   "gross_profit": 757000000,
+   "operating_income": 530000000,
+   "eps_diluted": 2.77,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-04-05",
+   "period_end": "2025-07-04",
+   "revenue": 4253000000,
+   "gross_profit": 782000000,
+   "operating_income": 571000000,
+   "eps_diluted": 3.01,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2025-07-05",
+   "period_end": "2025-10-03",
+   "revenue": 4469000000,
+   "gross_profit": 821000000,
+   "operating_income": 535000000,
+   "eps_diluted": 2.82,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2025-10-04",
+   "period_end": "2026-01-02",
+   "revenue": 4207000000,
+   "gross_profit": 739000000,
+   "operating_income": 473000000,
+   "eps_diluted": 2.53,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2027 Q1",
+   "period_start": "2026-01-03",
+   "period_end": "2026-04-03",
+   "revenue": 4400000000,
+   "gross_profit": 761000000,
+   "operating_income": 508000000,
+   "eps_diluted": 2.56,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2027 Q2",
+   "period_start": "2026-04-04",
+   "period_end": "2026-07-03",
+   "revenue": 4558000000,
+   "gross_profit": 817000000,
+   "operating_income": 514000000,
+   "eps_diluted": 2.81,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2027 Q3",
+   "period_start": "2026-07-04",
+   "period_end": "2026-10-02",
+   "revenue": 4630000000,
+   "gross_profit": 820000000,
+   "operating_income": 553000000,
+   "eps_diluted": 3.28,
+   "derived": [
+    "gross_profit"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-03",
+   "period": "2026-10-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1336920/000133692026000293/ldos-20261002.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1336920/000133692026000293/0001336920-26-000293-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-04",
+   "period": "2026-07-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/1336920/000133692026000246/ldos-20260703.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1336920/000133692026000246/0001336920-26-000246-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-05",
+   "period": "2026-04-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/1336920/000133692026000169/ldos-20260403.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1336920/000133692026000169/0001336920-26-000169-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-17",
+   "period": "2026-01-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1336920/000133692026000030/ldos-20260102.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1336920/000133692026000030/0001336920-26-000030-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-04",
+   "period": "2025-10-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/1336920/000133692025000060/ldos-20251003.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1336920/000133692025000060/0001336920-25-000060-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-05",
+   "period": "2025-07-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/1336920/000133692025000034/ldos-20250704.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1336920/000133692025000034/0001336920-25-000034-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-06",
+   "period": "2025-04-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/1336920/000133692025000014/ldos-20250404.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1336920/000133692025000014/0001336920-25-000014-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-11",
+   "period": "2025-01-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/1336920/000133692025000006/ldos-20250103.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1336920/000133692025000006/0001336920-25-000006-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-29",
+   "period": "2024-09-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1336920/000133692024000054/ldos-20240927.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1336920/000133692024000054/0001336920-24-000054-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-30",
+   "period": "2024-06-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1336920/000133692024000049/ldos-20240628.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1336920/000133692024000049/0001336920-24-000049-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-13",
+   "period": "2023-12-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1336920/000133692024000008/ldos-20231229.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1336920/000133692024000008/0001336920-24-000008-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-14",
+   "period": "2022-12-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1336920/000133692023000015/ldos-20221230.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1336920/000133692023000015/0001336920-23-000015-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-15",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1336920/000133692022000007/ldos-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1336920/000133692022000007/0001336920-22-000007-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

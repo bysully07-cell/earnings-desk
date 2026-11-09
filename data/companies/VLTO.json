@@ -1,0 +1,189 @@
+{
+ "ticker": "VLTO",
+ "name": "Veralto",
+ "cik": 1967680,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-09-28",
+   "period_end": "2024-12-31",
+   "revenue": 1345000000,
+   "gross_profit": 801000000,
+   "operating_income": 308000000,
+   "eps_diluted": 0.91,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-04-04",
+   "revenue": 1332000000,
+   "gross_profit": 805000000,
+   "operating_income": 322000000,
+   "eps_diluted": 0.9,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-05",
+   "period_end": "2025-07-04",
+   "revenue": 1371000000,
+   "gross_profit": 822000000,
+   "operating_income": 313000000,
+   "eps_diluted": 0.89,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-05",
+   "period_end": "2025-10-03",
+   "revenue": 1404000000,
+   "gross_profit": 844000000,
+   "operating_income": 326000000,
+   "eps_diluted": 0.95,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-04",
+   "period_end": "2025-12-31",
+   "revenue": 1396000000,
+   "gross_profit": 828000000,
+   "operating_income": 316000000,
+   "eps_diluted": 1.01,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-04-03",
+   "revenue": 1422000000,
+   "gross_profit": 854000000,
+   "operating_income": 338000000,
+   "eps_diluted": 1.02,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-04",
+   "period_end": "2026-07-03",
+   "revenue": 1474000000,
+   "gross_profit": 902000000,
+   "operating_income": 315000000,
+   "eps_diluted": 0.98,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-04",
+   "period_end": "2026-10-02",
+   "revenue": 1509000000,
+   "gross_profit": 908000000,
+   "operating_income": 298000000,
+   "eps_diluted": 1.03,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-30",
+   "period": "2026-10-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1967680/000196768026000048/vlto-20261002.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1967680/000196768026000048/0001967680-26-000048-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-29",
+   "period": "2026-07-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/1967680/000196768026000044/vlto-20260703.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1967680/000196768026000044/0001967680-26-000044-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-29",
+   "period": "2026-04-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/1967680/000196768026000024/vlto-20260403.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1967680/000196768026000024/0001967680-26-000024-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-20",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1967680/000196768026000011/vlto-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1967680/000196768026000011/0001967680-26-000011-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-29",
+   "period": "2025-10-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/1967680/000196768025000136/vlto-20251003.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1967680/000196768025000136/0001967680-25-000136-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-28",
+   "period": "2025-07-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/1967680/000196768025000125/vlto-20250704.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1967680/000196768025000125/0001967680-25-000125-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-30",
+   "period": "2025-04-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/1967680/000196768025000067/vlto-20250404.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1967680/000196768025000067/0001967680-25-000067-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-25",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1967680/000196768025000008/vlto-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1967680/000196768025000008/0001967680-25-000008-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-24",
+   "period": "2024-09-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1967680/000196768024000137/vlto-20240927.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1967680/000196768024000137/0001967680-24-000137-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-26",
+   "period": "2024-06-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1967680/000196768024000111/vlto-20240628.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1967680/000196768024000111/0001967680-24-000111-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-28",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1967680/000196768024000033/vlto-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1967680/000196768024000033/0001967680-24-000033-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

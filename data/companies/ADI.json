@@ -1,0 +1,204 @@
+{
+ "ticker": "ADI",
+ "name": "Analog Devices",
+ "cik": 6281,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "11-01",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-08-04",
+   "period_end": "2024-11-02",
+   "revenue": 2443205000,
+   "gross_profit": 1416128000,
+   "operating_income": 569392000,
+   "eps_diluted": 0.96,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2024-11-03",
+   "period_end": "2025-02-01",
+   "revenue": 2423174000,
+   "gross_profit": 1430303000,
+   "operating_income": 491313000,
+   "eps_diluted": 0.78,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-02-02",
+   "period_end": "2025-05-03",
+   "revenue": 2640068000,
+   "gross_profit": 1611610000,
+   "operating_income": 677944000,
+   "eps_diluted": 1.14,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-05-04",
+   "period_end": "2025-08-02",
+   "revenue": 2880348000,
+   "gross_profit": 1789748000,
+   "operating_income": 818028000,
+   "eps_diluted": 1.04,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-08-03",
+   "period_end": "2025-11-01",
+   "revenue": 3076117000,
+   "gross_profit": 1941817000,
+   "operating_income": 945211000,
+   "eps_diluted": 1.6,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-11-02",
+   "period_end": "2026-01-31",
+   "revenue": 3160263000,
+   "gross_profit": 2044976000,
+   "operating_income": 997026000,
+   "eps_diluted": 1.69,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-02-01",
+   "period_end": "2026-05-02",
+   "revenue": 3623465000,
+   "gross_profit": 2439798000,
+   "operating_income": 1379680000,
+   "eps_diluted": 2.4,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-05-03",
+   "period_end": "2026-08-01",
+   "revenue": 4021899000,
+   "gross_profit": 2707544000,
+   "operating_income": 1612969000,
+   "eps_diluted": 2.74,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-08-19",
+   "period": "2026-08-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/6281/000000628126000073/adi-20260801.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/6281/000000628126000073/0000006281-26-000073-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-20",
+   "period": "2026-05-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/6281/000000628126000052/adi-20260502.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/6281/000000628126000052/0000006281-26-000052-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-02-18",
+   "period": "2026-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/6281/000000628126000016/adi-20260131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/6281/000000628126000016/0000006281-26-000016-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-11-25",
+   "period": "2025-11-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/6281/000000628125000153/adi-20251101.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/6281/000000628125000153/0000006281-25-000153-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-20",
+   "period": "2025-08-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/6281/000000628125000144/adi-20250802.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/6281/000000628125000144/0000006281-25-000144-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-22",
+   "period": "2025-05-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/6281/000000628125000125/adi-20250503.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/6281/000000628125000125/0000006281-25-000125-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-02-19",
+   "period": "2025-02-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/6281/000000628125000023/adi-20250201.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/6281/000000628125000023/0000006281-25-000023-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-11-26",
+   "period": "2024-11-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/6281/000000628124000204/adi-20241102.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/6281/000000628124000204/0000006281-24-000204-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-21",
+   "period": "2024-08-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/6281/000000628124000159/adi-20240803.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/6281/000000628124000159/0000006281-24-000159-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-05-22",
+   "period": "2024-05-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/6281/000000628124000132/adi-20240504.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/6281/000000628124000132/0000006281-24-000132-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-11-21",
+   "period": "2023-10-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/6281/000000628123000203/adi-20231028.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/6281/000000628123000203/0000006281-23-000203-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-11-22",
+   "period": "2022-10-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/6281/000000628122000250/adi-20221029.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/6281/000000628122000250/0000006281-22-000250-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2021-12-03",
+   "period": "2021-10-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/6281/000000628121000294/adi-20211030.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/6281/000000628121000294/0000006281-21-000294-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

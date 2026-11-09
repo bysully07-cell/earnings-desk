@@ -1,0 +1,56 @@
+{
+ "ticker": "FDXF",
+ "name": "FedEx Freight",
+ "cik": 2082247,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "05-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 2259000000,
+   "gross_profit": null,
+   "operating_income": 290000000,
+   "eps_diluted": 1.95,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2027 Q1",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 2442000000,
+   "gross_profit": null,
+   "operating_income": 253000000,
+   "eps_diluted": 0.98,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-29",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/2082247/000162828026068246/fdxf-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2082247/000162828026068246/0001628280-26-068246-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-08-05",
+   "period": "2026-05-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/2082247/000162828026053359/fdxf-20260531.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2082247/000162828026053359/0001628280-26-053359-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

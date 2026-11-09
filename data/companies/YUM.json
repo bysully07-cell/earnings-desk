@@ -1,0 +1,215 @@
+{
+ "ticker": "YUM",
+ "name": "Yum! Brands",
+ "cik": 1041061,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfGoodsAndServicesSold)",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 2362000000,
+   "gross_profit": 1635000000,
+   "operating_income": 657000000,
+   "eps_diluted": 1.49,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 1787000000,
+   "gross_profit": 1267000000,
+   "operating_income": 548000000,
+   "eps_diluted": 0.9,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 1933000000,
+   "gross_profit": 1373000000,
+   "operating_income": 622000000,
+   "eps_diluted": 1.33,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 1979000000,
+   "gross_profit": 1392000000,
+   "operating_income": 666000000,
+   "eps_diluted": 1.41,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 2515000000,
+   "gross_profit": 1699000000,
+   "operating_income": 738000000,
+   "eps_diluted": 1.91,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 2059000000,
+   "gross_profit": 1382000000,
+   "operating_income": 644000000,
+   "eps_diluted": 1.55,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 2169000000,
+   "gross_profit": 1469000000,
+   "operating_income": 655000000,
+   "eps_diluted": 3.08,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 2054000000,
+   "gross_profit": 1375000000,
+   "operating_income": 2317000000,
+   "eps_diluted": 5.92,
+   "derived": [
+    "gross_profit"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-06",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1041061/000104106126000210/yum-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1041061/000104106126000210/0001041061-26-000210-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-05",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1041061/000104106126000160/yum-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1041061/000104106126000160/0001041061-26-000160-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-06",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1041061/000104106126000119/yum-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1041061/000104106126000119/0001041061-26-000119-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-20",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1041061/000104106126000084/yum-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1041061/000104106126000084/0001041061-26-000084-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-07",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1041061/000104106125000109/yum-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1041061/000104106125000109/0001041061-25-000109-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-07",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1041061/000104106125000057/yum-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1041061/000104106125000057/0001041061-25-000057-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-07",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1041061/000104106125000025/yum-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1041061/000104106125000025/0001041061-25-000025-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-19",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1041061/000104106125000013/yum-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1041061/000104106125000013/0001041061-25-000013-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-07",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1041061/000104106124000039/yum-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1041061/000104106124000039/0001041061-24-000039-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-08",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1041061/000104106124000033/yum-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1041061/000104106124000033/0001041061-24-000033-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-20",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1041061/000104106124000011/yum-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1041061/000104106124000011/0001041061-24-000011-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-27",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1041061/000104106123000009/yum-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1041061/000104106123000009/0001041061-23-000009-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-23",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1041061/000104106122000009/yum-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1041061/000104106122000009/0001041061-22-000009-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

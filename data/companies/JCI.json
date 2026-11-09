@@ -1,0 +1,201 @@
+{
+ "ticker": "JCI",
+ "name": "Johnson Controls",
+ "cik": 833444,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "09-30",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": null,
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q3",
+   "period_start": "2024-04-01",
+   "period_end": "2024-06-30",
+   "revenue": 5898000000,
+   "gross_profit": 2109000000,
+   "operating_income": null,
+   "eps_diluted": 1.45,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-07-01",
+   "period_end": "2024-09-30",
+   "revenue": 6248000000,
+   "gross_profit": 2268000000,
+   "operating_income": null,
+   "eps_diluted": 0.95,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 5426000000,
+   "gross_profit": 1926000000,
+   "operating_income": null,
+   "eps_diluted": 0.63,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 5676000000,
+   "gross_profit": 2069000000,
+   "operating_income": null,
+   "eps_diluted": 0.72,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 6052000000,
+   "gross_profit": 2246000000,
+   "operating_income": null,
+   "eps_diluted": 1.07,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 6442000000,
+   "gross_profit": 2351000000,
+   "operating_income": null,
+   "eps_diluted": 2.67,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 5797000000,
+   "gross_profit": 2074000000,
+   "operating_income": null,
+   "eps_diluted": 0.85,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 6142000000,
+   "gross_profit": 2262000000,
+   "operating_income": null,
+   "eps_diluted": 1,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-07-29",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/833444/000083344426000087/jci-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/833444/000083344426000087/0000833444-26-000087-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-06",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/833444/000083344426000050/jci-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/833444/000083344426000050/0000833444-26-000050-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-02-04",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/833444/000083344426000019/jci-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/833444/000083344426000019/0000833444-26-000019-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-11-14",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/833444/000083344425000097/jci-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/833444/000083344425000097/0000833444-25-000097-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-06",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/833444/000083344425000063/jci-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/833444/000083344425000063/0000833444-25-000063-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-07",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/833444/000083344425000032/jci-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/833444/000083344425000032/0000833444-25-000032-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-02-05",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/833444/000083344425000011/jci-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/833444/000083344425000011/0000833444-25-000011-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-11-19",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/833444/000083344424000064/jci-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/833444/000083344424000064/0000833444-24-000064-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-31",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/833444/000083344424000052/jci-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/833444/000083344424000052/0000833444-24-000052-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-05-01",
+   "period": "2024-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/833444/000083344424000029/jci-20240331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/833444/000083344424000029/0000833444-24-000029-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-12-14",
+   "period": "2023-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/833444/000083344423000048/jci-20230930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/833444/000083344423000048/0000833444-23-000048-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-11-15",
+   "period": "2022-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/833444/000083344422000043/jci-20220930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/833444/000083344422000043/0000833444-22-000043-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2021-11-15",
+   "period": "2021-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/833444/000083344421000046/jci-20210930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/833444/000083344421000046/0000833444-21-000046-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

@@ -1,0 +1,199 @@
+{
+ "ticker": "MTB",
+ "name": "M&T Bank",
+ "cik": 36270,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": null,
+  "operating_income": null,
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 392000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 4.08,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 397000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 3.32,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 417000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 4.24,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 423000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 4.82,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 420000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 4.94,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 418000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 4.13,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 442000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 5.32,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 438000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 5.04,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-05",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/36270/000003627026000060/mtb-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/36270/000003627026000060/0000036270-26-000060-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-04",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/36270/000003627026000050/mtb-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/36270/000003627026000050/0000036270-26-000050-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-05",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/36270/000003627026000034/mtb-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/36270/000003627026000034/0000036270-26-000034-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-18",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/36270/000003627026000010/mtb-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/36270/000003627026000010/0000036270-26-000010-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-27",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/36270/000003627025000024/mtb-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/36270/000003627025000024/0000036270-25-000024-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-04",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/36270/000003627025000011/mtb-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/36270/000003627025000011/0000036270-25-000011-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-05",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/36270/000162828025022036/mtb-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/36270/000162828025022036/0001628280-25-022036-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-19",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/36270/000162828025006267/mtb-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/36270/000162828025006267/0001628280-25-006267-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-05",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/36270/000162828024045198/mtb-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/36270/000162828024045198/0001628280-24-045198-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-05",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/36270/000162828024034695/mtb-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/36270/000162828024034695/0001628280-24-034695-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-21",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/36270/000095017024017990/mtb-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/36270/000095017024017990/0000950170-24-017990-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-22",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/36270/000095017023003804/mtb-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/36270/000095017023003804/0000950170-23-003804-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-16",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/36270/000156459022005400/mtb-10k_20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/36270/000156459022005400/0001564590-22-005400-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

@@ -1,0 +1,201 @@
+{
+ "ticker": "GM",
+ "name": "General Motors",
+ "cik": 1467858,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 47702000000,
+   "gross_profit": null,
+   "operating_income": 1522000000,
+   "eps_diluted": -2.75,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 44020000000,
+   "gross_profit": null,
+   "operating_income": 3352000000,
+   "eps_diluted": 3.35,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 47122000000,
+   "gross_profit": null,
+   "operating_income": 2127000000,
+   "eps_diluted": 1.91,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 48591000000,
+   "gross_profit": null,
+   "operating_income": 1076000000,
+   "eps_diluted": 1.35,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 45286000000,
+   "gross_profit": null,
+   "operating_income": -3646000000,
+   "eps_diluted": -3.48,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 43624000000,
+   "gross_profit": null,
+   "operating_income": 2926000000,
+   "eps_diluted": 2.82,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 48026000000,
+   "gross_profit": null,
+   "operating_income": 1459000000,
+   "eps_diluted": 1.41,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 50015000000,
+   "gross_profit": null,
+   "operating_income": 3598000000,
+   "eps_diluted": 3.73,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-20",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785826000059/gm-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785826000059/0001467858-26-000059-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-21",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785826000051/gm-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785826000051/0001467858-26-000051-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-28",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785826000035/gm-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785826000035/0001467858-26-000035-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-01-27",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785826000013/gm-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785826000013/0001467858-26-000013-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-21",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785825000143/gm-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785825000143/0001467858-25-000143-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-22",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785825000121/gm-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785825000121/0001467858-25-000121-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-01",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785825000096/gm-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785825000096/0001467858-25-000096-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-01-28",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785825000032/gm-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785825000032/0001467858-25-000032-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-22",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785824000117/gm-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785824000117/0001467858-24-000117-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-23",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785824000102/gm-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785824000102/0001467858-24-000102-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-01-30",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785824000031/gm-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785824000031/0001467858-24-000031-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-01-31",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785823000029/gm-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785823000029/0001467858-23-000029-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-02",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785822000034/gm-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785822000034/0001467858-22-000034-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

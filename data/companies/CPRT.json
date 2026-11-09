@@ -1,0 +1,202 @@
+{
+ "ticker": "CPRT",
+ "name": "Copart",
+ "cik": 900075,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "07-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerIncludingAssessedTax",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2024-08-01",
+   "period_end": "2024-10-31",
+   "revenue": 1146829000,
+   "gross_profit": null,
+   "operating_income": 406367000,
+   "eps_diluted": 0.37,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2024-11-01",
+   "period_end": "2025-01-31",
+   "revenue": 1163316000,
+   "gross_profit": null,
+   "operating_income": 426211000,
+   "eps_diluted": 0.4,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-02-01",
+   "period_end": "2025-04-30",
+   "revenue": 1211716000,
+   "gross_profit": null,
+   "operating_income": 451545000,
+   "eps_diluted": 0.42,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-05-01",
+   "period_end": "2025-07-31",
+   "revenue": 1125097000,
+   "gross_profit": null,
+   "operating_income": 412591000,
+   "eps_diluted": 0.41,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-08-01",
+   "period_end": "2025-10-31",
+   "revenue": 1155030000,
+   "gross_profit": null,
+   "operating_income": 430694000,
+   "eps_diluted": 0.41,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-11-01",
+   "period_end": "2026-01-31",
+   "revenue": 1121674000,
+   "gross_profit": null,
+   "operating_income": 388710000,
+   "eps_diluted": 0.36,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-02-01",
+   "period_end": "2026-04-30",
+   "revenue": 1237066000,
+   "gross_profit": null,
+   "operating_income": 464282000,
+   "eps_diluted": 0.43,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2026-05-01",
+   "period_end": "2026-07-31",
+   "revenue": 1152439000,
+   "gross_profit": null,
+   "operating_income": 368904000,
+   "eps_diluted": 0.35,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-K",
+   "filed": "2026-09-29",
+   "period": "2026-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/900075/000119312526405731/cprt-20260731.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/900075/000119312526405731/0001193125-26-405731-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-29",
+   "period": "2026-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/900075/000119312526245578/cprt-20260430.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/900075/000119312526245578/0001193125-26-245578-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-03-03",
+   "period": "2026-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/900075/000119312526088593/cprt-20260131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/900075/000119312526088593/0001193125-26-088593-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-24",
+   "period": "2025-10-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/900075/000119312525291660/cprt-20251031.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/900075/000119312525291660/0001193125-25-291660-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-09-26",
+   "period": "2025-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/900075/000162828025042946/cprt-20250731.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/900075/000162828025042946/0001628280-25-042946-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-06-03",
+   "period": "2025-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/900075/000162828025029093/cprt-20250430.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/900075/000162828025029093/0001628280-25-029093-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-02-26",
+   "period": "2025-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/900075/000090007525000007/cprt-20250131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/900075/000090007525000007/0000900075-25-000007-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-26",
+   "period": "2024-10-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/900075/000090007524000030/cprt-20241031.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/900075/000090007524000030/0000900075-24-000030-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-09-30",
+   "period": "2024-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/900075/000090007524000024/cprt-20240731.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/900075/000090007524000024/0000900075-24-000024-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-05-23",
+   "period": "2024-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/900075/000090007524000014/cprt-20240430.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/900075/000090007524000014/0000900075-24-000014-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-02-27",
+   "period": "2024-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/900075/000090007524000007/cprt-20240131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/900075/000090007524000007/0000900075-24-000007-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-09-28",
+   "period": "2023-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/900075/000090007523000034/cprt-20230731.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/900075/000090007523000034/0000900075-23-000034-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-09-27",
+   "period": "2022-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/900075/000090007522000050/cprt-20220731.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/900075/000090007522000050/0000900075-22-000050-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

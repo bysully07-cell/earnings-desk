@@ -1,0 +1,202 @@
+{
+ "ticker": "ODFL",
+ "name": "Old Dominion",
+ "cik": 878927,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerIncludingAssessedTax",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 1385829000,
+   "gross_profit": null,
+   "operating_income": 334020000,
+   "eps_diluted": 1.23,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 1374858000,
+   "gross_profit": null,
+   "operating_income": 338055000,
+   "eps_diluted": 1.19,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 1407724000,
+   "gross_profit": null,
+   "operating_income": 357895000,
+   "eps_diluted": 1.27,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 1406511000,
+   "gross_profit": null,
+   "operating_income": 360844000,
+   "eps_diluted": 1.28,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 1307296000,
+   "gross_profit": null,
+   "operating_income": 304251000,
+   "eps_diluted": 1.09,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 1334696000,
+   "gross_profit": null,
+   "operating_income": 317341000,
+   "eps_diluted": 1.14,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 1554004000,
+   "gross_profit": null,
+   "operating_income": 465301000,
+   "eps_diluted": 1.68,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 1590726000,
+   "gross_profit": null,
+   "operating_income": 452645000,
+   "eps_diluted": 1.65,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-04",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/878927/000087892726000033/odfl-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/878927/000087892726000033/0000878927-26-000033-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-05",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/878927/000087892726000023/odfl-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/878927/000087892726000023/0000878927-26-000023-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-06",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/878927/000087892726000011/odfl-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/878927/000087892726000011/0000878927-26-000011-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-24",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/878927/000119312526067161/odfl-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/878927/000119312526067161/0001193125-26-067161-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-06",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/878927/000119312525268415/odfl-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/878927/000119312525268415/0001193125-25-268415-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-06",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/878927/000095017025103916/odfl-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/878927/000095017025103916/0000950170-25-103916-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-06",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/878927/000095017025064508/odfl-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/878927/000095017025064508/0000950170-25-064508-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-25",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/878927/000095017025026661/odfl-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/878927/000095017025026661/0000950170-25-026661-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-06",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/878927/000095017024122440/odfl-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/878927/000095017024122440/0000950170-24-122440-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-05",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/878927/000095017024090872/odfl-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/878927/000095017024090872/0000950170-24-090872-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-26",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/878927/000095017024020176/odfl-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/878927/000095017024020176/0000950170-24-020176-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-22",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/878927/000095017023003783/odfl-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/878927/000095017023003783/0000950170-23-003783-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-23",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/878927/000156459022006303/odfl-10k_20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/878927/000156459022006303/0001564590-22-006303-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

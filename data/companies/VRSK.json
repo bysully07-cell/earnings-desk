@@ -1,0 +1,215 @@
+{
+ "ticker": "VRSK",
+ "name": "Verisk Analytics",
+ "cik": 1442145,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfRevenue)",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 735600000,
+   "gross_profit": 505100000,
+   "operating_income": 316300000,
+   "eps_diluted": 1.49,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 753000000,
+   "gross_profit": 522200000,
+   "operating_income": 330100000,
+   "eps_diluted": 1.65,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 772600000,
+   "gross_profit": 543100000,
+   "operating_income": 354300000,
+   "eps_diluted": 1.81,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 768300000,
+   "gross_profit": 538800000,
+   "operating_income": 345900000,
+   "eps_diluted": 1.61,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 778800000,
+   "gross_profit": 543100000,
+   "operating_income": 313600000,
+   "eps_diluted": 1.42,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 782600000,
+   "gross_profit": 546000000,
+   "operating_income": 352200000,
+   "eps_diluted": 1.73,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 806300000,
+   "gross_profit": 572900000,
+   "operating_income": 363700000,
+   "eps_diluted": 1.75,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 809000000,
+   "gross_profit": 567000000,
+   "operating_income": 365300000,
+   "eps_diluted": 1.7,
+   "derived": [
+    "gross_profit"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-05",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1442145/000143774926035083/vrsk20260820_10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1442145/000143774926035083/0001437749-26-035083-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-29",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1442145/000143774926024749/vrsk20260630_10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1442145/000143774926024749/0001437749-26-024749-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-29",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1442145/000143774926013729/vrsk20260331_10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1442145/000143774926013729/0001437749-26-013729-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-18",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1442145/000143774926004452/vrsk20251231_10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1442145/000143774926004452/0001437749-26-004452-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-29",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1442145/000143774925032073/vrsk20250930_10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1442145/000143774925032073/0001437749-25-032073-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-30",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1442145/000143774925023862/vrsk20250630_10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1442145/000143774925023862/0001437749-25-023862-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-07",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1442145/000143774925014907/vrsk20250331_10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1442145/000143774925014907/0001437749-25-014907-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-26",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1442145/000143774925005160/vrsk20241231_10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1442145/000143774925005160/0001437749-25-005160-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-30",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1442145/000143774924032536/vrsk20240930_10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1442145/000143774924032536/0001437749-24-032536-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-31",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1442145/000143774924023985/vrsk20240630_10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1442145/000143774924023985/0001437749-24-023985-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-21",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1442145/000143774924004939/vrsk20231231c_10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1442145/000143774924004939/0001437749-24-004939-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-28",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1442145/000143774923004945/vrsk20221231_10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1442145/000143774923004945/0001437749-23-004945-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-22",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1442145/000143774922004083/vrsk20211231_10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1442145/000143774922004083/0001437749-22-004083-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

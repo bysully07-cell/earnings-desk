@@ -1,0 +1,43 @@
+name: Deploy site
+
+# Publishes index.html, notes.json and data/ to GitHub Pages.
+# Runs on your own pushes, on demand, and is called by the two data workflows
+# after they commit (pushes made by the workflow token don't trigger "push").
+on:
+  push:
+    branches: [main]
+  workflow_dispatch: {}
+  workflow_call: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: pages
+      cancel-in-progress: false
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # The branch tip, so a deploy called right after a data commit includes it.
+          ref: ${{ github.event.repository.default_branch }}
+
+      - name: Collect only the files the site needs
+        run: |
+          mkdir _site
+          cp index.html notes.json _site/
+          cp -r data _site/data
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deployment
+        uses: actions/deploy-pages@v4

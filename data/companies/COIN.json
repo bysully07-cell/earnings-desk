@@ -1,0 +1,201 @@
+{
+ "ticker": "COIN",
+ "name": "Coinbase",
+ "cik": 1679788,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 2271637000,
+   "gross_profit": null,
+   "operating_income": 1034069000,
+   "eps_diluted": 4.43,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 2034295000,
+   "gross_profit": null,
+   "operating_income": 705806000,
+   "eps_diluted": 0.24,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 1497208000,
+   "gross_profit": null,
+   "operating_income": -24650000,
+   "eps_diluted": 5.14,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 1868693000,
+   "gross_profit": null,
+   "operating_income": 480532000,
+   "eps_diluted": 1.5,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 1781129000,
+   "gross_profit": null,
+   "operating_income": 273753000,
+   "eps_diluted": -2.17,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 1412982000,
+   "gross_profit": null,
+   "operating_income": -21421000,
+   "eps_diluted": -1.49,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 1220068000,
+   "gross_profit": null,
+   "operating_income": -113488000,
+   "eps_diluted": -1.36,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 1215582000,
+   "gross_profit": null,
+   "operating_income": 61669000,
+   "eps_diluted": 2.51,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-29",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978826000122/coin-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978826000122/0001679788-26-000122-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-30",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978826000088/coin-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978826000088/0001679788-26-000088-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-07",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978826000054/coin-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978826000054/0001679788-26-000054-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-12",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978826000015/coin-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978826000015/0001679788-26-000015-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-30",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978825000208/coin-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978825000208/0001679788-25-000208-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-31",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978825000154/coin-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978825000154/0001679788-25-000154-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-08",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978825000089/coin-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978825000089/0001679788-25-000089-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-13",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978825000022/coin-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978825000022/0001679788-25-000022-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-30",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978824000187/coin-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978824000187/0001679788-24-000187-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-01",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978824000149/coin-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978824000149/0001679788-24-000149-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-15",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978824000022/coin-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978824000022/0001679788-24-000022-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-21",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978823000031/coin-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978823000031/0001679788-23-000031-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-25",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978822000031/coin-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978822000031/0001679788-22-000031-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

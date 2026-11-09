@@ -1,0 +1,199 @@
+{
+ "ticker": "AIZ",
+ "name": "Assurant",
+ "cik": 1267238,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": null,
+  "operating_income": null,
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 3104800000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 4.01,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 3074000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 2.83,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 3158400000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 4.56,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 3231500000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 5.17,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 3350400000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 4.41,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 3420100000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 5.41,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 3454200000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 5.95,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 3529500000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 5.49,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-05",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723826000046/aiz-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723826000046/0001267238-26-000046-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-06",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723826000041/aiz-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723826000041/0001267238-26-000041-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-07",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723826000027/aiz-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723826000027/0001267238-26-000027-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-19",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723826000010/aiz-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723826000010/0001267238-26-000010-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-06",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723825000051/aiz-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723825000051/0001267238-25-000051-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-07",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723825000045/aiz-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723825000045/0001267238-25-000045-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-08",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723825000026/aiz-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723825000026/0001267238-25-000026-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-20",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723825000008/aiz-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723825000008/0001267238-25-000008-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-07",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723824000047/aiz-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723824000047/0001267238-24-000047-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-08",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723824000037/aiz-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723824000037/0001267238-24-000037-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-15",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723824000008/aiz-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723824000008/0001267238-24-000008-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-17",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723823000007/aiz-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723823000007/0001267238-23-000007-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-22",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723822000006/aiz-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723822000006/0001267238-22-000006-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

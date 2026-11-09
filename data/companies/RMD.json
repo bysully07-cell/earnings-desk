@@ -1,0 +1,203 @@
+{
+ "ticker": "RMD",
+ "name": "ResMed",
+ "cik": 943819,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "06-30",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 1282089000,
+   "gross_profit": 751275000,
+   "operating_income": 417243000,
+   "eps_diluted": 2.34,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 1291736000,
+   "gross_profit": 766409000,
+   "operating_income": 426268000,
+   "eps_diluted": 2.48,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 1347993000,
+   "gross_profit": 820067000,
+   "operating_income": 454540000,
+   "eps_diluted": 2.58,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 1335582000,
+   "gross_profit": 817664000,
+   "operating_income": 446537000,
+   "eps_diluted": 2.37,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 1422808000,
+   "gross_profit": 878724000,
+   "operating_income": 491660000,
+   "eps_diluted": 2.68,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 1431406000,
+   "gross_profit": 890979000,
+   "operating_income": 499810000,
+   "eps_diluted": 2.74,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 1463647000,
+   "gross_profit": 864372000,
+   "operating_income": 448708000,
+   "eps_diluted": 2.64,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2027 Q1",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 1414814000,
+   "gross_profit": 870567000,
+   "operating_income": 452984000,
+   "eps_diluted": 2.92,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-30",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/943819/000094381926000089/rmd-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/943819/000094381926000089/0000943819-26-000089-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-08-13",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/943819/000094381926000047/rmd-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/943819/000094381926000047/0000943819-26-000047-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-01",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/943819/000094381926000025/rmd-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/943819/000094381926000025/0000943819-26-000025-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-01-30",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/943819/000094381926000007/rmd-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/943819/000094381926000007/0000943819-26-000007-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-31",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/943819/000094381925000090/rmd-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/943819/000094381925000090/0000943819-25-000090-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-08-08",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/943819/000094381925000035/rmd-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/943819/000094381925000035/0000943819-25-000035-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-24",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/943819/000094381925000008/rmd-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/943819/000094381925000008/0000943819-25-000008-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-01-31",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/943819/000094381925000004/rmd-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/943819/000094381925000004/0000943819-25-000004-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-25",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/943819/000094381924000027/rmd-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/943819/000094381924000027/0000943819-24-000027-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-08-09",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/943819/000094381924000013/rmd-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/943819/000094381924000013/0000943819-24-000013-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-04-26",
+   "period": "2024-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/943819/000094381924000008/rmd-20240331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/943819/000094381924000008/0000943819-24-000008-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-08-11",
+   "period": "2023-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/943819/000094381923000011/rmd-20230630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/943819/000094381923000011/0000943819-23-000011-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-08-12",
+   "period": "2022-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/943819/000094381922000010/rmd-20220630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/943819/000094381922000010/0000943819-22-000010-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

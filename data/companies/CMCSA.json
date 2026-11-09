@@ -1,0 +1,202 @@
+{
+ "ticker": "CMCSA",
+ "name": "Comcast",
+ "cik": 1166691,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 31915000000,
+   "gross_profit": null,
+   "operating_income": 4993000000,
+   "eps_diluted": 1.24,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 29887000000,
+   "gross_profit": null,
+   "operating_income": 5658000000,
+   "eps_diluted": 0.89,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 30313000000,
+   "gross_profit": null,
+   "operating_income": 5992000000,
+   "eps_diluted": 2.98,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 31198000000,
+   "gross_profit": null,
+   "operating_income": 5534000000,
+   "eps_diluted": 0.9,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 32309000000,
+   "gross_profit": null,
+   "operating_income": 3488000000,
+   "eps_diluted": 0.6,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 31457000000,
+   "gross_profit": null,
+   "operating_income": 4135000000,
+   "eps_diluted": 0.6,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 29940000000,
+   "gross_profit": null,
+   "operating_income": 5160000000,
+   "eps_diluted": 0.99,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 29298000000,
+   "gross_profit": null,
+   "operating_income": 5320000000,
+   "eps_diluted": 0.97,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-22",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026066863/cmcsa-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026066863/0001628280-26-066863-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-23",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026049360/cmcsa-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026049360/0001628280-26-049360-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-23",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026026805/cmcsa-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026026805/0001628280-26-026805-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-03",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026004994/cmcsa-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026004994/0001628280-26-004994-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-30",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1166691/000116669125000054/cmcsa-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1166691/000116669125000054/0001166691-25-000054-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-31",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1166691/000116669125000036/cmcsa-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1166691/000116669125000036/0001166691-25-000036-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-24",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1166691/000116669125000021/cmcsa-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1166691/000116669125000021/0001166691-25-000021-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-01-31",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1166691/000116669125000011/cmcsa-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1166691/000116669125000011/0001166691-25-000011-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-31",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1166691/000116669124000056/cmcsa-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1166691/000116669124000056/0001166691-24-000056-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-23",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1166691/000116669124000048/cmcsa-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1166691/000116669124000048/0001166691-24-000048-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-01-31",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1166691/000116669124000011/cmcsa-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1166691/000116669124000011/0001166691-24-000011-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-03",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1166691/000116669123000010/cmcsa-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1166691/000116669123000010/0001166691-23-000010-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-02",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1166691/000116669122000009/cmcsa-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1166691/000116669122000009/0001166691-22-000009-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

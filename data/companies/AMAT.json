@@ -1,0 +1,204 @@
+{
+ "ticker": "AMAT",
+ "name": "Applied Materials",
+ "cik": 6951,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "10-26",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-07-29",
+   "period_end": "2024-10-27",
+   "revenue": 7045000000,
+   "gross_profit": 3335000000,
+   "operating_income": 2046000000,
+   "eps_diluted": 2.09,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2024-10-28",
+   "period_end": "2025-01-26",
+   "revenue": 7166000000,
+   "gross_profit": 3496000000,
+   "operating_income": 2175000000,
+   "eps_diluted": 1.45,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-01-27",
+   "period_end": "2025-04-27",
+   "revenue": 7100000000,
+   "gross_profit": 3485000000,
+   "operating_income": 2169000000,
+   "eps_diluted": 2.63,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-04-28",
+   "period_end": "2025-07-27",
+   "revenue": 7302000000,
+   "gross_profit": 3562000000,
+   "operating_income": 2233000000,
+   "eps_diluted": 2.22,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-07-28",
+   "period_end": "2025-10-26",
+   "revenue": 6800000000,
+   "gross_profit": 3265000000,
+   "operating_income": 1712000000,
+   "eps_diluted": 2.37,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-10-27",
+   "period_end": "2026-01-25",
+   "revenue": 7012000000,
+   "gross_profit": 3435000000,
+   "operating_income": 1831000000,
+   "eps_diluted": 2.54,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-01-26",
+   "period_end": "2026-04-26",
+   "revenue": 7910000000,
+   "gross_profit": 3947000000,
+   "operating_income": 2523000000,
+   "eps_diluted": 3.51,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-04-27",
+   "period_end": "2026-07-26",
+   "revenue": 9115000000,
+   "gross_profit": 4586000000,
+   "operating_income": 3075000000,
+   "eps_diluted": 3.17,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-08-20",
+   "period": "2026-07-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/6951/000162828026058235/amat-20260726.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/6951/000162828026058235/0001628280-26-058235-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-21",
+   "period": "2026-04-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/6951/000162828026037227/amat-20260426.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/6951/000162828026037227/0001628280-26-037227-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-02-19",
+   "period": "2026-01-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/6951/000162828026009694/amat-20260125.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/6951/000162828026009694/0001628280-26-009694-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-12-12",
+   "period": "2025-10-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/6951/000162828025056742/amat-20251026.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/6951/000162828025056742/0001628280-25-056742-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-21",
+   "period": "2025-07-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/6951/000000695125000037/amat-20250727.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/6951/000000695125000037/0000006951-25-000037-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-22",
+   "period": "2025-04-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/6951/000000695125000024/amat-20250427.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/6951/000000695125000024/0000006951-25-000024-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-02-20",
+   "period": "2025-01-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/6951/000000695125000011/amat-20250126.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/6951/000000695125000011/0000006951-25-000011-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-12-13",
+   "period": "2024-10-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/6951/000000695124000044/amat-20241027.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/6951/000000695124000044/0000006951-24-000044-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-22",
+   "period": "2024-07-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/6951/000000695124000032/amat-20240728.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/6951/000000695124000032/0000006951-24-000032-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-05-23",
+   "period": "2024-04-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/6951/000000695124000022/amat-20240428.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/6951/000000695124000022/0000006951-24-000022-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-12-15",
+   "period": "2023-10-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/6951/000000695123000041/amat-20231029.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/6951/000000695123000041/0000006951-23-000041-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-12-16",
+   "period": "2022-10-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/6951/000000695122000043/amat-20221030.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/6951/000000695122000043/0000006951-22-000043-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2021-12-17",
+   "period": "2021-10-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/6951/000000695121000043/amat-20211031.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/6951/000000695121000043/0000006951-21-000043-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

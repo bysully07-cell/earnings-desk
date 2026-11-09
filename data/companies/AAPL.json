@@ -1,0 +1,204 @@
+{
+ "ticker": "AAPL",
+ "name": "Apple Inc.",
+ "cik": 320193,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "09-26",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2024-09-29",
+   "period_end": "2024-12-28",
+   "revenue": 124300000000,
+   "gross_profit": 58275000000,
+   "operating_income": 42832000000,
+   "eps_diluted": 2.4,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2024-12-29",
+   "period_end": "2025-03-29",
+   "revenue": 95359000000,
+   "gross_profit": 44867000000,
+   "operating_income": 29589000000,
+   "eps_diluted": 1.65,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-03-30",
+   "period_end": "2025-06-28",
+   "revenue": 94036000000,
+   "gross_profit": 43718000000,
+   "operating_income": 28202000000,
+   "eps_diluted": 1.57,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-06-29",
+   "period_end": "2025-09-27",
+   "revenue": 102466000000,
+   "gross_profit": 48341000000,
+   "operating_income": 32427000000,
+   "eps_diluted": 1.85,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-09-28",
+   "period_end": "2025-12-27",
+   "revenue": 143756000000,
+   "gross_profit": 69231000000,
+   "operating_income": 50852000000,
+   "eps_diluted": 2.84,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-12-28",
+   "period_end": "2026-03-28",
+   "revenue": 111184000000,
+   "gross_profit": 54781000000,
+   "operating_income": 35885000000,
+   "eps_diluted": 2.01,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-03-29",
+   "period_end": "2026-06-27",
+   "revenue": 109417000000,
+   "gross_profit": 54770000000,
+   "operating_income": 35695000000,
+   "eps_diluted": 2.02,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2026-06-28",
+   "period_end": "2026-09-26",
+   "revenue": 114477000000,
+   "gross_profit": 54820000000,
+   "operating_income": 35631000000,
+   "eps_diluted": 2.1,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-K",
+   "filed": "2026-11-03",
+   "period": "2026-09-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/aapl-20260926.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/0000320193-26-000026-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-31",
+   "period": "2026-06-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/aapl-20260627.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/0000320193-26-000020-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-01",
+   "period": "2026-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000013/aapl-20260328.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000013/0000320193-26-000013-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-01-30",
+   "period": "2025-12-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000006/aapl-20251227.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000006/0000320193-26-000006-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-10-31",
+   "period": "2025-09-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/0000320193-25-000079-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-01",
+   "period": "2025-06-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000073/aapl-20250628.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000073/0000320193-25-000073-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-02",
+   "period": "2025-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000057/aapl-20250329.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000057/0000320193-25-000057-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-01-31",
+   "period": "2024-12-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000008/aapl-20241228.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000008/0000320193-25-000008-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-11-01",
+   "period": "2024-09-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019324000123/aapl-20240928.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/320193/000032019324000123/0000320193-24-000123-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-02",
+   "period": "2024-06-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019324000081/aapl-20240629.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/320193/000032019324000081/0000320193-24-000081-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-05-03",
+   "period": "2024-03-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019324000069/aapl-20240330.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/320193/000032019324000069/0000320193-24-000069-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-11-03",
+   "period": "2023-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/0000320193-23-000106-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-10-28",
+   "period": "2022-09-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/0000320193-22-000108-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

@@ -1,0 +1,216 @@
+{
+ "ticker": "WMT",
+ "name": "Walmart",
+ "cik": 104169,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "01-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfRevenue)",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2024-08-01",
+   "period_end": "2024-10-31",
+   "revenue": 169588000000,
+   "gross_profit": 42248000000,
+   "operating_income": 6708000000,
+   "eps_diluted": 0.57,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2024-11-01",
+   "period_end": "2025-01-31",
+   "revenue": 180554000000,
+   "gross_profit": 44382000000,
+   "operating_income": 7859000000,
+   "eps_diluted": 0.65,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-02-01",
+   "period_end": "2025-04-30",
+   "revenue": 165609000000,
+   "gross_profit": 41306000000,
+   "operating_income": 7135000000,
+   "eps_diluted": 0.56,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-05-01",
+   "period_end": "2025-07-31",
+   "revenue": 177402000000,
+   "gross_profit": 44631000000,
+   "operating_income": 7286000000,
+   "eps_diluted": 0.88,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2025-08-01",
+   "period_end": "2025-10-31",
+   "revenue": 179496000000,
+   "gross_profit": 44790000000,
+   "operating_income": 6696000000,
+   "eps_diluted": 0.77,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2025-11-01",
+   "period_end": "2026-01-31",
+   "revenue": 190656000000,
+   "gross_profit": 47041000000,
+   "operating_income": 8708000000,
+   "eps_diluted": 0.53,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2027 Q1",
+   "period_start": "2026-02-01",
+   "period_end": "2026-04-30",
+   "revenue": 177751000000,
+   "gross_profit": 44693000000,
+   "operating_income": 7493000000,
+   "eps_diluted": 0.67,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2027 Q2",
+   "period_start": "2026-05-01",
+   "period_end": "2026-07-31",
+   "revenue": 187937000000,
+   "gross_profit": 49133000000,
+   "operating_income": 9383000000,
+   "eps_diluted": 0.8,
+   "derived": [
+    "gross_profit"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-08-28",
+   "period": "2026-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000154/wmt-20260731.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000154/0000104169-26-000154-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-29",
+   "period": "2026-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000102/wmt-20260430.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000102/0000104169-26-000102-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-03-13",
+   "period": "2026-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/0000104169-26-000055-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-12-03",
+   "period": "2025-10-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/104169/000010416925000191/wmt-20251031.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/104169/000010416925000191/0000104169-25-000191-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-29",
+   "period": "2025-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/104169/000010416925000137/wmt-20250731.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/104169/000010416925000137/0000104169-25-000137-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-06-06",
+   "period": "2025-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/104169/000010416925000090/wmt-20250430.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/104169/000010416925000090/0000104169-25-000090-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-03-14",
+   "period": "2025-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/104169/000010416925000021/wmt-20250131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/104169/000010416925000021/0000104169-25-000021-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-12-06",
+   "period": "2024-10-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/104169/000010416924000178/wmt-20241031.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/104169/000010416924000178/0000104169-24-000178-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-30",
+   "period": "2024-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/104169/000010416924000141/wmt-20240731.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/104169/000010416924000141/0000104169-24-000141-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-06-07",
+   "period": "2024-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/104169/000010416924000105/wmt-20240430.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/104169/000010416924000105/0000104169-24-000105-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-03-15",
+   "period": "2024-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/104169/000010416924000056/wmt-20240131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/104169/000010416924000056/0000104169-24-000056-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-03-17",
+   "period": "2023-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/104169/000010416923000020/wmt-20230131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/104169/000010416923000020/0000104169-23-000020-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-03-18",
+   "period": "2022-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/104169/000010416922000012/wmt-20220131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/104169/000010416922000012/0000104169-22-000012-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

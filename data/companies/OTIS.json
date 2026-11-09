@@ -1,0 +1,201 @@
+{
+ "ticker": "OTIS",
+ "name": "Otis Worldwide",
+ "cik": 1781335,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 3675000000,
+   "gross_profit": null,
+   "operating_income": 531000000,
+   "eps_diluted": 0.84,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 3350000000,
+   "gross_profit": null,
+   "operating_income": 411000000,
+   "eps_diluted": 0.61,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 3595000000,
+   "gross_profit": null,
+   "operating_income": 547000000,
+   "eps_diluted": 0.99,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 3690000000,
+   "gross_profit": null,
+   "operating_income": 586000000,
+   "eps_diluted": 0.95,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 3796000000,
+   "gross_profit": null,
+   "operating_income": 589000000,
+   "eps_diluted": 0.95,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 3566000000,
+   "gross_profit": null,
+   "operating_income": 539000000,
+   "eps_diluted": 0.87,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 3859000000,
+   "gross_profit": null,
+   "operating_income": 575000000,
+   "eps_diluted": 1.12,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 3914000000,
+   "gross_profit": null,
+   "operating_income": 620000000,
+   "eps_diluted": 1.08,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-29",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1781335/000178133526000127/otis-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1781335/000178133526000127/0001781335-26-000127-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-23",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1781335/000178133526000113/otis-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1781335/000178133526000113/0001781335-26-000113-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-23",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1781335/000178133526000075/otis-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1781335/000178133526000075/0001781335-26-000075-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-05",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1781335/000178133526000011/otis-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1781335/000178133526000011/0001781335-26-000011-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-30",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1781335/000178133525000049/otis-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1781335/000178133525000049/0001781335-25-000049-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-24",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1781335/000178133525000038/otis-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1781335/000178133525000038/0001781335-25-000038-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-24",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1781335/000178133525000021/otis-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1781335/000178133525000021/0001781335-25-000021-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-04",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1781335/000178133525000010/otis-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1781335/000178133525000010/0001781335-25-000010-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-31",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1781335/000178133524000057/otis-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1781335/000178133524000057/0001781335-24-000057-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-25",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1781335/000178133524000039/otis-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1781335/000178133524000039/0001781335-24-000039-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-02",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1781335/000178133524000013/otis-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1781335/000178133524000013/0001781335-24-000013-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-03",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1781335/000178133523000009/otis-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1781335/000178133523000009/0001781335-23-000009-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-04",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1781335/000178133522000007/otis-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1781335/000178133522000007/0001781335-22-000007-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

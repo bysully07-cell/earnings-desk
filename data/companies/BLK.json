@@ -1,0 +1,173 @@
+{
+ "ticker": "BLK",
+ "name": "BlackRock",
+ "cik": 2012383,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 5677000000,
+   "gross_profit": null,
+   "operating_income": 2075000000,
+   "eps_diluted": 10.63,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 5276000000,
+   "gross_profit": null,
+   "operating_income": 1698000000,
+   "eps_diluted": 9.64,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 5423000000,
+   "gross_profit": null,
+   "operating_income": 1731000000,
+   "eps_diluted": 10.19,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 6509000000,
+   "gross_profit": null,
+   "operating_income": 1955000000,
+   "eps_diluted": 8.43,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 7008000000,
+   "gross_profit": null,
+   "operating_income": 1661000000,
+   "eps_diluted": 6.81,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 6698000000,
+   "gross_profit": null,
+   "operating_income": 2814000000,
+   "eps_diluted": 14.06,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 7084000000,
+   "gross_profit": null,
+   "operating_income": 2461000000,
+   "eps_diluted": 12.19,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 7752000000,
+   "gross_profit": null,
+   "operating_income": 2328000000,
+   "eps_diluted": 10.57,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-04",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/2012383/000119312526447043/blk-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2012383/000119312526447043/0001193125-26-447043-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-06",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/2012383/000119312526337177/blk-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2012383/000119312526337177/0001193125-26-337177-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-06",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/2012383/000119312526208766/blk-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2012383/000119312526208766/0001193125-26-208766-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-25",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/2012383/000119312526071966/blk-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2012383/000119312526071966/0001193125-26-071966-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-05",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/2012383/000119312525267043/blk-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2012383/000119312525267043/0001193125-25-267043-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-06",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/2012383/000095017025103780/blk-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2012383/000095017025103780/0000950170-25-103780-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-07",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/2012383/000095017025065838/blk-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2012383/000095017025065838/0000950170-25-065838-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-25",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/2012383/000095017025026584/blk-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2012383/000095017025026584/0000950170-25-026584-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-06",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/2012383/000095017024122256/blk-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2012383/000095017024122256/0000950170-24-122256-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

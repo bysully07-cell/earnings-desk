@@ -1,0 +1,203 @@
+{
+ "ticker": "STLD",
+ "name": "Steel Dynamics",
+ "cik": 1022671,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 3872138000,
+   "gross_profit": 441734000,
+   "operating_income": 237502000,
+   "eps_diluted": 1.36,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 4369195000,
+   "gross_profit": 486544000,
+   "operating_income": 275144000,
+   "eps_diluted": 1.44,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 4565123000,
+   "gross_profit": 618468000,
+   "operating_income": 382855000,
+   "eps_diluted": 2.01,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 4828215000,
+   "gross_profit": 757880000,
+   "operating_income": 507757000,
+   "eps_diluted": 2.74,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 4414048000,
+   "gross_profit": 529291000,
+   "operating_income": 310230000,
+   "eps_diluted": 1.82,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 5204858000,
+   "gross_profit": 763223000,
+   "operating_income": 538004000,
+   "eps_diluted": 2.78,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 6091557000,
+   "gross_profit": 958974000,
+   "operating_income": 700479000,
+   "eps_diluted": 3.69,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 6509419000,
+   "gross_profit": 1282287000,
+   "operating_income": 1006367000,
+   "eps_diluted": 5.26,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-23",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1022671/000110465926118461/stld-20260930x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1022671/000110465926118461/0001104659-26-118461-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-28",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1022671/000110465926087414/stld-20260630x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1022671/000110465926087414/0001104659-26-087414-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-27",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1022671/000110465926049415/stld-20260331x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1022671/000110465926049415/0001104659-26-049415-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-27",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1022671/000110465926021395/stld-20251231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1022671/000110465926021395/0001104659-26-021395-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-24",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1022671/000110465925102052/stld-20250930x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1022671/000110465925102052/0001104659-25-102052-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-11",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1022671/000155837025011019/stld-20250630x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1022671/000155837025011019/0001558370-25-011019-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-12",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1022671/000155837025007346/stld-20250331x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1022671/000155837025007346/0001558370-25-007346-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-28",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1022671/000155837025001886/stld-20241231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1022671/000155837025001886/0001558370-25-001886-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-08",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1022671/000155837024015022/stld-20240930x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1022671/000155837024015022/0001558370-24-015022-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-08",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1022671/000155837024011535/stld-20240630x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1022671/000155837024011535/0001558370-24-011535-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-29",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1022671/000155837024002152/stld-20231231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1022671/000155837024002152/0001558370-24-002152-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-28",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1022671/000155837023002303/stld-20221231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1022671/000155837023002303/0001558370-23-002303-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-28",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1022671/000155837022002377/stld-20211231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1022671/000155837022002377/0001558370-22-002377-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

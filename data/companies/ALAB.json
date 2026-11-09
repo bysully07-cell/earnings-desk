@@ -1,0 +1,182 @@
+{
+ "ticker": "ALAB",
+ "name": "Astera Labs",
+ "cik": 1736297,
+ "indexes": [
+  "NDX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 141096000,
+   "gross_profit": 104448000,
+   "operating_income": 144000,
+   "eps_diluted": 0.15,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 159442000,
+   "gross_profit": 119411000,
+   "operating_income": 11285000,
+   "eps_diluted": 0.18,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 191925000,
+   "gross_profit": 145563000,
+   "operating_income": 39774000,
+   "eps_diluted": 0.29,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 230575000,
+   "gross_profit": 175812000,
+   "operating_income": 55406000,
+   "eps_diluted": 0.5,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 270583000,
+   "gross_profit": 204475000,
+   "operating_income": 66958000,
+   "eps_diluted": 0.25,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 308361000,
+   "gross_profit": 235141000,
+   "operating_income": 61833000,
+   "eps_diluted": 0.44,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 392400000,
+   "gross_profit": 287567000,
+   "operating_income": 89248000,
+   "eps_diluted": 0.83,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 584899000,
+   "gross_profit": 422752000,
+   "operating_income": 179056000,
+   "eps_diluted": 0.99,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-04",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1736297/000173629726000045/alab-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1736297/000173629726000045/0001736297-26-000045-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-05",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1736297/000173629726000035/alab-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1736297/000173629726000035/0001736297-26-000035-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-06",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1736297/000173629726000020/alab-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1736297/000173629726000020/0001736297-26-000020-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-20",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1736297/000173629726000010/alab-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1736297/000173629726000010/0001736297-26-000010-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-05",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1736297/000173629725000147/alab-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1736297/000173629725000147/0001736297-25-000147-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-06",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1736297/000173629725000098/alab-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1736297/000173629725000098/0001736297-25-000098-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-07",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1736297/000173629725000031/alab-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1736297/000173629725000031/0001736297-25-000031-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-14",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1736297/000173629725000003/alab-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1736297/000173629725000003/0001736297-25-000003-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-05",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1736297/000173629724000043/alab-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1736297/000173629724000043/0001736297-24-000043-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-07",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1736297/000173629724000018/alab-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1736297/000173629724000018/0001736297-24-000018-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

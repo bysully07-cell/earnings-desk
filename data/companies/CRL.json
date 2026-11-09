@@ -1,0 +1,201 @@
+{
+ "ticker": "CRL",
+ "name": "Charles River Laboratories",
+ "cik": 1100682,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-27",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-09-29",
+   "period_end": "2024-12-28",
+   "revenue": 1002549000,
+   "gross_profit": null,
+   "operating_income": -167687000,
+   "eps_diluted": -4.19,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2024-12-29",
+   "period_end": "2025-03-29",
+   "revenue": 984168000,
+   "gross_profit": null,
+   "operating_income": 74669000,
+   "eps_diluted": 0.5,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-03-30",
+   "period_end": "2025-06-28",
+   "revenue": 1032135000,
+   "gross_profit": null,
+   "operating_income": 100134000,
+   "eps_diluted": 1.06,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-06-29",
+   "period_end": "2025-09-27",
+   "revenue": 1004852000,
+   "gross_profit": null,
+   "operating_income": 133799000,
+   "eps_diluted": 1.1,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-09-28",
+   "period_end": "2025-12-27",
+   "revenue": 994227000,
+   "gross_profit": null,
+   "operating_income": -283440000,
+   "eps_diluted": -5.68,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-12-28",
+   "period_end": "2026-03-28",
+   "revenue": 995830000,
+   "gross_profit": null,
+   "operating_income": 119897000,
+   "eps_diluted": -0.3,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-03-29",
+   "period_end": "2026-06-27",
+   "revenue": 1004078000,
+   "gross_profit": null,
+   "operating_income": 119888000,
+   "eps_diluted": -0.03,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-06-28",
+   "period_end": "2026-09-26",
+   "revenue": 982732000,
+   "gross_profit": null,
+   "operating_income": 202638000,
+   "eps_diluted": 6.86,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-04",
+   "period": "2026-09-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1100682/000110068226000157/crl-20260926.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1100682/000110068226000157/0001100682-26-000157-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-05",
+   "period": "2026-06-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1100682/000110068226000118/crl-20260627.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1100682/000110068226000118/0001100682-26-000118-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-07",
+   "period": "2026-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1100682/000110068226000038/crl-20260328.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1100682/000110068226000038/0001100682-26-000038-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-18",
+   "period": "2025-12-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1100682/000110068226000022/crl-20251227.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1100682/000110068226000022/0001100682-26-000022-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-05",
+   "period": "2025-09-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1100682/000110068225000043/crl-20250927.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1100682/000110068225000043/0001100682-25-000043-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-06",
+   "period": "2025-06-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1100682/000110068225000034/crl-20250628.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1100682/000110068225000034/0001100682-25-000034-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-07",
+   "period": "2025-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1100682/000110068225000021/crl-20250329.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1100682/000110068225000021/0001100682-25-000021-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-19",
+   "period": "2024-12-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1100682/000110068225000011/crl-20241228.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1100682/000110068225000011/0001100682-25-000011-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-06",
+   "period": "2024-09-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1100682/000110068224000035/crl-20240928.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1100682/000110068224000035/0001100682-24-000035-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-07",
+   "period": "2024-06-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1100682/000110068224000027/crl-20240629.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1100682/000110068224000027/0001100682-24-000027-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-14",
+   "period": "2023-12-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1100682/000110068224000007/crl-20231230.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1100682/000110068224000007/0001100682-24-000007-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-22",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1100682/000110068223000006/crl-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1100682/000110068223000006/0001100682-23-000006-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-16",
+   "period": "2021-12-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1100682/000110068222000007/crl-20211225.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1100682/000110068222000007/0001100682-22-000007-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

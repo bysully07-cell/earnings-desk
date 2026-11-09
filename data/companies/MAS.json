@@ -1,0 +1,203 @@
+{
+ "ticker": "MAS",
+ "name": "Masco",
+ "cik": 62996,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 1828000000,
+   "gross_profit": 636000000,
+   "operating_income": 291000000,
+   "eps_diluted": 0.84,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 1801000000,
+   "gross_profit": 644000000,
+   "operating_income": 286000000,
+   "eps_diluted": 0.87,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 2051000000,
+   "gross_profit": 772000000,
+   "operating_income": 412000000,
+   "eps_diluted": 1.28,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 1917000000,
+   "gross_profit": 656000000,
+   "operating_income": 303000000,
+   "eps_diluted": 0.9,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 1793000000,
+   "gross_profit": 607000000,
+   "operating_income": 247000000,
+   "eps_diluted": 0.8,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 1918000000,
+   "gross_profit": 686000000,
+   "operating_income": 316000000,
+   "eps_diluted": 1.05,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 1992000000,
+   "gross_profit": 868000000,
+   "operating_income": 470000000,
+   "eps_diluted": 1.6,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 1966000000,
+   "gross_profit": 720000000,
+   "operating_income": 338000000,
+   "eps_diluted": 1.17,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-28",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/62996/000006299626000033/mas-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/62996/000006299626000033/0000062996-26-000033-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-29",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/62996/000006299626000027/mas-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/62996/000006299626000027/0000062996-26-000027-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-22",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/62996/000006299626000014/mas-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/62996/000006299626000014/0000062996-26-000014-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-10",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/62996/000006299626000005/mas-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/62996/000006299626000005/0000062996-26-000005-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-29",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/62996/000006299625000035/mas-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/62996/000006299625000035/0000062996-25-000035-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-31",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/62996/000006299625000029/mas-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/62996/000006299625000029/0000062996-25-000029-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-23",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/62996/000006299625000010/mas-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/62996/000006299625000010/0000062996-25-000010-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-11",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/62996/000006299625000004/mas-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/62996/000006299625000004/0000062996-25-000004-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-29",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/62996/000006299624000033/mas-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/62996/000006299624000033/0000062996-24-000033-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-25",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/62996/000006299624000027/mas-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/62996/000006299624000027/0000062996-24-000027-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-08",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/62996/000006299624000006/mas-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/62996/000006299624000006/0000062996-24-000006-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-09",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/62996/000006299623000008/mas-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/62996/000006299623000008/0000062996-23-000008-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-08",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/62996/000006299622000011/mas-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/62996/000006299622000011/0000062996-22-000011-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

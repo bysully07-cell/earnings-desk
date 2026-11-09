@@ -1,0 +1,182 @@
+{
+ "ticker": "GEV",
+ "name": "GE Vernova",
+ "cik": 1996810,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 10558000000,
+   "gross_profit": 2124000000,
+   "operating_income": 592000000,
+   "eps_diluted": 1.7,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 8032000000,
+   "gross_profit": 1470000000,
+   "operating_income": 43000000,
+   "eps_diluted": 0.91,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 9111000000,
+   "gross_profit": 1846000000,
+   "operating_income": 378000000,
+   "eps_diluted": 1.86,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 9969000000,
+   "gross_profit": 1897000000,
+   "operating_income": 366000000,
+   "eps_diluted": 1.64,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 10956000000,
+   "gross_profit": 2322000000,
+   "operating_income": 601000000,
+   "eps_diluted": 13.37,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 9339000000,
+   "gross_profit": 1781000000,
+   "operating_income": 179000000,
+   "eps_diluted": 17.44,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 11104000000,
+   "gross_profit": 2360000000,
+   "operating_income": 653000000,
+   "eps_diluted": 2.47,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 12642000000,
+   "gross_profit": 3107000000,
+   "operating_income": 1394000000,
+   "eps_diluted": 4.81,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-28",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000163/gev-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000163/0001996810-26-000163-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-22",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000148/gev-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000148/0001996810-26-000148-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-22",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000064/gev-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000064/0001996810-26-000064-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-01-29",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000015/gev-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000015/0001996810-26-000015-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-22",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681025000160/gev-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681025000160/0001996810-25-000160-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-23",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681025000133/gev-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681025000133/0001996810-25-000133-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-23",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681025000073/gev-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681025000073/0001996810-25-000073-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-06",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681025000011/gev-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681025000011/0001996810-25-000011-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-23",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681024000083/gev-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681024000083/0001996810-24-000083-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-24",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681024000067/gev-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681024000067/0001996810-24-000067-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

@@ -1,0 +1,204 @@
+{
+ "ticker": "ADBE",
+ "name": "Adobe Inc.",
+ "cik": 796343,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "11-28",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-08-31",
+   "period_end": "2024-11-29",
+   "revenue": 5606000000,
+   "gross_profit": 4990000000,
+   "operating_income": 1957000000,
+   "eps_diluted": 3.79,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2024-11-30",
+   "period_end": "2025-02-28",
+   "revenue": 5714000000,
+   "gross_profit": 5092000000,
+   "operating_income": 2163000000,
+   "eps_diluted": 4.14,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-03-01",
+   "period_end": "2025-05-30",
+   "revenue": 5873000000,
+   "gross_profit": 5235000000,
+   "operating_income": 2109000000,
+   "eps_diluted": 3.94,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-05-31",
+   "period_end": "2025-08-29",
+   "revenue": 5988000000,
+   "gross_profit": 5346000000,
+   "operating_income": 2173000000,
+   "eps_diluted": 4.18,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-08-30",
+   "period_end": "2025-11-28",
+   "revenue": 6194000000,
+   "gross_profit": 5545000000,
+   "operating_income": 2261000000,
+   "eps_diluted": 4.45,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-11-29",
+   "period_end": "2026-02-27",
+   "revenue": 6398000000,
+   "gross_profit": 5734000000,
+   "operating_income": 2418000000,
+   "eps_diluted": 4.6,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-02-28",
+   "period_end": "2026-05-29",
+   "revenue": 6618000000,
+   "gross_profit": 5903000000,
+   "operating_income": 2238000000,
+   "eps_diluted": 4.25,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-05-30",
+   "period_end": "2026-08-28",
+   "revenue": 6760000000,
+   "gross_profit": 5997000000,
+   "operating_income": 2354000000,
+   "eps_diluted": 4.62,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-09-22",
+   "period": "2026-08-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000156/adbe-20260828.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000156/0000796343-26-000156-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-06-15",
+   "period": "2026-05-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000112/adbe-20260529.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000112/0000796343-26-000112-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-03-25",
+   "period": "2026-02-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000056/adbe-20260227.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000056/0000796343-26-000056-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-01-15",
+   "period": "2025-11-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000003/adbe-20251128.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000003/0000796343-26-000003-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-09-24",
+   "period": "2025-08-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634325000107/adbe-20250829.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634325000107/0000796343-25-000107-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-06-25",
+   "period": "2025-05-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634325000073/adbe-20250530.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634325000073/0000796343-25-000073-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-03-26",
+   "period": "2025-02-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634325000059/adbe-20250228.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634325000059/0000796343-25-000059-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-01-13",
+   "period": "2024-11-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634325000004/adbe-20241129.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634325000004/0000796343-25-000004-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-09-25",
+   "period": "2024-08-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634324000208/adbe-20240830.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634324000208/0000796343-24-000208-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-06-26",
+   "period": "2024-05-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634324000150/adbe-20240531.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634324000150/0000796343-24-000150-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-01-17",
+   "period": "2023-12-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634324000006/adbe-20231201.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634324000006/0000796343-24-000006-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-01-17",
+   "period": "2022-12-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634323000007/adbe-20221202.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634323000007/0000796343-23-000007-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-01-21",
+   "period": "2021-12-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634322000032/adbe-20211203.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/796343/000079634322000032/0000796343-22-000032-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

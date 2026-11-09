@@ -1,0 +1,201 @@
+{
+ "ticker": "CMG",
+ "name": "Chipotle Mexican Grill",
+ "cik": 1058090,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 2845312000,
+   "gross_profit": null,
+   "operating_income": 415732000,
+   "eps_diluted": 0.24,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 2875253000,
+   "gross_profit": null,
+   "operating_income": 479250000,
+   "eps_diluted": 0.28,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 3063393000,
+   "gross_profit": null,
+   "operating_income": 559057000,
+   "eps_diluted": 0.32,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 3003444000,
+   "gross_profit": null,
+   "operating_income": 477172000,
+   "eps_diluted": 0.29,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 2983511000,
+   "gross_profit": null,
+   "operating_income": 420319000,
+   "eps_diluted": 0.25,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 3088242000,
+   "gross_profit": null,
+   "operating_income": 397063000,
+   "eps_diluted": 0.23,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 3348562000,
+   "gross_profit": null,
+   "operating_income": 525595000,
+   "eps_diluted": 0.32,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 3293162000,
+   "gross_profit": null,
+   "operating_income": 451964000,
+   "eps_diluted": 0.27,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-29",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809026000104/cmg-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809026000104/0001058090-26-000104-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-31",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809026000066/cmg-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809026000066/0001058090-26-000066-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-30",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809026000028/cmg-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809026000028/0001058090-26-000028-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-04",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809026000009/cmg-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809026000009/0001058090-26-000009-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-30",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809025000088/cmg-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809025000088/0001058090-25-000088-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-24",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809025000056/cmg-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809025000056/0001058090-25-000056-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-24",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809025000031/cmg-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809025000031/0001058090-25-000031-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-05",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809025000014/cmg-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809025000014/0001058090-25-000014-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-30",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809024000050/cmg-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809024000050/0001058090-24-000050-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-25",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809024000032/cmg-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809024000032/0001058090-24-000032-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-08",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058090/000156276224000023/cmg-20231231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1058090/000156276224000023/0001562762-24-000023-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-09",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809023000010/cmg-20221231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809023000010/0001058090-23-000010-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-11",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809022000011/cmg-20211231x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809022000011/0001058090-22-000011-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

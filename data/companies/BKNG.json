@@ -1,0 +1,202 @@
+{
+ "ticker": "BKNG",
+ "name": "Booking Holdings",
+ "cik": 1075531,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 5471000000,
+   "gross_profit": null,
+   "operating_income": 1729000000,
+   "eps_diluted": 31.6,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 4762000000,
+   "gross_profit": null,
+   "operating_income": 1062000000,
+   "eps_diluted": 0.4,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 6798000000,
+   "gross_profit": null,
+   "operating_income": 2250000000,
+   "eps_diluted": 1.1,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 9008000000,
+   "gross_profit": null,
+   "operating_income": 3483000000,
+   "eps_diluted": 3.38,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 6349000000,
+   "gross_profit": null,
+   "operating_income": 2030000000,
+   "eps_diluted": 160.69,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 5532000000,
+   "gross_profit": null,
+   "operating_income": 1271000000,
+   "eps_diluted": 1.36,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 7352000000,
+   "gross_profit": null,
+   "operating_income": 2500000000,
+   "eps_diluted": 2.53,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 8893000000,
+   "gross_profit": null,
+   "operating_income": 3418000000,
+   "eps_diluted": 3.61,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-03",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553126000045/bkng-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553126000045/0001075531-26-000045-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-04",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553126000037/bkng-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553126000037/0001075531-26-000037-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-28",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553126000025/bkng-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553126000025/0001075531-26-000025-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-18",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553126000009/bkng-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553126000009/0001075531-26-000009-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-28",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553125000051/bkng-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553125000051/0001075531-25-000051-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-29",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553125000036/bkng-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553125000036/0001075531-25-000036-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-29",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553125000024/bkng-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553125000024/0001075531-25-000024-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-20",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553125000010/bkng-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553125000010/0001075531-25-000010-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-30",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553124000048/bkng-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553124000048/0001075531-24-000048-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-01",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553124000041/bkng-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553124000041/0001075531-24-000041-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-22",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553124000014/bkng-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553124000014/0001075531-24-000014-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-23",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553123000016/bkng-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553123000016/0001075531-23-000016-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-23",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553122000008/bkng-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553122000008/0001075531-22-000008-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

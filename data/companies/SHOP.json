@@ -1,0 +1,203 @@
+{
+ "ticker": "SHOP",
+ "name": "Shopify",
+ "cik": 1594805,
+ "indexes": [
+  "NDX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 2812000000,
+   "gross_profit": 1352000000,
+   "operating_income": 465000000,
+   "eps_diluted": 0.98,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 2360000000,
+   "gross_profit": 1169000000,
+   "operating_income": 203000000,
+   "eps_diluted": -0.53,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 2680000000,
+   "gross_profit": 1302000000,
+   "operating_income": 291000000,
+   "eps_diluted": 0.69,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 2844000000,
+   "gross_profit": 1391000000,
+   "operating_income": 343000000,
+   "eps_diluted": 0.2,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 3672000000,
+   "gross_profit": 1693000000,
+   "operating_income": 631000000,
+   "eps_diluted": 0.57,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 3170000000,
+   "gross_profit": 1546000000,
+   "operating_income": 382000000,
+   "eps_diluted": -0.45,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 3583000000,
+   "gross_profit": 1708000000,
+   "operating_income": 488000000,
+   "eps_diluted": 1.16,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 3742000000,
+   "gross_profit": 1781000000,
+   "operating_income": 568000000,
+   "eps_diluted": 0.36,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-03",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480526000068/shop-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480526000068/0001594805-26-000068-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-05",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480526000047/shop-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480526000047/0001594805-26-000047-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-05",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480526000019/shop-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480526000019/0001594805-26-000019-index.htm"
+  },
+  {
+   "form": "10-K/A",
+   "filed": "2026-04-29",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480526000011/shop-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480526000011/0001594805-26-000011-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-11",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480526000007/shop-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480526000007/0001594805-26-000007-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-04",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480525000089/shop-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480525000089/0001594805-25-000089-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-06",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480525000073/shop-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480525000073/0001594805-25-000073-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-08",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480525000046/shop-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480525000046/0001594805-25-000046-index.htm"
+  },
+  {
+   "form": "10-K/A",
+   "filed": "2025-04-29",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480525000039/shop-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480525000039/0001594805-25-000039-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-11",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480525000012/shop-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480525000012/0001594805-25-000012-index.htm"
+  },
+  {
+   "form": "40-F",
+   "filed": "2024-02-13",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480524000007/shop-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480524000007/0001594805-24-000007-index.htm"
+  },
+  {
+   "form": "40-F",
+   "filed": "2023-02-16",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480523000011/shop-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480523000011/0001594805-23-000011-index.htm"
+  },
+  {
+   "form": "40-F",
+   "filed": "2022-02-16",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480522000011/shop-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1594805/000159480522000011/0001594805-22-000011-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

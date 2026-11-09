@@ -1,0 +1,199 @@
+{
+ "ticker": "NVR",
+ "name": "NVR, Inc.",
+ "cik": 906163,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": null,
+  "operating_income": null,
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 2845608000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 139.49,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 2403032000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 94.83,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 2598814000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 108.54,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 2609505000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 112.33,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 2712608000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 121.6,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 1881063000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 67.76,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 2326356000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 83.96,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 2402430000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 89.45,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-04",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616326000104/nvr-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/906163/000090616326000104/0000906163-26-000104-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-05",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616326000093/nvr-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/906163/000090616326000093/0000906163-26-000093-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-06",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616326000040/nvr-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/906163/000090616326000040/0000906163-26-000040-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-11",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616326000018/nvr-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/906163/000090616326000018/0000906163-26-000018-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-05",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616325000121/nvr-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/906163/000090616325000121/0000906163-25-000121-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-06",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616325000089/nvr-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/906163/000090616325000089/0000906163-25-000089-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-05",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616325000054/nvr-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/906163/000090616325000054/0000906163-25-000054-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-12",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616325000011/nvr-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/906163/000090616325000011/0000906163-25-000011-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-05",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616324000123/nvr-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/906163/000090616324000123/0000906163-24-000123-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-06",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616324000109/nvr-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/906163/000090616324000109/0000906163-24-000109-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-14",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616324000033/nvr-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/906163/000090616324000033/0000906163-24-000033-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-15",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616323000023/nvr-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/906163/000090616323000023/0000906163-23-000023-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-16",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616322000008/nvr-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/906163/000090616322000008/0000906163-22-000008-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

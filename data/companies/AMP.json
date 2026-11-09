@@ -1,0 +1,206 @@
+{
+ "ticker": "AMP",
+ "name": "Ameriprise Financial",
+ "cik": 820027,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": null,
+  "operating_income": null,
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 4649000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 10.56,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 4481000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 5.83,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 4490000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 10.73,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 4893000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 9.33,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 5047000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 10.48,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 4886000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 9.68,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 5013000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 11.98,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 5191000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 12.32,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-30",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/820027/000082002726000054/amp-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/820027/000082002726000054/0000820027-26-000054-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-04",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/820027/000082002726000043/amp-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/820027/000082002726000043/0000820027-26-000043-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-07",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/820027/000082002726000027/amp-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/820027/000082002726000027/0000820027-26-000027-index.htm"
+  },
+  {
+   "form": "10-K/A",
+   "filed": "2026-03-12",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/820027/000082002726000016/amp-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/820027/000082002726000016/0000820027-26-000016-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-19",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/820027/000082002726000011/amp-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/820027/000082002726000011/0000820027-26-000011-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-31",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/820027/000082002725000080/amp-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/820027/000082002725000080/0000820027-25-000080-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-05",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/820027/000082002725000066/amp-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/820027/000082002725000066/0000820027-25-000066-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-02",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/820027/000082002725000048/amp-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/820027/000082002725000048/0000820027-25-000048-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-20",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/820027/000082002725000013/amp-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/820027/000082002725000013/0000820027-25-000013-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-01",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/820027/000082002724000094/amp-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/820027/000082002724000094/0000820027-24-000094-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-06",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/820027/000082002724000079/amp-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/820027/000082002724000079/0000820027-24-000079-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-22",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/820027/000082002724000015/amp-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/820027/000082002724000015/0000820027-24-000015-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-23",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/820027/000082002723000014/amp-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/820027/000082002723000014/0000820027-23-000014-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-25",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/820027/000082002722000016/amp-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/820027/000082002722000016/0000820027-22-000016-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

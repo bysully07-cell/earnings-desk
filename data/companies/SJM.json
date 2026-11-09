@@ -1,0 +1,203 @@
+{
+ "ticker": "SJM",
+ "name": "The J.M. Smucker Company",
+ "cik": 91419,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "04-30",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerIncludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2024-08-01",
+   "period_end": "2024-10-31",
+   "revenue": 2271200000,
+   "gross_profit": 886100000,
+   "operating_income": 169700000,
+   "eps_diluted": -0.23,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2024-11-01",
+   "period_end": "2025-01-31",
+   "revenue": 2186000000,
+   "gross_profit": 878100000,
+   "operating_income": -594000000,
+   "eps_diluted": -6.22,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-02-01",
+   "period_end": "2025-04-30",
+   "revenue": 2143800000,
+   "gross_profit": 823300000,
+   "operating_income": -599100000,
+   "eps_diluted": -6.86,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-05-01",
+   "period_end": "2025-07-31",
+   "revenue": 2113300000,
+   "gross_profit": 474700000,
+   "operating_income": 45600000,
+   "eps_diluted": -0.41,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-08-01",
+   "period_end": "2025-10-31",
+   "revenue": 2330100000,
+   "gross_profit": 869900000,
+   "operating_income": 418500000,
+   "eps_diluted": 2.26,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2025-11-01",
+   "period_end": "2026-01-31",
+   "revenue": 2339400000,
+   "gross_profit": 827800000,
+   "operating_income": -548400000,
+   "eps_diluted": -6.79,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2026-02-01",
+   "period_end": "2026-04-30",
+   "revenue": 2268100000,
+   "gross_profit": 862100000,
+   "operating_income": 444500000,
+   "eps_diluted": 3.64,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2027 Q1",
+   "period_start": "2026-05-01",
+   "period_end": "2026-07-31",
+   "revenue": 2219300000,
+   "gross_profit": 979600000,
+   "operating_income": 511600000,
+   "eps_diluted": 3.03,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-08-26",
+   "period": "2026-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/91419/000009141926000080/sjm-20260731.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91419/000009141926000080/0000091419-26-000080-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-06-09",
+   "period": "2026-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/91419/000009141926000050/sjm-20260430.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91419/000009141926000050/0000091419-26-000050-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-02-26",
+   "period": "2026-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/91419/000009141926000016/sjm-20260131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91419/000009141926000016/0000091419-26-000016-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-25",
+   "period": "2025-10-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/91419/000009141925000106/sjm-20251031.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91419/000009141925000106/0000091419-25-000106-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-27",
+   "period": "2025-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/91419/000009141925000071/sjm-20250731.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91419/000009141925000071/0000091419-25-000071-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-06-18",
+   "period": "2025-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/91419/000009141925000056/sjm-20250430.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91419/000009141925000056/0000091419-25-000056-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-02-27",
+   "period": "2025-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/91419/000009141925000011/sjm-20250131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91419/000009141925000011/0000091419-25-000011-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-26",
+   "period": "2024-10-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/91419/000009141924000103/sjm-20241031.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91419/000009141924000103/0000091419-24-000103-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-28",
+   "period": "2024-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/91419/000009141924000077/sjm-20240731.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91419/000009141924000077/0000091419-24-000077-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-06-18",
+   "period": "2024-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/91419/000009141924000054/sjm-20240430.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91419/000009141924000054/0000091419-24-000054-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-02-27",
+   "period": "2024-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/91419/000009141924000010/sjm-20240131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91419/000009141924000010/0000091419-24-000010-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-06-20",
+   "period": "2023-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/91419/000009141923000072/sjm-20230430.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91419/000009141923000072/0000091419-23-000072-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-06-16",
+   "period": "2022-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/91419/000009141922000049/sjm-20220430.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91419/000009141922000049/0000091419-22-000049-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

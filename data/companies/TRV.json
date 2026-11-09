@@ -1,0 +1,199 @@
+{
+ "ticker": "TRV",
+ "name": "The Travelers Companies",
+ "cik": 86312,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": null,
+  "operating_income": null,
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 12008000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 9.04,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 11810000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 1.7,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 12116000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 6.53,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 12470000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 8.24,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 12432000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 11.18,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 11924000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 7.78,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 12153000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 10.26,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 12412000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 9.04,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-16",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/86312/000008631226000181/trv-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/86312/000008631226000181/0000086312-26-000181-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-17",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/86312/000008631226000145/trv-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/86312/000008631226000145/0000086312-26-000145-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-16",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/86312/000008631226000111/trv-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/86312/000008631226000111/0000086312-26-000111-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-12",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/86312/000008631226000065/trv-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/86312/000008631226000065/0000086312-26-000065-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-16",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/86312/000008631225000069/trv-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/86312/000008631225000069/0000086312-25-000069-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-17",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/86312/000008631225000047/trv-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/86312/000008631225000047/0000086312-25-000047-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-16",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/86312/000008631225000029/trv-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/86312/000008631225000029/0000086312-25-000029-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-13",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/86312/000008631225000012/trv-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/86312/000008631225000012/0000086312-25-000012-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-17",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/86312/000008631224000059/trv-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/86312/000008631224000059/0000086312-24-000059-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-19",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/86312/000008631224000051/trv-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/86312/000008631224000051/0000086312-24-000051-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-15",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/86312/000008631224000012/trv-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/86312/000008631224000012/0000086312-24-000012-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-16",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/86312/000008631223000011/trv-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/86312/000008631223000011/0000086312-23-000011-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-17",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/86312/000008631222000013/trv-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/86312/000008631222000013/0000086312-22-000013-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

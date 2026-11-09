@@ -1,0 +1,201 @@
+{
+ "ticker": "IVZ",
+ "name": "Invesco",
+ "cik": 914208,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 1593000000,
+   "gross_profit": null,
+   "operating_income": 311700000,
+   "eps_diluted": 0.45,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 1529200000,
+   "gross_profit": null,
+   "operating_income": 277300000,
+   "eps_diluted": 0.38,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 1515500000,
+   "gross_profit": null,
+   "operating_income": 214200000,
+   "eps_diluted": -0.03,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 1640400000,
+   "gross_profit": null,
+   "operating_income": 270900000,
+   "eps_diluted": 0.66,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 1692000000,
+   "gross_profit": null,
+   "operating_income": -1458100000,
+   "eps_diluted": -2.61,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 1744500000,
+   "gross_profit": null,
+   "operating_income": 333200000,
+   "eps_diluted": 0.51,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 1825600000,
+   "gross_profit": null,
+   "operating_income": 364200000,
+   "eps_diluted": 0.76,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 1873200000,
+   "gross_profit": null,
+   "operating_income": 436500000,
+   "eps_diluted": 0.65,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-03",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/914208/000091420826000376/ivz-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/914208/000091420826000376/0000914208-26-000376-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-04",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/914208/000091420826000235/ivz-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/914208/000091420826000235/0000914208-26-000235-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-05",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/914208/000091420826000106/ivz-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/914208/000091420826000106/0000914208-26-000106-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-24",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/914208/000091420826000079/ivz-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/914208/000091420826000079/0000914208-26-000079-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-04",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/914208/000091420825000366/ivz-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/914208/000091420825000366/0000914208-25-000366-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-01",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/914208/000091420825000262/ivz-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/914208/000091420825000262/0000914208-25-000262-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-28",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/914208/000091420825000144/ivz-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/914208/000091420825000144/0000914208-25-000144-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-25",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/914208/000091420825000114/ivz-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/914208/000091420825000114/0000914208-25-000114-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-29",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/914208/000091420824000427/ivz-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/914208/000091420824000427/0000914208-24-000427-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-31",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/914208/000091420824000335/ivz-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/914208/000091420824000335/0000914208-24-000335-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-21",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/914208/000091420824000219/ivz-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/914208/000091420824000219/0000914208-24-000219-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-23",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/914208/000091420823000297/ivz-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/914208/000091420823000297/0000914208-23-000297-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-18",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/914208/000091420822000319/ivz-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/914208/000091420822000319/0000914208-22-000319-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

@@ -1,0 +1,229 @@
+{
+ "ticker": "ICE",
+ "name": "Intercontinental Exchange",
+ "cik": 1571949,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 3030000000,
+   "gross_profit": null,
+   "operating_income": 1077000000,
+   "eps_diluted": 1.21,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 3229000000,
+   "gross_profit": null,
+   "operating_income": 1221000000,
+   "eps_diluted": 1.38,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 3262000000,
+   "gross_profit": null,
+   "operating_income": 1297000000,
+   "eps_diluted": 1.48,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 3007000000,
+   "gross_profit": null,
+   "operating_income": 1174000000,
+   "eps_diluted": 1.42,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 3142000000,
+   "gross_profit": null,
+   "operating_income": 1237000000,
+   "eps_diluted": 1.48,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 3666000000,
+   "gross_profit": null,
+   "operating_income": 1665000000,
+   "eps_diluted": 2.48,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 3611000000,
+   "gross_profit": null,
+   "operating_income": 1391000000,
+   "eps_diluted": 1.69,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 3630000000,
+   "gross_profit": null,
+   "operating_income": 1410000000,
+   "eps_diluted": 1.67,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-29",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1571949/000157194926000015/ice-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1571949/000157194926000015/0001571949-26-000015-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-30",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1571949/000157194926000011/ice-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1571949/000157194926000011/0001571949-26-000011-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-30",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1571949/000157194926000007/ice-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1571949/000157194926000007/0001571949-26-000007-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-05",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1571949/000157194926000004/ice-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1571949/000157194926000004/0001571949-26-000004-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-30",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1571949/000157194925000018/ice-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1571949/000157194925000018/0001571949-25-000018-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-31",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1571949/000157194925000013/ice-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1571949/000157194925000013/0001571949-25-000013-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-01",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1571949/000157194925000007/ice-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1571949/000157194925000007/0001571949-25-000007-index.htm"
+  },
+  {
+   "form": "10-K/A",
+   "filed": "2025-03-20",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1571949/000119312525059270/d941683d10ka.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1571949/000119312525059270/0001193125-25-059270-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-06",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1571949/000157194925000003/ice-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1571949/000157194925000003/0001571949-25-000003-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-31",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1571949/000157194924000017/ice-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1571949/000157194924000017/0001571949-24-000017-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-01",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1571949/000157194924000014/ice-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1571949/000157194924000014/0001571949-24-000014-index.htm"
+  },
+  {
+   "form": "10-K/A",
+   "filed": "2024-03-27",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1571949/000119312524078967/d753112d10ka.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1571949/000119312524078967/0001193125-24-078967-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-08",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1571949/000157194924000007/ice-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1571949/000157194924000007/0001571949-24-000007-index.htm"
+  },
+  {
+   "form": "10-K/A",
+   "filed": "2023-03-24",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1571949/000119312523079282/d441572d10ka.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1571949/000119312523079282/0001193125-23-079282-index.htm"
+  },
+  {
+   "form": "10-K/A",
+   "filed": "2023-03-15",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1571949/000119312523070799/d454149d10ka.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1571949/000119312523070799/0001193125-23-070799-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-02",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1571949/000157194923000006/ice-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1571949/000157194923000006/0001571949-23-000006-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-03",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1571949/000157194922000006/ice-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1571949/000157194922000006/0001571949-22-000006-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

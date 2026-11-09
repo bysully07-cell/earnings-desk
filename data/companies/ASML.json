@@ -1,0 +1,51 @@
+{
+ "ticker": "ASML",
+ "name": "ASML Holding",
+ "cik": 937966,
+ "indexes": [
+  "NDX"
+ ],
+ "fiscal_year_end": null,
+ "sources": {},
+ "quarters": [],
+ "filings": [
+  {
+   "form": "20-F",
+   "filed": "2026-02-25",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/937966/000162828026011378/asml-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/937966/000162828026011378/0001628280-26-011378-index.htm"
+  },
+  {
+   "form": "20-F",
+   "filed": "2025-03-05",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/937966/000093796625000009/asml-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/937966/000093796625000009/0000937966-25-000009-index.htm"
+  },
+  {
+   "form": "20-F",
+   "filed": "2024-02-14",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/937966/000093796624000008/asml-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/937966/000093796624000008/0000937966-24-000008-index.htm"
+  },
+  {
+   "form": "20-F",
+   "filed": "2023-02-15",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/937966/000093796623000014/asml-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/937966/000093796623000014/0000937966-23-000014-index.htm"
+  },
+  {
+   "form": "20-F",
+   "filed": "2022-02-09",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/937966/000093796622000013/asml-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/937966/000093796622000013/0000937966-22-000013-index.htm"
+  }
+ ],
+ "note": "no US-GAAP quarterly revenue (foreign filer or non-standard tags)",
+ "earnings": [],
+ "earnings_checked": null
+}

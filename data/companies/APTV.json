@@ -1,0 +1,216 @@
+{
+ "ticker": "APTV",
+ "name": "Aptiv",
+ "cik": 1521332,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfGoodsAndServicesSold)",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 4907000000,
+   "gross_profit": 962000000,
+   "operating_income": 479000000,
+   "eps_diluted": 1.14,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 4825000000,
+   "gross_profit": 920000000,
+   "operating_income": 448000000,
+   "eps_diluted": -0.05,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 3199000000,
+   "gross_profit": 731000000,
+   "operating_income": 325000000,
+   "eps_diluted": 1.8,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 3127000000,
+   "gross_profit": 719000000,
+   "operating_income": -353000000,
+   "eps_diluted": -1.63,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 5153000000,
+   "gross_profit": 963000000,
+   "operating_income": 425000000,
+   "eps_diluted": 0.64,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 5086000000,
+   "gross_profit": 920000000,
+   "operating_income": 378000000,
+   "eps_diluted": 0.88,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 3274000000,
+   "gross_profit": 775000000,
+   "operating_income": 367000000,
+   "eps_diluted": 1.17,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 3199000000,
+   "gross_profit": 690000000,
+   "operating_income": 281000000,
+   "eps_diluted": 0.94,
+   "derived": [
+    "gross_profit"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-03",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133226000075/aptv-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133226000075/0001521332-26-000075-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-04",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133226000061/aptv-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133226000061/0001521332-26-000061-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-05",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133226000048/aptv-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133226000048/0001521332-26-000048-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-06",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133226000009/aptv-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133226000009/0001521332-26-000009-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-30",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133225000051/aptv-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133225000051/0001521332-25-000051-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-31",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133225000040/aptv-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133225000040/0001521332-25-000040-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-01",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133225000027/aptv-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133225000027/0001521332-25-000027-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-07",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133225000010/aptv-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133225000010/0001521332-25-000010-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-31",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133224000073/aptv-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133224000073/0001521332-24-000073-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-01",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133224000059/aptv-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133224000059/0001521332-24-000059-index.htm"
+  },
+  {
+   "form": "10-K/A",
+   "filed": "2024-03-28",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133224000026/aptv-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133224000026/0001521332-24-000026-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-06",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133224000011/aptv-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133224000011/0001521332-24-000011-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-08",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133223000013/aptv-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133223000013/0001521332-23-000013-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-07",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133222000010/aptv-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133222000010/0001521332-22-000010-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

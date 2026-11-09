@@ -1,0 +1,215 @@
+{
+ "ticker": "ALNY",
+ "name": "Alnylam Pharmaceuticals",
+ "cik": 1178670,
+ "indexes": [
+  "NDX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfGoodsAndServicesSold)",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q3",
+   "period_start": "2024-07-01",
+   "period_end": "2024-09-30",
+   "revenue": 500919000,
+   "gross_profit": 418939000,
+   "operating_income": -76905000,
+   "eps_diluted": -0.87,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 593166000,
+   "gross_profit": 490517000,
+   "operating_income": -105159000,
+   "eps_diluted": -0.65,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 594189000,
+   "gross_profit": 524006000,
+   "operating_income": 18077000,
+   "eps_diluted": -0.14,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 773689000,
+   "gross_profit": 631660000,
+   "operating_income": -16199000,
+   "eps_diluted": -0.55,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 1249026000,
+   "gross_profit": 1051795000,
+   "operating_income": 367982000,
+   "eps_diluted": 2.14,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 1097033000,
+   "gross_profit": 829310000,
+   "operating_income": 131718000,
+   "eps_diluted": 0.79,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 1290948000,
+   "gross_profit": 992687000,
+   "operating_income": 231441000,
+   "eps_diluted": 1.21,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 1458086000,
+   "gross_profit": 1096336000,
+   "operating_income": 345798000,
+   "eps_diluted": 15.72,
+   "derived": [
+    "gross_profit"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-29",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000076/alny-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000076/0001178670-26-000076-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-30",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000062/alny-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000062/0001178670-26-000062-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-30",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1178670/000162828026028605/alny-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1178670/000162828026028605/0001628280-26-028605-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-12",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1178670/000162828026007497/alny-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1178670/000162828026007497/0001628280-26-007497-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-30",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1178670/000162828025047345/alny-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1178670/000162828025047345/0001628280-25-047345-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-31",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000090/alny-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000090/0001178670-25-000090-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-01",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000052/alny-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000052/0001178670-25-000052-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-13",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000026/alny-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867025000026/0001178670-25-000026-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-31",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867024000053/alny-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867024000053/0001178670-24-000053-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-01",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867024000041/alny-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867024000041/0001178670-24-000041-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-15",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867024000008/alny-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867024000008/0001178670-24-000008-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-23",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867023000005/alny-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867023000005/0001178670-23-000005-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-10",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000013/alny-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867022000013/0001178670-22-000013-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

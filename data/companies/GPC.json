@@ -1,0 +1,215 @@
+{
+ "ticker": "GPC",
+ "name": "Genuine Parts Company",
+ "cik": 40987,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "derived: pre-tax income - non-operating income",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 5770173000,
+   "gross_profit": 2070216000,
+   "operating_income": 189281000,
+   "eps_diluted": 0.96,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 5866069000,
+   "gross_profit": 2173684000,
+   "operating_income": 287945000,
+   "eps_diluted": 1.4,
+   "derived": [
+    "operating_income"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 6164425000,
+   "gross_profit": 2324388000,
+   "operating_income": 376838000,
+   "eps_diluted": 1.83,
+   "derived": [
+    "operating_income"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 6260232000,
+   "gross_profit": 2341402000,
+   "operating_income": 334293000,
+   "eps_diluted": 1.62,
+   "derived": [
+    "operating_income"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 6009415000,
+   "gross_profit": 2101224000,
+   "operating_income": -38425000,
+   "eps_diluted": -4.38,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 6264940000,
+   "gross_profit": 2338964000,
+   "operating_income": 286271000,
+   "eps_diluted": 1.37,
+   "derived": [
+    "operating_income"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 6536951000,
+   "gross_profit": 2470707000,
+   "operating_income": 336336000,
+   "eps_diluted": 1.65,
+   "derived": [
+    "operating_income"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 6521308000,
+   "gross_profit": 2484275000,
+   "operating_income": 328484000,
+   "eps_diluted": 1.62,
+   "derived": [
+    "operating_income"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-20",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000041/gpc-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000041/0000040987-26-000041-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-21",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000033/gpc-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000033/0000040987-26-000033-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-21",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000017/gpc-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000017/0000040987-26-000017-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-20",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/gpc-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/40987/000004098726000003/0000040987-26-000003-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-21",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098725000196/gpc-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/40987/000004098725000196/0000040987-25-000196-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-22",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098725000144/gpc-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/40987/000004098725000144/0000040987-25-000144-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-22",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098725000070/gpc-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/40987/000004098725000070/0000040987-25-000070-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-21",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098725000026/gpc-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/40987/000004098725000026/0000040987-25-000026-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-22",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098724000210/gpc-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/40987/000004098724000210/0000040987-24-000210-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-23",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098724000178/gpc-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/40987/000004098724000178/0000040987-24-000178-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-22",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098724000024/gpc-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/40987/000004098724000024/0000040987-24-000024-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-23",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098723000008/gpc-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/40987/000004098723000008/0000040987-23-000008-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-17",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/40987/000004098722000013/gpc-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/40987/000004098722000013/0000040987-22-000013-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

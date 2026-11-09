@@ -1,0 +1,203 @@
+{
+ "ticker": "WY",
+ "name": "Weyerhaeuser",
+ "cik": 106535,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 1708000000,
+   "gross_profit": 304000000,
+   "operating_income": 141000000,
+   "eps_diluted": 0.11,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 1763000000,
+   "gross_profit": 335000000,
+   "operating_income": 179000000,
+   "eps_diluted": 0.11,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 1884000000,
+   "gross_profit": 325000000,
+   "operating_income": 178000000,
+   "eps_diluted": 0.12,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 1717000000,
+   "gross_profit": 204000000,
+   "operating_income": 123000000,
+   "eps_diluted": 0.11,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 1541000000,
+   "gross_profit": 161000000,
+   "operating_income": 251000000,
+   "eps_diluted": 0.1,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 1727000000,
+   "gross_profit": 318000000,
+   "operating_income": 247000000,
+   "eps_diluted": 0.22,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 1867000000,
+   "gross_profit": 311000000,
+   "operating_income": 223000000,
+   "eps_diluted": 0.23,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 1862000000,
+   "gross_profit": 257000000,
+   "operating_income": 100000000,
+   "eps_diluted": 0.08,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-30",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/106535/000119312526441693/wy-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/106535/000119312526441693/0001193125-26-441693-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-31",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/106535/000119312526328606/wy-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/106535/000119312526328606/0001193125-26-328606-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-01",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/106535/000119312526201473/wy-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/106535/000119312526201473/0001193125-26-201473-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-13",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/106535/000119312526051422/wy-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/106535/000119312526051422/0001193125-26-051422-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-31",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/106535/000119312525260808/wy-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/106535/000119312525260808/0001193125-25-260808-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-25",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/106535/000095017025098794/wy-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/106535/000095017025098794/0000950170-25-098794-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-25",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/106535/000095017025058770/wy-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/106535/000095017025058770/0000950170-25-058770-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-14",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/106535/000095017025021254/wy-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/106535/000095017025021254/0000950170-25-021254-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-25",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/106535/000095017024117425/wy-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/106535/000095017024117425/0000950170-24-117425-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-26",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/106535/000095017024086899/wy-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/106535/000095017024086899/0000950170-24-086899-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-16",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/106535/000095017024016434/wy-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/106535/000095017024016434/0000950170-24-016434-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-17",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/106535/000095017023003217/wy-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/106535/000095017023003217/0000950170-23-003217-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-18",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/106535/000156459022005707/wy-10k_20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/106535/000156459022005707/0001564590-22-005707-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

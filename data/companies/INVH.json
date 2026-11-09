@@ -1,0 +1,199 @@
+{
+ "ticker": "INVH",
+ "name": "Invitation Homes",
+ "cik": 1687229,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": null,
+  "operating_income": null,
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 659130000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.23,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 674479000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.27,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 681401000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.23,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 688166000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.22,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 685250000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.24,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 734112000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.26,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 747550000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.37,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 731278000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.27,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-29",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1687229/000168722926000056/invh-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1687229/000168722926000056/0001687229-26-000056-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-30",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1687229/000168722926000045/invh-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1687229/000168722926000045/0001687229-26-000045-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-30",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1687229/000168722926000032/invh-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1687229/000168722926000032/0001687229-26-000032-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-19",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1687229/000168722926000016/invh-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1687229/000168722926000016/0001687229-26-000016-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-30",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1687229/000168722925000051/invh-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1687229/000168722925000051/0001687229-25-000051-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-31",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1687229/000168722925000036/invh-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1687229/000168722925000036/0001687229-25-000036-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-01",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1687229/000168722925000019/invh-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1687229/000168722925000019/0001687229-25-000019-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-27",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1687229/000168722925000008/invh-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1687229/000168722925000008/0001687229-25-000008-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-31",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1687229/000168722924000074/invh-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1687229/000168722924000074/0001687229-24-000074-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-25",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1687229/000168722924000046/invh-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1687229/000168722924000046/0001687229-24-000046-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-21",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1687229/000168722924000013/invh-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1687229/000168722924000013/0001687229-24-000013-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-22",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1687229/000168722923000029/invh-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1687229/000168722923000029/0001687229-23-000029-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-22",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1687229/000168722922000002/invh-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1687229/000168722922000002/0001687229-22-000002-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

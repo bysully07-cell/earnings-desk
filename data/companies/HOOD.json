@@ -1,0 +1,206 @@
+{
+ "ticker": "HOOD",
+ "name": "Robinhood Markets",
+ "cik": 1783879,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": null,
+  "operating_income": null,
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 1014000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 1.0,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 927000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.37,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 989000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.42,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 1274000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.61,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 1283000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.64,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 1067000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.38,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 1308000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.62,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 1424000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.51,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-28",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387926000167/hood-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387926000167/0001783879-26-000167-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-30",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387926000114/hood-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387926000114/0001783879-26-000114-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-29",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387926000062/hood-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387926000062/0001783879-26-000062-index.htm"
+  },
+  {
+   "form": "10-K/A",
+   "filed": "2026-02-20",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387926000029/hood-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387926000029/0001783879-26-000029-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-18",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387926000023/hood-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387926000023/0001783879-26-000023-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-06",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387925000310/hood-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387925000310/0001783879-25-000310-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-31",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387925000251/hood-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387925000251/0001783879-25-000251-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-01",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387925000145/hood-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387925000145/0001783879-25-000145-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-18",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387925000049/hood-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387925000049/0001783879-25-000049-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-31",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387924000296/hood-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387924000296/0001783879-24-000296-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-08",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387924000233/hood-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387924000233/0001783879-24-000233-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-27",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387924000054/hood-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387924000054/0001783879-24-000054-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-27",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387923000045/hood-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387923000045/0001783879-23-000045-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-24",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387922000044/hood-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387922000044/0001783879-22-000044-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

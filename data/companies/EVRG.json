@@ -1,0 +1,201 @@
+{
+ "ticker": "EVRG",
+ "name": "Evergy",
+ "cik": 1711269,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q2",
+   "period_start": "2024-04-01",
+   "period_end": "2024-06-30",
+   "revenue": 1447500000,
+   "gross_profit": null,
+   "operating_income": 358100000,
+   "eps_diluted": 0.9,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2024 Q3",
+   "period_start": "2024-07-01",
+   "period_end": "2024-09-30",
+   "revenue": 1811400000,
+   "gross_profit": null,
+   "operating_income": 627500000,
+   "eps_diluted": 2.02,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 1257400000,
+   "gross_profit": null,
+   "operating_income": 222200000,
+   "eps_diluted": 0.34,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 1374500000,
+   "gross_profit": null,
+   "operating_income": 291600000,
+   "eps_diluted": 0.54,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 1437000000,
+   "gross_profit": null,
+   "operating_income": 343800000,
+   "eps_diluted": 0.74,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 1809900000,
+   "gross_profit": null,
+   "operating_income": 658500000,
+   "eps_diluted": 2.03,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 1340200000,
+   "gross_profit": null,
+   "operating_income": 239000000,
+   "eps_diluted": 0.36,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 1443700000,
+   "gross_profit": null,
+   "operating_income": 318400000,
+   "eps_diluted": 0.64,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-05",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1711269/000171126926000117/evrg-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1711269/000171126926000117/0001711269-26-000117-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-06",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1711269/000171126926000100/evrg-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1711269/000171126926000100/0001711269-26-000100-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-07",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1711269/000171126926000057/evrg-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1711269/000171126926000057/0001711269-26-000057-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-19",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1711269/000171126926000017/evrg-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1711269/000171126926000017/0001711269-26-000017-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-06",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1711269/000171126925000041/evrg-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1711269/000171126925000041/0001711269-25-000041-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-07",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1711269/000171126925000022/evrg-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1711269/000171126925000022/0001711269-25-000022-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-08",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1711269/000171126925000010/evrg-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1711269/000171126925000010/0001711269-25-000010-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-27",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1711269/000171126925000004/evrg-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1711269/000171126925000004/0001711269-25-000004-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-07",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1711269/000171126924000032/evrg-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1711269/000171126924000032/0001711269-24-000032-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-09",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1711269/000171126924000027/evrg-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1711269/000171126924000027/0001711269-24-000027-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-29",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1711269/000171126924000007/evrg-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1711269/000171126924000007/0001711269-24-000007-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-24",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1711269/000171126923000011/evrg-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1711269/000171126923000011/0001711269-23-000011-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-25",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1711269/000171126922000008/evrg-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1711269/000171126922000008/0001711269-22-000008-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

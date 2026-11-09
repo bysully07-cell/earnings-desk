@@ -1,0 +1,203 @@
+{
+ "ticker": "HRL",
+ "name": "Hormel Foods",
+ "cik": 48465,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "10-26",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerIncludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-07-29",
+   "period_end": "2024-10-27",
+   "revenue": 3138091000,
+   "gross_profit": 521230000,
+   "operating_income": 294481000,
+   "eps_diluted": 0.4,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2024-10-28",
+   "period_end": "2025-01-26",
+   "revenue": 2988813000,
+   "gross_profit": 475232000,
+   "operating_income": 228330000,
+   "eps_diluted": 0.31,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-01-27",
+   "period_end": "2025-04-27",
+   "revenue": 2898810000,
+   "gross_profit": 484433000,
+   "operating_income": 248352000,
+   "eps_diluted": 0.33,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-04-28",
+   "period_end": "2025-07-27",
+   "revenue": 3032876000,
+   "gross_profit": 487309000,
+   "operating_income": 239748000,
+   "eps_diluted": 0.33,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-07-28",
+   "period_end": "2025-10-26",
+   "revenue": 3185661000,
+   "gross_profit": 444842000,
+   "operating_income": 2173000,
+   "eps_diluted": -0.1,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-10-27",
+   "period_end": "2026-01-25",
+   "revenue": 3027317000,
+   "gross_profit": 469575000,
+   "operating_income": 243697000,
+   "eps_diluted": 0.33,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-01-26",
+   "period_end": "2026-04-26",
+   "revenue": 2972600000,
+   "gross_profit": 518507000,
+   "operating_income": 217112000,
+   "eps_diluted": 0.29,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-04-27",
+   "period_end": "2026-07-26",
+   "revenue": 2961333000,
+   "gross_profit": 471515000,
+   "operating_income": 110904000,
+   "eps_diluted": 0.11,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-08-27",
+   "period": "2026-07-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/48465/000004846526000055/hrl-20260726.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/48465/000004846526000055/0000048465-26-000055-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-28",
+   "period": "2026-04-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/48465/000004846526000026/hrl-20260426.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/48465/000004846526000026/0000048465-26-000026-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-02-26",
+   "period": "2026-01-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/48465/000004846526000020/hrl-20260125.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/48465/000004846526000020/0000048465-26-000020-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-12-05",
+   "period": "2025-10-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/48465/000004846525000059/hrl-20251026.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/48465/000004846525000059/0000048465-25-000059-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-28",
+   "period": "2025-07-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/48465/000004846525000044/hrl-20250727.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/48465/000004846525000044/0000048465-25-000044-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-29",
+   "period": "2025-04-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/48465/000004846525000037/hrl-20250427.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/48465/000004846525000037/0000048465-25-000037-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-02-27",
+   "period": "2025-01-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/48465/000004846525000008/hrl-20250126.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/48465/000004846525000008/0000048465-25-000008-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-12-05",
+   "period": "2024-10-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/48465/000004846524000051/hrl-20241027.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/48465/000004846524000051/0000048465-24-000051-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-09-04",
+   "period": "2024-07-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/48465/000004846524000041/hrl-20240728.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/48465/000004846524000041/0000048465-24-000041-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-05-30",
+   "period": "2024-04-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/48465/000004846524000032/hrl-20240428.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/48465/000004846524000032/0000048465-24-000032-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-12-06",
+   "period": "2023-10-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/48465/000004846523000083/hrl-20231029.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/48465/000004846523000083/0000048465-23-000083-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-12-06",
+   "period": "2022-10-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/48465/000004846522000051/hrl-20221030.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/48465/000004846522000051/0000048465-22-000051-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2021-12-10",
+   "period": "2021-10-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/48465/000004846521000067/hrl-20211031.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/48465/000004846521000067/0000048465-21-000067-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

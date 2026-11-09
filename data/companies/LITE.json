@@ -1,0 +1,204 @@
+{
+ "ticker": "LITE",
+ "name": "Lumentum",
+ "cik": 1633978,
+ "indexes": [
+  "SPX",
+  "NDX"
+ ],
+ "fiscal_year_end": "06-27",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerIncludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2024-09-29",
+   "period_end": "2024-12-28",
+   "revenue": 402200000,
+   "gross_profit": 99600000,
+   "operating_income": -51600000,
+   "eps_diluted": -0.88,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2024-12-29",
+   "period_end": "2025-03-29",
+   "revenue": 425200000,
+   "gross_profit": 122500000,
+   "operating_income": -37700000,
+   "eps_diluted": -0.64,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-03-30",
+   "period_end": "2025-06-28",
+   "revenue": 480700000,
+   "gross_profit": 159900000,
+   "operating_income": -8400000,
+   "eps_diluted": 2.97,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-06-29",
+   "period_end": "2025-09-27",
+   "revenue": 533800000,
+   "gross_profit": 181500000,
+   "operating_income": 6700000,
+   "eps_diluted": 0.05,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-09-28",
+   "period_end": "2025-12-27",
+   "revenue": 665500000,
+   "gross_profit": 240100000,
+   "operating_income": 64300000,
+   "eps_diluted": 0.89,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2025-12-28",
+   "period_end": "2026-03-28",
+   "revenue": 808400000,
+   "gross_profit": 357000000,
+   "operating_income": 174500000,
+   "eps_diluted": 1.5,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2026-03-29",
+   "period_end": "2026-06-27",
+   "revenue": 1006300000,
+   "gross_profit": 477300000,
+   "operating_income": 279300000,
+   "eps_diluted": -198.39,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2027 Q1",
+   "period_start": "2026-06-28",
+   "period_end": "2026-09-26",
+   "revenue": 1262600000,
+   "gross_profit": 644000000,
+   "operating_income": 359800000,
+   "eps_diluted": 3.54,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-03",
+   "period": "2026-09-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633978/000162828026069615/lite-20260926.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1633978/000162828026069615/0001628280-26-069615-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-08-17",
+   "period": "2026-06-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633978/000162828026057358/lite-20260627.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1633978/000162828026057358/0001628280-26-057358-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-06",
+   "period": "2026-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633978/000162828026030777/lite-20260328.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1633978/000162828026030777/0001628280-26-030777-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-02-04",
+   "period": "2025-12-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633978/000162828026005129/lite-20251227.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1633978/000162828026005129/0001628280-26-005129-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-05",
+   "period": "2025-09-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633978/000162828025049073/lite-20250927.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1633978/000162828025049073/0001628280-25-049073-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-08-19",
+   "period": "2025-06-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633978/000162828025040830/lite-20250628.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1633978/000162828025040830/0001628280-25-040830-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-07",
+   "period": "2025-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633978/000162828025022788/lite-20250329.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1633978/000162828025022788/0001628280-25-022788-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-02-06",
+   "period": "2024-12-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633978/000162828025004288/lite-20241228.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1633978/000162828025004288/0001628280-25-004288-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-08",
+   "period": "2024-09-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633978/000162828024046443/lite-20240928.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1633978/000162828024046443/0001628280-24-046443-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-08-21",
+   "period": "2024-06-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633978/000162828024038024/lite-20240629.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1633978/000162828024038024/0001628280-24-038024-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-05-07",
+   "period": "2024-03-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633978/000162828024020767/lite-20240330.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1633978/000162828024020767/0001628280-24-020767-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-08-23",
+   "period": "2023-07-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633978/000162828023030374/lite-20230701.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1633978/000162828023030374/0001628280-23-030374-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-08-24",
+   "period": "2022-07-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633978/000162828022023617/lite-20220702.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1633978/000162828022023617/0001628280-22-023617-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

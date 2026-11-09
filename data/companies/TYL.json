@@ -1,0 +1,210 @@
+{
+ "ticker": "TYL",
+ "name": "Tyler Technologies",
+ "cik": 860731,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 541131000,
+   "gross_profit": 236819000,
+   "operating_income": 71686000,
+   "eps_diluted": 1.49,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 565165000,
+   "gross_profit": 267081000,
+   "operating_income": 89173000,
+   "eps_diluted": 1.84,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 596117000,
+   "gross_profit": 273184000,
+   "operating_income": 95596000,
+   "eps_diluted": 1.93,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 595879000,
+   "gross_profit": 281452000,
+   "operating_income": 97932000,
+   "eps_diluted": 1.93,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 575179000,
+   "gross_profit": 261983000,
+   "operating_income": 74975000,
+   "eps_diluted": 1.51,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 613503000,
+   "gross_profit": 296434000,
+   "operating_income": 99812000,
+   "eps_diluted": 1.88,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 645096000,
+   "gross_profit": 307057000,
+   "operating_income": 95095000,
+   "eps_diluted": 2.23,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 647566000,
+   "gross_profit": 318209000,
+   "operating_income": 117037000,
+   "eps_diluted": 2.33,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-28",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/860731/000086073126000058/tyl-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/860731/000086073126000058/0000860731-26-000058-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-29",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/860731/000086073126000050/tyl-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/860731/000086073126000050/0000860731-26-000050-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-29",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/860731/000086073126000032/tyl-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/860731/000086073126000032/0000860731-26-000032-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-18",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/860731/000086073126000016/tyl-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/860731/000086073126000016/0000860731-26-000016-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-29",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/860731/000086073125000046/tyl-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/860731/000086073125000046/0000860731-25-000046-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-30",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/860731/000086073125000036/tyl-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/860731/000086073125000036/0000860731-25-000036-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-25",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/860731/000086073125000027/tyl-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/860731/000086073125000027/0000860731-25-000027-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-19",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/860731/000086073125000007/tyl-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/860731/000086073125000007/0000860731-25-000007-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-23",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/860731/000086073124000052/tyl-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/860731/000086073124000052/0000860731-24-000052-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-31",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/860731/000086073124000042/tyl-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/860731/000086073124000042/0000860731-24-000042-index.htm"
+  },
+  {
+   "form": "10-K/A",
+   "filed": "2024-02-27",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/860731/000086073124000008/tyl-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/860731/000086073124000008/0000860731-24-000008-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-21",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/860731/000086073124000006/tyl-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/860731/000086073124000006/0000860731-24-000006-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-22",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/860731/000086073123000009/tyl-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/860731/000086073123000009/0000860731-23-000009-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-23",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/860731/000086073122000011/tyl-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/860731/000086073122000011/0000860731-22-000011-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

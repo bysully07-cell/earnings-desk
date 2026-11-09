@@ -1,0 +1,211 @@
+{
+ "ticker": "TFC",
+ "name": "Truist Financial",
+ "cik": 92230,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": null,
+ "sources": {
+  "revenue": "derived: net interest income + noninterest income",
+  "gross_profit": null,
+  "operating_income": null,
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 5060000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.94,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 4899000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.87,
+   "derived": [
+    "revenue"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 4987000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.9,
+   "derived": [
+    "revenue"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 5187000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 1.04,
+   "derived": [
+    "revenue"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 5246000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 1.01,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 5152000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 1.09,
+   "derived": [
+    "revenue"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 5265000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 1.23,
+   "derived": [
+    "revenue"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 3747000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 0.56,
+   "derived": [
+    "revenue"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-28",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/92230/000009223026000129/tfc-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/92230/000009223026000129/0000092230-26-000129-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-31",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/92230/000009223026000099/tfc-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/92230/000009223026000099/0000092230-26-000099-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-01",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/92230/000009223026000062/tfc-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/92230/000009223026000062/0000092230-26-000062-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-24",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/92230/000009223026000030/tfc-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/92230/000009223026000030/0000092230-26-000030-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-30",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/92230/000009223025000157/tfc-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/92230/000009223025000157/0000092230-25-000157-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-31",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/92230/000009223025000123/tfc-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/92230/000009223025000123/0000092230-25-000123-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-30",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/92230/000009223025000050/tfc-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/92230/000009223025000050/0000092230-25-000050-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-25",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/92230/000009223025000020/tfc-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/92230/000009223025000020/0000092230-25-000020-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-01",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/92230/000009223024000079/tfc-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/92230/000009223024000079/0000092230-24-000079-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-08",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/92230/000009223024000045/tfc-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/92230/000009223024000045/0000092230-24-000045-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-27",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/92230/000009223024000010/tfc-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/92230/000009223024000010/0000092230-24-000010-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-28",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/92230/000009223023000034/tfc-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/92230/000009223023000034/0000092230-23-000034-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-23",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/92230/000009223022000008/tfc-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/92230/000009223022000008/0000092230-22-000008-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

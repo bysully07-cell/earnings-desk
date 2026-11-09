@@ -1,0 +1,199 @@
+{
+ "ticker": "CASY",
+ "name": "Casey's",
+ "cik": 726958,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "04-30",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": null,
+  "operating_income": null,
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2024-08-01",
+   "period_end": "2024-10-31",
+   "revenue": 3946771000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 4.85,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2024-11-01",
+   "period_end": "2025-01-31",
+   "revenue": 3903633000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 2.33,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-02-01",
+   "period_end": "2025-04-30",
+   "revenue": 3992758000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 2.63,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-05-01",
+   "period_end": "2025-07-31",
+   "revenue": 4567106000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 5.77,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-08-01",
+   "period_end": "2025-10-31",
+   "revenue": 4506084000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 5.53,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2025-11-01",
+   "period_end": "2026-01-31",
+   "revenue": 3916132000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 3.49,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2026-02-01",
+   "period_end": "2026-04-30",
+   "revenue": 4571779000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 4.37,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2027 Q1",
+   "period_start": "2026-05-01",
+   "period_end": "2026-07-31",
+   "revenue": 5678336000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 7.37,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-09-08",
+   "period": "2026-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/726958/000072695826000085/casy-20260731.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/726958/000072695826000085/0000726958-26-000085-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-06-22",
+   "period": "2026-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/726958/000072695826000046/casy-20260430.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/726958/000072695826000046/0000726958-26-000046-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-03-09",
+   "period": "2026-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/726958/000072695826000010/casy-20260131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/726958/000072695826000010/0000726958-26-000010-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-12-09",
+   "period": "2025-10-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/726958/000072695825000114/casy-20251031.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/726958/000072695825000114/0000726958-25-000114-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-09-08",
+   "period": "2025-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/726958/000072695825000101/casy-20250731.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/726958/000072695825000101/0000726958-25-000101-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-06-23",
+   "period": "2025-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/726958/000072695825000065/casy-20250430.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/726958/000072695825000065/0000726958-25-000065-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-03-11",
+   "period": "2025-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/726958/000072695825000011/casy-20250131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/726958/000072695825000011/0000726958-25-000011-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-12-09",
+   "period": "2024-10-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/726958/000072695824000091/casy-20241031.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/726958/000072695824000091/0000726958-24-000091-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-09-04",
+   "period": "2024-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/726958/000072695824000074/casy-20240731.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/726958/000072695824000074/0000726958-24-000074-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-06-24",
+   "period": "2024-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/726958/000072695824000046/casy-20240430.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/726958/000072695824000046/0000726958-24-000046-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-03-11",
+   "period": "2024-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/726958/000072695824000010/casy-20240131.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/726958/000072695824000010/0000726958-24-000010-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-06-23",
+   "period": "2023-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/726958/000072695823000059/casy-20230430.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/726958/000072695823000059/0000726958-23-000059-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-06-24",
+   "period": "2022-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/726958/000072695822000065/casy-20220430.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/726958/000072695822000065/0000726958-22-000065-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

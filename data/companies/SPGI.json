@@ -1,0 +1,215 @@
+{
+ "ticker": "SPGI",
+ "name": "S&P Global",
+ "cik": 64040,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfRevenue)",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 3593000000,
+   "gross_profit": 2486000000,
+   "operating_income": 1309000000,
+   "eps_diluted": 2.85,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 3777000000,
+   "gross_profit": 2624000000,
+   "operating_income": 1578000000,
+   "eps_diluted": 3.54,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 3755000000,
+   "gross_profit": 2636000000,
+   "operating_income": 1551000000,
+   "eps_diluted": 3.5,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 3443000000,
+   "gross_profit": 2457000000,
+   "operating_income": 1556000000,
+   "eps_diluted": 3.86,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 4361000000,
+   "gross_profit": 3056000000,
+   "operating_income": 1793000000,
+   "eps_diluted": 3.75,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 4171000000,
+   "gross_profit": 2936000000,
+   "operating_income": 2002000000,
+   "eps_diluted": 4.69,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 4146000000,
+   "gross_profit": 2981000000,
+   "operating_income": 1812000000,
+   "eps_diluted": 4.12,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 3678000000,
+   "gross_profit": 2644000000,
+   "operating_income": 1956000000,
+   "eps_diluted": 4.25,
+   "derived": [
+    "gross_profit"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-28",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/64040/000006404026000058/spgi-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/64040/000006404026000058/0000064040-26-000058-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-28",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/64040/000006404026000045/spgi-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/64040/000006404026000045/0000064040-26-000045-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-28",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/64040/000006404026000024/spgi-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/64040/000006404026000024/0000064040-26-000024-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-11",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/64040/000006404026000013/spgi-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/64040/000006404026000013/0000064040-26-000013-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-30",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/64040/000006404025000167/spgi-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/64040/000006404025000167/0000064040-25-000167-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-01",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/64040/000006404025000147/spgi-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/64040/000006404025000147/0000064040-25-000147-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-29",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/64040/000006404025000126/spgi-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/64040/000006404025000126/0000064040-25-000126-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-11",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/64040/000006404025000052/spgi-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/64040/000006404025000052/0000064040-25-000052-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-25",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/64040/000006404024000178/spgi-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/64040/000006404024000178/0000064040-24-000178-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-30",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/64040/000006404024000150/spgi-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/64040/000006404024000150/0000064040-24-000150-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-09",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/64040/000006404024000071/spgi-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/64040/000006404024000071/0000064040-24-000071-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-10",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/64040/000006404023000058/spgi-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/64040/000006404023000058/0000064040-23-000058-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-08",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/64040/000006404022000055/spgi-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/64040/000006404022000055/0000064040-22-000055-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

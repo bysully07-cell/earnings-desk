@@ -1,0 +1,203 @@
+{
+ "ticker": "CNC",
+ "name": "Centene Corporation",
+ "cik": 1071739,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 40805000000,
+   "gross_profit": 3799000000,
+   "operating_income": 175000000,
+   "eps_diluted": 0.56,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 46620000000,
+   "gross_profit": 5288000000,
+   "operating_income": 1534000000,
+   "eps_diluted": 2.63,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 48742000000,
+   "gross_profit": 3018000000,
+   "operating_income": -458000000,
+   "eps_diluted": -0.51,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 49690000000,
+   "gross_profit": 3345000000,
+   "operating_income": -6954000000,
+   "eps_diluted": -13.5,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 49725000000,
+   "gross_profit": 2558000000,
+   "operating_income": -1745000000,
+   "eps_diluted": -2.25,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 49944000000,
+   "gross_profit": 5650000000,
+   "operating_income": 1861000000,
+   "eps_diluted": 3.11,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 53579000000,
+   "gross_profit": 4617000000,
+   "operating_income": 1198000000,
+   "eps_diluted": 2.19,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 50647000000,
+   "gross_profit": 3302000000,
+   "operating_income": -307000000,
+   "eps_diluted": -0.14,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-27",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1071739/000107173926000192/cnc-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1071739/000107173926000192/0001071739-26-000192-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-28",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1071739/000107173926000153/cnc-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1071739/000107173926000153/0001071739-26-000153-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-28",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1071739/000107173926000098/cnc-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1071739/000107173926000098/0001071739-26-000098-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-17",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1071739/000107173926000049/cnc-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1071739/000107173926000049/0001071739-26-000049-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-29",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1071739/000107173925000183/cnc-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1071739/000107173925000183/0001071739-25-000183-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-25",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1071739/000107173925000150/cnc-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1071739/000107173925000150/0001071739-25-000150-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-25",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1071739/000107173925000086/cnc-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1071739/000107173925000086/0001071739-25-000086-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-18",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1071739/000107173925000027/cnc-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1071739/000107173925000027/0001071739-25-000027-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-25",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1071739/000107173924000200/cnc-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1071739/000107173924000200/0001071739-24-000200-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-26",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1071739/000107173924000157/cnc-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1071739/000107173924000157/0001071739-24-000157-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-20",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1071739/000107173924000037/cnc-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1071739/000107173924000037/0001071739-24-000037-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-21",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1071739/000107173923000047/cnc-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1071739/000107173923000047/0001071739-23-000047-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-22",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1071739/000107173922000071/cnc-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1071739/000107173922000071/0001071739-22-000071-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

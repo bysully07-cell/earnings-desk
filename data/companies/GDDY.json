@@ -1,0 +1,200 @@
+{
+ "ticker": "GDDY",
+ "name": "GoDaddy",
+ "cik": 1609711,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 1192600000,
+   "gross_profit": null,
+   "operating_income": 255600000,
+   "eps_diluted": null,
+   "derived": [
+    "revenue",
+    "operating_income"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 1194300000,
+   "gross_profit": null,
+   "operating_income": 247300000,
+   "eps_diluted": 1.51,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 1217600000,
+   "gross_profit": null,
+   "operating_income": 266300000,
+   "eps_diluted": 1.41,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 1265300000,
+   "gross_profit": null,
+   "operating_income": 296700000,
+   "eps_diluted": 1.51,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 1273900000,
+   "gross_profit": null,
+   "operating_income": 317000000,
+   "eps_diluted": 1.79,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 1266900000,
+   "gross_profit": null,
+   "operating_income": 310500000,
+   "eps_diluted": 1.6,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 1298000000,
+   "gross_profit": null,
+   "operating_income": 342500000,
+   "eps_diluted": 1.83,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 1341800000,
+   "gross_profit": null,
+   "operating_income": 362500000,
+   "eps_diluted": 2.08,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-30",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971126000120/gddy-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971126000120/0001609711-26-000120-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-31",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971126000088/gddy-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971126000088/0001609711-26-000088-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-01",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971126000037/gddy-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971126000037/0001609711-26-000037-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-25",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971126000010/gddy-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971126000010/0001609711-26-000010-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-31",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971125000209/gddy-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971125000209/0001609711-25-000209-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-08",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971125000154/gddy-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971125000154/0001609711-25-000154-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-02",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971125000077/gddy-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971125000077/0001609711-25-000077-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-20",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971125000023/gddy-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971125000023/0001609711-25-000023-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-31",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971124000167/gddy-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971124000167/0001609711-24-000167-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-02",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971124000133/gddy-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971124000133/0001609711-24-000133-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-29",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971124000022/gddy-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971124000022/0001609711-24-000022-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-16",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971123000031/gddy-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971123000031/0001609711-23-000031-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-17",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971122000024/gddy-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971122000024/0001609711-22-000024-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

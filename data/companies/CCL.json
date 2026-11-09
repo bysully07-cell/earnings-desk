@@ -1,0 +1,201 @@
+{
+ "ticker": "CCL",
+ "name": "Carnival Corporation",
+ "cik": 815097,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "11-30",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-09-01",
+   "period_end": "2024-11-30",
+   "revenue": 5938000000,
+   "gross_profit": null,
+   "operating_income": 560000000,
+   "eps_diluted": 0.18,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2024-12-01",
+   "period_end": "2025-02-28",
+   "revenue": 5810000000,
+   "gross_profit": null,
+   "operating_income": 543000000,
+   "eps_diluted": -0.06,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-03-01",
+   "period_end": "2025-05-31",
+   "revenue": 6328000000,
+   "gross_profit": null,
+   "operating_income": 934000000,
+   "eps_diluted": 0.42,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-06-01",
+   "period_end": "2025-08-31",
+   "revenue": 8153000000,
+   "gross_profit": null,
+   "operating_income": 2271000000,
+   "eps_diluted": 1.33,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-09-01",
+   "period_end": "2025-11-30",
+   "revenue": 6331000000,
+   "gross_profit": null,
+   "operating_income": 735000000,
+   "eps_diluted": 0.28,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-12-01",
+   "period_end": "2026-02-28",
+   "revenue": 6165000000,
+   "gross_profit": null,
+   "operating_income": 607000000,
+   "eps_diluted": 0.19,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-03-01",
+   "period_end": "2026-05-31",
+   "revenue": 6663000000,
+   "gross_profit": null,
+   "operating_income": 851000000,
+   "eps_diluted": 0.39,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-06-01",
+   "period_end": "2026-08-31",
+   "revenue": 8435000000,
+   "gross_profit": null,
+   "operating_income": 2220000000,
+   "eps_diluted": 1.4,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-09-29",
+   "period": "2026-08-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/815097/000081509726000107/ccl-20260831.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/815097/000081509726000107/0000815097-26-000107-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-06-26",
+   "period": "2026-05-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/815097/000081509726000096/ccl-20260531.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/815097/000081509726000096/0000815097-26-000096-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-03-27",
+   "period": "2026-02-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/815097/000081509726000037/ccl-20260228.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/815097/000081509726000037/0000815097-26-000037-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-01-27",
+   "period": "2025-11-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/815097/000081509726000007/ccl-20251130.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/815097/000081509726000007/0000815097-26-000007-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-09-29",
+   "period": "2025-08-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/815097/000081509725000084/ccl-20250831.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/815097/000081509725000084/0000815097-25-000084-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-06-26",
+   "period": "2025-05-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/815097/000081509725000052/ccl-20250531.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/815097/000081509725000052/0000815097-25-000052-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-03-25",
+   "period": "2025-02-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/815097/000081509725000025/ccl-20250228.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/815097/000081509725000025/0000815097-25-000025-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-01-27",
+   "period": "2024-11-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/815097/000081509725000007/ccl-20241130.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/815097/000081509725000007/0000815097-25-000007-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-09-30",
+   "period": "2024-08-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/815097/000081509724000071/ccl-20240831.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/815097/000081509724000071/0000815097-24-000071-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-06-27",
+   "period": "2024-05-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/815097/000081509724000057/ccl-20240531.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/815097/000081509724000057/0000815097-24-000057-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-01-26",
+   "period": "2023-11-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/815097/000081509724000011/ccl-20231130.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/815097/000081509724000011/0000815097-24-000011-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-01-27",
+   "period": "2022-11-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/815097/000081509723000012/ccl-20221130.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/815097/000081509723000012/0000815097-23-000012-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-01-27",
+   "period": "2021-11-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/815097/000081509722000009/ccl-20211130.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/815097/000081509722000009/0000815097-22-000009-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

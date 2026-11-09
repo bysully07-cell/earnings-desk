@@ -1,0 +1,215 @@
+{
+ "ticker": "UNH",
+ "name": "UnitedHealth Group",
+ "cik": 731766,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfGoodsAndServicesSold)",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 100807000000,
+   "gross_profit": 88343000000,
+   "operating_income": 7773000000,
+   "eps_diluted": 5.92,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 109575000000,
+   "gross_profit": 97185000000,
+   "operating_income": 9119000000,
+   "eps_diluted": 6.85,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 111616000000,
+   "gross_profit": 98597000000,
+   "operating_income": 5150000000,
+   "eps_diluted": 3.74,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 113161000000,
+   "gross_profit": 100595000000,
+   "operating_income": 4315000000,
+   "eps_diluted": 2.59,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 113215000000,
+   "gross_profit": 100535000000,
+   "operating_income": 380000000,
+   "eps_diluted": 0.01,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 111721000000,
+   "gross_profit": 98898000000,
+   "operating_income": 8990000000,
+   "eps_diluted": 6.9,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 112032000000,
+   "gross_profit": 98657000000,
+   "operating_income": 7991000000,
+   "eps_diluted": 6.04,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 112694000000,
+   "gross_profit": 98987000000,
+   "operating_income": 6563000000,
+   "eps_diluted": 4.56,
+   "derived": [
+    "gross_profit"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-03",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176626000266/unh-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/731766/000073176626000266/0000731766-26-000266-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-10",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176626000197/unh-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/731766/000073176626000197/0000731766-26-000197-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-05",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176626000127/unh-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/731766/000073176626000127/0000731766-26-000127-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-03-02",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176626000062/unh-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/731766/000073176626000062/0000731766-26-000062-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-28",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176625000305/unh-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/731766/000073176625000305/0000731766-25-000305-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-11",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176625000236/unh-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/731766/000073176625000236/0000731766-25-000236-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-07",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176625000131/unh-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/731766/000073176625000131/0000731766-25-000131-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-27",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176625000063/unh-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/731766/000073176625000063/0000731766-25-000063-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-04",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176624000323/unh-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/731766/000073176624000323/0000731766-24-000323-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-09",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176624000262/unh-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/731766/000073176624000262/0000731766-24-000262-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-28",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176624000081/unh-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/731766/000073176624000081/0000731766-24-000081-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-24",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176623000008/unh-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/731766/000073176623000008/0000731766-23-000008-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-15",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176622000008/unh-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/731766/000073176622000008/0000731766-22-000008-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

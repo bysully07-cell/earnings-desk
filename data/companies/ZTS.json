@@ -1,0 +1,221 @@
+{
+ "ticker": "ZTS",
+ "name": "Zoetis",
+ "cik": 1555280,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfGoodsAndServicesSold)",
+  "operating_income": "derived: pre-tax income - non-operating income",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 2317000000,
+   "gross_profit": 1610000000,
+   "operating_income": 712000000,
+   "eps_diluted": 1.29,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 2198000000,
+   "gross_profit": 1580000000,
+   "operating_income": 758000000,
+   "eps_diluted": 1.34,
+   "derived": [
+    "gross_profit",
+    "operating_income"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 2474000000,
+   "gross_profit": 1810000000,
+   "operating_income": 914000000,
+   "eps_diluted": 1.63,
+   "derived": [
+    "gross_profit",
+    "operating_income"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 2422000000,
+   "gross_profit": 1725000000,
+   "operating_income": 874000000,
+   "eps_diluted": 1.63,
+   "derived": [
+    "gross_profit",
+    "operating_income"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 2373000000,
+   "gross_profit": 1686000000,
+   "operating_income": 778000000,
+   "eps_diluted": 1.42,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 2262000000,
+   "gross_profit": 1621000000,
+   "operating_income": 738000000,
+   "eps_diluted": 1.42,
+   "derived": [
+    "gross_profit",
+    "operating_income"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 2468000000,
+   "gross_profit": 1795000000,
+   "operating_income": 861000000,
+   "eps_diluted": 1.65,
+   "derived": [
+    "gross_profit",
+    "operating_income"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 2391000000,
+   "gross_profit": 1693000000,
+   "operating_income": 801000000,
+   "eps_diluted": 1.44,
+   "derived": [
+    "gross_profit",
+    "operating_income"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-05",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1555280/000155528026000050/zts-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1555280/000155528026000050/0001555280-26-000050-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-06",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1555280/000155528026000040/zts-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1555280/000155528026000040/0001555280-26-000040-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-07",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1555280/000155528026000024/zts-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1555280/000155528026000024/0001555280-26-000024-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-12",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1555280/000155528026000011/zts-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1555280/000155528026000011/0001555280-26-000011-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-04",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1555280/000155528025000274/zts-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1555280/000155528025000274/0001555280-25-000274-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-05",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1555280/000155528025000261/zts-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1555280/000155528025000261/0001555280-25-000261-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-06",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1555280/000155528025000203/zts-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1555280/000155528025000203/0001555280-25-000203-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-13",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1555280/000155528025000102/zts-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1555280/000155528025000102/0001555280-25-000102-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-11-04",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1555280/000155528024000332/zts-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1555280/000155528024000332/0001555280-24-000332-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-06",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1555280/000155528024000299/zts-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1555280/000155528024000299/0001555280-24-000299-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-13",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1555280/000155528024000143/zts-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1555280/000155528024000143/0001555280-24-000143-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-14",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1555280/000155528023000074/zts-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1555280/000155528023000074/0001555280-23-000074-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-15",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1555280/000155528022000078/zts-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1555280/000155528022000078/0001555280-22-000078-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

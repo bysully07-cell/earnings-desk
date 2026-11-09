@@ -1,0 +1,201 @@
+{
+ "ticker": "UBER",
+ "name": "Uber",
+ "cik": 1543151,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 11959000000,
+   "gross_profit": null,
+   "operating_income": 770000000,
+   "eps_diluted": 3.1,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 11533000000,
+   "gross_profit": null,
+   "operating_income": 1228000000,
+   "eps_diluted": 0.83,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 12651000000,
+   "gross_profit": null,
+   "operating_income": 1450000000,
+   "eps_diluted": 0.63,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 13467000000,
+   "gross_profit": null,
+   "operating_income": 1113000000,
+   "eps_diluted": 3.11,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 14366000000,
+   "gross_profit": null,
+   "operating_income": 1774000000,
+   "eps_diluted": 0.14,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 13203000000,
+   "gross_profit": null,
+   "operating_income": 1923000000,
+   "eps_diluted": 0.13,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 14191000000,
+   "gross_profit": null,
+   "operating_income": 1890000000,
+   "eps_diluted": 1.17,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 14766000000,
+   "gross_profit": null,
+   "operating_income": 1447000000,
+   "eps_diluted": 0.25,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-04",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000041/uber-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000041/0001543151-26-000041-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-05",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000032/uber-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000032/0001543151-26-000032-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-05-06",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000022/uber-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000022/0001543151-26-000022-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-13",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000015/uber-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000015/0001543151-26-000015-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-11-04",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315125000033/uber-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315125000033/0001543151-25-000033-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-08-06",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315125000023/uber-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315125000023/0001543151-25-000023-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-05-07",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315125000015/uber-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315125000015/0001543151-25-000015-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-14",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315125000008/uber-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315125000008/0001543151-25-000008-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-31",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315124000036/uber-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315124000036/0001543151-24-000036-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-08-06",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315124000027/uber-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315124000027/0001543151-24-000027-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-15",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315124000012/uber-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315124000012/0001543151-24-000012-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-21",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315123000010/uber-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315123000010/0001543151-23-000010-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-24",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315122000008/uber-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315122000008/0001543151-22-000008-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

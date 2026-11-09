@@ -1,0 +1,193 @@
+{
+ "ticker": "KR",
+ "name": "Kroger",
+ "cik": 56873,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "01-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2023 Q3",
+   "period_start": "2022-08-14",
+   "period_end": "2022-11-05",
+   "revenue": 34198000000,
+   "gross_profit": null,
+   "operating_income": 841000000,
+   "eps_diluted": 0.55,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2024 Q2",
+   "period_start": "2023-05-21",
+   "period_end": "2023-08-12",
+   "revenue": 33853000000,
+   "gross_profit": null,
+   "operating_income": -479000000,
+   "eps_diluted": -0.25,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2024 Q3",
+   "period_start": "2023-08-13",
+   "period_end": "2023-11-04",
+   "revenue": 33957000000,
+   "gross_profit": null,
+   "operating_income": 912000000,
+   "eps_diluted": 0.88,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2024-05-26",
+   "period_end": "2024-08-17",
+   "revenue": 33912000000,
+   "gross_profit": null,
+   "operating_income": 815000000,
+   "eps_diluted": 0.64,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2024-08-18",
+   "period_end": "2024-11-09",
+   "revenue": 33634000000,
+   "gross_profit": null,
+   "operating_income": 828000000,
+   "eps_diluted": 0.84,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-05-25",
+   "period_end": "2025-08-16",
+   "revenue": 33940000000,
+   "gross_profit": null,
+   "operating_income": 863000000,
+   "eps_diluted": 0.91,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2025-08-17",
+   "period_end": "2025-11-08",
+   "revenue": 33859000000,
+   "gross_profit": null,
+   "operating_income": -1541000000,
+   "eps_diluted": -2.02,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2027 Q2",
+   "period_start": "2026-05-24",
+   "period_end": "2026-08-15",
+   "revenue": 34621000000,
+   "gross_profit": null,
+   "operating_income": 971000000,
+   "eps_diluted": 1.05,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-09-18",
+   "period": "2026-08-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/56873/000110465926108926/kr-20260815x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/56873/000110465926108926/0001104659-26-108926-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-06-26",
+   "period": "2026-05-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/56873/000110465926078236/kr-20260523x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/56873/000110465926078236/0001104659-26-078236-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-03-31",
+   "period": "2026-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/56873/000110465926037723/kr-20260131x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/56873/000110465926037723/0001104659-26-037723-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-12-12",
+   "period": "2025-11-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/56873/000110465925120642/kr-20251108x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/56873/000110465925120642/0001104659-25-120642-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-09-19",
+   "period": "2025-08-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/56873/000110465925091648/kr-20250816x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/56873/000110465925091648/0001104659-25-091648-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-06-27",
+   "period": "2025-05-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/56873/000155837025008960/kr-20250524x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/56873/000155837025008960/0001558370-25-008960-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-04-01",
+   "period": "2025-02-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/56873/000155837025004267/kr-20250201x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/56873/000155837025004267/0001558370-25-004267-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-12-13",
+   "period": "2024-11-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/56873/000155837024016233/kr-20241109x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/56873/000155837024016233/0001558370-24-016233-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-09-20",
+   "period": "2024-08-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/56873/000155837024012921/kr-20240817x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/56873/000155837024012921/0001558370-24-012921-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-06-28",
+   "period": "2024-05-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/56873/000155837024009615/kr-20240525x10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/56873/000155837024009615/0001558370-24-009615-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-04-02",
+   "period": "2024-02-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/56873/000155837024004603/kr-20240203x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/56873/000155837024004603/0001558370-24-004603-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-03-28",
+   "period": "2023-01-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/56873/000155837023004767/kr-20230128x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/56873/000155837023004767/0001558370-23-004767-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-03-29",
+   "period": "2022-01-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/56873/000155837022004595/kr-20220129x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/56873/000155837022004595/0001558370-22-004595-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

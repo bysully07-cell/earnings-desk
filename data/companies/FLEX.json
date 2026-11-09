@@ -1,0 +1,198 @@
+{
+ "ticker": "FLEX",
+ "name": "Flex Ltd.",
+ "cik": 866374,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "03-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "GrossProfit",
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2024-09-28",
+   "period_end": "2024-12-31",
+   "revenue": 6556000000,
+   "gross_profit": 594000000,
+   "operating_income": 334000000,
+   "eps_diluted": 0.67,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 6398000000,
+   "gross_profit": 563000000,
+   "operating_income": 305000000,
+   "eps_diluted": 0.57,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-27",
+   "revenue": 6575000000,
+   "gross_profit": 572000000,
+   "operating_income": 311000000,
+   "eps_diluted": 0.5,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2025-06-28",
+   "period_end": "2025-09-26",
+   "revenue": 6804000000,
+   "gross_profit": 614000000,
+   "operating_income": 296000000,
+   "eps_diluted": 0.52,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2025-09-27",
+   "period_end": "2025-12-31",
+   "revenue": 7058000000,
+   "gross_profit": 679000000,
+   "operating_income": 389000000,
+   "eps_diluted": 0.64,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 7477000000,
+   "gross_profit": 702000000,
+   "operating_income": 372000000,
+   "eps_diluted": 0.67,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2027 Q1",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-26",
+   "revenue": 7928000000,
+   "gross_profit": 747000000,
+   "operating_income": 392000000,
+   "eps_diluted": 0.76,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2027 Q2",
+   "period_start": "2026-06-27",
+   "period_end": "2026-09-25",
+   "revenue": 8491000000,
+   "gross_profit": 812000000,
+   "operating_income": 414000000,
+   "eps_diluted": 0.7,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-30",
+   "period": "2026-09-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000086637426000042/flex-20260925.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/866374/000086637426000042/0000866374-26-000042-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-31",
+   "period": "2026-06-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000086637426000030/flex-20260626.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/866374/000086637426000030/0000866374-26-000030-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-05-20",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000086637426000012/flex-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/866374/000086637426000012/0000866374-26-000012-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-02-06",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000086637426000005/flex-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/866374/000086637426000005/0000866374-26-000005-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-31",
+   "period": "2025-09-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000086637425000051/flex-20250926.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/866374/000086637425000051/0000866374-25-000051-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-25",
+   "period": "2025-06-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000086637425000043/flex-20250627.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/866374/000086637425000043/0000866374-25-000043-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-05-21",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000086637425000027/flex-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/866374/000086637425000027/0000866374-25-000027-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-01-31",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000086637425000008/flex-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/866374/000086637425000008/0000866374-25-000008-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-31",
+   "period": "2024-09-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000086637424000053/flex-20240927.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/866374/000086637424000053/0000866374-24-000053-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-26",
+   "period": "2024-06-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000086637424000034/flex-20240628.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/866374/000086637424000034/0000866374-24-000034-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-05-17",
+   "period": "2024-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000086637424000021/flex-20240331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/866374/000086637424000021/0000866374-24-000021-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-05-19",
+   "period": "2023-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000086637423000028/flex-20230331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/866374/000086637423000028/0000866374-23-000028-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-05-20",
+   "period": "2022-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000086637422000035/flex-20220331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/866374/000086637422000035/0000866374-22-000035-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

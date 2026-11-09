@@ -1,0 +1,193 @@
+{
+ "ticker": "LVS",
+ "name": "Las Vegas Sands",
+ "cik": 1300514,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": null,
+  "operating_income": "OperatingIncomeLoss",
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 2896000000,
+   "gross_profit": null,
+   "operating_income": 590000000,
+   "eps_diluted": 0.45,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 2862000000,
+   "gross_profit": null,
+   "operating_income": 609000000,
+   "eps_diluted": 0.49,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 3175000000,
+   "gross_profit": null,
+   "operating_income": 783000000,
+   "eps_diluted": 0.66,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 3331000000,
+   "gross_profit": null,
+   "operating_income": 719000000,
+   "eps_diluted": 0.61,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 3649000000,
+   "gross_profit": null,
+   "operating_income": 707000000,
+   "eps_diluted": 0.58,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 3585000000,
+   "gross_profit": null,
+   "operating_income": 904000000,
+   "eps_diluted": 0.85,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 3154000000,
+   "gross_profit": null,
+   "operating_income": 618000000,
+   "eps_diluted": 0.53,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 3216000000,
+   "gross_profit": null,
+   "operating_income": 618000000,
+   "eps_diluted": 0.48,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-23",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1300514/000130051426000103/lvs-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1300514/000130051426000103/0001300514-26-000103-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-24",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1300514/000130051426000085/lvs-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1300514/000130051426000085/0001300514-26-000085-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-24",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1300514/000130051426000046/lvs-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1300514/000130051426000046/0001300514-26-000046-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-06",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1300514/000130051426000013/lvs-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1300514/000130051426000013/0001300514-26-000013-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-24",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1300514/000130051425000163/lvs-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1300514/000130051425000163/0001300514-25-000163-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-25",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1300514/000130051425000144/lvs-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1300514/000130051425000144/0001300514-25-000144-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-25",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1300514/000130051425000095/lvs-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1300514/000130051425000095/0001300514-25-000095-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-07",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1300514/000130051425000040/lvs-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1300514/000130051425000040/0001300514-25-000040-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-25",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1300514/000130051424000136/lvs-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1300514/000130051424000136/0001300514-24-000136-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-26",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1300514/000130051424000123/lvs-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1300514/000130051424000123/0001300514-24-000123-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-07",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1300514/000130051424000048/lvs-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1300514/000130051424000048/0001300514-24-000048-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-03",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1300514/000130051423000021/lvs-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1300514/000130051423000021/0001300514-23-000021-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-04",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1300514/000130051422000007/lvs-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1300514/000130051422000007/0001300514-22-000007-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

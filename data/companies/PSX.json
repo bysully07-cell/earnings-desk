@@ -1,0 +1,213 @@
+{
+ "ticker": "PSX",
+ "name": "Phillips 66",
+ "cik": 1534701,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "gross_profit": "derived: revenue - cost of revenue (CostOfGoodsAndServicesSold)",
+  "operating_income": null,
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 33685000000,
+   "gross_profit": 2931000000,
+   "operating_income": null,
+   "eps_diluted": 0.02,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 30430000000,
+   "gross_profit": 2770000000,
+   "operating_income": null,
+   "eps_diluted": 1.18,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 33323000000,
+   "gross_profit": 4246000000,
+   "operating_income": null,
+   "eps_diluted": 2.15,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 34515000000,
+   "gross_profit": 4296000000,
+   "operating_income": null,
+   "eps_diluted": 0.32,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 34108000000,
+   "gross_profit": 4971000000,
+   "operating_income": null,
+   "eps_diluted": 7.12,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 32540000000,
+   "gross_profit": 3324000000,
+   "operating_income": null,
+   "eps_diluted": 0.51,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 51004000000,
+   "gross_profit": 7340000000,
+   "operating_income": null,
+   "eps_diluted": 9.55,
+   "derived": [
+    "gross_profit"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 50540000000,
+   "gross_profit": 9726000000,
+   "operating_income": null,
+   "eps_diluted": 14.08,
+   "derived": [
+    "gross_profit"
+   ]
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-28",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470126000037/psx-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470126000037/0001534701-26-000037-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-08-05",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470126000032/psx-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470126000032/0001534701-26-000032-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-29",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470126000022/psx-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470126000022/0001534701-26-000022-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-20",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470126000006/psx-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470126000006/0001534701-26-000006-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-29",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470125000155/psx-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470125000155/0001534701-25-000155-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-28",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470125000137/psx-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470125000137/0001534701-25-000137-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-25",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470125000094/psx-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470125000094/0001534701-25-000094-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-21",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470125000074/psx-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470125000074/0001534701-25-000074-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-29",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470124000166/psx-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470124000166/0001534701-24-000166-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-31",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470124000132/psx-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470124000132/0001534701-24-000132-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-21",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470124000078/psx-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470124000078/0001534701-24-000078-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-22",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470123000053/psx-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470123000053/0001534701-23-000053-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-18",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470122000078/psx-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470122000078/0001534701-22-000078-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}

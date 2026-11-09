@@ -1,0 +1,199 @@
+{
+ "ticker": "CB",
+ "name": "Chubb Limited",
+ "cik": 896159,
+ "indexes": [
+  "SPX"
+ ],
+ "fiscal_year_end": "12-31",
+ "sources": {
+  "revenue": "Revenues",
+  "gross_profit": null,
+  "operating_income": null,
+  "eps_diluted": "EarningsPerShareDiluted"
+ },
+ "quarters": [
+  {
+   "fiscal_period": "FY2024 Q4",
+   "period_start": "2024-10-01",
+   "period_end": "2024-12-31",
+   "revenue": 14175000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 6.32,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2025 Q1",
+   "period_start": "2025-01-01",
+   "period_end": "2025-03-31",
+   "revenue": 13353000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 3.29,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q2",
+   "period_start": "2025-04-01",
+   "period_end": "2025-06-30",
+   "revenue": 14836000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 7.35,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q3",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 16148000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 6.99,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2025-10-01",
+   "period_end": "2025-12-31",
+   "revenue": 15065000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 8.09,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
+   "period_start": "2026-01-01",
+   "period_end": "2026-03-31",
+   "revenue": 14773000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 5.88,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q2",
+   "period_start": "2026-04-01",
+   "period_end": "2026-06-30",
+   "revenue": 15816000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 7.3,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 16195000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 7.3,
+   "derived": []
+  }
+ ],
+ "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-10-28",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/896159/000089615926000021/cb-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/896159/000089615926000021/0000896159-26-000021-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-07-28",
+   "period": "2026-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/896159/000089615926000017/cb-20260630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/896159/000089615926000017/0000896159-26-000017-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2026-04-28",
+   "period": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/896159/000089615926000011/cb-20260331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/896159/000089615926000011/0000896159-26-000011-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2026-02-27",
+   "period": "2025-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/896159/000089615926000005/cb-20251231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/896159/000089615926000005/0000896159-26-000005-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-10-27",
+   "period": "2025-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/896159/000089615925000017/cb-20250930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/896159/000089615925000017/0000896159-25-000017-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-07-28",
+   "period": "2025-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/896159/000089615925000012/cb-20250630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/896159/000089615925000012/0000896159-25-000012-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2025-04-28",
+   "period": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/896159/000089615925000007/cb-20250331.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/896159/000089615925000007/0000896159-25-000007-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2025-02-27",
+   "period": "2024-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/896159/000089615925000004/cb-20241231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/896159/000089615925000004/0000896159-25-000004-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-10-30",
+   "period": "2024-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/896159/000089615924000013/cb-20240930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/896159/000089615924000013/0000896159-24-000013-index.htm"
+  },
+  {
+   "form": "10-Q",
+   "filed": "2024-07-26",
+   "period": "2024-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/896159/000089615924000010/cb-20240630.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/896159/000089615924000010/0000896159-24-000010-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2024-02-23",
+   "period": "2023-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/896159/000089615924000003/cb-20231231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/896159/000089615924000003/0000896159-24-000003-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2023-02-24",
+   "period": "2022-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/896159/000089615923000007/cb-20221231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/896159/000089615923000007/0000896159-23-000007-index.htm"
+  },
+  {
+   "form": "10-K",
+   "filed": "2022-02-24",
+   "period": "2021-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/896159/000089615922000005/cb-20211231.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/896159/000089615922000005/0000896159-22-000005-index.htm"
+  }
+ ],
+ "note": null,
+ "earnings": [],
+ "earnings_checked": null
+}
