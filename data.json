@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T20:14:55+00:00",
+  "generated_at": "2026-11-09T21:29:40+00:00",
   "source": "SEC EDGAR XBRL companyfacts API",
   "units": {
     "revenue": "USD",
@@ -8,6 +8,33 @@
     "eps_diluted": "USD per diluted share"
   },
   "errors": {},
+  "indexes": {
+    "NDX": [
+      "AAPL",
+      "NVDA",
+      "MSFT",
+      "GOOGL",
+      "AMZN",
+      "AVGO",
+      "TSLA",
+      "META",
+      "WMT",
+      "AMD"
+    ],
+    "SPX": [
+      "AAPL",
+      "NVDA",
+      "MSFT",
+      "GOOGL",
+      "AMZN",
+      "AVGO",
+      "TSLA",
+      "META",
+      "WMT",
+      "LLY",
+      "AMD"
+    ]
+  },
   "companies": {
     "AAPL": {
       "ticker": "AAPL",
@@ -204,7 +231,8 @@
           "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm",
           "index_url": "https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/0000320193-22-000108-index.htm"
         }
-      ]
+      ],
+      "logo": null
     },
     "NVDA": {
       "ticker": "NVDA",
@@ -401,7 +429,8 @@
           "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581022000036/nvda-20220130.htm",
           "index_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581022000036/0001045810-22-000036-index.htm"
         }
-      ]
+      ],
+      "logo": null
     },
     "MSFT": {
       "ticker": "MSFT",
@@ -598,7 +627,8 @@
           "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022026876/msft-10k_20220630.htm",
           "index_url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022026876/0001564590-22-026876-index.htm"
         }
-      ]
+      ],
+      "logo": null
     },
     "GOOGL": {
       "ticker": "GOOGL",
@@ -807,7 +837,8 @@
           "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204422000019/goog-20211231.htm",
           "index_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204422000019/0001652044-22-000019-index.htm"
         }
-      ]
+      ],
+      "logo": null
     },
     "AMZN": {
       "ticker": "AMZN",
@@ -1016,7 +1047,8 @@
           "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872422000005/amzn-20211231.htm",
           "index_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872422000005/0001018724-22-000005-index.htm"
         }
-      ]
+      ],
+      "logo": null
     },
     "AVGO": {
       "ticker": "AVGO",
@@ -1213,7 +1245,8 @@
           "url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016821000153/avgo-20211031.htm",
           "index_url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016821000153/0001730168-21-000153-index.htm"
         }
-      ]
+      ],
+      "logo": null
     },
     "TSLA": {
       "ticker": "TSLA",
@@ -1431,7 +1464,8 @@
           "url": "https://www.sec.gov/Archives/edgar/data/1318605/000095017022000796/tsla-20211231.htm",
           "index_url": "https://www.sec.gov/Archives/edgar/data/1318605/000095017022000796/0000950170-22-000796-index.htm"
         }
-      ]
+      ],
+      "logo": null
     },
     "META": {
       "ticker": "META",
@@ -1640,7 +1674,8 @@
           "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000018/fb-20211231.htm",
           "index_url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000018/0001326801-22-000018-index.htm"
         }
-      ]
+      ],
+      "logo": null
     },
     "WMT": {
       "ticker": "WMT",
@@ -1849,7 +1884,8 @@
           "url": "https://www.sec.gov/Archives/edgar/data/104169/000010416922000012/wmt-20220131.htm",
           "index_url": "https://www.sec.gov/Archives/edgar/data/104169/000010416922000012/0000104169-22-000012-index.htm"
         }
-      ]
+      ],
+      "logo": null
     },
     "LLY": {
       "ticker": "LLY",
@@ -2064,7 +2100,8 @@
           "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000068/lly-20211231.htm",
           "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000068/0000059478-22-000068-index.htm"
         }
-      ]
+      ],
+      "logo": null
     },
     "AMD": {
       "ticker": "AMD",
@@ -2268,7 +2305,8 @@
           "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248822000016/amd-20211225.htm",
           "index_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248822000016/0000002488-22-000016-index.htm"
         }
-      ]
+      ],
+      "logo": null
     }
   }
 }

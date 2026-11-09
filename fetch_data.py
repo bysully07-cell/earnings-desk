@@ -45,6 +45,19 @@ MAX_RETRIES = 4
 
 OUT_PATH = Path(__file__).resolve().parent / "data.json"
 
+# Index membership drives the Nasdaq-100 / S&P 500 filter on the site.
+# Membership changes rarely, so it's maintained here by hand.
+# LLY is NYSE-listed (not in the Nasdaq-100). WMT moved its listing to Nasdaq
+# in Dec 2025 and was added to the Nasdaq-100 afterwards; re-check after rebalances.
+INDEXES = {
+    "NDX": ["AAPL", "NVDA", "MSFT", "GOOGL", "AMZN", "AVGO", "TSLA", "META", "WMT", "AMD"],
+    "SPX": TICKERS,
+}
+
+# Finnhub supplies company logos. Optional: without a key, logos are kept
+# from the previous data.json (or the site shows a lettered placeholder).
+FINNHUB_KEY = os.environ.get("FINNHUB_API_KEY", "")
+
 # Companies tag the same concept differently. Each list is in priority order;
 # pick_tag() also skips tags a company stopped using years ago.
 REVENUE_TAGS = [
@@ -94,6 +107,23 @@ def get_json(url: str) -> dict:
             continue
         resp.raise_for_status()
     raise RuntimeError(f"Gave up on {url} after {MAX_RETRIES} attempts")
+
+
+def fetch_logo(ticker: str) -> str | None:
+    """
+    Logo URL from Finnhub's /stock/profile2 endpoint. Uses a separate plain
+    request so the SEC User-Agent (which contains an email) isn't sent to Finnhub.
+    """
+    if not FINNHUB_KEY:
+        return None
+    try:
+        r = requests.get("https://finnhub.io/api/v1/stock/profile2",
+                         params={"symbol": ticker, "token": FINNHUB_KEY}, timeout=15)
+        r.raise_for_status()
+        return (r.json() or {}).get("logo") or None
+    except (requests.RequestException, ValueError) as e:
+        print(f"  logo lookup failed for {ticker}: {e}", file=sys.stderr)
+        return None
 
 
 # ---------------------------------------------------------------------------
@@ -372,6 +402,7 @@ def main() -> int:
         try:
             cik, name = lookup[t]
             companies[t] = build_company(t, cik, name)
+            companies[t]["logo"] = fetch_logo(t) or previous.get(t, {}).get("logo")
             q = companies[t]["quarters"][-1]
             print(f"{t:6} ok  latest {q['fiscal_period']} (ends {q['period_end']})")
         except Exception as e:  # one bad company shouldn't sink the whole run
@@ -390,6 +421,7 @@ def main() -> int:
         "units": {"revenue": "USD", "gross_profit": "USD",
                   "operating_income": "USD", "eps_diluted": "USD per diluted share"},
         "errors": errors,
+        "indexes": INDEXES,
         "companies": {t: companies[t] for t in TICKERS if t in companies},
     }
     OUT_PATH.write_text(json.dumps(out, indent=2) + "\n")
