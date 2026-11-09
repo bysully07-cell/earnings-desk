@@ -46,6 +46,35 @@
   }
  ],
  "note": "no US-GAAP quarterly revenue (foreign filer or non-standard tags)",
- "earnings": [],
- "earnings_checked": null
+ "earnings": [
+  {
+   "period": "2025-09-30",
+   "actual": 21.08,
+   "estimate": 17.0124,
+   "surprise_pct": 23.9096,
+   "result": "beat"
+  },
+  {
+   "period": "2025-12-31",
+   "actual": 17.69,
+   "estimate": 20.9706,
+   "surprise_pct": -15.6438,
+   "result": "miss"
+  },
+  {
+   "period": "2026-03-31",
+   "actual": 9.51,
+   "estimate": 16.7989,
+   "surprise_pct": -43.3892,
+   "result": "miss"
+  },
+  {
+   "period": "2026-06-30",
+   "actual": 19.33,
+   "estimate": 18.3978,
+   "surprise_pct": 5.0669,
+   "result": "beat"
+  }
+ ],
+ "earnings_checked": "2026-11-09"
 }

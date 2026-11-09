@@ -102,6 +102,35 @@
   }
  ],
  "note": "revenue tags stop at 2021-06-30; newer filings use tags this site doesn't map",
- "earnings": [],
- "earnings_checked": null
+ "earnings": [
+  {
+   "period": "2025-12-31",
+   "actual": 0.91,
+   "estimate": 0.6483,
+   "surprise_pct": 40.3671,
+   "result": "beat"
+  },
+  {
+   "period": "2026-03-31",
+   "actual": 1.38,
+   "estimate": 1.1443,
+   "surprise_pct": 20.5977,
+   "result": "beat"
+  },
+  {
+   "period": "2026-06-30",
+   "actual": 1.89,
+   "estimate": 1.8863,
+   "surprise_pct": 0.1962,
+   "result": "inline"
+  },
+  {
+   "period": "2026-09-30",
+   "actual": 1.94,
+   "estimate": 1.5671,
+   "surprise_pct": 23.7955,
+   "result": "beat"
+  }
+ ],
+ "earnings_checked": "2026-11-09"
 }

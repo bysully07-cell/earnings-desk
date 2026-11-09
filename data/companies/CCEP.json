@@ -46,6 +46,35 @@
   }
  ],
  "note": "no US-GAAP quarterly revenue (foreign filer or non-standard tags)",
- "earnings": [],
- "earnings_checked": null
+ "earnings": [
+  {
+   "period": "2018-03-31",
+   "actual": 0.33,
+   "estimate": 0.3273,
+   "surprise_pct": 0.8249,
+   "result": "inline"
+  },
+  {
+   "period": "2018-06-30",
+   "actual": 0.67,
+   "estimate": 0.6667,
+   "surprise_pct": 0.495,
+   "result": "inline"
+  },
+  {
+   "period": "2018-09-30",
+   "actual": 0.76,
+   "estimate": 0.7657,
+   "surprise_pct": -0.7444,
+   "result": "miss"
+  },
+  {
+   "period": "2018-12-31",
+   "actual": 0.54,
+   "estimate": 0.5455,
+   "surprise_pct": -1.0082,
+   "result": "miss"
+  }
+ ],
+ "earnings_checked": "2026-11-09"
 }

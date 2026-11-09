@@ -51,6 +51,14 @@
   }
  ],
  "note": null,
- "earnings": [],
- "earnings_checked": null
+ "earnings": [
+  {
+   "period": "2026-09-30",
+   "actual": 1.49,
+   "estimate": 1.3833,
+   "surprise_pct": 7.7134,
+   "result": "beat"
+  }
+ ],
+ "earnings_checked": "2026-11-09"
 }

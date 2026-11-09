@@ -193,6 +193,35 @@
   }
  ],
  "note": null,
- "earnings": [],
- "earnings_checked": null
+ "earnings": [
+  {
+   "period": "2025-12-31",
+   "actual": 0.87,
+   "estimate": 0.8013,
+   "surprise_pct": 8.5736,
+   "result": "beat"
+  },
+  {
+   "period": "2026-03-31",
+   "actual": 0.93,
+   "estimate": 0.8915,
+   "surprise_pct": 4.3186,
+   "result": "beat"
+  },
+  {
+   "period": "2026-06-30",
+   "actual": 1,
+   "estimate": 0.9275,
+   "surprise_pct": 7.8167,
+   "result": "beat"
+  },
+  {
+   "period": "2026-09-30",
+   "actual": 1.18,
+   "estimate": 1.0691,
+   "surprise_pct": 10.3732,
+   "result": "beat"
+  }
+ ],
+ "earnings_checked": "2026-11-09"
 }
