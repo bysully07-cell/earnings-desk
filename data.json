@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T21:29:40+00:00",
+  "generated_at": "2026-11-09T21:59:25+00:00",
   "source": "SEC EDGAR XBRL companyfacts API",
   "units": {
     "revenue": "USD",
@@ -232,7 +232,7 @@
           "index_url": "https://www.sec.gov/Archives/edgar/data/320193/000032019322000108/0000320193-22-000108-index.htm"
         }
       ],
-      "logo": null
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AAPL.png"
     },
     "NVDA": {
       "ticker": "NVDA",
@@ -430,7 +430,7 @@
           "index_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581022000036/0001045810-22-000036-index.htm"
         }
       ],
-      "logo": null
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/942959144056.png"
     },
     "MSFT": {
       "ticker": "MSFT",
@@ -628,7 +628,7 @@
           "index_url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022026876/0001564590-22-026876-index.htm"
         }
       ],
-      "logo": null
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/MSFT.png"
     },
     "GOOGL": {
       "ticker": "GOOGL",
@@ -838,7 +838,7 @@
           "index_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204422000019/0001652044-22-000019-index.htm"
         }
       ],
-      "logo": null
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/GOOG.png"
     },
     "AMZN": {
       "ticker": "AMZN",
@@ -1048,7 +1048,7 @@
           "index_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872422000005/0001018724-22-000005-index.htm"
         }
       ],
-      "logo": null
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMZN.png"
     },
     "AVGO": {
       "ticker": "AVGO",
@@ -1246,7 +1246,7 @@
           "index_url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016821000153/0001730168-21-000153-index.htm"
         }
       ],
-      "logo": null
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AVGO.png"
     },
     "TSLA": {
       "ticker": "TSLA",
@@ -1465,7 +1465,7 @@
           "index_url": "https://www.sec.gov/Archives/edgar/data/1318605/000095017022000796/0000950170-22-000796-index.htm"
         }
       ],
-      "logo": null
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/TSLA.png"
     },
     "META": {
       "ticker": "META",
@@ -1675,7 +1675,7 @@
           "index_url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000018/0001326801-22-000018-index.htm"
         }
       ],
-      "logo": null
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/FB.png"
     },
     "WMT": {
       "ticker": "WMT",
@@ -1885,7 +1885,7 @@
           "index_url": "https://www.sec.gov/Archives/edgar/data/104169/000010416922000012/0000104169-22-000012-index.htm"
         }
       ],
-      "logo": null
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/WMT.png"
     },
     "LLY": {
       "ticker": "LLY",
@@ -2101,7 +2101,7 @@
           "index_url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000068/0000059478-22-000068-index.htm"
         }
       ],
-      "logo": null
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/LLY.png"
     },
     "AMD": {
       "ticker": "AMD",
@@ -2306,7 +2306,7 @@
           "index_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248822000016/0000002488-22-000016-index.htm"
         }
       ],
-      "logo": null
+      "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AMD.png"
     }
   }
 }
