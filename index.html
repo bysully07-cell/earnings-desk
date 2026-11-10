@@ -128,6 +128,8 @@
   .co-price { display: flex; align-items: baseline; flex-wrap: wrap; gap: 4px 8px; margin: 14px 0 12px; }
   .co-price .px { font-size: 24px; font-weight: 800; letter-spacing: -0.02em; }
   .chg { font-weight: 700; font-size: 13px; }
+  .ptag { display: inline-block; font-size: 11px; font-weight: 700; color: var(--ink-3); background: var(--bg); padding: 1px 7px; border-radius: 999px; white-space: nowrap; vertical-align: middle; cursor: help; }
+  td .ptag { display: block; width: max-content; margin: 3px 0 0 auto; }
   .co-stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px; padding-top: 12px; border-top: 1px solid var(--line); }
   .stat .k { font-size: 11px; color: var(--ink-3); font-weight: 600; }
   .stat .v { font-size: 14px; font-weight: 800; margin-top: 1px; white-space: nowrap; }
@@ -315,7 +317,7 @@
   <footer>
     Fundamentals: <a href="https://www.sec.gov/edgar/sec-api-documentation">SEC EDGAR</a> bulk XBRL data, GAAP figures as filed, refreshed each weekday morning.
     <span class="derived">◆</span> marks a value computed rather than read directly (e.g. Q4 = annual 10-K figure minus Q1–Q3).
-    Prices, logos and EPS estimates: <a href="https://finnhub.io">Finnhub</a>; prices refresh every 30 minutes during US market hours.
+    Prices, logos and EPS estimates: <a href="https://finnhub.io">Finnhub</a>; prices refresh every 30 minutes during regular US market hours (9:30am–4pm ET). Finnhub's free quotes don't include pre-market or after-hours trading, so outside those hours prices are marked “At close”.
     Beat/miss compares Finnhub's reported EPS (usually adjusted) with the analyst consensus. Index lists from Wikipedia.
     <span id="src-ratings">Analyst ratings: <a href="https://finnhub.io">Finnhub</a> monthly recommendation counts.</span>
     <span id="src-targets"></span>
@@ -357,6 +359,25 @@ const price = (v) => v == null ? "—" : `$${v.toLocaleString(undefined, { minim
 const pct = (v) => v == null || !isFinite(v) ? "—" : `${(v * 100).toFixed(1)}%`;
 const signed = (v, digits = 1) => v == null || !isFinite(v) ? `<span class="na">—</span>`
   : `<span class="${v >= 0 ? "up" : "down"}">${v >= 0 ? "+" : "−"}${Math.abs(v * 100).toFixed(digits)}%</span>`;
+// Finnhub's free /quote has no pre-market or after-hours trades: outside the regular
+// session (9:30am-4pm ET) it returns the 4pm close. Label those prices "At close".
+const ET_FMT = new Intl.DateTimeFormat("en-US", { timeZone: "America/New_York", weekday: "short",
+  year: "numeric", month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit", hourCycle: "h23" });
+function etParts(ms) {
+  const o = {};
+  for (const x of ET_FMT.formatToParts(new Date(ms))) o[x.type] = x.value;
+  return { date: `${o.year}-${o.month}-${o.day}`, mins: +o.hour * 60 + +o.minute, weekday: o.weekday };
+}
+function sessionOpen() {
+  const e = etParts(Date.now());
+  return e.weekday !== "Sat" && e.weekday !== "Sun" && e.mins >= 570 && e.mins < 960;
+}
+// During the session a quote from today is live; anything else (evening, weekend,
+// holiday, or a quote left over from a previous day) is that day's close.
+const atClose = (r) => r.price != null && r.price_time != null
+  && (!sessionOpen() || etParts(r.price_time * 1000).date !== etParts(Date.now()).date);
+const closeTag = (r) => atClose(r)
+  ? `<span class="ptag" title="Closing price from the last regular session (${new Date(r.price_time * 1000).toLocaleDateString(undefined, { month: "short", day: "numeric" })}). Pre-market and after-hours trades aren't included.">At close</span>` : "";
 const dayChg = (r) => signed(r.change_pct == null ? null : r.change_pct / 100, 2);
 const eps = (v) => v == null ? "—" : (v < 0 ? "−$" : "$") + Math.abs(v).toFixed(2);
 const mark = (q, f) => q.derived?.includes(f) ? `<span class="derived" title="Derived, not reported directly">◆</span>` : "";
@@ -461,7 +482,7 @@ function renderResults() {
   list.innerHTML = matches.length
     ? matches.map((r, i) => `<li role="option" id="opt-${i}" data-t="${r.ticker}" aria-selected="${i === active}">
         <span class="r-t">${r.ticker}</span><span class="r-n">${esc(r.name)}</span>
-        <span class="r-p">${price(r.price)} ${dayChg(r)}</span></li>`).join("")
+        <span class="r-p">${price(r.price)} ${dayChg(r)} ${closeTag(r)}</span></li>`).join("")
     : `<li class="empty" role="option" aria-disabled="true">No matches for “${esc(q)}”</li>`;
   list.hidden = false;
   $("#q").setAttribute("aria-expanded", "true");
@@ -517,7 +538,7 @@ function renderFeatured() {
         <div class="co-id"><div class="co-ticker">${r.ticker}</div><div class="co-name">${esc(r.name)}</div></div>
         ${badge(resultOf(r), surpriseTitle(r.eps_surprise))}
       </div>
-      <div class="co-price"><span class="px">${price(r.price)}</span><span class="chg">${dayChg(r)}</span></div>
+      <div class="co-price"><span class="px">${price(r.price)}</span><span class="chg">${dayChg(r)}</span>${closeTag(r)}</div>
       <div class="co-stats">
         <div class="stat"><div class="k">Revenue</div><div class="v">${money(r.revenue)}</div></div>
         <div class="stat"><div class="k">YoY</div><div class="v">${signed(r.revenue_yoy)}</div></div>
@@ -566,7 +587,7 @@ function renderTable() {
     const s = r.eps_surprise, sp = s?.surprise_pct;
     return `<tr tabindex="0" data-t="${r.ticker}">
       <td><div class="t-co">${logoHTML(r)}<div><b>${r.ticker}</b><span class="t-name">${esc(r.name)}</span></div></div></td>
-      <td>${price(r.price)}</td>
+      <td>${price(r.price)}${closeTag(r)}</td>
       <td>${dayChg(r)}</td>
       <td>${money(r.market_cap)}</td>
       <td>${r.rating ? `<span class="t-rating">${rpill(r.rating.consensus, ratingTitle(r.rating))}${rbar(r.rating.counts)}</span>` : `<span class="na">—</span>`}</td>
@@ -620,7 +641,7 @@ async function openCompany(t) {
   history.replaceState(null, "", `#${t}`);
   $("#d-logo").innerHTML = logoHTML(r);
   $("#d-title").textContent = `${r.ticker} · ${r.name}`;
-  $("#d-sub").innerHTML = `${price(r.price)} ${dayChg(r)}${r.industry ? ` · ${esc(r.industry)}` : ""}`;
+  $("#d-sub").innerHTML = `${price(r.price)} ${dayChg(r)} ${closeTag(r)}${r.industry ? ` · ${esc(r.industry)}` : ""}`;
   $("#d-chips").innerHTML = r.indexes.map((i) => `<span class="chip">${esc(INDEX.index_names[i] || i)}</span>`).join("");
   $("#d-content").innerHTML = `<p class="d-sub" style="margin-top:20px">Loading…</p>`;
   if (!dlg.open) dlg.showModal();
@@ -648,7 +669,7 @@ function renderDetail(r, c) {
   const ttm = ttmEps(qs), pe = r.price && ttm > 0 ? `${(r.price / ttm).toFixed(1)}×` : "n/m";
   const last = (c.earnings || []).at(-1);
   let h = `<div class="tiles">
-    ${tile("Share price", price(r.price), dayChg(r))}
+    ${tile("Share price", price(r.price), `${dayChg(r)} ${closeTag(r)}`)}
     ${tile("Market value", money(r.market_cap), r.shares_m ? `${(r.shares_m / 1000).toFixed(2)}B shares` : "")}
     ${tile("P/E (trailing 4 qtrs)", pe, `TTM EPS ${eps(ttm)}`)}
     ${last ? tile("Latest EPS vs. est.", `${eps(last.actual)} <span style="font-size:14px">${badge(last.result)}</span>`, `est. ${eps(last.estimate)} · qtr ending ${last.period}`) : ""}
@@ -784,7 +805,10 @@ function applyIndex(idx) {
   INDEX = idx; ROWS = idx.companies; BY_T = Object.fromEntries(ROWS.map((r) => [r.ticker, r]));
   const fmt = (s) => new Date(s).toLocaleString(undefined, { dateStyle: "medium", timeStyle: "short" });
   $("#updated").textContent = `Fundamentals updated ${fmt(idx.generated_at)}`;
-  $("#prices-at").textContent = idx.prices_updated_at ? `Prices as of ${fmt(idx.prices_updated_at)}` : "Prices update every 30 min in market hours";
+  const closed = ROWS.some(atClose);
+  $("#prices-at").textContent = idx.prices_updated_at
+    ? `${closed ? "Closing prices" : "Prices"} as of ${fmt(idx.prices_updated_at)}${closed ? " · live every 30 min, 9:30am–4pm ET" : ""}`
+    : "Prices update every 30 min in market hours";
   const pt = idx.sources?.price_targets;
   $("#src-targets").innerHTML = pt?.label
     ? `Price targets: <a href="${esc(pt.url)}">${esc(pt.label)}</a> consensus${pt.daily_cap ? `, refreshed on a rotation (${pt.daily_cap} companies a day, oldest first)` : ""}; each target shows its as-of date.`

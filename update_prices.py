@@ -6,6 +6,11 @@ Scheduled every 30 minutes on weekdays; exits without changes outside US market
 hours (9:30-16:00 ET, plus a short window after the close to record the closing
 price) and on exchange holidays.
 
+No extended hours: Finnhub's free /quote returns the regular-session price only.
+Checked 2026-11-09: quotes fetched at 7:51-8:01pm ET (during after-hours trading)
+all carried the 4:00:00pm ET timestamp and the closing price. The site labels
+prices from outside the session "At close".
+
 Budget: one Finnhub call per ticker, 50/minute, so ~520 tickers take ~11
 minutes. PRICE_BUDGET caps a run; tickers with the oldest price go first, so a
 bigger universe (UNIVERSE=all) still rotates through everyone.

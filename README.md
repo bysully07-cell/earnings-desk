@@ -36,7 +36,7 @@ Every API call runs inside GitHub Actions with keys from repo secrets (`FINNHUB_
 
 ## Workflows
 - `update-data.yml`: weekdays 11:30 UTC. Downloads SEC's bulk zips (~3 GB, read selectively), calls Finnhub (~19 min first run, ~10 min after), commits `data/`, deploys.
-- `update-prices.yml`: every 30 min, 13:00–21:30 UTC weekdays; exits early outside 9:30am–4:45pm ET and on holidays. ~520 quotes ≈ 10 min.
+- `update-prices.yml`: every 30 min, 13:00–21:30 UTC weekdays; exits early outside 9:30am–4:45pm ET and on holidays. ~520 quotes ≈ 10 min. Finnhub's free quotes don't include pre-market or after-hours trades (outside the session they return the 4pm close), so extended hours aren't scheduled; the site labels those prices "At close".
 - `deploy.yml`: publishes the site. Called by both jobs, and runs on your own pushes.
 Both data jobs share a concurrency group, so they never run at once (no doubled Finnhub rate, no push races).
 
