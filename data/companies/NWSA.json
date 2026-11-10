@@ -221,5 +221,54 @@
    "result": "beat"
   }
  ],
- "earnings_checked": "2026-11-09"
+ "earnings_checked": "2026-11-10",
+ "ratings": [
+  {
+   "period": "2026-11-01",
+   "strong_buy": 4,
+   "buy": 10,
+   "hold": 2,
+   "sell": 0,
+   "strong_sell": 0,
+   "score": 1.88,
+   "consensus": "Buy",
+   "analysts": 16
+  },
+  {
+   "period": "2026-10-01",
+   "strong_buy": 4,
+   "buy": 9,
+   "hold": 2,
+   "sell": 0,
+   "strong_sell": 0,
+   "score": 1.87,
+   "consensus": "Buy",
+   "analysts": 15
+  },
+  {
+   "period": "2026-09-01",
+   "strong_buy": 5,
+   "buy": 9,
+   "hold": 1,
+   "sell": 0,
+   "strong_sell": 0,
+   "score": 1.73,
+   "consensus": "Buy",
+   "analysts": 15
+  },
+  {
+   "period": "2026-08-01",
+   "strong_buy": 5,
+   "buy": 9,
+   "hold": 1,
+   "sell": 0,
+   "strong_sell": 0,
+   "score": 1.73,
+   "consensus": "Buy",
+   "analysts": 15
+  }
+ ],
+ "ratings_checked": "2026-11-10",
+ "price_target": null,
+ "price_target_checked": null
 }

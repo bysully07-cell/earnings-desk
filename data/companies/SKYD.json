@@ -118,13 +118,6 @@
  "note": null,
  "earnings": [
   {
-   "period": "2025-09-30",
-   "actual": -0.12,
-   "estimate": 0.3853,
-   "surprise_pct": -131.1446,
-   "result": "miss"
-  },
-  {
    "period": "2025-12-31",
    "actual": -0.12,
    "estimate": -0.0087,
@@ -144,7 +137,63 @@
    "estimate": 0.1548,
    "surprise_pct": 16.2791,
    "result": "beat"
+  },
+  {
+   "period": "2026-09-30",
+   "actual": 0.45,
+   "estimate": -0.0527,
+   "surprise_pct": 953.8899,
+   "result": "beat"
   }
  ],
- "earnings_checked": "2026-11-09"
+ "earnings_checked": "2026-11-10",
+ "ratings": [
+  {
+   "period": "2026-11-01",
+   "strong_buy": 1,
+   "buy": 3,
+   "hold": 14,
+   "sell": 8,
+   "strong_sell": 4,
+   "score": 3.37,
+   "consensus": "Hold",
+   "analysts": 30
+  },
+  {
+   "period": "2026-10-01",
+   "strong_buy": 1,
+   "buy": 3,
+   "hold": 13,
+   "sell": 8,
+   "strong_sell": 4,
+   "score": 3.38,
+   "consensus": "Hold",
+   "analysts": 29
+  },
+  {
+   "period": "2026-09-01",
+   "strong_buy": 1,
+   "buy": 2,
+   "hold": 14,
+   "sell": 7,
+   "strong_sell": 4,
+   "score": 3.39,
+   "consensus": "Hold",
+   "analysts": 28
+  },
+  {
+   "period": "2026-08-01",
+   "strong_buy": 1,
+   "buy": 2,
+   "hold": 14,
+   "sell": 6,
+   "strong_sell": 4,
+   "score": 3.37,
+   "consensus": "Hold",
+   "analysts": 27
+  }
+ ],
+ "ratings_checked": "2026-11-10",
+ "price_target": null,
+ "price_target_checked": null
 }
