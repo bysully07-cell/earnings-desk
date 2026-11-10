@@ -241,6 +241,7 @@
   .range .pin.now { top: 34px; } .range .pin.now::before { height: 80px; background: var(--ink); }
   .range .lbl { position: absolute; z-index: 1; background: var(--card); padding: 0 4px; white-space: nowrap; font-size: 12px; font-weight: 800; line-height: 1.25; }
   .range .lbl small { display: block; font-size: 11px; color: var(--ink-3); font-weight: 600; }
+  .range.mean-only { height: 110px; }
   .range .lbl.top { top: 0; } .range .lbl.mid { top: 50px; } .range .lbl.bot { top: 112px; }
 
   .error { color: var(--loss); }
@@ -591,7 +592,7 @@ function renderTable() {
       <td>${dayChg(r)}</td>
       <td>${money(r.market_cap)}</td>
       <td>${r.rating ? `<span class="t-rating">${rpill(r.rating.consensus, ratingTitle(r.rating))}${rbar(r.rating.counts)}</span>` : `<span class="na">—</span>`}</td>
-      <td title="${r.target ? `Mean target ${price(r.target.mean)}, as of ${r.target.as_of}` : ""}">${r.target ? signed(upsideOf(r)) : `<span class="na">—</span>`}</td>
+      <td title="${r.target ? `Mean target ${price(r.target.mean)}${r.target.high == null ? " (mean target only)" : `, range ${price(r.target.low)}–${price(r.target.high)}`}, ${TARGET_SOURCES[r.target.source] || ""}, as of ${r.target.as_of}` : ""}">${r.target ? signed(upsideOf(r)) : `<span class="na">—</span>`}</td>
       <td>${money(r.revenue)}</td>
       <td>${signed(r.revenue_yoy)}</td>
       <td>${eps(r.eps_diluted)}</td>
@@ -676,7 +677,7 @@ function renderDetail(r, c) {
     ${q ? tile(`Revenue · ${q.fiscal_period}`, money(q.revenue), `${signed(yoyOf(qs, i, "revenue"))} YoY`) : ""}
     ${q ? tile("Operating margin", pct(ratio(q.operating_income, q.revenue)), "") : ""}
     ${r.rating ? tile("Analyst consensus", rpill(r.rating.consensus), `${r.rating.analysts} analysts · avg ${r.rating.score} of 5`) : ""}
-    ${r.target ? tile("Mean price target", price(r.target.mean), `${signed(upsideOf(r))} vs. current price`) : ""}
+    ${r.target ? tile("Mean price target", price(r.target.mean), `${signed(upsideOf(r))} vs. current price${r.target.high == null ? " · mean target only" : ` · range ${dollars(r.target.low)}–${dollars(r.target.high)}`}`) : ""}
   </div>`;
   h += analystSection(r, c);
 
@@ -716,7 +717,7 @@ function analystSection(r, c) {
   let h = "";
   const months = (c.ratings || []).slice().reverse();      // oldest first, so it reads as a trend
   if (months.length) {
-    h += `<h3 class="d-section">Analyst ratings, last ${months.length} months</h3>
+    h += `<h3 class="d-section">Analyst ratings, ${months.length === 1 ? "latest month" : `last ${months.length} months`}</h3>
       <div class="legend">${RATINGS.map(([, name, cls]) => `<span><i class="${cls}"></i>${name}</span>`).join("")}</div>
       <div class="trend">${months.map((m) => {
         const counts = RATINGS.map(([k]) => m[k] || 0);
@@ -727,10 +728,11 @@ function analystSection(r, c) {
   }
   const t = c.price_target;
   if (t?.mean) {
-    const srcName = TARGET_SOURCES[t.source] || t.source, info = INDEX.sources?.price_targets || {};
-    const asOf = t.source === info.source && info.as_of_kind === "retrieved" ? `consensus as of ${t.as_of}` : `as of ${t.as_of}`;
-    h += `<h3 class="d-section">Analyst price target</h3>` + targetRange(r.price, t) +
-      `<p class="src">Source: ${esc(srcName)} consensus price target, ${esc(asOf)}.${t.high == null ? " This source gives the mean target only, not the high/low range." : ""} Upside compares the mean target with the latest price.</p>`;
+    const srcName = TARGET_SOURCES[t.source] || t.source, meanOnly = t.high == null || t.low == null;
+    // Finnhub dates its consensus; FMP and Alpha Vantage don't, so the date is when we fetched it.
+    const asOf = t.source === "finnhub" ? `last updated ${t.as_of}` : `consensus as of ${t.as_of}`;
+    h += `<h3 class="d-section">Analyst price target${meanOnly ? ` <span class="chip" style="vertical-align:middle">Mean target only</span>` : ""}</h3>` + targetRange(r.price, t) +
+      `<p class="src">Source: ${esc(srcName)}, ${esc(asOf)}.${meanOnly ? ` ${esc(srcName)} gives the mean target only, so there's no high/low range for ${esc(r.ticker)}.` : ""} Upside compares the mean target with the latest price.</p>`;
   } else if (c.price_target_checked) {
     h += `<h3 class="d-section">Analyst price target</h3><p class="src">No price target available for ${esc(r.ticker)} (checked ${esc(c.price_target_checked)}).</p>`;
   }
@@ -747,7 +749,7 @@ function targetRange(now, t) {
     return `<span class="lbl ${row}" style="left:${p}%;transform:translateX(${shift});text-align:${align}">${price(v)}<small>${name}</small></span>`;
   };
   const up = upsideOf({ target: t, price: now });
-  let h = `<div class="range" role="img" aria-label="Price target ${t.low != null ? `range ${price(t.low)} to ${price(t.high)}, ` : ""}mean ${price(t.mean)}; current price ${price(now)}">
+  let h = `<div class="range${t.low == null || t.high == null ? " mean-only" : ""}" role="img" aria-label="Price target ${t.low != null ? `range ${price(t.low)} to ${price(t.high)}, ` : ""}mean ${price(t.mean)}; current price ${price(now)}">
     <div class="track"></div>`;
   if (t.low != null && t.high != null) {
     h += `<div class="band" style="left:${at(t.low)}%;width:${at(t.high) - at(t.low)}%"></div>`;
@@ -809,9 +811,12 @@ function applyIndex(idx) {
   $("#prices-at").textContent = idx.prices_updated_at
     ? `${closed ? "Closing prices" : "Prices"} as of ${fmt(idx.prices_updated_at)}${closed ? " · live every 30 min, 9:30am–4pm ET" : ""}`
     : "Prices update every 30 min in market hours";
-  const pt = idx.sources?.price_targets;
-  $("#src-targets").innerHTML = pt?.label
-    ? `Price targets: <a href="${esc(pt.url)}">${esc(pt.label)}</a> consensus${pt.daily_cap ? `, refreshed on a rotation (${pt.daily_cap} companies a day, oldest first)` : ""}; each target shows its as-of date.`
+  const used = idx.sources?.price_targets?.sources || [];
+  const describe = (s) => `<a href="${esc(s.url)}">${esc(s.label)}</a>${s.has_range ? " (mean, high and low)" : " (mean target only)"}`;
+  $("#src-targets").innerHTML = used.length === 1
+    ? `Price targets: ${describe(used[0])}${used[0].daily_cap ? `, refreshed on a rotation of up to ${used[0].daily_cap} a day, oldest first` : ""}; each target shows its as-of date.`
+    : used.length > 1
+    ? `Price targets: ${describe(used[0])} for the tickers its free plan covers, ${describe(used[1])} for the rest, each refreshed on an oldest-first rotation under its daily limit; each target shows its source and as-of date.`
     : "Price targets: no source available yet.";
   const industries = [...new Set(ROWS.map((r) => r.industry).filter(Boolean))].sort();
   $("#f-industry").innerHTML = `<option value="">All industries</option>` + industries.map((x) => `<option${x === state.industry ? " selected" : ""}>${esc(x)}</option>`).join("");

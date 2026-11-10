@@ -54,10 +54,11 @@ Set `UNIVERSE: all` in both workflows' `env` (or export it locally). `universe.p
 
 ## Analyst ratings and price targets
 - **Ratings**: Finnhub `/stock/recommendation` (free), refreshed daily for every company. Consensus = average on a 1 (Strong Buy) to 5 (Strong Sell) scale; ≤1.5 Strong Buy, ≤2.5 Buy, ≤3.5 Hold, otherwise Sell.
-- **Price targets**: each daily run tests the sources in order and uses the first that returns a target:
-  1. Finnhub `/stock/price-target`: premium-only (the free plan answers 403).
-  2. Financial Modeling Prep `price-target-consensus` (`FMP_API_KEY`): free plan 250 calls/day, so the job refreshes 240 companies a day, oldest first (every company about every 2 trading days). Mean, median, high and low.
-  3. Alpha Vantage `OVERVIEW` → `AnalystTargetPrice` (only if `ALPHAVANTAGE_API_KEY` is set): free plan 25 calls/day, mean only, so a full rotation takes ~4 weeks.
+- **Price targets**: two free sources, split by ticker (Finnhub's own endpoint is premium-only; it is re-tested once a day in case the plan changes):
+  1. Financial Modeling Prep `price-target-consensus` (`FMP_API_KEY`) for the tickers its free plan covers (a sample of popular names). Mean, median, high and low. Free plan: 250 calls/day; the job uses at most 240. Tickers FMP doesn't cover are remembered and re-checked monthly, so daily calls go to covered tickers.
+  2. Alpha Vantage `OVERVIEW` → `AnalystTargetPrice` (`ALPHAVANTAGE_API_KEY`) for everything else, oldest first. Free plan: 25 calls/day; the job uses at most 24, so a full pass over the uncovered tickers takes about 20 trading days. Mean target only; the site says "Mean target only".
+  - Calls per source per day are counted in `index.json` (`sources.price_targets.usage`), so a second manual run on the same day can't go over either limit.
+  - `store.py` refuses to write any data file that contains an API key value.
 - Each target stores its source and as-of date; upside = mean target ÷ latest price − 1, computed in the browser so it moves with the 30-minute prices.
 
 ## Data notes

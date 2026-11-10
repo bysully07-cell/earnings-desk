@@ -9,9 +9,9 @@ fetch_data.py: the daily pipeline. Runs once each weekday morning in GitHub Acti
   3. finnhub.py    EPS actual vs. analyst estimate (beat/miss), logos, shares
                    outstanding and analyst rating counts. Rate-limited to stay
                    under 60 requests/minute.
-  4. targets.py    Analyst price targets from the first source that works on our
-                   plan (Finnhub, then FMP, then Alpha Vantage), on a rotation
-                   when the source has a daily cap.
+  4. targets.py    Analyst price targets: Finnhub if the plan allows it, otherwise
+                   FMP for the tickers its free plan covers and Alpha Vantage for
+                   the rest, each on an oldest-first rotation under its daily cap.
   5. store.py      Write data/companies/<TICKER>.json and data/index.json.
 
 Prices are handled separately by update_prices.py (every 30 minutes in market hours).
@@ -108,6 +108,7 @@ def main() -> int:
             "ratings_checked": old.get("ratings_checked"),
             "price_target": old.get("price_target"),
             "price_target_checked": old.get("price_target_checked"),
+            "target_sources": old.get("target_sources") or _bootstrap_target_sources(old),
         }
         if n % 100 == 0:
             print(f"  SEC: {n}/{len(targets)} done ({time.time() - started:.0f}s)")
@@ -162,7 +163,7 @@ def main() -> int:
     else:
         print("FINNHUB_API_KEY not set: keeping previous logos, EPS estimates and ratings.")
 
-    # --- 3. Price targets: test sources in order, rotate oldest-first under the daily cap
+    # --- 3. Price targets: FMP where it covers the ticker, Alpha Vantage for the rest
     target_info = refresh_targets(companies, members, previous_info=store.read_index().get("sources", {}).get("price_targets"))
 
     # --- 4. Write files
@@ -224,70 +225,169 @@ def main() -> int:
     return 0 if len(errors) < max(5, len(targets) // 10) else 1
 
 
-def refresh_targets(companies: dict, members: dict, previous_info: dict | None) -> dict:
-    """Pick the first price-target source that works today, then refresh as many
-    companies as its daily cap allows, oldest-checked first (once per CIK)."""
-    today = date.today().isoformat()
-    src, tested, probe = targets.choose()
-    for t in tested:
-        print(f"Price targets: {t['label']}: {t['result']}")
-    if not src:
-        print("Price targets: no source available; keeping previous targets.")
-        info = dict(previous_info or {})
-        info.update(tested=tested, checked=today, active=False)
-        return info
+NOT_COVERED_RECHECK_DAYS = 30   # re-ask FMP about a ticker it didn't cover once a month
 
-    def save(t, got):
-        cik = members[t]["cik"]
-        for u, c in companies.items():          # share classes (GOOG/GOOGL) get the same company target
-            if members[u]["cik"] == cik:
-                c["price_target"] = {**got, "source": src.name} if got else None
+
+def _bootstrap_target_sources(old: dict) -> dict:
+    """Files written before per-source tracking: an empty FMP check means 'not covered'."""
+    pt, checked = old.get("price_target"), old.get("price_target_checked")
+    if not checked:
+        return {}
+    if pt and pt.get("source") == "fmp":
+        return {"fmp": {"status": "covered", "checked": checked}}
+    if not pt:
+        return {"fmp": {"status": "not_covered", "checked": checked}}
+    return {}
+
+
+def refresh_targets(companies: dict, members: dict, previous_info: dict | None) -> dict:
+    """Price targets, one call per company (share classes share a target).
+
+    1. Finnhub /stock/price-target, if this plan ever allows it: then it covers everyone.
+    2. Otherwise FMP for every ticker its free plan covers. Tickers it doesn't cover are
+       remembered and re-checked monthly, so the 240 daily calls go to covered tickers.
+    3. Alpha Vantage (mean target only) for the tickers FMP doesn't cover, oldest first.
+    Calls per source per day are counted in index.json, so a second run on the same day
+    can't push a source over its daily cap.
+    """
+    today = date.today().isoformat()
+    recheck_before = (date.today() - timedelta(days=NOT_COVERED_RECHECK_DAYS)).isoformat()
+    prev = previous_info or {}
+    used = prev.get("usage", {}) if prev.get("usage", {}).get("date") == today else {}
+    usage = {"date": today, "fmp": used.get("fmp", 0), "alphavantage": used.get("alphavantage", 0)}
+
+    groups: dict[int, list[str]] = {}
+    for t in companies:
+        groups.setdefault(members[t]["cik"], []).append(t)
+    lead = {cik: ts[0] for cik, ts in groups.items()}       # the ticker we ask about
+    meta = lambda cik: companies[lead[cik]]["target_sources"]  # noqa: E731
+
+    def save(cik, src_name, got, status=None):
+        m = {**meta(cik), src_name: {"status": status or ("covered" if got else "no_target"), "checked": today}}
+        for t in groups[cik]:
+            c = companies[t]
+            c["target_sources"] = m
+            if got:
+                c["price_target"] = {**got, "source": src_name}
+                c["price_target_checked"] = today
+            elif (c.get("price_target") or {}).get("source") == src_name:
+                c["price_target"] = None                       # this source dropped its coverage
                 c["price_target_checked"] = today
 
-    if targets.PROBE_SYMBOL in companies:
-        save(targets.PROBE_SYMBOL, probe)
-    cap = (src.daily_cap - 1) if src.daily_cap else None    # the probe used one call
-    if src.name == "finnhub":
-        cap = None                                           # bounded by the Finnhub run below
-    done_ciks = {members[targets.PROBE_SYMBOL]["cik"]} if targets.PROBE_SYMBOL in members else set()
-    order = sorted(companies, key=lambda t: companies[t].get("price_target_checked") or "")
-    fetched = empty = 0
-    stopped = ""
-    for t in order:
-        cik = members[t]["cik"]
-        if cik in done_ciks:
-            continue
-        if cap is not None and len(done_ciks) - 1 >= cap:
-            stopped = f"daily cap of {src.daily_cap} calls reached"
-            break
-        if src.name == "finnhub" and finnhub.calls >= FINNHUB_DAILY_BUDGET:
-            stopped = "Finnhub daily budget used up"
-            break
-        done_ciks.add(cik)
-        try:
-            got = src.fetch(t)
-        except targets.LimitReached as e:
-            stopped = str(e)
-            break
-        except targets.NoAccess as e:
-            if "key" in str(e):
-                stopped = str(e)
+    tested, sources_used = [], []
+
+    def run(src, ciks: list[int], cap: int | None) -> dict:
+        """Fetch targets for ciks in order until the cap or a hard stop. Returns stats."""
+        st = {"refreshed": 0, "not_covered": 0, "no_target": 0, "errors": 0, "stopped": ""}
+        for cik in ciks:
+            if cap is not None and usage.get(src.name, 0) >= cap:
+                st["stopped"] = f"daily cap of {cap} calls reached"
                 break
-            save(t, None)                                    # symbol not on this plan: move on
-            print(f"  target {t}: {e}", file=sys.stderr)
-            continue
-        except targets.SourceError as e:
-            print(f"  target {t}: {e}", file=sys.stderr)
-            companies[t]["price_target_checked"] = today      # keep the old target; don't retry it first tomorrow
-            continue
-        save(t, got)
-        fetched += got is not None
-        empty += got is None
-    have = sum(1 for c in companies.values() if c.get("price_target"))
-    print(f"Price targets via {src.label}: {fetched + (probe is not None)} refreshed, {empty} without coverage"
-          f"{'; stopped: ' + stopped if stopped else ''}. {have} of {len(companies)} tickers have a target.")
-    return {**targets.describe(src), "tested": tested, "checked": today, "active": True,
-            "refreshed_today": fetched + 1, "with_target": have}
+            if src.name == "finnhub" and finnhub.calls >= FINNHUB_DAILY_BUDGET:
+                st["stopped"] = "Finnhub daily budget used up"
+                break
+            usage[src.name] = usage.get(src.name, 0) + 1
+            try:
+                got = src.fetch(lead[cik])
+            except targets.LimitReached as e:
+                st["stopped"] = str(e)
+                usage[src.name] = cap or usage[src.name]           # the source says we're out for today
+                break
+            except targets.NoAccess as e:
+                if "key" in str(e):
+                    st["stopped"] = str(e)
+                    break
+                save(cik, src.name, None, "not_covered")           # plan doesn't include this symbol
+                st["not_covered"] += 1
+                continue
+            except targets.SourceError as e:
+                print(f"  target {lead[cik]} ({src.label}): {e}", file=sys.stderr)
+                st["errors"] += 1
+                continue
+            if got:
+                save(cik, src.name, got)
+                st["refreshed"] += 1
+            elif src.name == "fmp":
+                save(cik, src.name, None, "not_covered")           # free plan answers [] for symbols it doesn't cover
+                st["not_covered"] += 1
+            else:
+                save(cik, src.name, None)
+                st["no_target"] += 1
+        return st
+
+    def log(src, st, note=""):
+        parts = [f"{st['refreshed']} refreshed"]
+        if st["not_covered"]:
+            parts.append(f"{st['not_covered']} not covered by this plan")
+        if st["no_target"]:
+            parts.append(f"{st['no_target']} without a target")
+        if st["errors"]:
+            parts.append(f"{st['errors']} errors")
+        if st["stopped"]:
+            parts.append(f"stopped: {st['stopped']}")
+        result = ("ok: " if st["refreshed"] else "") + ", ".join(parts) + note
+        tested.append({"source": src.name, "label": src.label, "result": result})
+        print(f"Price targets, {src.label}: {result}")
+
+    def skip(src, why):
+        tested.append({"source": src.name, "label": src.label, "result": why})
+        print(f"Price targets, {src.label}: {why}")
+
+    by_age = lambda name: sorted(groups, key=lambda cik: (meta(cik).get(name) or {}).get("checked") or "")  # noqa: E731
+
+    # 1. Finnhub: one test call; if it works it covers everyone.
+    fh = targets.FinnhubTargets()
+    fh_ok = False
+    if not fh.enabled():
+        skip(fh, "skipped: no FINNHUB_API_KEY secret")
+    else:
+        try:
+            fh.fetch(targets.PROBE_SYMBOL)
+            fh_ok = True
+        except (targets.NoAccess, targets.LimitReached, targets.SourceError) as e:
+            skip(fh, str(e))
+    if fh_ok:
+        st = run(fh, by_age("finnhub"), None)
+        log(fh, st)
+        sources_used.append(fh)
+    else:
+        # 2. FMP for covered (or not-yet-checked) tickers; not-covered ones only monthly.
+        fmp = targets.FmpTargets()
+        fmp_works = False
+        if not fmp.enabled():
+            skip(fmp, "skipped: no FMP_API_KEY secret")
+        else:
+            def fmp_due(cik):
+                f = meta(cik).get("fmp") or {}
+                return f.get("status") != "not_covered" or (f.get("checked") or "") < recheck_before
+            st = run(fmp, [cik for cik in by_age("fmp") if fmp_due(cik)], fmp.daily_cap)
+            fmp_works = bool(st["refreshed"]) or any((meta(c).get("fmp") or {}).get("status") == "covered" for c in groups)
+            log(fmp, st)
+            if fmp_works:
+                sources_used.append(fmp)
+
+        # 3. Alpha Vantage for everything FMP can't cover (or everyone, if FMP isn't usable).
+        av = targets.AlphaVantageTargets()
+        if not av.enabled():
+            skip(av, "skipped: no ALPHAVANTAGE_API_KEY secret")
+        else:
+            def needs_av(cik):
+                return not fmp_works or (meta(cik).get("fmp") or {}).get("status") == "not_covered"
+            st = run(av, [cik for cik in by_age("alphavantage") if needs_av(cik)], av.daily_cap)
+            log(av, st)
+            if st["refreshed"] or any(((companies[lead[c]].get("price_target") or {}).get("source") == "alphavantage") for c in groups):
+                sources_used.append(av)
+
+    from collections import Counter
+    by_source = Counter((c.get("price_target") or {}).get("source") for c in companies.values() if c.get("price_target"))
+    print(f"Price targets: {sum(by_source.values())} of {len(companies)} tickers have one {dict(by_source)}; calls today {usage}")
+    return {
+        "sources": [targets.describe(s) for s in sources_used],
+        "tested": tested,
+        "usage": usage,
+        "checked": today,
+        "with_target": dict(by_source),
+    }
 
 
 if __name__ == "__main__":

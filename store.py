@@ -14,6 +14,7 @@ reads like a table of what changed.
 from __future__ import annotations
 
 import json
+import os
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -23,6 +24,17 @@ COMPANY_DIR = DATA_DIR / "companies"
 INDEX_PATH = DATA_DIR / "index.json"
 
 INDEX_NAMES = {"SPX": "S&P 500", "NDX": "Nasdaq-100"}
+
+# Every data file is published on the website. As a last line of defence, refuse
+# to write one that contains the value of any API key from the environment.
+SECRET_ENVS = ("FINNHUB_API_KEY", "FMP_API_KEY", "ALPHAVANTAGE_API_KEY")
+
+
+def _assert_no_secrets(text: str, where: Path) -> None:
+    for name in SECRET_ENVS:
+        value = os.environ.get(name, "")
+        if len(value) >= 8 and value in text:
+            raise RuntimeError(f"refusing to write {where.name}: it contains the {name} value")
 
 
 def now_iso() -> str:
@@ -46,8 +58,10 @@ def write_index(index: dict) -> None:
     rows = index.pop("companies")
     head = json.dumps(index, separators=(",", ":"))[:-1]   # drop the closing brace
     body = ",\n".join(json.dumps(r, separators=(",", ":")) for r in rows)
+    text = f'{head},"companies":[\n{body}\n]}}\n'
+    _assert_no_secrets(text, INDEX_PATH)
     INDEX_PATH.parent.mkdir(parents=True, exist_ok=True)
-    INDEX_PATH.write_text(f'{head},"companies":[\n{body}\n]}}\n')
+    INDEX_PATH.write_text(text)
     index["companies"] = rows
 
 
@@ -63,7 +77,9 @@ def read_company(ticker: str) -> dict | None:
 
 def write_company(ticker: str, data: dict) -> None:
     COMPANY_DIR.mkdir(parents=True, exist_ok=True)
-    company_path(ticker).write_text(json.dumps(data, indent=1) + "\n")
+    text = json.dumps(data, indent=1) + "\n"
+    _assert_no_secrets(text, company_path(ticker))
+    company_path(ticker).write_text(text)
 
 
 def market_cap(row: dict) -> float | None:

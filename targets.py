@@ -1,15 +1,17 @@
 """
 targets.py: analyst price targets, from the first source that works on our plan.
 
-Sources are tried in this order every daily run (one test call each, on AAPL):
-  1. Finnhub /stock/price-target         (FINNHUB_API_KEY; premium-only on Finnhub)
-  2. Financial Modeling Prep consensus    (FMP_API_KEY; free plan: 250 calls/day)
+Sources (fetch_data.refresh_targets decides who gets which):
+  1. Finnhub /stock/price-target         (FINNHUB_API_KEY; premium-only on Finnhub,
+                                          tested once a day in case the plan changes)
+  2. Financial Modeling Prep consensus    (FMP_API_KEY; free plan: 250 calls/day, and
+                                          only a sample of popular tickers)
   3. Alpha Vantage OVERVIEW               (ALPHAVANTAGE_API_KEY; free plan: 25 calls/day,
-     AnalystTargetPrice                    mean target only)
+     AnalystTargetPrice                    mean target only) for tickers FMP doesn't cover
 No Yahoo Finance, no scraping.
 
-A source with a daily cap refreshes targets on a rotation, oldest first, and
-every target keeps its own "as_of" date and source name.
+Capped sources refresh on an oldest-first rotation, and every target keeps its
+own "as_of" date and source name.
 
 Keys travel in query strings, so error text from requests (which can include
 the URL) never leaves this module: callers only see the messages written here.
@@ -79,7 +81,7 @@ class _Http:
 class FinnhubTargets:
     name, label, url = "finnhub", "Finnhub", "https://finnhub.io"
     key_env, daily_cap = "FINNHUB_API_KEY", None      # shares the Finnhub daily budget instead
-    has_range, as_of_kind = True, "last updated by Finnhub"
+    has_range = True
 
     def enabled(self) -> bool:
         return finnhub.enabled()
@@ -96,7 +98,7 @@ class FinnhubTargets:
 class FmpTargets:
     name, label, url = "fmp", "Financial Modeling Prep", "https://site.financialmodelingprep.com"
     key_env, daily_cap = "FMP_API_KEY", 240           # free plan: 250/day; keep 10 spare for manual tests
-    has_range, as_of_kind = True, "retrieved"
+    has_range = True
     ENDPOINT = "https://financialmodelingprep.com/stable/price-target-consensus"
 
     def __init__(self):
@@ -130,7 +132,7 @@ class FmpTargets:
 class AlphaVantageTargets:
     name, label, url = "alphavantage", "Alpha Vantage", "https://www.alphavantage.co"
     key_env, daily_cap = "ALPHAVANTAGE_API_KEY", 24   # free plan: 25/day
-    has_range, as_of_kind = False, "retrieved"
+    has_range = False
     ENDPOINT = "https://www.alphavantage.co/query"
 
     def __init__(self):
@@ -165,35 +167,9 @@ class AlphaVantageTargets:
 SOURCES = [FinnhubTargets, FmpTargets, AlphaVantageTargets]
 
 
-def choose() -> tuple[object | None, list[dict], dict | None]:
-    """Test each source in order on PROBE_SYMBOL. Returns (source, test log, probe result)."""
-    tested = []
-    for cls in SOURCES:
-        src = cls()
-        entry = {"source": src.name, "label": src.label}
-        if not src.enabled():
-            entry["result"] = f"skipped: no {src.key_env} secret"
-            tested.append(entry)
-            continue
-        try:
-            got = src.fetch(PROBE_SYMBOL)
-        except (NoAccess, LimitReached, SourceError) as e:
-            entry["result"] = str(e)
-            tested.append(entry)
-            continue
-        if not got:
-            entry["result"] = f"no target returned for {PROBE_SYMBOL}"
-            tested.append(entry)
-            continue
-        entry["result"] = "ok"
-        tested.append(entry)
-        return src, tested, got
-    return None, tested, None
-
-
 def describe(src) -> dict:
     return {"source": src.name, "label": src.label, "url": src.url, "daily_cap": src.daily_cap,
-            "has_range": src.has_range, "as_of_kind": src.as_of_kind}
+            "has_range": src.has_range}
 
 
 def log(msg: str) -> None:
