@@ -70,3 +70,22 @@ def market_cap(row: dict) -> float | None:
     if row.get("price") and row.get("shares_m"):
         return round(row["price"] * row["shares_m"] * 1e6)
     return None
+
+
+# ---------- analyst ratings ----------
+RATING_KEYS = ("strong_buy", "buy", "hold", "sell", "strong_sell")
+
+
+def consensus(month: dict | None) -> dict | None:
+    """Average rating on a 1-5 scale (1 = Strong Buy, 5 = Strong Sell), the usual
+    way brokers' votes are combined, then bucketed into a label:
+    <=1.5 Strong Buy, <=2.5 Buy, <=3.5 Hold, otherwise Sell."""
+    if not month:
+        return None
+    counts = [month.get(k) or 0 for k in RATING_KEYS]
+    n = sum(counts)
+    if not n:
+        return None
+    score = sum(w * c for w, c in zip(range(1, 6), counts)) / n
+    label = "Strong Buy" if score <= 1.5 else "Buy" if score <= 2.5 else "Hold" if score <= 3.5 else "Sell"
+    return {"score": round(score, 2), "consensus": label, "analysts": n}

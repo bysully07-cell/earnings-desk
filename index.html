@@ -25,6 +25,8 @@
     --flat-bg: #fbf1dc;
     --accent: #1f5eff;
     --bar: #2f6bff;
+    /* analyst ratings: a diverging scale, green (buy) -> gray (hold) -> red (sell) */
+    --r-sb: #0a7d55; --r-b: #5cb88f; --r-h: #c3c8d1; --r-s: #ec8c83; --r-ss: #c2362f;
     --radius: 20px;
     --tape-h: 38px;
     --shadow: 0 1px 2px rgba(15,20,25,.04), 0 4px 16px rgba(15,20,25,.04);
@@ -199,6 +201,46 @@
   .filings .when { color: var(--ink-3); font-size: 12px; white-space: nowrap; }
   .amend { font-size: 11px; font-weight: 700; color: var(--flat); margin-left: 4px; }
 
+  /* ---------- Analyst ratings + price targets ---------- */
+  .rpill { display: inline-flex; align-items: center; flex: none; font-size: 11px; font-weight: 800; padding: 3px 9px; border-radius: 999px; white-space: nowrap; }
+  .rpill.strong-buy { background: var(--gain); color: #fff; }
+  .rpill.buy { background: var(--gain-bg); color: var(--gain); }
+  .rpill.hold { background: #eceef2; color: var(--ink-2); }
+  .rpill.sell { background: var(--loss-bg); color: var(--loss); }
+  .rbar { display: flex; gap: 2px; height: 8px; border-radius: 4px; overflow: hidden; background: var(--card); }
+  .rbar i { display: block; min-width: 2px; }
+  .rbar i:first-child { border-radius: 4px 0 0 4px; } .rbar i:last-child { border-radius: 0 4px 4px 0; }
+  .r-sb { background: var(--r-sb); } .r-b { background: var(--r-b); } .r-h { background: var(--r-h); } .r-s { background: var(--r-s); } .r-ss { background: var(--r-ss); }
+  .co-rating { margin-top: 12px; }
+  .co-rating-top { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 7px; font-size: 12px; font-weight: 700; color: var(--ink-2); }
+  .co-rating-top .tgt { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .t-rating { display: inline-flex; flex-direction: column; align-items: center; gap: 5px; }
+  .t-rating .rbar { width: 84px; height: 6px; }
+  .legend { display: flex; flex-wrap: wrap; gap: 4px 14px; font-size: 12px; color: var(--ink-2); font-weight: 600; margin-bottom: 10px; }
+  .legend span { display: inline-flex; align-items: center; gap: 6px; }
+  .legend i { width: 10px; height: 10px; border-radius: 3px; display: inline-block; }
+  .trend { display: grid; grid-template-columns: 74px minmax(0, 1fr) auto; gap: 10px 14px; align-items: center; }
+  @media (max-width: 560px) { .trend { grid-template-columns: 58px minmax(0, 1fr) auto; gap: 10px 8px; } .trend .n-an { display: none; } }
+  .trend .m { font-size: 13px; font-weight: 700; color: var(--ink-2); }
+  .trend .rbar { height: 24px; border-radius: 6px; }
+  .trend .rbar i { display: grid; place-items: center; font-style: normal; font-size: 11px; font-weight: 800; color: #fff; overflow: hidden; }
+  .trend .rbar i.r-h, .trend .rbar i.r-b, .trend .rbar i.r-s { color: var(--ink); }
+  .trend .rbar i:first-child { border-radius: 6px 0 0 6px; } .trend .rbar i:last-child { border-radius: 0 6px 6px 0; }
+  .trend .end { display: flex; align-items: center; gap: 8px; font-size: 12px; color: var(--ink-3); font-weight: 600; white-space: nowrap; }
+  .src { font-size: 12px; color: var(--ink-3); font-weight: 600; margin-top: 10px; }
+  .src a { color: inherit; }
+  /* rows, top to bottom: current price label, mean label, the track, low/high labels */
+  .range { position: relative; height: 150px; margin: 4px 0 0; }
+  .range .track { position: absolute; left: 0; right: 0; top: 96px; height: 6px; border-radius: 3px; background: var(--line); }
+  .range .band { position: absolute; top: 96px; height: 6px; border-radius: 3px; background: var(--bar); opacity: .4; }
+  .range .pin { position: absolute; width: 0; }
+  .range .pin::before { content: ""; position: absolute; left: -2px; top: 0; width: 4px; border-radius: 2px; }
+  .range .pin.mean { top: 84px; } .range .pin.mean::before { height: 30px; background: var(--bar); }
+  .range .pin.now { top: 34px; } .range .pin.now::before { height: 80px; background: var(--ink); }
+  .range .lbl { position: absolute; z-index: 1; background: var(--card); padding: 0 4px; white-space: nowrap; font-size: 12px; font-weight: 800; line-height: 1.25; }
+  .range .lbl small { display: block; font-size: 11px; color: var(--ink-3); font-weight: 600; }
+  .range .lbl.top { top: 0; } .range .lbl.mid { top: 50px; } .range .lbl.bot { top: 112px; }
+
   .error { color: var(--loss); }
   footer { margin-top: 32px; font-size: 12px; color: var(--ink-3); line-height: 1.6; }
   footer a { color: inherit; }
@@ -244,6 +286,9 @@
       <select class="sel" id="f-result" aria-label="Filter by EPS result">
         <option value="">Any EPS result</option><option value="beat">Beat</option><option value="miss">Miss</option><option value="inline">In line</option>
       </select>
+      <select class="sel" id="f-rating" aria-label="Filter by analyst consensus">
+        <option value="">Any analyst rating</option><option>Strong Buy</option><option>Buy</option><option>Hold</option><option>Sell</option>
+      </select>
       <span class="count" id="count"></span>
     </div>
     <div class="scroll">
@@ -253,6 +298,8 @@
           <th data-key="price"><button>Price <span class="arrow">↕</span></button></th>
           <th data-key="change_pct"><button>Day <span class="arrow">↕</span></button></th>
           <th data-key="market_cap"><button>Mkt cap <span class="arrow">↕</span></button></th>
+          <th data-key="rating"><button title="Analyst consensus; sorts most bullish first">Rating <span class="arrow">↕</span></button></th>
+          <th data-key="upside"><button title="Mean analyst price target vs. current price">Upside <span class="arrow">↕</span></button></th>
           <th data-key="revenue"><button>Revenue (qtr) <span class="arrow">↕</span></button></th>
           <th data-key="revenue_yoy"><button>YoY <span class="arrow">↕</span></button></th>
           <th data-key="eps_diluted"><button>EPS <span class="arrow">↕</span></button></th>
@@ -269,7 +316,10 @@
     Fundamentals: <a href="https://www.sec.gov/edgar/sec-api-documentation">SEC EDGAR</a> bulk XBRL data, GAAP figures as filed, refreshed each weekday morning.
     <span class="derived">◆</span> marks a value computed rather than read directly (e.g. Q4 = annual 10-K figure minus Q1–Q3).
     Prices, logos and EPS estimates: <a href="https://finnhub.io">Finnhub</a>; prices refresh every 30 minutes during US market hours.
-    Beat/miss compares Finnhub's reported EPS (usually adjusted) with the analyst consensus. Index lists from Wikipedia. Not investment advice.
+    Beat/miss compares Finnhub's reported EPS (usually adjusted) with the analyst consensus. Index lists from Wikipedia.
+    <span id="src-ratings">Analyst ratings: <a href="https://finnhub.io">Finnhub</a> monthly recommendation counts.</span>
+    <span id="src-targets"></span>
+    <br><strong>For educational purposes only. Not investment advice.</strong>
   </footer>
 </div>
 
@@ -292,7 +342,7 @@
 const $ = (s) => document.querySelector(s);
 const TAPE_SIZE = 50, PAGE = 50, FEATURED = 10;
 let INDEX = null, ROWS = [], BY_T = {}, NOTES = {};
-const state = { index: "ALL", industry: "", result: "", sort: { key: "market_cap", dir: -1 }, shown: PAGE };
+const state = { index: "ALL", industry: "", result: "", rating: "", sort: { key: "market_cap", dir: -1 }, shown: PAGE };
 const companyCache = new Map();
 
 // ---------- formatting ----------
@@ -325,6 +375,23 @@ const badge = (kind, title) => kind && BADGE[kind] ? `<span class="badge ${kind}
 // notes.json can still override an automatic result for a given fiscal quarter.
 const resultOf = (r) => (NOTES[r.ticker] || {})[r.fiscal_period]?.result || r.eps_surprise?.result || null;
 const surpriseTitle = (s) => s ? `EPS ${eps(s.actual)} vs. ${eps(s.estimate)} est. (quarter ending ${s.period})` : "";
+
+// ---------- analyst ratings + price targets ----------
+const RATINGS = [["strong_buy", "Strong Buy", "r-sb"], ["buy", "Buy", "r-b"], ["hold", "Hold", "r-h"], ["sell", "Sell", "r-s"], ["strong_sell", "Strong Sell", "r-ss"]];
+const TARGET_SOURCES = { finnhub: "Finnhub", fmp: "Financial Modeling Prep", alphavantage: "Alpha Vantage" };
+const slug = (label) => label.toLowerCase().replace(" ", "-");
+const rpill = (label, title) => label ? `<span class="rpill ${slug(label)}"${title ? ` title="${esc(title)}"` : ""}>${label}</span>` : "";
+const countsText = (counts) => RATINGS.map(([, name], i) => `${counts[i]} ${name}`).join(", ");
+function rbar(counts, withNumbers = false) {
+  const n = counts.reduce((a, b) => a + b, 0);
+  if (!n) return "";
+  return `<div class="rbar" role="img" aria-label="${n} analysts: ${countsText(counts)}" title="${countsText(counts)}">${
+    counts.map((c, i) => c ? `<i class="${RATINGS[i][2]}" style="flex:${c}">${withNumbers && c / n >= 0.06 ? c : ""}</i>` : "").join("")}</div>`;
+}
+const monthName = (p) => new Date(p + "T00:00:00").toLocaleDateString(undefined, { month: "short", year: "numeric" });
+const dollars = (v) => v == null ? "—" : `$${Math.round(v).toLocaleString()}`;
+const upsideOf = (r) => r.target?.mean && r.price ? r.target.mean / r.price - 1 : null;
+const ratingTitle = (rt) => rt ? `${rt.analysts} analysts, ${monthName(rt.period)} · average ${rt.score} on a 1 (Strong Buy) to 5 (Strong Sell) scale` : "";
 
 // ---------- logos (lettered circle if missing or broken) ----------
 function logoHTML(r) {
@@ -444,7 +511,7 @@ function renderSummary() {
 
 function renderFeatured() {
   $("#featured").innerHTML = featuredRows().map((r) => `
-    <button class="card co" data-t="${r.ticker}" aria-label="${r.ticker}, ${esc(r.name)}">
+    <button class="card co" data-t="${r.ticker}" aria-label="${r.ticker}, ${esc(r.name)}${r.rating ? `, analysts: ${r.rating.consensus}` : ""}">
       <div class="co-head">
         ${logoHTML(r)}
         <div class="co-id"><div class="co-ticker">${r.ticker}</div><div class="co-name">${esc(r.name)}</div></div>
@@ -456,6 +523,10 @@ function renderFeatured() {
         <div class="stat"><div class="k">YoY</div><div class="v">${signed(r.revenue_yoy)}</div></div>
         <div class="stat"><div class="k">EPS</div><div class="v">${eps(r.eps_diluted)}</div></div>
       </div>
+      ${r.rating || r.target ? `<div class="co-rating">
+        <div class="co-rating-top">${r.rating ? rpill(r.rating.consensus, ratingTitle(r.rating)) : `<span class="na">No ratings</span>`}
+          <span class="tgt">${r.target ? `Target ${dollars(r.target.mean)} ${signed(upsideOf(r))}` : ""}</span></div>
+        ${r.rating ? rbar(r.rating.counts) : ""}</div>` : ""}
       <span class="co-q">${r.fiscal_period ? `${r.fiscal_period} · ended ${r.period_end}` : "No US-GAAP quarterly data"}</span>
     </button>`).join("");
 }
@@ -468,15 +539,19 @@ document.querySelectorAll(".pill-btn[data-index]").forEach((b) => b.addEventList
 }));
 $("#f-industry").addEventListener("change", (e) => { state.industry = e.target.value; state.shown = PAGE; renderTable(); });
 $("#f-result").addEventListener("change", (e) => { state.result = e.target.value; state.shown = PAGE; renderTable(); });
+$("#f-rating").addEventListener("change", (e) => { state.rating = e.target.value; state.shown = PAGE; renderTable(); });
 
 // ---------- table: everything except the featured cards, 50 rows at a time ----------
-const sortValue = (r, key) => key === "surprise" ? r.eps_surprise?.surprise_pct : r[key];
+const sortValue = (r, key) => key === "surprise" ? r.eps_surprise?.surprise_pct
+  : key === "rating" ? (r.rating ? -r.rating.score : null)      // lower score = more bullish, so negate
+  : key === "upside" ? upsideOf(r) : r[key];
 function tableRows() {
   const featured = new Set(featuredRows().map((r) => r.cik));
   const { key, dir } = state.sort;
   return ROWS.filter((r) => inIndex(r) && !featured.has(r.cik)
       && (!state.industry || r.industry === state.industry)
-      && (!state.result || resultOf(r) === state.result))
+      && (!state.result || resultOf(r) === state.result)
+      && (!state.rating || r.rating?.consensus === state.rating))
     .sort((a, b) => {
       const x = sortValue(a, key), y = sortValue(b, key);
       if (x == null && y == null) return 0;
@@ -494,13 +569,15 @@ function renderTable() {
       <td>${price(r.price)}</td>
       <td>${dayChg(r)}</td>
       <td>${money(r.market_cap)}</td>
+      <td>${r.rating ? `<span class="t-rating">${rpill(r.rating.consensus, ratingTitle(r.rating))}${rbar(r.rating.counts)}</span>` : `<span class="na">—</span>`}</td>
+      <td title="${r.target ? `Mean target ${price(r.target.mean)}, as of ${r.target.as_of}` : ""}">${r.target ? signed(upsideOf(r)) : `<span class="na">—</span>`}</td>
       <td>${money(r.revenue)}</td>
       <td>${signed(r.revenue_yoy)}</td>
       <td>${eps(r.eps_diluted)}</td>
       <td>${resultOf(r) ? `${badge(resultOf(r), surpriseTitle(s))}${sp == null ? "" : ` <span class="${sp >= 0 ? "up" : "down"}">${sp >= 0 ? "+" : "−"}${Math.abs(sp).toFixed(1)}%</span>`}` : `<span class="na">—</span>`}</td>
       <td>${r.fiscal_period || "—"}</td>
     </tr>`;
-  }).join("") || `<tr><td colspan="9" style="text-align:center;color:var(--ink-3);padding:28px">No companies match these filters.</td></tr>`;
+  }).join("") || `<tr><td colspan="11" style="text-align:center;color:var(--ink-3);padding:28px">No companies match these filters.</td></tr>`;
   $("#count").textContent = `Showing ${page.length} of ${rows.length}`;
   const left = rows.length - page.length;
   $("#more").hidden = left <= 0;
@@ -577,7 +654,10 @@ function renderDetail(r, c) {
     ${last ? tile("Latest EPS vs. est.", `${eps(last.actual)} <span style="font-size:14px">${badge(last.result)}</span>`, `est. ${eps(last.estimate)} · qtr ending ${last.period}`) : ""}
     ${q ? tile(`Revenue · ${q.fiscal_period}`, money(q.revenue), `${signed(yoyOf(qs, i, "revenue"))} YoY`) : ""}
     ${q ? tile("Operating margin", pct(ratio(q.operating_income, q.revenue)), "") : ""}
+    ${r.rating ? tile("Analyst consensus", rpill(r.rating.consensus), `${r.rating.analysts} analysts · avg ${r.rating.score} of 5`) : ""}
+    ${r.target ? tile("Mean price target", price(r.target.mean), `${signed(upsideOf(r))} vs. current price`) : ""}
   </div>`;
+  h += analystSection(r, c);
 
   if (!qs.length) {
     h += `<div class="notice">No US-GAAP quarterly figures for ${esc(r.ticker)}: ${esc(c.note || "")}. Foreign companies that report under IFRS (20-F / 40-F filers) aren't covered yet; their filings are linked below.</div>`;
@@ -608,6 +688,53 @@ function renderDetail(r, c) {
 
   $("#d-content").innerHTML = h;
   if (qs.length) renderChart(qs);
+}
+
+// ---------- detail: rating trend + price target range ----------
+function analystSection(r, c) {
+  let h = "";
+  const months = (c.ratings || []).slice().reverse();      // oldest first, so it reads as a trend
+  if (months.length) {
+    h += `<h3 class="d-section">Analyst ratings, last ${months.length} months</h3>
+      <div class="legend">${RATINGS.map(([, name, cls]) => `<span><i class="${cls}"></i>${name}</span>`).join("")}</div>
+      <div class="trend">${months.map((m) => {
+        const counts = RATINGS.map(([k]) => m[k] || 0);
+        return `<span class="m">${monthName(m.period)}</span>${rbar(counts, true)}
+          <span class="end">${rpill(m.consensus)} <span class="n-an">${m.analysts ?? 0} analysts</span></span>`;
+      }).join("")}</div>
+      <p class="src">Source: <a href="https://finnhub.io" target="_blank" rel="noopener">Finnhub</a> recommendation trends (monthly counts of brokers' ratings). Consensus = average on a 1 (Strong Buy) to 5 (Strong Sell) scale: ≤1.5 Strong Buy, ≤2.5 Buy, ≤3.5 Hold, above that Sell.</p>`;
+  }
+  const t = c.price_target;
+  if (t?.mean) {
+    const srcName = TARGET_SOURCES[t.source] || t.source, info = INDEX.sources?.price_targets || {};
+    const asOf = t.source === info.source && info.as_of_kind === "retrieved" ? `consensus as of ${t.as_of}` : `as of ${t.as_of}`;
+    h += `<h3 class="d-section">Analyst price target</h3>` + targetRange(r.price, t) +
+      `<p class="src">Source: ${esc(srcName)} consensus price target, ${esc(asOf)}.${t.high == null ? " This source gives the mean target only, not the high/low range." : ""} Upside compares the mean target with the latest price.</p>`;
+  } else if (c.price_target_checked) {
+    h += `<h3 class="d-section">Analyst price target</h3><p class="src">No price target available for ${esc(r.ticker)} (checked ${esc(c.price_target_checked)}).</p>`;
+  }
+  return h;
+}
+function targetRange(now, t) {
+  const pts = [now, t.mean, t.low, t.high].filter((v) => v != null);
+  let lo = Math.min(...pts), hi = Math.max(...pts);
+  const pad = (hi - lo) * 0.06 || hi * 0.05; lo -= pad; hi += pad;
+  const at = (v) => ((v - lo) / (hi - lo)) * 100;
+  // Labels centre on their point, but hug the edge near either end so they never spill out.
+  const lbl = (v, row, name) => {
+    const p = at(v), shift = p < 14 ? "0" : p > 86 ? "-100%" : "-50%", align = p < 14 ? "left" : p > 86 ? "right" : "center";
+    return `<span class="lbl ${row}" style="left:${p}%;transform:translateX(${shift});text-align:${align}">${price(v)}<small>${name}</small></span>`;
+  };
+  const up = upsideOf({ target: t, price: now });
+  let h = `<div class="range" role="img" aria-label="Price target ${t.low != null ? `range ${price(t.low)} to ${price(t.high)}, ` : ""}mean ${price(t.mean)}; current price ${price(now)}">
+    <div class="track"></div>`;
+  if (t.low != null && t.high != null) {
+    h += `<div class="band" style="left:${at(t.low)}%;width:${at(t.high) - at(t.low)}%"></div>`;
+    h += lbl(t.low, "bot", "Low target") + lbl(t.high, "bot", "High target");
+  }
+  h += `<span class="pin mean" style="left:${at(t.mean)}%"></span>` + lbl(t.mean, "mid", `Mean target${up == null ? "" : ` · ${up >= 0 ? "+" : "−"}${Math.abs(up * 100).toFixed(1)}%`}`);
+  if (now != null) h += `<span class="pin now" style="left:${at(now)}%"></span>` + lbl(now, "top", "Current price");
+  return h + `</div>`;
 }
 
 // ---------- revenue chart (plain SVG, one series, hover tooltip) ----------
@@ -658,6 +785,10 @@ function applyIndex(idx) {
   const fmt = (s) => new Date(s).toLocaleString(undefined, { dateStyle: "medium", timeStyle: "short" });
   $("#updated").textContent = `Fundamentals updated ${fmt(idx.generated_at)}`;
   $("#prices-at").textContent = idx.prices_updated_at ? `Prices as of ${fmt(idx.prices_updated_at)}` : "Prices update every 30 min in market hours";
+  const pt = idx.sources?.price_targets;
+  $("#src-targets").innerHTML = pt?.label
+    ? `Price targets: <a href="${esc(pt.url)}">${esc(pt.label)}</a> consensus${pt.daily_cap ? `, refreshed on a rotation (${pt.daily_cap} companies a day, oldest first)` : ""}; each target shows its as-of date.`
+    : "Price targets: no source available yet.";
   const industries = [...new Set(ROWS.map((r) => r.industry).filter(Boolean))].sort();
   $("#f-industry").innerHTML = `<option value="">All industries</option>` + industries.map((x) => `<option${x === state.industry ? " selected" : ""}>${esc(x)}</option>`).join("");
   renderAll();

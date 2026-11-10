@@ -122,6 +122,24 @@ def earnings(symbol: str) -> list[dict]:
     return sorted(out, key=lambda r: r["period"] or "")
 
 
+def recommendations(symbol: str, months: int = 4) -> list[dict]:
+    """Analyst rating counts per month, newest first (free tier). Latest month + the 3 before it."""
+    rows = get("/stock/recommendation", symbol=symbol) or []
+    rows = sorted((r for r in rows if r.get("period")), key=lambda r: r["period"], reverse=True)[:months]
+    return [{"period": r["period"], "strong_buy": r.get("strongBuy") or 0, "buy": r.get("buy") or 0,
+             "hold": r.get("hold") or 0, "sell": r.get("sell") or 0, "strong_sell": r.get("strongSell") or 0}
+            for r in rows]
+
+
+def price_target(symbol: str) -> dict | None:
+    """Consensus price target. A premium endpoint: the free plan answers 403."""
+    p = get("/stock/price-target", symbol=symbol) or {}
+    if not p.get("targetMean"):
+        return None
+    return {"mean": p["targetMean"], "high": p.get("targetHigh"), "low": p.get("targetLow"),
+            "median": p.get("targetMedian"), "as_of": (p.get("lastUpdated") or "")[:10] or None}
+
+
 def classify(actual, estimate) -> str | None:
     """Beat / miss / in line. Estimates are quoted to the cent, so 'in line' means equal to the cent."""
     if actual is None or estimate is None:

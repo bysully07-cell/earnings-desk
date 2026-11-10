@@ -1,6 +1,7 @@
 name: Update fundamentals (daily)
 
-# SEC bulk data + Finnhub EPS surprises, logos and share counts.
+# SEC bulk data + Finnhub EPS surprises, logos, share counts and analyst ratings,
+# plus price targets from the first source that works (Finnhub, FMP, Alpha Vantage).
 on:
   schedule:
     # 11:30 UTC Mon-Fri = 6:30am ET in winter, 7:30am ET in summer.
@@ -30,10 +31,12 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - name: Build data files from SEC bulk archives + Finnhub
+      - name: Build data files from SEC bulk archives + Finnhub + price-target source
         env:
           SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
           FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+          FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
+          ALPHAVANTAGE_API_KEY: ${{ secrets.ALPHAVANTAGE_API_KEY }}
         run: |
           if [ -z "$SEC_USER_AGENT" ]; then unset SEC_USER_AGENT; fi
           python fetch_data.py
