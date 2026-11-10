@@ -17,7 +17,7 @@ Finnhub quotes ─► update_prices.py (every 30 min, market hours) ────
 |---|---|
 | `universe.py` | Which companies: S&P 500 + Nasdaq-100 from Wikipedia's constituent tables, or every US-listed stock (`UNIVERSE=all`) |
 | `sec.py` | SEC data: bulk-zip or per-company API source, XBRL tag mapping, Q4 derivation, fiscal calendars, filing links |
-| `finnhub.py` | Rate-limited Finnhub client (~54 calls/min, under the 60/min free tier) |
+| `finnhub.py` | Rate-limited Finnhub client (50 calls/min, with retries and backoff, under the 60/min free tier) |
 | `fetch_data.py` | Daily pipeline: fundamentals, filings, EPS surprises, logos → data files |
 | `update_prices.py` | Price refresh into `data/index.json`, every 30 min in US market hours |
 | `store.py` | Data file layout and writers |

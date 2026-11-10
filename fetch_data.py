@@ -31,7 +31,7 @@ import sec
 import store
 import universe
 
-# Finnhub calls the daily job may spend. ~54 calls/minute, so 1,200 is ~22 minutes.
+# Finnhub calls the daily job may spend. 50 calls/minute, so 1,200 is ~24 minutes.
 # With ~520 companies everything refreshes daily; with UNIVERSE=all the job
 # rotates through companies, oldest-checked first.
 FINNHUB_DAILY_BUDGET = 1200

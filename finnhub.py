@@ -5,7 +5,7 @@ The key comes from the FINNHUB_API_KEY environment variable (a GitHub secret
 in Actions). It is only ever used server-side; the website never sees it.
 
 Free tier: 60 requests/minute. Every call goes through one throttle that
-spaces requests 1.1 s apart (~54/min), and the two workflows share a
+spaces requests 1.2 s apart (50/min), and the two workflows share a
 concurrency group, so they never run at the same time and double up.
 """
 
@@ -19,13 +19,17 @@ import requests
 
 API = "https://finnhub.io/api/v1"
 KEY = os.environ.get("FINNHUB_API_KEY", "")
-MIN_INTERVAL = 1.1      # seconds between calls -> ~54/minute, under the 60/minute cap
-MAX_RETRIES = 3
+MIN_INTERVAL = 1.2      # seconds between calls -> 50/minute, a 10-call margin under the 60/minute cap
+MAX_INTERVAL = 2.0      # a 429 nudges the interval up, to at most 30/minute
+RETRY_DELAYS = (2, 4, 8, 16)   # exponential backoff: up to 4 retries, ~30 s worst case per ticker
+RETRY_STATUS = {429, 500, 502, 503, 504}
+TIMEOUT = (5, 15)       # seconds to connect, seconds to read
 
 # Deliberately a plain session: the SEC User-Agent (which contains an email)
 # is not sent to Finnhub.
 _session = requests.Session()
 _last = 0.0
+_interval = MIN_INTERVAL
 calls = 0
 
 
@@ -37,29 +41,53 @@ def enabled() -> bool:
     return bool(KEY)
 
 
-def get(path: str, **params) -> dict | list:
+def _throttle() -> None:
     global _last, calls
+    wait = _interval - (time.monotonic() - _last)
+    if wait > 0:
+        time.sleep(wait)
+    _last = time.monotonic()
+    calls += 1
+
+
+def get(path: str, **params) -> dict | list:
+    """One Finnhub GET. Retries dropped connections, timeouts, 429 and 5xx with
+    exponential backoff; anything that still fails raises FinnhubError, so callers
+    only have one exception type to handle."""
+    global _session, _interval
     if not KEY:
         raise FinnhubError("FINNHUB_API_KEY is not set")
-    for attempt in range(MAX_RETRIES):
-        wait = MIN_INTERVAL - (time.monotonic() - _last)
-        if wait > 0:
-            time.sleep(wait)
-        _last = time.monotonic()
-        calls += 1
-        r = _session.get(f"{API}{path}", params={**params, "token": KEY}, timeout=20)
-        if r.status_code == 429:            # over the limit anyway: back off a full minute
-            print("  Finnhub 429, pausing 60s", file=sys.stderr)
-            time.sleep(60)
+    last_problem = ""
+    for attempt in range(len(RETRY_DELAYS) + 1):
+        if attempt:
+            delay = RETRY_DELAYS[attempt - 1]
+            print(f"  Finnhub {path} {params.get('symbol', '')}: {last_problem}; "
+                  f"retry {attempt}/{len(RETRY_DELAYS)} in {delay}s", file=sys.stderr)
+            time.sleep(delay)
+        _throttle()
+        try:
+            r = _session.get(f"{API}{path}", params={**params, "token": KEY}, timeout=TIMEOUT)
+        except (requests.ConnectionError, requests.Timeout) as e:
+            # A dropped keep-alive connection can leave the pool in a bad state; start fresh.
+            _session.close()
+            _session = requests.Session()
+            last_problem = type(e).__name__
+            continue
+        if r.status_code in RETRY_STATUS:
+            if r.status_code == 429:   # we were too fast: slow every later call down a little
+                _interval = min(_interval + 0.2, MAX_INTERVAL)
+            last_problem = f"HTTP {r.status_code}"
             continue
         if r.status_code in (401, 403):
             raise FinnhubError(f"Finnhub rejected the request ({r.status_code}); check the API key / plan")
-        if r.status_code >= 500:
-            time.sleep(2 ** attempt)
+        if r.status_code >= 400:
+            raise FinnhubError(f"HTTP {r.status_code}")
+        try:
+            return r.json()
+        except ValueError:
+            last_problem = "invalid JSON"
             continue
-        r.raise_for_status()
-        return r.json()
-    raise FinnhubError(f"Gave up on {path} after {MAX_RETRIES} attempts")
+    raise FinnhubError(f"gave up after {len(RETRY_DELAYS)} retries ({last_problem})")
 
 
 def quote(symbol: str) -> dict | None:

@@ -22,9 +22,10 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 40
     outputs:
       changed: ${{ steps.prices.outputs.changed }}
+      too_many_failed: ${{ steps.prices.outputs.too_many_failed }}
     steps:
       - uses: actions/checkout@v4
 
@@ -59,3 +60,16 @@ jobs:
       pages: write
       id-token: write
     uses: ./.github/workflows/deploy.yml
+
+  # Runs after the deploy, so the prices that did come through are already live.
+  # Turns the run red only when more than 20% of tickers were skipped.
+  check:
+    needs: [update, deploy]
+    if: ${{ !cancelled() && needs.update.result == 'success' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fail if too many tickers were skipped
+        if: needs.update.outputs.too_many_failed == 'true'
+        run: |
+          echo "::error::More than 20% of tickers failed to fetch; see the 'Fetch quotes from Finnhub' log."
+          exit 1
