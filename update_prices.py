@@ -70,6 +70,9 @@ def market_window_open() -> tuple[bool, str]:
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--force", action="store_true", help="run even outside market hours")
+    ap.add_argument("--min-gap", type=int, default=0, metavar="MINUTES",
+                    help="skip if prices were saved less than this many minutes ago "
+                         "(used by scheduled triggers so a doubled trigger doesn't run twice)")
     args = ap.parse_args()
 
     if not finnhub.enabled():
@@ -83,6 +86,14 @@ def main() -> int:
         return 0
 
     index = store.read_index()
+    if args.min_gap and not args.force:
+        last = index.get("prices_updated_at")
+        if last:
+            age = (datetime.now(ET) - datetime.fromisoformat(last)).total_seconds() / 60
+            if age < args.min_gap:
+                print(f"Skipping: prices were saved {age:.0f} min ago (another trigger already ran)")
+                set_output(False)
+                return 0
     rows = index.get("companies", [])
     if not rows:
         print("data/index.json is empty; run fetch_data.py first.", file=sys.stderr)

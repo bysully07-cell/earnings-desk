@@ -4,9 +4,16 @@ name: Update fundamentals (daily)
 # plus price targets from the first source that works (Finnhub, FMP, Alpha Vantage).
 on:
   schedule:
-    # 11:30 UTC Mon-Fri = 6:30am ET in winter, 7:30am ET in summer.
-    - cron: "30 11 * * 1-5"
-  workflow_dispatch: {}
+    # 11:17 UTC Mon-Fri = 6:17am ET in winter, 7:17am ET in summer (off the busy :00/:30 slots).
+    - cron: "17 11 * * 1-5"
+  # Backup trigger: an external cron (cron-job.org) calls the workflow_dispatch API each
+  # weekday morning with skip_if_ran_today=true, in case GitHub's scheduler skips the run.
+  workflow_dispatch:
+    inputs:
+      skip_if_ran_today:
+        description: "Skip if the data was already rebuilt today (New York date)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -39,7 +46,7 @@ jobs:
           ALPHAVANTAGE_API_KEY: ${{ secrets.ALPHAVANTAGE_API_KEY }}
         run: |
           if [ -z "$SEC_USER_AGENT" ]; then unset SEC_USER_AGENT; fi
-          python fetch_data.py
+          python fetch_data.py ${{ (github.event_name == 'schedule' || inputs.skip_if_ran_today) && '--skip-if-ran-today' || '' }}
 
       - name: Commit data/ if it changed
         run: |

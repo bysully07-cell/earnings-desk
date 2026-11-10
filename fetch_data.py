@@ -28,8 +28,9 @@ from __future__ import annotations
 import argparse
 import sys
 import time
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import finnhub
 import sec
@@ -51,12 +52,21 @@ def parse_args():
     ap.add_argument("--source", choices=["bulk", "api"], default="bulk",
                     help="SEC bulk zips (default) or one API call per company")
     ap.add_argument("--only", help="comma-separated tickers to process (others keep their existing files)")
+    ap.add_argument("--skip-if-ran-today", action="store_true",
+                    help="exit if the data was already rebuilt today (New York date); used by scheduled "
+                         "triggers so GitHub's cron and the external cron don't both run it")
     return ap.parse_args()
 
 
 def main() -> int:
     args = parse_args()
     started = time.time()
+    if args.skip_if_ran_today:
+        last = store.read_index().get("generated_at")
+        ny = ZoneInfo("America/New_York")
+        if last and datetime.fromisoformat(last).astimezone(ny).date() == datetime.now(ny).date():
+            print(f"Skipping: data was already rebuilt today ({last}).")
+            return 0
     print(f"SEC User-Agent: {sec.USER_AGENT}")
 
     previous = {r["ticker"]: r for r in store.read_index().get("companies", [])}

@@ -3,7 +3,7 @@
 Quarterly results, EPS beat/miss, analyst ratings, price targets and prices for every S&P 500 and Nasdaq-100 company (~518 tickers), built from SEC filings and published as a static site on GitHub Pages.
 
 ```
-                       ┌─ daily, 6:30am ET ─────────────────────────────┐
+                       ┌─ daily, 6:17am ET ─────────────────────────────┐
 Wikipedia (index lists) ─► universe.py ─┐                                 │
 SEC bulk XBRL zips ──────► sec.py ──────┼─► fetch_data.py ─► data/companies/<T>.json
 Finnhub (EPS, ratings) ─► finnhub.py ─┤
@@ -35,8 +35,16 @@ Finnhub quotes ─► update_prices.py (every 30 min, market hours) ────
 Every API call runs inside GitHub Actions with keys from repo secrets (`FINNHUB_API_KEY`, `FMP_API_KEY`, optional `ALPHAVANTAGE_API_KEY`). The site only reads JSON files, so no key reaches a browser.
 
 ## Workflows
-- `update-data.yml`: weekdays 11:30 UTC. Downloads SEC's bulk zips (~3 GB, read selectively), calls Finnhub (~19 min first run, ~10 min after), commits `data/`, deploys.
-- `update-prices.yml`: every 30 min, 13:00–21:30 UTC weekdays; exits early outside 9:30am–4:45pm ET and on holidays. ~520 quotes ≈ 10 min. Finnhub's free quotes don't include pre-market or after-hours trades (outside the session they return the 4pm close), so extended hours aren't scheduled; the site labels those prices "At close".
+- `update-data.yml`: weekdays 11:17 UTC (6:17am ET in winter). Downloads SEC's bulk zips (~3 GB, read selectively), calls Finnhub (~19 min first run, ~10 min after), commits `data/`, deploys.
+- `update-prices.yml`: at :07 and :37 past each hour, 13:07–21:37 UTC weekdays; exits early outside 9:30am–4:45pm ET and on holidays. ~520 quotes ≈ 10 min. Finnhub's free quotes don't include pre-market or after-hours trades (outside the session they return the 4pm close), so extended hours aren't scheduled; the site labels those prices "At close".
+
+### Backup trigger (external cron)
+
+GitHub's `schedule` trigger is best-effort: runs can be late or dropped, especially at :00 and :30, and in this repo's first day it never fired once. So a free external cron (cron-job.org) also starts both workflows through GitHub's `workflow_dispatch` API, using a fine-grained token that can only touch this repo's Actions.
+
+- Prices: every 30 min on weekdays, with `min_gap=10`. `update_prices.py` skips if prices were saved in the last 10 minutes. A run triggered by both cron and the backup is skipped the second time, and the script still decides whether the market is open (New York time, holidays from Finnhub).
+- Fundamentals: once each weekday morning with `skip_if_ran_today=true`. `fetch_data.py` exits if the data was already rebuilt that New York day.
+- Manual "Run workflow" clicks default to no skipping.
 - `deploy.yml`: publishes the site. Called by both jobs, and runs on your own pushes.
 Both data jobs share a concurrency group, so they never run at once (no doubled Finnhub rate, no push races).
 

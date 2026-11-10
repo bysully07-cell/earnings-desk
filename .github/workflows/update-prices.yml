@@ -2,15 +2,23 @@ name: Update prices (every 30 min, market hours)
 
 on:
   schedule:
-    # Every 30 minutes, 13:00-21:30 UTC Mon-Fri. That window covers 9:30am-4:30pm ET
-    # in both EST and EDT; update_prices.py skips runs outside market hours and on holidays.
-    - cron: "*/30 13-21 * * 1-5"
+    # Every 30 minutes, 13:07-21:37 UTC Mon-Fri. That window covers 9:30am-4:30pm ET
+    # in both EST (14:30-21:00 UTC) and EDT (13:30-20:00 UTC); update_prices.py checks the
+    # real New York time and skips runs outside market hours and on holidays.
+    # Minutes 7 and 37 avoid :00/:30, when GitHub's scheduler is busiest and drops runs.
+    - cron: "7,37 13-21 * * 1-5"
+  # Backup trigger: an external cron (cron-job.org) calls the workflow_dispatch API every
+  # 30 minutes with min_gap=10, because GitHub's scheduler can delay or skip runs.
   workflow_dispatch:
     inputs:
       force:
         description: "Run even outside market hours"
         type: boolean
         default: false
+      min_gap:
+        description: "Skip if prices were saved less than this many minutes ago (0 = never skip)"
+        type: string
+        default: "0"
 
 permissions:
   contents: write
@@ -40,7 +48,12 @@ jobs:
         id: prices
         env:
           FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
-        run: python update_prices.py ${{ inputs.force && '--force' || '' }}
+        # Scheduled runs and the external cron skip if another trigger saved prices in the last
+        # 10 minutes, so a run doubled by both triggers is harmless.
+        run: >-
+          python update_prices.py
+          ${{ inputs.force && '--force' || '' }}
+          --min-gap ${{ github.event_name == 'schedule' && '10' || inputs.min_gap || '0' }}
 
       - name: Commit data/index.json
         if: steps.prices.outputs.changed == 'true'
