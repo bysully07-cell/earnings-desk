@@ -8,23 +8,11 @@
  "fiscal_year_end": "12-31",
  "sources": {
   "revenue": "Revenues",
-  "gross_profit": "derived: revenue - cost of revenue (CostOfGoodsAndServicesSold)",
+  "gross_profit": null,
   "operating_income": "OperatingIncomeLoss",
   "eps_diluted": "EarningsPerShareDiluted"
  },
  "quarters": [
-  {
-   "fiscal_period": "FY2025 Q1",
-   "period_start": "2025-01-01",
-   "period_end": "2025-03-31",
-   "revenue": 661705000,
-   "gross_profit": 384960000,
-   "operating_income": 151745000,
-   "eps_diluted": 2.03,
-   "derived": [
-    "gross_profit"
-   ]
-  },
   {
    "fiscal_period": "FY2025 Q2",
    "period_start": "2025-03-30",
@@ -40,20 +28,18 @@
    "period_start": "2025-04-01",
    "period_end": "2025-06-30",
    "revenue": 771332000,
-   "gross_profit": 449925000,
+   "gross_profit": null,
    "operating_income": 188213000,
    "eps_diluted": 2.47,
-   "derived": [
-    "gross_profit"
-   ]
+   "derived": []
   },
   {
    "fiscal_period": "FY2025 Q3",
    "period_start": "2025-06-29",
    "period_end": "2025-09-27",
-   "revenue": 799887000,
+   "revenue": 800000000,
    "gross_profit": null,
-   "operating_income": 192114000,
+   "operating_income": 192000000,
    "eps_diluted": 2.5,
    "derived": []
   },
@@ -62,24 +48,20 @@
    "period_start": "2025-07-01",
    "period_end": "2025-09-30",
    "revenue": 799887000,
-   "gross_profit": 472081000,
+   "gross_profit": null,
    "operating_income": 192114000,
    "eps_diluted": 2.5,
-   "derived": [
-    "gross_profit"
-   ]
+   "derived": []
   },
   {
    "fiscal_period": "FY2025 Q4",
    "period_start": "2025-10-01",
    "period_end": "2025-12-31",
    "revenue": 932362000,
-   "gross_profit": 569498000,
+   "gross_profit": null,
    "operating_income": 270516000,
    "eps_diluted": 3.77,
-   "derived": [
-    "gross_profit"
-   ]
+   "derived": []
   },
   {
    "fiscal_period": "FY2026 Q1",
@@ -100,9 +82,26 @@
    "operating_income": -86000000,
    "eps_diluted": -1.39,
    "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-05",
+   "period_end": "2026-10-03",
+   "revenue": 1767000000,
+   "gross_profit": null,
+   "operating_income": 128000000,
+   "eps_diluted": 0.82,
+   "derived": []
   }
  ],
  "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-10",
+   "period": "2026-10-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/1000697/000119312526455594/d56471d10q.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1000697/000119312526455594/0001193125-26-455594-index.htm"
+  },
   {
    "form": "10-Q",
    "filed": "2026-08-11",
@@ -167,13 +166,6 @@
    "index_url": "https://www.sec.gov/Archives/edgar/data/1000697/000119312524189466/0001193125-24-189466-index.htm"
   },
   {
-   "form": "10-Q",
-   "filed": "2024-05-07",
-   "period": "2024-03-30",
-   "url": "https://www.sec.gov/Archives/edgar/data/1000697/000119312524132558/d798210d10q.htm",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1000697/000119312524132558/0001193125-24-132558-index.htm"
-  },
-  {
    "form": "10-K",
    "filed": "2024-02-27",
    "period": "2023-12-31",
@@ -226,7 +218,7 @@
    "result": "beat"
   }
  ],
- "earnings_checked": "2026-11-10",
+ "earnings_checked": "2026-11-11",
  "ratings": [
   {
    "period": "2026-11-01",
@@ -273,7 +265,8 @@
    "analysts": 31
   }
  ],
- "ratings_checked": "2026-11-10",
+ "ratings_checked": "2026-11-11",
  "price_target": null,
- "price_target_checked": null
+ "price_target_checked": null,
+ "target_sources": {}
 }

@@ -5,7 +5,7 @@
  "indexes": [
   "SPX"
  ],
- "fiscal_year_end": "09-26",
+ "fiscal_year_end": "09-25",
  "sources": {
   "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
   "gross_profit": "GrossProfit",
@@ -13,21 +13,6 @@
   "eps_diluted": "EarningsPerShareDiluted"
  },
  "quarters": [
-  {
-   "fiscal_period": "FY2024 Q4",
-   "period_start": "2024-06-29",
-   "period_end": "2024-09-27",
-   "revenue": 4068000000,
-   "gross_profit": 1383000000,
-   "operating_income": 651000000,
-   "eps_diluted": 0.9,
-   "derived": [
-    "revenue",
-    "gross_profit",
-    "operating_income",
-    "eps_diluted"
-   ]
-  },
   {
    "fiscal_period": "FY2025 Q1",
    "period_start": "2024-09-28",
@@ -102,9 +87,31 @@
    "operating_income": 981000000,
    "eps_diluted": 2.55,
    "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2026-06-27",
+   "period_end": "2026-09-25",
+   "revenue": 5312000000,
+   "gross_profit": 1887000000,
+   "operating_income": 1093000000,
+   "eps_diluted": 3.09,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
   }
  ],
  "filings": [
+  {
+   "form": "10-K",
+   "filed": "2026-11-09",
+   "period": "2026-09-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1385157/000110465926124497/tel-20260925x10k.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1385157/000110465926124497/0001104659-26-124497-index.htm"
+  },
   {
    "form": "10-Q",
    "filed": "2026-07-24",
@@ -188,13 +195,6 @@
    "period": "2022-09-30",
    "url": "https://www.sec.gov/Archives/edgar/data/1385157/000155837022017931/tel-20220930x10k.htm",
    "index_url": "https://www.sec.gov/Archives/edgar/data/1385157/000155837022017931/0001558370-22-017931-index.htm"
-  },
-  {
-   "form": "10-K",
-   "filed": "2021-11-09",
-   "period": "2021-09-24",
-   "url": "https://www.sec.gov/Archives/edgar/data/1385157/000155837021015228/tel-20210924x10k.htm",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1385157/000155837021015228/0001558370-21-015228-index.htm"
   }
  ],
  "note": null,
@@ -228,7 +228,7 @@
    "result": "beat"
   }
  ],
- "earnings_checked": "2026-11-10",
+ "earnings_checked": "2026-11-11",
  "ratings": [
   {
    "period": "2026-11-01",
@@ -275,7 +275,8 @@
    "analysts": 25
   }
  ],
- "ratings_checked": "2026-11-10",
+ "ratings_checked": "2026-11-11",
  "price_target": null,
- "price_target_checked": null
+ "price_target_checked": null,
+ "target_sources": {}
 }

@@ -8,23 +8,11 @@
  "fiscal_year_end": "09-30",
  "sources": {
   "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
-  "gross_profit": "derived: revenue - cost of revenue (CostOfGoodsAndServicesSold)",
+  "gross_profit": "GrossProfit",
   "operating_income": null,
   "eps_diluted": "EarningsPerShareDiluted"
  },
  "quarters": [
-  {
-   "fiscal_period": "FY2024 Q4",
-   "period_start": "2024-07-01",
-   "period_end": "2024-09-30",
-   "revenue": 4619000000,
-   "gross_profit": 2371000000,
-   "operating_income": null,
-   "eps_diluted": 1.73,
-   "derived": [
-    "gross_profit"
-   ]
-  },
   {
    "fiscal_period": "FY2025 Q1",
    "period_start": "2024-10-01",
@@ -32,10 +20,8 @@
    "revenue": 4175000000,
    "gross_profit": 2235000000,
    "operating_income": null,
-   "eps_diluted": 1.02,
-   "derived": [
-    "gross_profit"
-   ]
+   "eps_diluted": 1.03,
+   "derived": []
   },
   {
    "fiscal_period": "FY2025 Q2",
@@ -45,9 +31,7 @@
    "gross_profit": 2371000000,
    "operating_income": null,
    "eps_diluted": 0.86,
-   "derived": [
-    "gross_profit"
-   ]
+   "derived": []
   },
   {
    "fiscal_period": "FY2025 Q3",
@@ -57,21 +41,17 @@
    "gross_profit": 2393000000,
    "operating_income": null,
    "eps_diluted": 1.04,
-   "derived": [
-    "gross_profit"
-   ]
+   "derived": []
   },
   {
    "fiscal_period": "FY2025 Q4",
    "period_start": "2025-07-01",
    "period_end": "2025-09-30",
    "revenue": 4855000000,
-   "gross_profit": 2519000000,
+   "gross_profit": 2520000000,
    "operating_income": null,
-   "eps_diluted": 1.12,
-   "derived": [
-    "gross_profit"
-   ]
+   "eps_diluted": 1.08,
+   "derived": []
   },
   {
    "fiscal_period": "FY2026 Q1",
@@ -80,10 +60,8 @@
    "revenue": 4346000000,
    "gross_profit": 2311000000,
    "operating_income": null,
-   "eps_diluted": 1.07,
-   "derived": [
-    "gross_profit"
-   ]
+   "eps_diluted": 1.08,
+   "derived": []
   },
   {
    "fiscal_period": "FY2026 Q2",
@@ -92,10 +70,8 @@
    "revenue": 4562000000,
    "gross_profit": 2422000000,
    "operating_income": null,
-   "eps_diluted": null,
-   "derived": [
-    "gross_profit"
-   ]
+   "eps_diluted": 1.1,
+   "derived": []
   },
   {
    "fiscal_period": "FY2026 Q3",
@@ -105,12 +81,27 @@
    "gross_profit": 2655000000,
    "operating_income": null,
    "eps_diluted": 1.28,
-   "derived": [
-    "gross_profit"
-   ]
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 5201000000,
+   "gross_profit": 2740000000,
+   "operating_income": null,
+   "eps_diluted": 1.33,
+   "derived": []
   }
  ],
  "filings": [
+  {
+   "form": "10-K",
+   "filed": "2026-11-09",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/32604/000003260426000054/emr-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/32604/000003260426000054/0000032604-26-000054-index.htm"
+  },
   {
    "form": "10-Q",
    "filed": "2026-08-04",
@@ -194,13 +185,6 @@
    "period": "2022-09-30",
    "url": "https://www.sec.gov/Archives/edgar/data/32604/000003260422000041/emr-20220930.htm",
    "index_url": "https://www.sec.gov/Archives/edgar/data/32604/000003260422000041/0000032604-22-000041-index.htm"
-  },
-  {
-   "form": "10-K",
-   "filed": "2021-11-15",
-   "period": "2021-09-30",
-   "url": "https://www.sec.gov/Archives/edgar/data/32604/000003260421000038/emr-20210930.htm",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/32604/000003260421000038/0000032604-21-000038-index.htm"
   }
  ],
  "note": null,
@@ -234,7 +218,7 @@
    "result": "miss"
   }
  ],
- "earnings_checked": "2026-11-10",
+ "earnings_checked": "2026-11-11",
  "ratings": [
   {
    "period": "2026-11-01",
@@ -281,7 +265,13 @@
    "analysts": 34
   }
  ],
- "ratings_checked": "2026-11-10",
+ "ratings_checked": "2026-11-11",
  "price_target": null,
- "price_target_checked": "2026-11-10"
+ "price_target_checked": "2026-11-10",
+ "target_sources": {
+  "fmp": {
+   "status": "not_covered",
+   "checked": "2026-11-10"
+  }
+ }
 }

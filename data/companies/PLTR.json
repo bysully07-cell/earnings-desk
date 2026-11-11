@@ -229,7 +229,7 @@
    "result": "beat"
   }
  ],
- "earnings_checked": "2026-11-10",
+ "earnings_checked": "2026-11-11",
  "ratings": [
   {
    "period": "2026-11-01",
@@ -276,7 +276,20 @@
    "analysts": 39
   }
  ],
- "ratings_checked": "2026-11-10",
- "price_target": null,
- "price_target_checked": null
+ "ratings_checked": "2026-11-11",
+ "price_target": {
+  "mean": 220.5,
+  "high": 265,
+  "low": 80,
+  "median": 235,
+  "as_of": "2026-11-11",
+  "source": "fmp"
+ },
+ "price_target_checked": "2026-11-11",
+ "target_sources": {
+  "fmp": {
+   "status": "covered",
+   "checked": "2026-11-11"
+  }
+ }
 }

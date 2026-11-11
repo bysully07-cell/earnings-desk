@@ -14,21 +14,6 @@
  },
  "quarters": [
   {
-   "fiscal_period": "FY2024 Q4",
-   "period_start": "2024-06-30",
-   "period_end": "2024-09-30",
-   "revenue": 2186000000,
-   "gross_profit": 1258000000,
-   "operating_income": 943000000,
-   "eps_diluted": 8.1,
-   "derived": [
-    "revenue",
-    "gross_profit",
-    "operating_income",
-    "eps_diluted"
-   ]
-  },
-  {
    "fiscal_period": "FY2025 Q1",
    "period_start": "2024-10-01",
    "period_end": "2024-12-28",
@@ -102,9 +87,31 @@
    "operating_income": 1227000000,
    "eps_diluted": 9.39,
    "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2026-06-28",
+   "period_end": "2026-09-30",
+   "revenue": 2987000000,
+   "gross_profit": 1763000000,
+   "operating_income": 1364000000,
+   "eps_diluted": 10.39,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
   }
  ],
  "filings": [
+  {
+   "form": "10-K",
+   "filed": "2026-11-10",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1260221/000126022126000077/tdg-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1260221/000126022126000077/0001260221-26-000077-index.htm"
+  },
   {
    "form": "10-Q",
    "filed": "2026-08-04",
@@ -188,31 +195,10 @@
    "period": "2022-09-30",
    "url": "https://www.sec.gov/Archives/edgar/data/1260221/000126022122000065/tdg-20220930.htm",
    "index_url": "https://www.sec.gov/Archives/edgar/data/1260221/000126022122000065/0001260221-22-000065-index.htm"
-  },
-  {
-   "form": "10-K/A",
-   "filed": "2022-01-28",
-   "period": "2021-09-30",
-   "url": "https://www.sec.gov/Archives/edgar/data/1260221/000126022122000004/tdg-20210930.htm",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1260221/000126022122000004/0001260221-22-000004-index.htm"
-  },
-  {
-   "form": "10-K",
-   "filed": "2021-11-16",
-   "period": "2021-09-30",
-   "url": "https://www.sec.gov/Archives/edgar/data/1260221/000126022121000134/tdg-20210930.htm",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1260221/000126022121000134/0001260221-21-000134-index.htm"
   }
  ],
  "note": null,
  "earnings": [
-  {
-   "period": "2025-09-30",
-   "actual": 10.82,
-   "estimate": 10.1426,
-   "surprise_pct": 6.6788,
-   "result": "beat"
-  },
   {
    "period": "2025-12-31",
    "actual": 8.23,
@@ -233,9 +219,16 @@
    "estimate": 10.404,
    "surprise_pct": 4.479,
    "result": "beat"
+  },
+  {
+   "period": "2026-09-30",
+   "actual": 12.44,
+   "estimate": 12.3286,
+   "surprise_pct": 0.9036,
+   "result": "beat"
   }
  ],
- "earnings_checked": "2026-11-10",
+ "earnings_checked": "2026-11-11",
  "ratings": [
   {
    "period": "2026-11-01",
@@ -282,7 +275,8 @@
    "analysts": 27
   }
  ],
- "ratings_checked": "2026-11-10",
+ "ratings_checked": "2026-11-11",
  "price_target": null,
- "price_target_checked": null
+ "price_target_checked": null,
+ "target_sources": {}
 }

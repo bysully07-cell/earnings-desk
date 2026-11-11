@@ -14,18 +14,6 @@
  },
  "quarters": [
   {
-   "fiscal_period": "FY2024 Q3",
-   "period_start": "2024-07-01",
-   "period_end": "2024-09-30",
-   "revenue": 7173000000,
-   "gross_profit": null,
-   "operating_income": 1428000000,
-   "eps_diluted": 0.98,
-   "derived": [
-    "operating_income"
-   ]
-  },
-  {
    "fiscal_period": "FY2024 Q4",
    "period_start": "2024-10-01",
    "period_end": "2024-12-31",
@@ -67,9 +55,9 @@
    "fiscal_period": "FY2025 Q3",
    "period_start": "2025-07-01",
    "period_end": "2025-09-30",
-   "revenue": 6624000000,
+   "revenue": 5519000000,
    "gross_profit": null,
-   "operating_income": 996000000,
+   "operating_income": 840000000,
    "eps_diluted": 0.65,
    "derived": [
     "operating_income"
@@ -79,9 +67,9 @@
    "fiscal_period": "FY2025 Q4",
    "period_start": "2025-10-01",
    "period_end": "2025-12-31",
-   "revenue": 4007000000,
+   "revenue": 5112000000,
    "gross_profit": null,
-   "operating_income": 429000000,
+   "operating_income": 585000000,
    "eps_diluted": -0.07,
    "derived": [
     "revenue",
@@ -112,9 +100,28 @@
    "derived": [
     "operating_income"
    ]
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 6567000000,
+   "gross_profit": null,
+   "operating_income": 2262000000,
+   "eps_diluted": 1.61,
+   "derived": [
+    "operating_income"
+   ]
   }
  ],
  "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-09",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/797468/000162828026072198/oxy-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/797468/000162828026072198/0001628280-26-072198-index.htm"
+  },
   {
    "form": "10-Q",
    "filed": "2026-08-05",
@@ -179,13 +186,6 @@
    "index_url": "https://www.sec.gov/Archives/edgar/data/797468/000079746824000136/0000797468-24-000136-index.htm"
   },
   {
-   "form": "10-Q",
-   "filed": "2024-05-07",
-   "period": "2024-03-31",
-   "url": "https://www.sec.gov/Archives/edgar/data/797468/000079746824000095/oxy-20240331.htm",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/797468/000079746824000095/0000797468-24-000095-index.htm"
-  },
-  {
    "form": "10-K",
    "filed": "2024-02-14",
    "period": "2023-12-31",
@@ -245,7 +245,7 @@
    "result": "beat"
   }
  ],
- "earnings_checked": "2026-11-10",
+ "earnings_checked": "2026-11-11",
  "ratings": [
   {
    "period": "2026-11-01",
@@ -292,7 +292,8 @@
    "analysts": 29
   }
  ],
- "ratings_checked": "2026-11-10",
+ "ratings_checked": "2026-11-11",
  "price_target": null,
- "price_target_checked": null
+ "price_target_checked": null,
+ "target_sources": {}
 }

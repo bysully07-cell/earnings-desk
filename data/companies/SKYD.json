@@ -62,9 +62,26 @@
    "operating_income": 475000000,
    "eps_diluted": 0.04,
    "derived": []
+  },
+  {
+   "fiscal_period": "FY2025 Q4",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 7025000000,
+   "gross_profit": null,
+   "operating_income": 368000000,
+   "eps_diluted": 0.06,
+   "derived": []
   }
  ],
  "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-09",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/2041610/000204161026000067/skyd-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2041610/000204161026000067/0002041610-26-000067-index.htm"
+  },
   {
    "form": "10-Q",
    "filed": "2026-08-04",
@@ -146,7 +163,7 @@
    "result": "beat"
   }
  ],
- "earnings_checked": "2026-11-10",
+ "earnings_checked": "2026-11-11",
  "ratings": [
   {
    "period": "2026-11-01",
@@ -193,7 +210,8 @@
    "analysts": 27
   }
  ],
- "ratings_checked": "2026-11-10",
+ "ratings_checked": "2026-11-11",
  "price_target": null,
- "price_target_checked": null
+ "price_target_checked": null,
+ "target_sources": {}
 }

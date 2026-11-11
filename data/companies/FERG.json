@@ -14,26 +14,6 @@
  },
  "quarters": [
   {
-   "fiscal_period": "FY2025 Q1",
-   "period_start": "2024-08-01",
-   "period_end": "2024-10-31",
-   "revenue": 7772000000,
-   "gross_profit": 2340000000,
-   "operating_income": 665000000,
-   "eps_diluted": 2.34,
-   "derived": []
-  },
-  {
-   "fiscal_period": "FY2025 Q2",
-   "period_start": "2024-11-01",
-   "period_end": "2025-01-31",
-   "revenue": 6872000000,
-   "gross_profit": 2042000000,
-   "operating_income": 410000000,
-   "eps_diluted": 1.38,
-   "derived": []
-  },
-  {
    "fiscal_period": "FY2025 Q3",
    "period_start": "2025-01-01",
    "period_end": "2025-03-31",
@@ -65,6 +45,16 @@
   },
   {
    "fiscal_period": "FY2026 Q1",
+   "period_start": "2025-07-01",
+   "period_end": "2025-09-30",
+   "revenue": 8245000000,
+   "gross_profit": 2583000000,
+   "operating_income": 844000000,
+   "eps_diluted": 3.24,
+   "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q1",
    "period_start": "2025-08-01",
    "period_end": "2025-10-31",
    "revenue": 8169000000,
@@ -92,9 +82,26 @@
    "operating_income": 893000000,
    "eps_diluted": 3.43,
    "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 9026000000,
+   "gross_profit": 2786000000,
+   "operating_income": 885000000,
+   "eps_diluted": 3.08,
+   "derived": []
   }
  ],
  "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-09",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/2011641/000201164126000044/ferg-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/2011641/000201164126000044/0002011641-26-000044-index.htm"
+  },
   {
    "form": "10-Q",
    "filed": "2026-08-10",
@@ -183,7 +190,7 @@
    "result": "beat"
   }
  ],
- "earnings_checked": "2026-11-10",
+ "earnings_checked": "2026-11-11",
  "ratings": [
   {
    "period": "2026-11-01",
@@ -230,7 +237,13 @@
    "analysts": 30
   }
  ],
- "ratings_checked": "2026-11-10",
+ "ratings_checked": "2026-11-11",
  "price_target": null,
- "price_target_checked": "2026-11-10"
+ "price_target_checked": "2026-11-10",
+ "target_sources": {
+  "fmp": {
+   "status": "not_covered",
+   "checked": "2026-11-10"
+  }
+ }
 }

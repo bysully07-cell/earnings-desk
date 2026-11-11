@@ -14,16 +14,6 @@
  },
  "quarters": [
   {
-   "fiscal_period": "FY2024 Q3",
-   "period_start": "2024-07-01",
-   "period_end": "2024-09-30",
-   "revenue": 92995000000,
-   "gross_profit": null,
-   "operating_income": null,
-   "eps_diluted": null,
-   "derived": []
-  },
-  {
    "fiscal_period": "FY2024 Q4",
    "period_start": "2024-10-01",
    "period_end": "2024-12-31",
@@ -96,9 +86,26 @@
    "operating_income": null,
    "eps_diluted": null,
    "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 105647000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": null,
+   "derived": []
   }
  ],
  "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-09",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526452412/brka-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526452412/0001193125-26-452412-index.htm"
+  },
   {
    "form": "10-Q",
    "filed": "2026-08-10",
@@ -163,13 +170,6 @@
    "index_url": "https://www.sec.gov/Archives/edgar/data/1067983/000095017024090305/0000950170-24-090305-index.htm"
   },
   {
-   "form": "10-Q",
-   "filed": "2024-05-06",
-   "period": "2024-03-31",
-   "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095017024053185/brka-20240331.htm",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1067983/000095017024053185/0000950170-24-053185-index.htm"
-  },
-  {
    "form": "10-K",
    "filed": "2024-02-26",
    "period": "2023-12-31",
@@ -222,7 +222,7 @@
    "result": "miss"
   }
  ],
- "earnings_checked": "2026-11-10",
+ "earnings_checked": "2026-11-11",
  "ratings": [
   {
    "period": "2026-11-01",
@@ -269,7 +269,13 @@
    "analysts": 10
   }
  ],
- "ratings_checked": "2026-11-10",
+ "ratings_checked": "2026-11-11",
  "price_target": null,
- "price_target_checked": "2026-11-10"
+ "price_target_checked": "2026-11-10",
+ "target_sources": {
+  "fmp": {
+   "status": "not_covered",
+   "checked": "2026-11-10"
+  }
+ }
 }

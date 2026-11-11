@@ -11,9 +11,10 @@
  "filings": [],
  "note": "no US-GAAP quarterly revenue (foreign filer or non-standard tags)",
  "earnings": [],
- "earnings_checked": "2026-11-10",
+ "earnings_checked": "2026-11-11",
  "ratings": [],
- "ratings_checked": "2026-11-10",
+ "ratings_checked": "2026-11-11",
  "price_target": null,
- "price_target_checked": null
+ "price_target_checked": null,
+ "target_sources": {}
 }

@@ -14,16 +14,6 @@
  },
  "quarters": [
   {
-   "fiscal_period": "FY2024 Q3",
-   "period_start": "2024-07-01",
-   "period_end": "2024-09-30",
-   "revenue": 6288000000,
-   "gross_profit": null,
-   "operating_income": 2588000000,
-   "eps_diluted": 5.25,
-   "derived": []
-  },
-  {
    "fiscal_period": "FY2024 Q4",
    "period_start": "2024-10-01",
    "period_end": "2024-12-31",
@@ -100,9 +90,26 @@
    "operating_income": 553000000,
    "eps_diluted": 0.76,
    "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q3",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 6347000000,
+   "gross_profit": null,
+   "operating_income": 1706000000,
+   "eps_diluted": 3.23,
+   "derived": []
   }
  ],
  "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-09",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000025/vistra-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000025/0001692819-26-000025-index.htm"
+  },
   {
    "form": "10-Q",
    "filed": "2026-08-10",
@@ -167,13 +174,6 @@
    "index_url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281924000061/0001692819-24-000061-index.htm"
   },
   {
-   "form": "10-Q",
-   "filed": "2024-05-10",
-   "period": "2024-03-31",
-   "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281924000033/vistra-20240331.htm",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281924000033/0001692819-24-000033-index.htm"
-  },
-  {
    "form": "10-K",
    "filed": "2024-02-29",
    "period": "2023-12-31",
@@ -226,7 +226,7 @@
    "result": "miss"
   }
  ],
- "earnings_checked": "2026-11-10",
+ "earnings_checked": "2026-11-11",
  "ratings": [
   {
    "period": "2026-11-01",
@@ -273,7 +273,8 @@
    "analysts": 24
   }
  ],
- "ratings_checked": "2026-11-10",
+ "ratings_checked": "2026-11-11",
  "price_target": null,
- "price_target_checked": null
+ "price_target_checked": null,
+ "target_sources": {}
 }
