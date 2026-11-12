@@ -236,7 +236,7 @@
    "result": "miss"
   }
  ],
- "earnings_checked": "2026-11-11",
+ "earnings_checked": "2026-11-12",
  "ratings": [
   {
    "period": "2026-11-01",
@@ -283,13 +283,17 @@
    "analysts": 25
   }
  ],
- "ratings_checked": "2026-11-11",
+ "ratings_checked": "2026-11-12",
  "price_target": null,
  "price_target_checked": "2026-11-10",
  "target_sources": {
   "fmp": {
    "status": "not_covered",
    "checked": "2026-11-10"
+  },
+  "alphavantage": {
+   "status": "not_covered",
+   "checked": "2026-11-12"
   }
  }
 }

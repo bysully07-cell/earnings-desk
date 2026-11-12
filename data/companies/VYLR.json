@@ -10,10 +10,18 @@
  "quarters": [],
  "filings": [],
  "note": "no US-GAAP quarterly revenue (foreign filer or non-standard tags)",
- "earnings": [],
- "earnings_checked": "2026-11-11",
+ "earnings": [
+  {
+   "period": "2026-09-30",
+   "actual": -0.42,
+   "estimate": -0.5415,
+   "surprise_pct": 22.4377,
+   "result": "beat"
+  }
+ ],
+ "earnings_checked": "2026-11-12",
  "ratings": [],
- "ratings_checked": "2026-11-11",
+ "ratings_checked": "2026-11-12",
  "price_target": null,
  "price_target_checked": null,
  "target_sources": {}

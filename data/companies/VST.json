@@ -198,13 +198,6 @@
  "note": null,
  "earnings": [
   {
-   "period": "2025-09-30",
-   "actual": 1.75,
-   "estimate": 2.1248,
-   "surprise_pct": -17.6393,
-   "result": "miss"
-  },
-  {
    "period": "2025-12-31",
    "actual": 0.54,
    "estimate": 2.3689,
@@ -224,9 +217,16 @@
    "estimate": 1.6938,
    "surprise_pct": -55.1305,
    "result": "miss"
+  },
+  {
+   "period": "2026-09-30",
+   "actual": 3.23,
+   "estimate": 2.916,
+   "surprise_pct": 10.7682,
+   "result": "beat"
   }
  ],
- "earnings_checked": "2026-11-11",
+ "earnings_checked": "2026-11-12",
  "ratings": [
   {
    "period": "2026-11-01",
@@ -273,7 +273,7 @@
    "analysts": 24
   }
  ],
- "ratings_checked": "2026-11-11",
+ "ratings_checked": "2026-11-12",
  "price_target": null,
  "price_target_checked": null,
  "target_sources": {}

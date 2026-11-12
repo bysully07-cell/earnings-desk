@@ -229,13 +229,13 @@
   },
   {
    "period": "2026-09-30",
-   "actual": -0.07,
+   "actual": -0.08,
    "estimate": -0.0714,
-   "surprise_pct": 1.9608,
-   "result": "inline"
+   "surprise_pct": -12.0448,
+   "result": "miss"
   }
  ],
- "earnings_checked": "2026-11-11",
+ "earnings_checked": "2026-11-12",
  "ratings": [
   {
    "period": "2026-11-01",
@@ -282,7 +282,7 @@
    "analysts": 27
   }
  ],
- "ratings_checked": "2026-11-11",
+ "ratings_checked": "2026-11-12",
  "price_target": null,
  "price_target_checked": null,
  "target_sources": {}
