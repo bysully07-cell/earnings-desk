@@ -6,7 +6,7 @@
   "SPX",
   "NDX"
  ],
- "fiscal_year_end": "09-28",
+ "fiscal_year_end": "09-27",
  "sources": {
   "revenue": "Revenues",
   "gross_profit": null,
@@ -14,20 +14,6 @@
   "eps_diluted": "EarningsPerShareDiluted"
  },
  "quarters": [
-  {
-   "fiscal_period": "FY2024 Q4",
-   "period_start": "2024-07-01",
-   "period_end": "2024-09-29",
-   "revenue": 9074000000,
-   "gross_profit": null,
-   "operating_income": 1307000000,
-   "eps_diluted": 0.8,
-   "derived": [
-    "revenue",
-    "operating_income",
-    "eps_diluted"
-   ]
-  },
   {
    "fiscal_period": "FY2025 Q1",
    "period_start": "2024-09-30",
@@ -101,9 +87,30 @@
    "operating_income": 980400000,
    "eps_diluted": 0.91,
    "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2026-06-29",
+   "period_end": "2026-09-27",
+   "revenue": 9141300000,
+   "gross_profit": null,
+   "operating_income": 991800000,
+   "eps_diluted": 0.59,
+   "derived": [
+    "revenue",
+    "operating_income",
+    "eps_diluted"
+   ]
   }
  ],
  "filings": [
+  {
+   "form": "10-K",
+   "filed": "2026-11-12",
+   "period": "2026-09-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/829224/000082922426000162/sbux-20260927.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/829224/000082922426000162/0000829224-26-000162-index.htm"
+  },
   {
    "form": "10-Q",
    "filed": "2026-07-29",
@@ -187,13 +194,6 @@
    "period": "2022-10-02",
    "url": "https://www.sec.gov/Archives/edgar/data/829224/000082922422000058/sbux-20221002.htm",
    "index_url": "https://www.sec.gov/Archives/edgar/data/829224/000082922422000058/0000829224-22-000058-index.htm"
-  },
-  {
-   "form": "10-K",
-   "filed": "2021-11-19",
-   "period": "2021-10-03",
-   "url": "https://www.sec.gov/Archives/edgar/data/829224/000082922421000086/sbux-20211003.htm",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/829224/000082922421000086/0000829224-21-000086-index.htm"
   }
  ],
  "note": null,
@@ -227,7 +227,7 @@
    "result": "beat"
   }
  ],
- "earnings_checked": "2026-11-12",
+ "earnings_checked": "2026-11-13",
  "ratings": [
   {
    "period": "2026-11-01",
@@ -274,7 +274,7 @@
    "analysts": 46
   }
  ],
- "ratings_checked": "2026-11-12",
+ "ratings_checked": "2026-11-13",
  "price_target": {
   "mean": 116,
   "high": 130,

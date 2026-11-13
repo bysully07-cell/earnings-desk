@@ -106,6 +106,13 @@
  ],
  "filings": [
   {
+   "form": "10-Q/A",
+   "filed": "2026-11-12",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/842023/000110465926126284/tech-20260930x10qa.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/842023/000110465926126284/0001104659-26-126284-index.htm"
+  },
+  {
    "form": "10-Q",
    "filed": "2026-11-06",
    "period": "2026-09-30",
@@ -235,7 +242,7 @@
    "result": "miss"
   }
  ],
- "earnings_checked": "2026-11-12",
+ "earnings_checked": "2026-11-13",
  "ratings": [
   {
    "period": "2026-11-01",
@@ -282,7 +289,7 @@
    "analysts": 22
   }
  ],
- "ratings_checked": "2026-11-12",
+ "ratings_checked": "2026-11-13",
  "price_target": null,
  "price_target_checked": null,
  "target_sources": {}
