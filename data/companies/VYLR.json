@@ -53,15 +53,15 @@
  "earnings": [
   {
    "period": "2026-09-30",
-   "actual": -0.42,
+   "actual": -0.41,
    "estimate": -0.5415,
-   "surprise_pct": 22.4377,
+   "surprise_pct": 24.2844,
    "result": "beat"
   }
  ],
- "earnings_checked": "2026-11-13",
+ "earnings_checked": "2026-11-16",
  "ratings": [],
- "ratings_checked": "2026-11-13",
+ "ratings_checked": "2026-11-16",
  "price_target": null,
  "price_target_checked": null,
  "target_sources": {}
