@@ -231,14 +231,14 @@
    "result": "beat"
   },
   {
-   "period": "2027-09-30",
+   "period": "2026-12-31",
    "actual": 1.34,
    "estimate": 1.3513,
    "surprise_pct": -0.8362,
    "result": "miss"
   }
  ],
- "earnings_checked": "2026-11-18",
+ "earnings_checked": "2026-11-19",
  "ratings": [
   {
    "period": "2026-11-01",
@@ -285,7 +285,7 @@
    "analysts": 26
   }
  ],
- "ratings_checked": "2026-11-18",
+ "ratings_checked": "2026-11-19",
  "price_target": null,
  "price_target_checked": null,
  "target_sources": {}

@@ -14,20 +14,6 @@
  },
  "quarters": [
   {
-   "fiscal_period": "FY2024 Q4",
-   "period_start": "2024-07-01",
-   "period_end": "2024-09-30",
-   "revenue": 10002500000,
-   "gross_profit": 2554300000,
-   "operating_income": null,
-   "eps_diluted": 3.92,
-   "derived": [
-    "revenue",
-    "gross_profit",
-    "eps_diluted"
-   ]
-  },
-  {
    "fiscal_period": "FY2025 Q1",
    "period_start": "2024-10-01",
    "period_end": "2024-12-31",
@@ -112,9 +98,30 @@
    "derived": [
     "gross_profit"
    ]
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 9371300000,
+   "gross_profit": 1916500000,
+   "operating_income": null,
+   "eps_diluted": 2.67,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "eps_diluted"
+   ]
   }
  ],
  "filings": [
+  {
+   "form": "10-K",
+   "filed": "2026-11-18",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/882184/000088218426000157/dhi-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/882184/000088218426000157/0000882184-26-000157-index.htm"
+  },
   {
    "form": "10-Q",
    "filed": "2026-07-23",
@@ -198,13 +205,6 @@
    "period": "2022-09-30",
    "url": "https://www.sec.gov/Archives/edgar/data/882184/000088218422000184/dhi-20220930.htm",
    "index_url": "https://www.sec.gov/Archives/edgar/data/882184/000088218422000184/0000882184-22-000184-index.htm"
-  },
-  {
-   "form": "10-K",
-   "filed": "2021-11-18",
-   "period": "2021-09-30",
-   "url": "https://www.sec.gov/Archives/edgar/data/882184/000088218421000190/dhi-20210930.htm",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/882184/000088218421000190/0000882184-21-000190-index.htm"
   }
  ],
  "note": null,
@@ -238,7 +238,7 @@
    "result": "miss"
   }
  ],
- "earnings_checked": "2026-11-18",
+ "earnings_checked": "2026-11-19",
  "ratings": [
   {
    "period": "2026-11-01",
@@ -285,7 +285,7 @@
    "analysts": 26
   }
  ],
- "ratings_checked": "2026-11-18",
+ "ratings_checked": "2026-11-19",
  "price_target": null,
  "price_target_checked": "2026-11-10",
  "target_sources": {
