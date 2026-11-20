@@ -241,7 +241,7 @@
    "result": "miss"
   }
  ],
- "earnings_checked": "2026-11-19",
+ "earnings_checked": "2026-11-20",
  "ratings": [
   {
    "period": "2026-11-01",
@@ -288,20 +288,20 @@
    "analysts": 75
   }
  ],
- "ratings_checked": "2026-11-19",
+ "ratings_checked": "2026-11-20",
  "price_target": {
-  "mean": 328.48,
+  "mean": 327.9,
   "high": 390,
   "low": 250,
   "median": 329,
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-20",
   "source": "fmp"
  },
- "price_target_checked": "2026-11-10",
+ "price_target_checked": "2026-11-20",
  "target_sources": {
   "fmp": {
    "status": "covered",
-   "checked": "2026-11-10"
+   "checked": "2026-11-20"
   }
  }
 }

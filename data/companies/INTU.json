@@ -15,16 +15,6 @@
  },
  "quarters": [
   {
-   "fiscal_period": "FY2025 Q1",
-   "period_start": "2024-08-01",
-   "period_end": "2024-10-31",
-   "revenue": 3283000000,
-   "gross_profit": null,
-   "operating_income": 271000000,
-   "eps_diluted": 0.7,
-   "derived": []
-  },
-  {
    "fiscal_period": "FY2025 Q2",
    "period_start": "2024-11-01",
    "period_end": "2025-01-31",
@@ -101,9 +91,26 @@
     "operating_income",
     "eps_diluted"
    ]
+  },
+  {
+   "fiscal_period": "FY2027 Q1",
+   "period_start": "2026-08-01",
+   "period_end": "2026-10-31",
+   "revenue": 4354000000,
+   "gross_profit": null,
+   "operating_income": 868000000,
+   "eps_diluted": 2.59,
+   "derived": []
   }
  ],
  "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-19",
+   "period": "2026-10-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/896878/000089687826000045/intu-20261031.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/896878/000089687826000045/0000896878-26-000045-index.htm"
+  },
   {
    "form": "10-K",
    "filed": "2026-09-09",
@@ -175,13 +182,6 @@
    "index_url": "https://www.sec.gov/Archives/edgar/data/896878/000089687824000026/0000896878-24-000026-index.htm"
   },
   {
-   "form": "10-Q",
-   "filed": "2024-02-22",
-   "period": "2024-01-31",
-   "url": "https://www.sec.gov/Archives/edgar/data/896878/000089687824000011/intu-20240131.htm",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/896878/000089687824000011/0000896878-24-000011-index.htm"
-  },
-  {
    "form": "10-K",
    "filed": "2023-09-01",
    "period": "2023-07-31",
@@ -198,13 +198,6 @@
  ],
  "note": null,
  "earnings": [
-  {
-   "period": "2025-12-31",
-   "actual": 3.34,
-   "estimate": 3.1558,
-   "surprise_pct": 5.8369,
-   "result": "beat"
-  },
   {
    "period": "2026-03-31",
    "actual": 4.15,
@@ -225,9 +218,16 @@
    "estimate": 3.6532,
    "surprise_pct": 10.3142,
    "result": "beat"
+  },
+  {
+   "period": "2026-12-31",
+   "actual": 2.91,
+   "estimate": 2.7497,
+   "surprise_pct": 5.8297,
+   "result": "beat"
   }
  ],
- "earnings_checked": "2026-11-19",
+ "earnings_checked": "2026-11-20",
  "ratings": [
   {
    "period": "2026-11-01",
@@ -274,7 +274,7 @@
    "analysts": 42
   }
  ],
- "ratings_checked": "2026-11-19",
+ "ratings_checked": "2026-11-20",
  "price_target": null,
  "price_target_checked": null,
  "target_sources": {}
