@@ -48,13 +48,6 @@
  "note": "no US-GAAP quarterly revenue (foreign filer or non-standard tags)",
  "earnings": [
   {
-   "period": "2025-09-30",
-   "actual": 21.08,
-   "estimate": 17.0124,
-   "surprise_pct": 23.9096,
-   "result": "beat"
-  },
-  {
    "period": "2025-12-31",
    "actual": 17.69,
    "estimate": 20.9706,
@@ -74,9 +67,16 @@
    "estimate": 18.3978,
    "surprise_pct": 5.0669,
    "result": "beat"
+  },
+  {
+   "period": "2026-09-30",
+   "actual": 21.04,
+   "estimate": 19.213,
+   "surprise_pct": 9.5092,
+   "result": "beat"
   }
  ],
- "earnings_checked": "2026-11-20",
+ "earnings_checked": "2026-11-23",
  "ratings": [
   {
    "period": "2026-11-01",
@@ -123,7 +123,7 @@
    "analysts": 41
   }
  ],
- "ratings_checked": "2026-11-20",
+ "ratings_checked": "2026-11-23",
  "price_target": null,
  "price_target_checked": null,
  "target_sources": {}

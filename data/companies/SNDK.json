@@ -181,27 +181,27 @@
   },
   {
    "period": "2026-03-31",
-   "actual": 23.41,
-   "estimate": 14.8274,
-   "surprise_pct": 57.8834,
+   "actual": 2.92625,
+   "estimate": 1.8534,
+   "surprise_pct": 57.8855,
    "result": "beat"
   },
   {
    "period": "2026-06-30",
-   "actual": 39.25,
-   "estimate": 35.1395,
-   "surprise_pct": 11.6977,
+   "actual": 4.90625,
+   "estimate": 4.3924,
+   "surprise_pct": 11.6986,
    "result": "beat"
   },
   {
    "period": "2026-09-30",
-   "actual": 49.51,
-   "estimate": 47.1481,
-   "surprise_pct": 5.0095,
+   "actual": 6.18875,
+   "estimate": 5.8935,
+   "surprise_pct": 5.0098,
    "result": "beat"
   }
  ],
- "earnings_checked": "2026-11-20",
+ "earnings_checked": "2026-11-23",
  "ratings": [
   {
    "period": "2026-11-01",
@@ -248,7 +248,7 @@
    "analysts": 31
   }
  ],
- "ratings_checked": "2026-11-20",
+ "ratings_checked": "2026-11-23",
  "price_target": null,
  "price_target_checked": null,
  "target_sources": {}

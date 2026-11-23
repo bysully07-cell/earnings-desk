@@ -14,21 +14,6 @@
  },
  "quarters": [
   {
-   "fiscal_period": "FY2024 Q4",
-   "period_start": "2024-07-01",
-   "period_end": "2024-09-30",
-   "revenue": 626547000,
-   "gross_profit": 513722000,
-   "operating_income": 193973000,
-   "eps_diluted": 1.04,
-   "derived": [
-    "revenue",
-    "gross_profit",
-    "operating_income",
-    "eps_diluted"
-   ]
-  },
-  {
    "fiscal_period": "FY2025 Q1",
    "period_start": "2024-10-01",
    "period_end": "2024-12-31",
@@ -102,9 +87,31 @@
    "operating_income": 166506000,
    "eps_diluted": 1.03,
    "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 673254000,
+   "gross_profit": 557394000,
+   "operating_income": 212623000,
+   "eps_diluted": 1.44,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
   }
  ],
  "filings": [
+  {
+   "form": "10-K",
+   "filed": "2026-11-20",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/857005/000119312526470217/ptc-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/857005/000119312526470217/0001193125-26-470217-index.htm"
+  },
   {
    "form": "10-Q",
    "filed": "2026-07-31",
@@ -188,13 +195,6 @@
    "period": "2022-09-30",
    "url": "https://www.sec.gov/Archives/edgar/data/857005/000095017022025211/ptc-20220930.htm",
    "index_url": "https://www.sec.gov/Archives/edgar/data/857005/000095017022025211/0000950170-22-025211-index.htm"
-  },
-  {
-   "form": "10-K",
-   "filed": "2021-11-22",
-   "period": "2021-09-30",
-   "url": "https://www.sec.gov/Archives/edgar/data/857005/000156459021057806/ptc-10k_20210930.htm",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/857005/000156459021057806/0001564590-21-057806-index.htm"
   }
  ],
  "note": null,
@@ -228,7 +228,7 @@
    "result": "beat"
   }
  ],
- "earnings_checked": "2026-11-20",
+ "earnings_checked": "2026-11-23",
  "ratings": [
   {
    "period": "2026-11-01",
@@ -275,7 +275,7 @@
    "analysts": 26
   }
  ],
- "ratings_checked": "2026-11-20",
+ "ratings_checked": "2026-11-23",
  "price_target": null,
  "price_target_checked": null,
  "target_sources": {}

@@ -222,12 +222,12 @@
   {
    "period": "2026-12-31",
    "actual": 2.91,
-   "estimate": 2.7497,
-   "surprise_pct": 5.8297,
+   "estimate": 2.7514,
+   "surprise_pct": 5.7643,
    "result": "beat"
   }
  ],
- "earnings_checked": "2026-11-20",
+ "earnings_checked": "2026-11-23",
  "ratings": [
   {
    "period": "2026-11-01",
@@ -274,7 +274,7 @@
    "analysts": 42
   }
  ],
- "ratings_checked": "2026-11-20",
+ "ratings_checked": "2026-11-23",
  "price_target": null,
  "price_target_checked": null,
  "target_sources": {}
