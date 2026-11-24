@@ -201,13 +201,6 @@
  "note": null,
  "earnings": [
   {
-   "period": "2025-12-31",
-   "actual": 2.26,
-   "estimate": 2.2432,
-   "surprise_pct": 0.7489,
-   "result": "beat"
-  },
-  {
    "period": "2026-03-31",
    "actual": 2.46,
    "estimate": 2.3344,
@@ -227,9 +220,16 @@
    "estimate": 3.3681,
    "surprise_pct": 2.4316,
    "result": "beat"
+  },
+  {
+   "period": "2026-12-31",
+   "actual": 4.06,
+   "estimate": 3.9221,
+   "surprise_pct": 3.516,
+   "result": "beat"
   }
  ],
- "earnings_checked": "2026-11-23",
+ "earnings_checked": "2026-11-24",
  "ratings": [
   {
    "period": "2026-11-01",
@@ -276,7 +276,7 @@
    "analysts": 37
   }
  ],
- "ratings_checked": "2026-11-23",
+ "ratings_checked": "2026-11-24",
  "price_target": null,
  "price_target_checked": "2026-11-10",
  "target_sources": {
@@ -286,7 +286,7 @@
   },
   "alphavantage": {
    "status": "not_covered",
-   "checked": "2026-11-11"
+   "checked": "2026-11-24"
   }
  }
 }

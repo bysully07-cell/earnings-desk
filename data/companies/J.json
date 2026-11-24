@@ -5,7 +5,7 @@
  "indexes": [
   "SPX"
  ],
- "fiscal_year_end": "09-26",
+ "fiscal_year_end": "10-02",
  "sources": {
   "revenue": "RevenueFromContractWithCustomerIncludingAssessedTax",
   "gross_profit": "GrossProfit",
@@ -13,18 +13,6 @@
   "eps_diluted": "EarningsPerShareDiluted"
  },
  "quarters": [
-  {
-   "fiscal_period": "FY2024 Q4",
-   "period_start": "2024-06-29",
-   "period_end": "2024-09-27",
-   "revenue": 2960150000,
-   "gross_profit": 735122000,
-   "operating_income": 196205000,
-   "eps_diluted": 2.51,
-   "derived": [
-    "gross_profit"
-   ]
-  },
   {
    "fiscal_period": "FY2025 Q1",
    "period_start": "2024-09-28",
@@ -99,9 +87,31 @@
    "operating_income": 286703000,
    "eps_diluted": 1.15,
    "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2026-06-27",
+   "period_end": "2026-10-02",
+   "revenue": 4712279000,
+   "gross_profit": 917352000,
+   "operating_income": 331642000,
+   "eps_diluted": 1.4,
+   "derived": [
+    "revenue",
+    "gross_profit",
+    "operating_income",
+    "eps_diluted"
+   ]
   }
  ],
  "filings": [
+  {
+   "form": "10-K",
+   "filed": "2026-11-23",
+   "period": "2026-10-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/52988/000162828026075495/jec-20261002.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/52988/000162828026075495/0001628280-26-075495-index.htm"
+  },
   {
    "form": "10-Q",
    "filed": "2026-08-04",
@@ -185,13 +195,6 @@
    "period": "2022-09-30",
    "url": "https://www.sec.gov/Archives/edgar/data/52988/000005298822000111/jec-20220930.htm",
    "index_url": "https://www.sec.gov/Archives/edgar/data/52988/000005298822000111/0000052988-22-000111-index.htm"
-  },
-  {
-   "form": "10-K",
-   "filed": "2021-11-23",
-   "period": "2021-10-01",
-   "url": "https://www.sec.gov/Archives/edgar/data/52988/000005298821000065/jec-20211001.htm",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/52988/000005298821000065/0000052988-21-000065-index.htm"
   }
  ],
  "note": null,
@@ -218,14 +221,14 @@
    "result": "miss"
   },
   {
-   "period": "2026-12-31",
+   "period": "2026-09-30",
    "actual": 2.2,
    "estimate": 2.1671,
    "surprise_pct": 1.5182,
    "result": "beat"
   }
  ],
- "earnings_checked": "2026-11-23",
+ "earnings_checked": "2026-11-24",
  "ratings": [
   {
    "period": "2026-11-01",
@@ -272,7 +275,7 @@
    "analysts": 24
   }
  ],
- "ratings_checked": "2026-11-23",
+ "ratings_checked": "2026-11-24",
  "price_target": null,
  "price_target_checked": null,
  "target_sources": {}

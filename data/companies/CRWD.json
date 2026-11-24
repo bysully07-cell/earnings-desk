@@ -15,16 +15,6 @@
  },
  "quarters": [
   {
-   "fiscal_period": "FY2025 Q3",
-   "period_start": "2024-08-01",
-   "period_end": "2024-10-31",
-   "revenue": 1010178000,
-   "gross_profit": 755091000,
-   "operating_income": -55723000,
-   "eps_diluted": -0.07,
-   "derived": []
-  },
-  {
    "fiscal_period": "FY2025 Q4",
    "period_start": "2024-11-01",
    "period_end": "2025-01-31",
@@ -64,9 +54,9 @@
    "period_start": "2025-08-01",
    "period_end": "2025-10-31",
    "revenue": 1234244000,
-   "gross_profit": 926439000,
-   "operating_income": -69443000,
-   "eps_diluted": -0.14,
+   "gross_profit": 927654000,
+   "operating_income": -62222000,
+   "eps_diluted": -0.03,
    "derived": []
   },
   {
@@ -74,9 +64,9 @@
    "period_start": "2025-11-01",
    "period_end": "2026-01-31",
    "revenue": 1305375000,
-   "gross_profit": 990677000,
-   "operating_income": 321000,
-   "eps_diluted": -0.02,
+   "gross_profit": 989462000,
+   "operating_income": -6900000,
+   "eps_diluted": -0.13,
    "derived": [
     "revenue",
     "gross_profit",
@@ -103,9 +93,26 @@
    "operating_income": -33232000,
    "eps_diluted": 0.01,
    "derived": []
+  },
+  {
+   "fiscal_period": "FY2027 Q3",
+   "period_start": "2026-08-01",
+   "period_end": "2026-10-31",
+   "revenue": 1583419000,
+   "gross_profit": 1202154000,
+   "operating_income": -756000,
+   "eps_diluted": 0.02,
+   "derived": []
   }
  ],
  "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-23",
+   "period": "2026-10-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000038/crwd-20261031.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000038/0001535527-26-000038-index.htm"
+  },
   {
    "form": "10-Q",
    "filed": "2026-08-27",
@@ -170,13 +177,6 @@
    "index_url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552724000020/0001535527-24-000020-index.htm"
   },
   {
-   "form": "10-Q",
-   "filed": "2024-06-05",
-   "period": "2024-04-30",
-   "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552724000013/crwd-20240430.htm",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552724000013/0001535527-24-000013-index.htm"
-  },
-  {
    "form": "10-K",
    "filed": "2024-03-07",
    "period": "2024-01-31",
@@ -229,7 +229,7 @@
    "result": "beat"
   }
  ],
- "earnings_checked": "2026-11-23",
+ "earnings_checked": "2026-11-24",
  "ratings": [
   {
    "period": "2026-11-01",
@@ -276,7 +276,7 @@
    "analysts": 61
   }
  ],
- "ratings_checked": "2026-11-23",
+ "ratings_checked": "2026-11-24",
  "price_target": null,
  "price_target_checked": "2026-11-10",
  "target_sources": {
