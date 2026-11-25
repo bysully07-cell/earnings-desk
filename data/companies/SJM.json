@@ -14,16 +14,6 @@
  },
  "quarters": [
   {
-   "fiscal_period": "FY2025 Q2",
-   "period_start": "2024-08-01",
-   "period_end": "2024-10-31",
-   "revenue": 2271200000,
-   "gross_profit": 886100000,
-   "operating_income": 169700000,
-   "eps_diluted": -0.23,
-   "derived": []
-  },
-  {
    "fiscal_period": "FY2025 Q3",
    "period_start": "2024-11-01",
    "period_end": "2025-01-31",
@@ -102,9 +92,26 @@
    "operating_income": 511600000,
    "eps_diluted": 3.03,
    "derived": []
+  },
+  {
+   "fiscal_period": "FY2027 Q2",
+   "period_start": "2026-08-01",
+   "period_end": "2026-10-31",
+   "revenue": 2283200000,
+   "gross_profit": 871500000,
+   "operating_income": 410700000,
+   "eps_diluted": 2.32,
+   "derived": []
   }
  ],
  "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-24",
+   "period": "2026-10-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/91419/000009141926000111/sjm-20261031.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/91419/000009141926000111/0000091419-26-000111-index.htm"
+  },
   {
    "form": "10-Q",
    "filed": "2026-08-26",
@@ -176,13 +183,6 @@
    "index_url": "https://www.sec.gov/Archives/edgar/data/91419/000009141924000054/0000091419-24-000054-index.htm"
   },
   {
-   "form": "10-Q",
-   "filed": "2024-02-27",
-   "period": "2024-01-31",
-   "url": "https://www.sec.gov/Archives/edgar/data/91419/000009141924000010/sjm-20240131.htm",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/91419/000009141924000010/0000091419-24-000010-index.htm"
-  },
-  {
    "form": "10-K",
    "filed": "2023-06-20",
    "period": "2023-04-30",
@@ -221,14 +221,14 @@
    "result": "beat"
   },
   {
-   "period": "2027-06-30",
+   "period": "2026-12-31",
    "actual": 3.2,
    "estimate": 2.5875,
    "surprise_pct": 23.6715,
    "result": "beat"
   }
  ],
- "earnings_checked": "2026-11-24",
+ "earnings_checked": "2026-11-25",
  "ratings": [
   {
    "period": "2026-11-01",
@@ -275,7 +275,7 @@
    "analysts": 23
   }
  ],
- "ratings_checked": "2026-11-24",
+ "ratings_checked": "2026-11-25",
  "price_target": null,
  "price_target_checked": null,
  "target_sources": {}

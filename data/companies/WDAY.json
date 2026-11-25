@@ -15,16 +15,6 @@
  },
  "quarters": [
   {
-   "fiscal_period": "FY2025 Q3",
-   "period_start": "2024-08-01",
-   "period_end": "2024-10-31",
-   "revenue": 2160000000,
-   "gross_profit": null,
-   "operating_income": 165000000,
-   "eps_diluted": 0.72,
-   "derived": []
-  },
-  {
    "fiscal_period": "FY2025 Q4",
    "period_start": "2024-11-01",
    "period_end": "2025-01-31",
@@ -101,9 +91,26 @@
    "operating_income": 313000000,
    "eps_diluted": 2.57,
    "derived": []
+  },
+  {
+   "fiscal_period": "FY2027 Q3",
+   "period_start": "2026-08-01",
+   "period_end": "2026-10-31",
+   "revenue": 2705000000,
+   "gross_profit": null,
+   "operating_income": 329000000,
+   "eps_diluted": 0.96,
+   "derived": []
   }
  ],
  "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-24",
+   "period": "2026-10-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781126000058/wday-20261031.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781126000058/0001327811-26-000058-index.htm"
+  },
   {
    "form": "10-Q",
    "filed": "2026-08-27",
@@ -168,13 +175,6 @@
    "index_url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781124000165/0001327811-24-000165-index.htm"
   },
   {
-   "form": "10-Q",
-   "filed": "2024-05-29",
-   "period": "2024-04-30",
-   "url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781124000093/wday-20240430.htm",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781124000093/0001327811-24-000093-index.htm"
-  },
-  {
    "form": "10-K",
    "filed": "2024-03-08",
    "period": "2024-01-31",
@@ -199,13 +199,6 @@
  "note": null,
  "earnings": [
   {
-   "period": "2025-12-31",
-   "actual": 2.32,
-   "estimate": 2.228,
-   "surprise_pct": 4.1293,
-   "result": "beat"
-  },
-  {
    "period": "2026-03-31",
    "actual": 2.47,
    "estimate": 2.3698,
@@ -225,9 +218,16 @@
    "estimate": 2.6605,
    "surprise_pct": 3.364,
    "result": "beat"
+  },
+  {
+   "period": "2026-12-31",
+   "actual": 2.82,
+   "estimate": 2.7951,
+   "surprise_pct": 0.8908,
+   "result": "beat"
   }
  ],
- "earnings_checked": "2026-11-24",
+ "earnings_checked": "2026-11-25",
  "ratings": [
   {
    "period": "2026-11-01",
@@ -274,7 +274,7 @@
    "analysts": 49
   }
  ],
- "ratings_checked": "2026-11-24",
+ "ratings_checked": "2026-11-25",
  "price_target": null,
  "price_target_checked": null,
  "target_sources": {}

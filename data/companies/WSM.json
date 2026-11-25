@@ -14,16 +14,6 @@
  },
  "quarters": [
   {
-   "fiscal_period": "FY2025 Q3",
-   "period_start": "2024-07-29",
-   "period_end": "2024-10-27",
-   "revenue": 1800668000,
-   "gross_profit": 817566000,
-   "operating_income": 305031000,
-   "eps_diluted": 1.87,
-   "derived": []
-  },
-  {
    "fiscal_period": "FY2025 Q4",
    "period_start": "2024-10-28",
    "period_end": "2025-02-02",
@@ -102,9 +92,26 @@
    "operating_income": 448795000,
    "eps_diluted": 2.84,
    "derived": []
+  },
+  {
+   "fiscal_period": "FY2027 Q3",
+   "period_start": "2026-08-03",
+   "period_end": "2026-11-01",
+   "revenue": 1991175000,
+   "gross_profit": 948740000,
+   "operating_income": 376932000,
+   "eps_diluted": 2.38,
+   "derived": []
   }
  ],
  "filings": [
+  {
+   "form": "10-Q",
+   "filed": "2026-11-24",
+   "period": "2026-11-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/719955/000071995526000248/wsm-20261101.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/719955/000071995526000248/0000719955-26-000248-index.htm"
+  },
   {
    "form": "10-Q",
    "filed": "2026-08-28",
@@ -169,13 +176,6 @@
    "index_url": "https://www.sec.gov/Archives/edgar/data/719955/000162828024038362/0001628280-24-038362-index.htm"
   },
   {
-   "form": "10-Q",
-   "filed": "2024-05-24",
-   "period": "2024-04-28",
-   "url": "https://www.sec.gov/Archives/edgar/data/719955/000162828024025227/wsm-20240428.htm",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/719955/000162828024025227/0001628280-24-025227-index.htm"
-  },
-  {
    "form": "10-K",
    "filed": "2024-03-20",
    "period": "2024-01-28",
@@ -228,7 +228,7 @@
    "result": "miss"
   }
  ],
- "earnings_checked": "2026-11-24",
+ "earnings_checked": "2026-11-25",
  "ratings": [
   {
    "period": "2026-11-01",
@@ -275,7 +275,7 @@
    "analysts": 28
   }
  ],
- "ratings_checked": "2026-11-24",
+ "ratings_checked": "2026-11-25",
  "price_target": null,
  "price_target_checked": null,
  "target_sources": {}

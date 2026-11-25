@@ -14,19 +14,6 @@
  },
  "quarters": [
   {
-   "fiscal_period": "FY2024 Q4",
-   "period_start": "2024-07-01",
-   "period_end": "2024-09-30",
-   "revenue": 4003000000,
-   "gross_profit": null,
-   "operating_income": null,
-   "eps_diluted": 2.87,
-   "derived": [
-    "revenue",
-    "eps_diluted"
-   ]
-  },
-  {
    "fiscal_period": "FY2025 Q1",
    "period_start": "2024-10-01",
    "period_end": "2024-12-31",
@@ -98,9 +85,29 @@
    "operating_income": null,
    "eps_diluted": 3.01,
    "derived": []
+  },
+  {
+   "fiscal_period": "FY2026 Q4",
+   "period_start": "2026-07-01",
+   "period_end": "2026-09-30",
+   "revenue": 4739000000,
+   "gross_profit": null,
+   "operating_income": null,
+   "eps_diluted": 3.41,
+   "derived": [
+    "revenue",
+    "eps_diluted"
+   ]
   }
  ],
  "filings": [
+  {
+   "form": "10-K",
+   "filed": "2026-11-24",
+   "period": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/720005/000072000526000086/rjf-20260930.htm",
+   "index_url": "https://www.sec.gov/Archives/edgar/data/720005/000072000526000086/0000720005-26-000086-index.htm"
+  },
   {
    "form": "10-Q",
    "filed": "2026-08-05",
@@ -184,13 +191,6 @@
    "period": "2022-09-30",
    "url": "https://www.sec.gov/Archives/edgar/data/720005/000072000522000066/rjf-20220930.htm",
    "index_url": "https://www.sec.gov/Archives/edgar/data/720005/000072000522000066/0000720005-22-000066-index.htm"
-  },
-  {
-   "form": "10-K",
-   "filed": "2021-11-23",
-   "period": "2021-09-30",
-   "url": "https://www.sec.gov/Archives/edgar/data/720005/000072000521000106/rjf-20210930.htm",
-   "index_url": "https://www.sec.gov/Archives/edgar/data/720005/000072000521000106/0000720005-21-000106-index.htm"
   }
  ],
  "note": null,
@@ -224,7 +224,7 @@
    "result": "beat"
   }
  ],
- "earnings_checked": "2026-11-24",
+ "earnings_checked": "2026-11-25",
  "ratings": [
   {
    "period": "2026-11-01",
@@ -271,7 +271,7 @@
    "analysts": 19
   }
  ],
- "ratings_checked": "2026-11-24",
+ "ratings_checked": "2026-11-25",
  "price_target": null,
  "price_target_checked": null,
  "target_sources": {}
