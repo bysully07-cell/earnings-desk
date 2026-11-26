@@ -235,7 +235,7 @@
    "result": "beat"
   }
  ],
- "earnings_checked": "2026-11-25",
+ "earnings_checked": "2026-11-26",
  "ratings": [
   {
    "period": "2026-11-01",
@@ -282,7 +282,7 @@
    "analysts": 38
   }
  ],
- "ratings_checked": "2026-11-25",
+ "ratings_checked": "2026-11-26",
  "price_target": null,
  "price_target_checked": "2026-11-10",
  "target_sources": {
@@ -292,7 +292,7 @@
   },
   "alphavantage": {
    "status": "not_covered",
-   "checked": "2026-11-13"
+   "checked": "2026-11-26"
   }
  }
 }
